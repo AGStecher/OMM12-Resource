@@ -75,7 +75,7 @@ Not every tool has been run for every strain yet. The app tracks this explicitly
 | DefenseFinder | 12 / 12 |
 | COG | 12 / 12 |
 | CRISPR arrays | 12 / 12 (CRISPRCasFinder 4.2.30) |
-| Localization (DeepLocPro) | 11 / 12 (missing: *E. faecalis* KB1; KB18 and YL27 still use an older run that doesn't cover all proteins) |
+| Localization (DeepLocPro) | 12 / 12 (KB18 and YL27 still use an older run that doesn't cover all proteins) |
 | antiSMASH (BGC) | 12 / 12 (antiSMASH 8.0.4) |
 | KEGG pathways | 2 / 12 (KB18, *B. caecimuris* I48) |
 | eggNOG annotation | 1 / 12 (KB18 only) |

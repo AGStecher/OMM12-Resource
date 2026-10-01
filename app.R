@@ -544,6 +544,7 @@ get_general_info_html <- function(bacterium_name_clean) {
   shape              <- safe_col(row, "shape")
   synonyms           <- safe_col(row, "synonyms")
   type_field         <- safe_col(row, "type")
+  gram_stain         <- safe_col(row, "gram_stain")
   taxonomy           <- safe_col(row, "taxonomic_classification")
   
   tryCatch({
@@ -561,11 +562,15 @@ get_general_info_html <- function(bacterium_name_clean) {
         tags$tr(tags$td(tags$strong("16S sequence:")), tags$td(if (!is.na(rRNA_link) && nzchar(rRNA_link)) tags$a(href = rRNA_link, target = "_blank", rRNA_sequences) else rRNA_sequences)),
         tags$tr(tags$td(tags$strong("Temperature class:")), tags$td(if (!is.na(lifestyle)) lifestyle else "Not recorded")),
         tags$tr(tags$td(tags$strong("Shape:")), tags$td(if (!is.na(shape)) shape else "Not recorded")),
+        tags$tr(tags$td(tags$strong("Gram stain:")), tags$td(if (!is.na(gram_stain)) gram_stain else "Not recorded")),
         tags$tr(tags$td(tags$strong("Synonyms:")), tags$td(if (!is.na(synonyms)) synonyms else "Not recorded")),
-        tags$tr(tags$td(tags$strong("Oxygen requirement:")), tags$td(if (!is.na(type_field)) type_field else "Not recorded")),
-        tags$br(),
-        downloadButton("download_genome_data", "Download Genome", class = "btn-sm")),
-      
+        tags$tr(tags$td(tags$strong("Oxygen requirement:")), tags$td(if (!is.na(type_field)) type_field else "Not recorded"))
+      )
+    )
+    html_content <- tagList(
+      html_content,
+      tags$div(style = "margin-top: 8px;",
+               downloadButton("download_genome_data", "Download Genome", class = "btn-sm"))
     )
     return(html_content)
   }, error = function(e) {
@@ -585,6 +590,21 @@ taxonomy_source_note <- function(bacterium_filename) {
     "https://www.ncbi.nlm.nih.gov/datasets/taxonomy/"
   tags$p(style = "font-size: 11px; color: #777; margin-top: 6px;",
          "Lineage: ", tags$a(href = link, target = "_blank", "NCBI Taxonomy"), " (accessed 30 Sep 2026)")
+}
+
+# Gram-stain micrograph for a strain (www/images/gram/<filename>.jpg), cropped
+# from the lab's Gram stain panel (Diana Ring, 8 Mar 2019); each crop keeps
+# the strain label and its 10 um scale bar. Returns NULL if no image exists.
+gram_stain_image <- function(bacterium_filename, bacterium_name) {
+  f <- file.path("www", "images", "gram", paste0(bacterium_filename, ".jpg"))
+  if (!file.exists(f)) return(NULL)
+  tags$div(style = "margin-top: 18px;",
+    tags$img(src = paste0("images/gram/", bacterium_filename, ".jpg?v=", as.integer(file.mtime(f))),
+             alt = paste("Gram stain of", bacterium_name),
+             style = "width: 100%; max-width: 300px; aspect-ratio: 1 / 1; object-fit: cover; border: 1px solid #ddd; padding: 5px;"),
+    tags$p(style = "font-size: 11px; color: #777; margin-top: 6px; max-width: 300px; margin-left: auto; margin-right: auto;",
+           "Gram stain (scale bar 10 \u00b5m). Diana Ring, Stecher Lab, 8 March 2019. ",
+           "The stain result can differ from the cell-wall type: several Bacillota stain Gram-negative or variable."))
 }
 
 get_provenance_html <- function(bacterium_filename) {
@@ -2278,7 +2298,7 @@ ui <- dashboardPage(
         "Oligo-Mouse-Microbiota-12 (OMM12) synthetic gut community.")),
       tags$link(rel = "icon", type = "image/x-icon", href = "favicon.ico"),
       tags$link(rel = "icon", type = "image/png", sizes = "32x32", href = "favicon.png"),
-      tags$link(rel = "stylesheet", type = "text/css",href = "custom.css?v=5"),
+      tags$link(rel = "stylesheet", type = "text/css",href = "custom.css?v=8"),
       tags$link(rel = "stylesheet", href = "https://cdn.jsdelivr.net/npm/cgview/dist/cgview.css"),
       tags$script(src = "https://cdn.jsdelivr.net/npm/d3@7"),
       tags$script(src = "https://cdn.jsdelivr.net/npm/cgview/dist/cgview.min.js"),
@@ -2368,7 +2388,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("images/gram/", bacteria_filenames[i], ".jpg"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
@@ -2382,7 +2402,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("images/gram/", bacteria_filenames[i], ".jpg"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
@@ -2396,7 +2416,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("images/gram/", bacteria_filenames[i], ".jpg"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
@@ -2482,9 +2502,11 @@ ui <- dashboardPage(
               plotlyOutput("compare_localization_chart", height = "380px"))
         ),
         fluidRow(
-          box(width = 6, solidHeader = TRUE, status = "warning", title = "Mobile Genetic Element Categories",
-              plotlyOutput("compare_mobileog_chart", height = "380px")),
-          box(width = 6, solidHeader = TRUE, status = "warning", title = "Shared Genes (orthologs)",
+          box(width = 12, solidHeader = TRUE, status = "warning", title = "Mobile Genetic Element Categories",
+              plotlyOutput("compare_mobileog_chart", height = "380px"))
+        ),
+        fluidRow(
+          box(width = 12, solidHeader = TRUE, status = "warning", title = "Shared Genes (orthologs)",
               p(style = "color:#666; font-size: 12px;",
                 "Reciprocal-best-hit orthologs found by comparing actual protein sequences (k-mer similarity) ",
                 "between the two genomes, not by matching gene-symbol text. A lightweight approximation of true ",
@@ -3007,7 +3029,7 @@ ui <- dashboardPage(
 
       tabItem(tabName = "details_page",
               fluidRow(
-                column(2, id = "navigation_panel_column", style = "position: sticky; top: 50px; height: calc(100vh - 50px); overflow-y: auto; padding-top: 15px;",
+                column(3, class = "col-lg-2", id = "navigation_panel_column", style = "position: sticky; top: 50px; height: calc(100vh - 50px); overflow-y: auto; padding-top: 15px;",
                        
                        tags$div(
                          h4(icon("list-alt"), "Content Index", style = "border-bottom: 1px solid #eee; padding-bottom: 5px;"),
@@ -3038,7 +3060,7 @@ ui <- dashboardPage(
                        )
                 ),
                 
-                column(10, uiOutput("bacteria_details_ui"))
+                column(9, class = "col-lg-10", uiOutput("bacteria_details_ui"))
               ),
       )
     ),
@@ -3047,7 +3069,7 @@ ui <- dashboardPage(
       class = "omm12-footer",
       fluidRow(
         column(
-          width = 4,
+          width = 2,
           tags$div(class = "omm12-footer-brand",
             tags$div(
               tags$strong("OMM12 Resource"),
@@ -3072,7 +3094,7 @@ ui <- dashboardPage(
           )
         ),
         column(
-          width = 5,
+          width = 4,
           tags$div(class = "omm12-footer-block",
             tags$strong("How to cite"),
             tags$br(),
@@ -3089,6 +3111,22 @@ ui <- dashboardPage(
             tags$br(),
             tags$span(class = "omm12-footer-tagline",
                       paste0("Data last built: ", format(Sys.Date(), "%B %Y")))
+          )
+        ),
+        column(
+          width = 3,
+          tags$div(class = "omm12-footer-block omm12-footer-legal",
+            tags$strong("Legal"),
+            tags$br(),
+            tags$a(href = "https://exbio.wzw.tum.de/impressum#de", target = "_blank", "Impressum"),
+            " / ",
+            tags$a(href = "https://exbio.wzw.tum.de/impressum#en", target = "_blank", "Legal Notice"),
+            tags$br(),
+            tags$strong("Privacy Policy: "),
+            "This website is hosted on the server of the Professorship for Data Science in Systems Biology and does not track user data. ",
+            "Only a technical session cookie is set, which is strictly necessary to operate the service and is deleted when the browser session ends. ",
+            "Technical implementation: Quirin Manz, Data Science in Systems Biology, Maximus-von-Imhof-Forum 1+3/I, 85354 Freising. ",
+            "Contact: markus.list(at)tum.de"
           )
         )
       )
@@ -5351,7 +5389,8 @@ get_base_filename <- reactive({
                                                     as.integer(file.mtime(file.path("www", "images", paste0(bacterium$filename, ".png"))))),
                                        alt = paste("Taxonomic lineage of", bacterium$name),
                                        style = "width: 100%; max-width: 300px; aspect-ratio: 1000 / 1420; object-fit: contain; border: 1px solid #ddd; padding: 5px;"),
-                              taxonomy_source_note(bacterium$filename)))
+                              taxonomy_source_note(bacterium$filename),
+                              gram_stain_image(bacterium$filename, bacterium$name)))
                  )
                ),
                box(

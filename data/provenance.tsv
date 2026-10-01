@@ -6,7 +6,7 @@ bifidobacterium_animalis_YL2	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileO
 blautia_coccoides_YL58	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
 clostridium_innocuum_I46	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
 enterocloster_clostridioformis_YL32	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
-enterococcus_faecalis_KB1	Prokka	1.13	COGclassifier	2.0.0			mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	DeepLocPro not yet run for this strain
+enterococcus_faecalis_KB1	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
 flavonifractor_plautii_YL31	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
 limosilactobacillus_reuteri_I49	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
 muribaculum_intestinales_YL27	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
