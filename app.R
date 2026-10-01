@@ -2298,7 +2298,7 @@ ui <- dashboardPage(
         "Oligo-Mouse-Microbiota-12 (OMM12) synthetic gut community.")),
       tags$link(rel = "icon", type = "image/x-icon", href = "favicon.ico"),
       tags$link(rel = "icon", type = "image/png", sizes = "32x32", href = "favicon.png"),
-      tags$link(rel = "stylesheet", type = "text/css",href = "custom.css?v=8"),
+      tags$link(rel = "stylesheet", type = "text/css",href = "custom.css?v=10"),
       tags$link(rel = "stylesheet", href = "https://cdn.jsdelivr.net/npm/cgview/dist/cgview.css"),
       tags$script(src = "https://cdn.jsdelivr.net/npm/d3@7"),
       tags$script(src = "https://cdn.jsdelivr.net/npm/cgview/dist/cgview.min.js"),
@@ -3069,7 +3069,7 @@ ui <- dashboardPage(
       class = "omm12-footer",
       fluidRow(
         column(
-          width = 2,
+          width = 4,
           tags$div(class = "omm12-footer-brand",
             tags$div(
               tags$strong("OMM12 Resource"),
@@ -3094,7 +3094,7 @@ ui <- dashboardPage(
           )
         ),
         column(
-          width = 4,
+          width = 5,
           tags$div(class = "omm12-footer-block",
             tags$strong("How to cite"),
             tags$br(),
@@ -3112,9 +3112,11 @@ ui <- dashboardPage(
             tags$span(class = "omm12-footer-tagline",
                       paste0("Data last built: ", format(Sys.Date(), "%B %Y")))
           )
-        ),
+        )
+      ),
+      fluidRow(
         column(
-          width = 3,
+          width = 12,
           tags$div(class = "omm12-footer-block omm12-footer-legal",
             tags$strong("Legal"),
             tags$br(),

@@ -262,10 +262,12 @@ a:hover { color: var(--gold); }
 .omm12-footer-lablogo:hover { box-shadow: 0 0 0 2px var(--gold-soft, #c9a227); }
 
 /* Legal / privacy column in the footer: long text, so slightly smaller */
-.omm12-footer-legal { font-size: 11.5px; line-height: 1.5; }
+.omm12-footer-legal { font-size: 11.5px; line-height: 1.5; color: #8fa0b8; margin-top: 14px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12); }
 
 /* Download buttons in narrow box columns: wrap the label instead of sticking out of the box */
 .box .btn.shiny-download-link { white-space: normal; max-width: 100%; }
 
 /* Long file names / gene IDs in <code> must wrap on phones */
 .content-wrapper code { overflow-wrap: anywhere; white-space: normal; }
+/* keep the privacy text clear of the floating "Top" button */
+.omm12-footer-legal { padding-right: 90px; }
