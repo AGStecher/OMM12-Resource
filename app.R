@@ -2368,7 +2368,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0(bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
@@ -2382,7 +2382,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0(bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
@@ -2396,7 +2396,7 @@ ui <- dashboardPage(
             column(
               width = 3, class = "bacteria-item",
               div(class = "bacteria-item-content",
-                  tags$img(src = paste0(bacteria_filenames[i], ".png"),
+                  tags$img(src = paste0("collection/", bacteria_filenames[i], ".png"),
                            alt = bacteria_names[i],
                            id = paste0("bacteria", i, "-img"),
                            class = "bacteria-image"),
