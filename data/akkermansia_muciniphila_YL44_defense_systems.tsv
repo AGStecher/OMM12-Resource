@@ -1,0 +1,3 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+GCF_016697425.1_ASM1669742v1_protein_RM_Type_III_1	RM	RM_Type_III	Defense	WP_012420557.1	WP_012420558.1	WP_012420557.1,WP_012420558.1	2	RM_Type_III__Type_III_MTases_FAM_0,RM_Type_III__Type_III_REases_FAM_0.einsi_trimmed
+GCF_016697425.1_ASM1669742v1_protein_CAS_Class1-Subtype-I-C_2	Cas	CAS_Class1-Subtype-I-C	Defense	WP_065529285.1	WP_065529291.1	WP_065529285.1,WP_065529286.1,WP_065529287.1,WP_065529289.1,WP_065529290.1,WP_065529291.1	6	cas1_I_II_III_IV_V_VI_6,cas2_I_II_III_IV_V_VI_5,cas4_I_II_III_IV_V_VI_1,cas5_I-C_11,cas7_I-C_13,cas8c_I-C_4

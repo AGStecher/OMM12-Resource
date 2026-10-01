@@ -1,0 +1,2115 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+ECEGEIHF_00001	G	Carbohydrate transport and metabolism	TpiA	-
+ECEGEIHF_00002	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+ECEGEIHF_00005	E	Amino acid transport and metabolism	ArgA	-
+ECEGEIHF_00007	E	Amino acid transport and metabolism	CysK	-
+ECEGEIHF_00008	C	Energy production and conversion	FdhE	-
+ECEGEIHF_00010	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00011	L	Replication, recombination and repair	AdaB	-
+ECEGEIHF_00013	C	Energy production and conversion	NhaC	-
+ECEGEIHF_00015	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+ECEGEIHF_00016	H	Coenzyme transport and metabolism	RibB	-
+ECEGEIHF_00017	O	Posttranslational modification, protein turnover, chaperones	NifX	-
+ECEGEIHF_00019	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00021	P	Inorganic ion transport and metabolism	RosB	-
+ECEGEIHF_00022	P	Inorganic ion transport and metabolism	RosB	-
+ECEGEIHF_00023	C	Energy production and conversion	HybA	-
+ECEGEIHF_00024	C	Energy production and conversion	BisC	-
+ECEGEIHF_00025	V	Defense mechanisms	YajL	-
+ECEGEIHF_00026	K	Transcription	IclR	-
+ECEGEIHF_00027	C	Energy production and conversion	GlpC	-
+ECEGEIHF_00028	J	Translation, ribosomal structure and biogenesis	ThpR	-
+ECEGEIHF_00029	F	Nucleotide transport and metabolism	PyrD	-
+ECEGEIHF_00030	O	Posttranslational modification, protein turnover, chaperones	Ate1	-
+ECEGEIHF_00031	O	Posttranslational modification, protein turnover, chaperones	Aat	-
+ECEGEIHF_00032	F	Nucleotide transport and metabolism	YjhB	-
+ECEGEIHF_00033	P	Inorganic ion transport and metabolism	NptA	-
+ECEGEIHF_00035	L	Replication, recombination and repair	RecD	-
+ECEGEIHF_00036	V	Defense mechanisms	Csa3	-
+ECEGEIHF_00037	F	Nucleotide transport and metabolism	NrdA	-
+ECEGEIHF_00038	F	Nucleotide transport and metabolism	NrdB	-
+ECEGEIHF_00044	R	General function prediction only	YrpB	-
+ECEGEIHF_00045	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_00047	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00048	C	Energy production and conversion	NapC	-
+ECEGEIHF_00051	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00054	H	Coenzyme transport and metabolism	ApbE	-
+ECEGEIHF_00055	H	Coenzyme transport and metabolism	ApbE	-
+ECEGEIHF_00056	R	General function prediction only	Sel1	-
+ECEGEIHF_00057	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+ECEGEIHF_00058	H	Coenzyme transport and metabolism	BioY	-
+ECEGEIHF_00060	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00061	J	Translation, ribosomal structure and biogenesis	RplU	-
+ECEGEIHF_00062	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_00065	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00067	K	Transcription	LysR	-
+ECEGEIHF_00068	P	Inorganic ion transport and metabolism	AmtB	-
+ECEGEIHF_00069	T	Signal transduction mechanisms	GlnK	-
+ECEGEIHF_00070	P	Inorganic ion transport and metabolism	NlpA	-
+ECEGEIHF_00071	P	Inorganic ion transport and metabolism	NlpA	-
+ECEGEIHF_00073	H	Coenzyme transport and metabolism	NadB	-
+ECEGEIHF_00074	C	Energy production and conversion	SdhB	-
+ECEGEIHF_00075	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_00076	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_00077	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_00079	K	Transcription	SoxR	-
+ECEGEIHF_00080	E	Amino acid transport and metabolism	DadA	-
+ECEGEIHF_00081	F	Nucleotide transport and metabolism	NnrD	-
+ECEGEIHF_00082	R	General function prediction only	Sel1	-
+ECEGEIHF_00085	V	Defense mechanisms	RidA	-
+ECEGEIHF_00087	Q	Secondary metabolites biosynthesis, transport and catabolism	YvaK	-
+ECEGEIHF_00088	E	Amino acid transport and metabolism	GltS	-
+ECEGEIHF_00089	L	Replication, recombination and repair	RarA	-
+ECEGEIHF_00090	J	Translation, ribosomal structure and biogenesis	SerS	-
+ECEGEIHF_00091	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_00092	K	Transcription		-
+ECEGEIHF_00093	K	Transcription	LysR	-
+ECEGEIHF_00095	O	Posttranslational modification, protein turnover, chaperones	DsbB	-
+ECEGEIHF_00096	C	Energy production and conversion	NfnB	-
+ECEGEIHF_00098	E	Amino acid transport and metabolism	IlvD	-
+ECEGEIHF_00099	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+ECEGEIHF_00101	D	Cell cycle control, cell division, chromosome partitioning	SpoVV	-
+ECEGEIHF_00102	S	Function unknown	SpmB	-
+ECEGEIHF_00103	Q	Secondary metabolites biosynthesis, transport and catabolism	HutI	-
+ECEGEIHF_00104	K	Transcription	LysR	-
+ECEGEIHF_00105	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_00106	S	Function unknown	YdfK	-
+ECEGEIHF_00107	C	Energy production and conversion	GltP	-
+ECEGEIHF_00108	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+ECEGEIHF_00110	F	Nucleotide transport and metabolism	ComEB	-
+ECEGEIHF_00112	C	Energy production and conversion	ForC	-
+ECEGEIHF_00113	C	Energy production and conversion	HybA	-
+ECEGEIHF_00114	C	Energy production and conversion	FdnI	-
+ECEGEIHF_00115	G	Carbohydrate transport and metabolism	FucP	-
+ECEGEIHF_00116	J	Translation, ribosomal structure and biogenesis	EbsC	-
+ECEGEIHF_00117	C	Energy production and conversion	Gph	-
+ECEGEIHF_00118	J	Translation, ribosomal structure and biogenesis	CafA	-
+ECEGEIHF_00120	R	General function prediction only	YeeP	-
+ECEGEIHF_00121	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00122	P	Inorganic ion transport and metabolism	YadS	-
+ECEGEIHF_00123	T	Signal transduction mechanisms	UspA	-
+ECEGEIHF_00124	C	Energy production and conversion	FdhD	-
+ECEGEIHF_00125	K	Transcription	LexA	-
+ECEGEIHF_00126	K	Transcription	SoxR	-
+ECEGEIHF_00127	P	Inorganic ion transport and metabolism	ZntA	-
+ECEGEIHF_00128	J	Translation, ribosomal structure and biogenesis	AlaX	-
+ECEGEIHF_00131	J	Translation, ribosomal structure and biogenesis	DusA	-
+ECEGEIHF_00132	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+ECEGEIHF_00133	R	General function prediction only		-
+ECEGEIHF_00134	V	Defense mechanisms	NimA	-
+ECEGEIHF_00137	R	General function prediction only	Sel1	-
+ECEGEIHF_00138	K	Transcription	MngR	-
+ECEGEIHF_00139	L	Replication, recombination and repair	RecG	-
+ECEGEIHF_00140	K	Transcription	LysR	-
+ECEGEIHF_00141	E	Amino acid transport and metabolism	ProC	-
+ECEGEIHF_00142	H	Coenzyme transport and metabolism	YggS	-
+ECEGEIHF_00143	K	Transcription	RpoE	-
+ECEGEIHF_00144	J	Translation, ribosomal structure and biogenesis	QueH	-
+ECEGEIHF_00145	V	Defense mechanisms	Csa3	-
+ECEGEIHF_00147	R	General function prediction only		-
+ECEGEIHF_00148	C	Energy production and conversion	TctC	-
+ECEGEIHF_00149	R	General function prediction only	RarD	-
+ECEGEIHF_00150	S	Function unknown	YdgA	-
+ECEGEIHF_00151	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_00152	C	Energy production and conversion	GlcD	-
+ECEGEIHF_00153	E	Amino acid transport and metabolism	IlvA	-
+ECEGEIHF_00154	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00155	K	Transcription	AraC	-
+ECEGEIHF_00156	R	General function prediction only	GloB	-
+ECEGEIHF_00157	K	Transcription	LysR	-
+ECEGEIHF_00158	V	Defense mechanisms	EmrA	-
+ECEGEIHF_00159	J	Translation, ribosomal structure and biogenesis	RbbA	-
+ECEGEIHF_00160	V	Defense mechanisms	YadH	-
+ECEGEIHF_00161	V	Defense mechanisms	YadH	-
+ECEGEIHF_00162	E	Amino acid transport and metabolism	PepB	-
+ECEGEIHF_00163	E	Amino acid transport and metabolism	GLY1	-
+ECEGEIHF_00164	R	General function prediction only	YohJ	-
+ECEGEIHF_00165	M	Cell wall/membrane/envelope biogenesis	LrgB	-
+ECEGEIHF_00166	K	Transcription	LysR	-
+ECEGEIHF_00167	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00168	E	Amino acid transport and metabolism	ArgG	-
+ECEGEIHF_00169	L	Replication, recombination and repair	HolC	-
+ECEGEIHF_00170	J	Translation, ribosomal structure and biogenesis	ValS	-
+ECEGEIHF_00171	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00172	T	Signal transduction mechanisms		-
+ECEGEIHF_00173	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00176	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00177	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00178	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_00182	H	Coenzyme transport and metabolism	FolA	-
+ECEGEIHF_00183	F	Nucleotide transport and metabolism	ThyA	-
+ECEGEIHF_00184	R	General function prediction only	AbgB	-
+ECEGEIHF_00185	H	Coenzyme transport and metabolism	MoaA	-
+ECEGEIHF_00186	I	Lipid transport and metabolism	AdhE	-
+ECEGEIHF_00187	E	Amino acid transport and metabolism	PutP	-
+ECEGEIHF_00192	E	Amino acid transport and metabolism	RhtB	-
+ECEGEIHF_00193	I	Lipid transport and metabolism	FabI	-
+ECEGEIHF_00194	G	Carbohydrate transport and metabolism	XylB	-
+ECEGEIHF_00195	J	Translation, ribosomal structure and biogenesis	QueC	-
+ECEGEIHF_00196	P	Inorganic ion transport and metabolism	CopZ	-
+ECEGEIHF_00198	C	Energy production and conversion	Nar1	-
+ECEGEIHF_00199	E	Amino acid transport and metabolism	GltD	-
+ECEGEIHF_00200	R	General function prediction only	RssA	-
+ECEGEIHF_00201	P	Inorganic ion transport and metabolism	FocA	-
+ECEGEIHF_00203	T	Signal transduction mechanisms	SrkA	-
+ECEGEIHF_00205	O	Posttranslational modification, protein turnover, chaperones	HslJ	-
+ECEGEIHF_00206	L	Replication, recombination and repair	PolA	-
+ECEGEIHF_00207	B	Chromatin structure and dynamics	Hns	-
+ECEGEIHF_00208	K	Transcription		-
+ECEGEIHF_00209	L	Replication, recombination and repair	UvrD	-
+ECEGEIHF_00210	J	Translation, ribosomal structure and biogenesis	LeuS	-
+ECEGEIHF_00211	M	Cell wall/membrane/envelope biogenesis	LptE	-
+ECEGEIHF_00212	L	Replication, recombination and repair	HolA	-
+ECEGEIHF_00213	E	Amino acid transport and metabolism	ProA	-
+ECEGEIHF_00214	J	Translation, ribosomal structure and biogenesis	RlmL	-
+ECEGEIHF_00215	R	General function prediction only	AbgB	-
+ECEGEIHF_00216	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00217	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+ECEGEIHF_00220	G	Carbohydrate transport and metabolism	CitT	-
+ECEGEIHF_00222	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00223	J	Translation, ribosomal structure and biogenesis	TusA	-
+ECEGEIHF_00224	R	General function prediction only	YocR	-
+ECEGEIHF_00225	R	General function prediction only	YocR	-
+ECEGEIHF_00228	E	Amino acid transport and metabolism	SdaA	-
+ECEGEIHF_00229	S	Function unknown	BrkB	-
+ECEGEIHF_00230	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00233	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_00234	O	Posttranslational modification, protein turnover, chaperones	Lon	-
+ECEGEIHF_00235	O	Posttranslational modification, protein turnover, chaperones	ClpX	-
+ECEGEIHF_00236	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+ECEGEIHF_00237	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+ECEGEIHF_00240	E	Amino acid transport and metabolism	ThrC	-
+ECEGEIHF_00241	F	Nucleotide transport and metabolism	MtnN	-
+ECEGEIHF_00242	F	Nucleotide transport and metabolism	Apt	-
+ECEGEIHF_00243	G	Carbohydrate transport and metabolism	DctP	-
+ECEGEIHF_00244	G	Carbohydrate transport and metabolism	DctM	-
+ECEGEIHF_00245	G	Carbohydrate transport and metabolism	DctQ	-
+ECEGEIHF_00247	Q	Secondary metabolites biosynthesis, transport and catabolism	PaaI	-
+ECEGEIHF_00249	C	Energy production and conversion	PckA	-
+ECEGEIHF_00250	E	Amino acid transport and metabolism	AzlD	-
+ECEGEIHF_00251	E	Amino acid transport and metabolism	AzlC	-
+ECEGEIHF_00252	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_00253	L	Replication, recombination and repair	H3TH	-
+ECEGEIHF_00254	O	Posttranslational modification, protein turnover, chaperones	CpxP	-
+ECEGEIHF_00256	V	Defense mechanisms	MutT	-
+ECEGEIHF_00258	L	Replication, recombination and repair	XerD	-
+ECEGEIHF_00259	L	Replication, recombination and repair	HolB	-
+ECEGEIHF_00260	F	Nucleotide transport and metabolism	Tmk	-
+ECEGEIHF_00261	M	Cell wall/membrane/envelope biogenesis	MltG	-
+ECEGEIHF_00262	J	Translation, ribosomal structure and biogenesis	YgfZ	-
+ECEGEIHF_00263	K	Transcription	MarR	-
+ECEGEIHF_00264	P	Inorganic ion transport and metabolism	FeoB	-
+ECEGEIHF_00265	P	Inorganic ion transport and metabolism	FeoA	-
+ECEGEIHF_00266	P	Inorganic ion transport and metabolism	FeoA	-
+ECEGEIHF_00267	V	Defense mechanisms	Cas4	-
+ECEGEIHF_00268	V	Defense mechanisms	Cas2	-
+ECEGEIHF_00269	V	Defense mechanisms	Cas1	-
+ECEGEIHF_00270	V	Defense mechanisms	Cas9	-
+ECEGEIHF_00271	R	General function prediction only	PqqL	-
+ECEGEIHF_00272	D	Cell cycle control, cell division, chromosome partitioning	YciB	-
+ECEGEIHF_00273	K	Transcription	BolA	-
+ECEGEIHF_00274	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+ECEGEIHF_00275	T	Signal transduction mechanisms	HPtr	-
+ECEGEIHF_00276	T	Signal transduction mechanisms	PleD	-
+ECEGEIHF_00278	P	Inorganic ion transport and metabolism	TauA	-
+ECEGEIHF_00279	R	General function prediction only		-
+ECEGEIHF_00280	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+ECEGEIHF_00281	P	Inorganic ion transport and metabolism	TauE	-
+ECEGEIHF_00282	C	Energy production and conversion	FwdE	-
+ECEGEIHF_00283	P	Inorganic ion transport and metabolism	CzcD	-
+ECEGEIHF_00286	E	Amino acid transport and metabolism	MnaT	-
+ECEGEIHF_00287	E	Amino acid transport and metabolism	AroC	-
+ECEGEIHF_00289	M	Cell wall/membrane/envelope biogenesis	MurJ	-
+ECEGEIHF_00290	J	Translation, ribosomal structure and biogenesis	RpsT	-
+ECEGEIHF_00291	E	Amino acid transport and metabolism	ArgD	-
+ECEGEIHF_00292	M	Cell wall/membrane/envelope biogenesis	MurB	-
+ECEGEIHF_00293	H	Coenzyme transport and metabolism	Dxs	-
+ECEGEIHF_00294	H	Coenzyme transport and metabolism	IspA	-
+ECEGEIHF_00295	L	Replication, recombination and repair	XseB	-
+ECEGEIHF_00296	P	Inorganic ion transport and metabolism	SseA	-
+ECEGEIHF_00297	P	Inorganic ion transport and metabolism	ZupT	-
+ECEGEIHF_00298	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+ECEGEIHF_00299	C	Energy production and conversion	NfnB	-
+ECEGEIHF_00300	T	Signal transduction mechanisms		-
+ECEGEIHF_00301	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00302	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00303	I	Lipid transport and metabolism	IspD	-
+ECEGEIHF_00304	I	Lipid transport and metabolism	IspF	-
+ECEGEIHF_00305	T	Signal transduction mechanisms	BaeS	-
+ECEGEIHF_00306	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_00308	J	Translation, ribosomal structure and biogenesis	TsaB	-
+ECEGEIHF_00309	J	Translation, ribosomal structure and biogenesis	RimI	-
+ECEGEIHF_00310	L	Replication, recombination and repair	Udg4	-
+ECEGEIHF_00311	L	Replication, recombination and repair	Mfd	-
+ECEGEIHF_00312	E	Amino acid transport and metabolism	SerB	-
+ECEGEIHF_00314	L	Replication, recombination and repair	DNA2	-
+ECEGEIHF_00315	L	Replication, recombination and repair	DNA2	-
+ECEGEIHF_00316	R	General function prediction only		-
+ECEGEIHF_00317	C	Energy production and conversion	TtdA	-
+ECEGEIHF_00321	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00322	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00323	T	Signal transduction mechanisms		-
+ECEGEIHF_00325	K	Transcription	HipB	-
+ECEGEIHF_00328	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00330	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00331	R	General function prediction only	AAA_14	-
+ECEGEIHF_00333	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00334	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_00338	E	Amino acid transport and metabolism	IaaA	-
+ECEGEIHF_00339	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00340	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_00341	H	Coenzyme transport and metabolism	TenA	-
+ECEGEIHF_00343	V	Defense mechanisms	HsdM	-
+ECEGEIHF_00344	X	Mobilome: prophages, transposons	InsA	-
+ECEGEIHF_00346	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_00348	G	Carbohydrate transport and metabolism	RpiA	-
+ECEGEIHF_00349	T	Signal transduction mechanisms		-
+ECEGEIHF_00350	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00351	H	Coenzyme transport and metabolism	FolD	-
+ECEGEIHF_00352	O	Posttranslational modification, protein turnover, chaperones	Dcp	-
+ECEGEIHF_00353	L	Replication, recombination and repair	XthA	-
+ECEGEIHF_00354	J	Translation, ribosomal structure and biogenesis	RlmN	-
+ECEGEIHF_00355	T	Signal transduction mechanisms	AtoC	-
+ECEGEIHF_00356	T	Signal transduction mechanisms	NtrB	-
+ECEGEIHF_00357	E	Amino acid transport and metabolism	GlnA	-
+ECEGEIHF_00358	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_00359	F	Nucleotide transport and metabolism	RdgB	-
+ECEGEIHF_00360	J	Translation, ribosomal structure and biogenesis	Rph	-
+ECEGEIHF_00361	J	Translation, ribosomal structure and biogenesis	YicC	-
+ECEGEIHF_00362	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00363	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00364	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00365	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00366	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00369	S	Function unknown		-
+ECEGEIHF_00372	M	Cell wall/membrane/envelope biogenesis	DedA	-
+ECEGEIHF_00373	E	Amino acid transport and metabolism	IlvC	-
+ECEGEIHF_00374	E	Amino acid transport and metabolism	IlvH	-
+ECEGEIHF_00375	E	Amino acid transport and metabolism	IlvB	-
+ECEGEIHF_00376	T	Signal transduction mechanisms	BaeS	-
+ECEGEIHF_00377	M	Cell wall/membrane/envelope biogenesis	LdcA	-
+ECEGEIHF_00378	J	Translation, ribosomal structure and biogenesis	TadA	-
+ECEGEIHF_00379	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00380	S	Function unknown		-
+ECEGEIHF_00381	F	Nucleotide transport and metabolism	GuaA2	-
+ECEGEIHF_00382	F	Nucleotide transport and metabolism	GuaB	-
+ECEGEIHF_00383	V	Defense mechanisms	PasI	-
+ECEGEIHF_00384	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+ECEGEIHF_00385	C	Energy production and conversion	YqdH	-
+ECEGEIHF_00388	O	Posttranslational modification, protein turnover, chaperones	YbbJ	-
+ECEGEIHF_00389	G	Carbohydrate transport and metabolism	PpsA	-
+ECEGEIHF_00390	T	Signal transduction mechanisms	PpsR	-
+ECEGEIHF_00391	J	Translation, ribosomal structure and biogenesis	SpoU	-
+ECEGEIHF_00392	L	Replication, recombination and repair	RnhB	-
+ECEGEIHF_00393	M	Cell wall/membrane/envelope biogenesis	LpxB	-
+ECEGEIHF_00394	M	Cell wall/membrane/envelope biogenesis	LpxA	-
+ECEGEIHF_00395	I	Lipid transport and metabolism	FabA	-
+ECEGEIHF_00396	M	Cell wall/membrane/envelope biogenesis	LpxD	-
+ECEGEIHF_00397	M	Cell wall/membrane/envelope biogenesis	Skp	-
+ECEGEIHF_00398	M	Cell wall/membrane/envelope biogenesis	BamA	-
+ECEGEIHF_00399	O	Posttranslational modification, protein turnover, chaperones	RseP	-
+ECEGEIHF_00400	I	Lipid transport and metabolism	Dxr	-
+ECEGEIHF_00401	I	Lipid transport and metabolism	CdsA	-
+ECEGEIHF_00402	I	Lipid transport and metabolism	UppS	-
+ECEGEIHF_00403	J	Translation, ribosomal structure and biogenesis	Frr	-
+ECEGEIHF_00404	F	Nucleotide transport and metabolism	PyrH	-
+ECEGEIHF_00405	J	Translation, ribosomal structure and biogenesis	Tsf	-
+ECEGEIHF_00406	J	Translation, ribosomal structure and biogenesis	RpsB	-
+ECEGEIHF_00407	J	Translation, ribosomal structure and biogenesis	Map	-
+ECEGEIHF_00408	R	General function prediction only	YfdV	-
+ECEGEIHF_00409	O	Posttranslational modification, protein turnover, chaperones	GlnD	-
+ECEGEIHF_00410	F	Nucleotide transport and metabolism	XapA	-
+ECEGEIHF_00411	L	Replication, recombination and repair	Lig	-
+ECEGEIHF_00413	J	Translation, ribosomal structure and biogenesis	QueFC	-
+ECEGEIHF_00414	E	Amino acid transport and metabolism	AspB	-
+ECEGEIHF_00415	E	Amino acid transport and metabolism	DapD	-
+ECEGEIHF_00416	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00417	J	Translation, ribosomal structure and biogenesis	HemK	-
+ECEGEIHF_00418	J	Translation, ribosomal structure and biogenesis	Uup	-
+ECEGEIHF_00419	S	Function unknown		-
+ECEGEIHF_00425	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00426	P	Inorganic ion transport and metabolism	FeoB	-
+ECEGEIHF_00427	P	Inorganic ion transport and metabolism	FeoA	-
+ECEGEIHF_00428	P	Inorganic ion transport and metabolism	FeoA	-
+ECEGEIHF_00429	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00431	P	Inorganic ion transport and metabolism	ZntA	-
+ECEGEIHF_00433	L	Replication, recombination and repair	CedB	-
+ECEGEIHF_00435	C	Energy production and conversion	CstA	-
+ECEGEIHF_00436	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00437	C	Energy production and conversion	CstA	-
+ECEGEIHF_00438	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00443	H	Coenzyme transport and metabolism	MobA	-
+ECEGEIHF_00444	H	Coenzyme transport and metabolism	MoeA	-
+ECEGEIHF_00445	R	General function prediction only		-
+ECEGEIHF_00446	M	Cell wall/membrane/envelope biogenesis	LolA	-
+ECEGEIHF_00447	F	Nucleotide transport and metabolism	PyrE	-
+ECEGEIHF_00448	F	Nucleotide transport and metabolism	SsnA	-
+ECEGEIHF_00450	M	Cell wall/membrane/envelope biogenesis	WecH	-
+ECEGEIHF_00451	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+ECEGEIHF_00452	E	Amino acid transport and metabolism	MarC	-
+ECEGEIHF_00454	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+ECEGEIHF_00456	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_00460	V	Defense mechanisms		-
+ECEGEIHF_00461	L	Replication, recombination and repair	YhdJ	-
+ECEGEIHF_00464	L	Replication, recombination and repair	TopA	-
+ECEGEIHF_00465	L	Replication, recombination and repair	ArdC	-
+ECEGEIHF_00468	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+ECEGEIHF_00469	W	Extracellular structures	CpaF/TadA	-
+ECEGEIHF_00470	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00472	W	Extracellular structures	CpaF/TadA	-
+ECEGEIHF_00477	V	Defense mechanisms	VapI	-
+ECEGEIHF_00479	U	Intracellular trafficking, secretion, and vesicular transport	VirB10	-
+ECEGEIHF_00481	U	Intracellular trafficking, secretion, and vesicular transport	VirB9	-
+ECEGEIHF_00482	U	Intracellular trafficking, secretion, and vesicular transport	VirB8	-
+ECEGEIHF_00483	V	Defense mechanisms	MazE	-
+ECEGEIHF_00484	V	Defense mechanisms	MazF	-
+ECEGEIHF_00485	P	Inorganic ion transport and metabolism	NlpA	-
+ECEGEIHF_00486	U	Intracellular trafficking, secretion, and vesicular transport	VirB6	-
+ECEGEIHF_00488	V	Defense mechanisms	RelB	-
+ECEGEIHF_00489	X	Mobilome: prophages, transposons	ParE	-
+ECEGEIHF_00490	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+ECEGEIHF_00491	U	Intracellular trafficking, secretion, and vesicular transport	VirB3	-
+ECEGEIHF_00495	V	Defense mechanisms	MazE	-
+ECEGEIHF_00496	V	Defense mechanisms	RelB	-
+ECEGEIHF_00497	X	Mobilome: prophages, transposons	ParE	-
+ECEGEIHF_00499	S	Function unknown		-
+ECEGEIHF_00500	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00501	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_00513	K	Transcription	AlpA	-
+ECEGEIHF_00514	K	Transcription	YdaS	-
+ECEGEIHF_00515	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00518	L	Replication, recombination and repair	DnaC	-
+ECEGEIHF_00523	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+ECEGEIHF_00524	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+ECEGEIHF_00526	V	Defense mechanisms	RelB	-
+ECEGEIHF_00527	L	Replication, recombination and repair	RpnC	-
+ECEGEIHF_00528	V	Defense mechanisms	RelB	-
+ECEGEIHF_00529	V	Defense mechanisms	RelE	-
+ECEGEIHF_00530	X	Mobilome: prophages, transposons	ParE	-
+ECEGEIHF_00531	V	Defense mechanisms	RelB	-
+ECEGEIHF_00532	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00535	L	Replication, recombination and repair	XerD	-
+ECEGEIHF_00536	R	General function prediction only	Zeta	-
+ECEGEIHF_00539	V	Defense mechanisms	HsdM	-
+ECEGEIHF_00540	L	Replication, recombination and repair	SpoIVCA	-
+ECEGEIHF_00541	K	Transcription		-
+ECEGEIHF_00543	K	Transcription		-
+ECEGEIHF_00544	E	Amino acid transport and metabolism	CdsB	-
+ECEGEIHF_00545	M	Cell wall/membrane/envelope biogenesis	BamC	-
+ECEGEIHF_00546	E	Amino acid transport and metabolism	HisJ	-
+ECEGEIHF_00547	E	Amino acid transport and metabolism	HisM	-
+ECEGEIHF_00548	E	Amino acid transport and metabolism	GlnQ	-
+ECEGEIHF_00549	R	General function prediction only		-
+ECEGEIHF_00550	R	General function prediction only		-
+ECEGEIHF_00551	R	General function prediction only	PhnK	-
+ECEGEIHF_00552	J	Translation, ribosomal structure and biogenesis	TtcA	-
+ECEGEIHF_00553	I	Lipid transport and metabolism	AccA	-
+ECEGEIHF_00554	L	Replication, recombination and repair	AlkA	-
+ECEGEIHF_00555	J	Translation, ribosomal structure and biogenesis	CysS	-
+ECEGEIHF_00556	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+ECEGEIHF_00557	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+ECEGEIHF_00558	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+ECEGEIHF_00559	M	Cell wall/membrane/envelope biogenesis	LpxH	-
+ECEGEIHF_00560	N	Cell motility	TatD	-
+ECEGEIHF_00561	T	Signal transduction mechanisms	ANKYR	-
+ECEGEIHF_00562	J	Translation, ribosomal structure and biogenesis	RlhA	-
+ECEGEIHF_00563	C	Energy production and conversion	NrfG	-
+ECEGEIHF_00564	G	Carbohydrate transport and metabolism	UhpC	-
+ECEGEIHF_00565	P	Inorganic ion transport and metabolism	NrfA	-
+ECEGEIHF_00566	C	Energy production and conversion	NrfG	-
+ECEGEIHF_00567	C	Energy production and conversion	NrfF	-
+ECEGEIHF_00568	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+ECEGEIHF_00569	C	Energy production and conversion	CcmF	-
+ECEGEIHF_00570	C	Energy production and conversion	CcmE	-
+ECEGEIHF_00571	U	Intracellular trafficking, secretion, and vesicular transport	CcmD	-
+ECEGEIHF_00572	O	Posttranslational modification, protein turnover, chaperones	CcmC	-
+ECEGEIHF_00573	O	Posttranslational modification, protein turnover, chaperones	CcmB	-
+ECEGEIHF_00574	O	Posttranslational modification, protein turnover, chaperones	CcmA	-
+ECEGEIHF_00575	C	Energy production and conversion	HyaA	-
+ECEGEIHF_00576	C	Energy production and conversion	HyaB	-
+ECEGEIHF_00577	C	Energy production and conversion	HyaC	-
+ECEGEIHF_00578	C	Energy production and conversion	HyaD	-
+ECEGEIHF_00579	O	Posttranslational modification, protein turnover, chaperones	HypC	-
+ECEGEIHF_00582	P	Inorganic ion transport and metabolism	Rubr	-
+ECEGEIHF_00585	O	Posttranslational modification, protein turnover, chaperones	HybF	-
+ECEGEIHF_00587	O	Posttranslational modification, protein turnover, chaperones	HypB	-
+ECEGEIHF_00588	O	Posttranslational modification, protein turnover, chaperones	HypF	-
+ECEGEIHF_00589	O	Posttranslational modification, protein turnover, chaperones	HypC	-
+ECEGEIHF_00590	O	Posttranslational modification, protein turnover, chaperones	HypD	-
+ECEGEIHF_00591	O	Posttranslational modification, protein turnover, chaperones	HypE	-
+ECEGEIHF_00593	T	Signal transduction mechanisms	CitB	-
+ECEGEIHF_00594	S	Function unknown		-
+ECEGEIHF_00595	S	Function unknown	YhaH	-
+ECEGEIHF_00596	U	Intracellular trafficking, secretion, and vesicular transport	SecF	-
+ECEGEIHF_00597	U	Intracellular trafficking, secretion, and vesicular transport	SecD	-
+ECEGEIHF_00598	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+ECEGEIHF_00599	J	Translation, ribosomal structure and biogenesis	Tgt	-
+ECEGEIHF_00600	J	Translation, ribosomal structure and biogenesis	QueA	-
+ECEGEIHF_00601	K	Transcription	GreA	-
+ECEGEIHF_00602	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+ECEGEIHF_00603	L	Replication, recombination and repair	DnaE	-
+ECEGEIHF_00604	J	Translation, ribosomal structure and biogenesis	RlmE	-
+ECEGEIHF_00605	J	Translation, ribosomal structure and biogenesis	YhbY	-
+ECEGEIHF_00606	K	Transcription	GreA	-
+ECEGEIHF_00607	E	Amino acid transport and metabolism	ArgF	-
+ECEGEIHF_00608	E	Amino acid transport and metabolism	CarB	-
+ECEGEIHF_00609	G	Carbohydrate transport and metabolism	GmhA	-
+ECEGEIHF_00610	E	Amino acid transport and metabolism	CarA	-
+ECEGEIHF_00611	G	Carbohydrate transport and metabolism	TalA	-
+ECEGEIHF_00612	F	Nucleotide transport and metabolism	Gmk	-
+ECEGEIHF_00613	K	Transcription	RpoZ	-
+ECEGEIHF_00614	T	Signal transduction mechanisms	SpoT	-
+ECEGEIHF_00616	R	General function prediction only	YdeI	-
+ECEGEIHF_00618	P	Inorganic ion transport and metabolism	TauC	-
+ECEGEIHF_00619	P	Inorganic ion transport and metabolism	TauB	-
+ECEGEIHF_00620	P	Inorganic ion transport and metabolism	TauA	-
+ECEGEIHF_00621	L	Replication, recombination and repair	RecR	-
+ECEGEIHF_00622	K	Transcription	YbaB	-
+ECEGEIHF_00623	L	Replication, recombination and repair	DnaX	-
+ECEGEIHF_00624	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00625	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+ECEGEIHF_00626	K	Transcription	Rho	-
+ECEGEIHF_00627	J	Translation, ribosomal structure and biogenesis	RpmE	-
+ECEGEIHF_00628	M	Cell wall/membrane/envelope biogenesis	ArnT	-
+ECEGEIHF_00629	V	Defense mechanisms	NorM	-
+ECEGEIHF_00630	E	Amino acid transport and metabolism	RocB	-
+ECEGEIHF_00631	C	Energy production and conversion	FldA	-
+ECEGEIHF_00633	G	Carbohydrate transport and metabolism	Pgu1	-
+ECEGEIHF_00634	R	General function prediction only		-
+ECEGEIHF_00635	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00636	C	Energy production and conversion	DcuC	-
+ECEGEIHF_00637	O	Posttranslational modification, protein turnover, chaperones	HtpX	-
+ECEGEIHF_00638	M	Cell wall/membrane/envelope biogenesis	LapB	-
+ECEGEIHF_00639	S	Function unknown		-
+ECEGEIHF_00640	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00641	S	Function unknown		-
+ECEGEIHF_00642	M	Cell wall/membrane/envelope biogenesis	SIMPL	-
+ECEGEIHF_00643	T	Signal transduction mechanisms	NtrY	-
+ECEGEIHF_00646	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00647	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_00648	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00650	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00651	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_00652	T	Signal transduction mechanisms	WalK	-
+ECEGEIHF_00653	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_00654	E	Amino acid transport and metabolism	IlvE	-
+ECEGEIHF_00655	O	Posttranslational modification, protein turnover, chaperones	TldD	-
+ECEGEIHF_00656	J	Translation, ribosomal structure and biogenesis	YjgA	-
+ECEGEIHF_00657	H	Coenzyme transport and metabolism	MoaB	-
+ECEGEIHF_00658	M	Cell wall/membrane/envelope biogenesis	MscK	-
+ECEGEIHF_00659	J	Translation, ribosomal structure and biogenesis	GlnS	-
+ECEGEIHF_00660	L	Replication, recombination and repair	SrmB	-
+ECEGEIHF_00661	K	Transcription	AbfR1	-
+ECEGEIHF_00663	I	Lipid transport and metabolism	FadL	-
+ECEGEIHF_00664	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00665	L	Replication, recombination and repair	SbcC	-
+ECEGEIHF_00666	L	Replication, recombination and repair	SbcD	-
+ECEGEIHF_00667	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00668	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_00669	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00670	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00671	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_00672	X	Mobilome: prophages, transposons	InsE	-
+ECEGEIHF_00673	G	Carbohydrate transport and metabolism	CitT	-
+ECEGEIHF_00674	E	Amino acid transport and metabolism	TrpA	-
+ECEGEIHF_00675	E	Amino acid transport and metabolism	TrpB	-
+ECEGEIHF_00676	K	Transcription	YobV	-
+ECEGEIHF_00677	E	Amino acid transport and metabolism	ThrC	-
+ECEGEIHF_00678	E	Amino acid transport and metabolism	ThrA	-
+ECEGEIHF_00679	E	Amino acid transport and metabolism	AspB	-
+ECEGEIHF_00680	R	General function prediction only	YlaK	-
+ECEGEIHF_00681	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_00682	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_00683	P	Inorganic ion transport and metabolism	YqgC	-
+ECEGEIHF_00684	L	Replication, recombination and repair	DnaB	-
+ECEGEIHF_00685	K	Transcription	AraC	-
+ECEGEIHF_00686	C	Energy production and conversion	BisC	-
+ECEGEIHF_00687	C	Energy production and conversion	HybA	-
+ECEGEIHF_00688	P	Inorganic ion transport and metabolism	TrkA	-
+ECEGEIHF_00689	P	Inorganic ion transport and metabolism	TrkG	-
+ECEGEIHF_00690	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00691	J	Translation, ribosomal structure and biogenesis	RplI	-
+ECEGEIHF_00692	J	Translation, ribosomal structure and biogenesis	RpsR	-
+ECEGEIHF_00693	L	Replication, recombination and repair	PriB	-
+ECEGEIHF_00694	J	Translation, ribosomal structure and biogenesis	RpsF	-
+ECEGEIHF_00695	J	Translation, ribosomal structure and biogenesis	SpoU	-
+ECEGEIHF_00696	K	Transcription	VacB	-
+ECEGEIHF_00698	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+ECEGEIHF_00699	P	Inorganic ion transport and metabolism	Ppk	-
+ECEGEIHF_00700	R	General function prediction only	AaeB	-
+ECEGEIHF_00701	H	Coenzyme transport and metabolism	MoaD	-
+ECEGEIHF_00702	H	Coenzyme transport and metabolism	ThiF	-
+ECEGEIHF_00703	E	Amino acid transport and metabolism	HisJ	-
+ECEGEIHF_00704	E	Amino acid transport and metabolism	HisM	-
+ECEGEIHF_00705	E	Amino acid transport and metabolism	GlnQ	-
+ECEGEIHF_00706	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00707	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_00708	H	Coenzyme transport and metabolism	PanC	-
+ECEGEIHF_00709	H	Coenzyme transport and metabolism	PanB	-
+ECEGEIHF_00710	H	Coenzyme transport and metabolism	FolK	-
+ECEGEIHF_00711	J	Translation, ribosomal structure and biogenesis	PcnB	-
+ECEGEIHF_00712	E	Amino acid transport and metabolism	SerB	-
+ECEGEIHF_00713	L	Replication, recombination and repair	DnaA	-
+ECEGEIHF_00714	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_00715	R	General function prediction only		-
+ECEGEIHF_00716	E	Amino acid transport and metabolism	GltD	-
+ECEGEIHF_00717	R	General function prediction only		-
+ECEGEIHF_00718	O	Posttranslational modification, protein turnover, chaperones	TorD	-
+ECEGEIHF_00719	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_00720	C	Energy production and conversion	HybA	-
+ECEGEIHF_00721	C	Energy production and conversion	BisC	-
+ECEGEIHF_00722	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00723	K	Transcription	LysR	-
+ECEGEIHF_00725	F	Nucleotide transport and metabolism	PurM	-
+ECEGEIHF_00726	E	Amino acid transport and metabolism	AlsT	-
+ECEGEIHF_00727	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_00728	S	Function unknown		-
+ECEGEIHF_00729	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00730	J	Translation, ribosomal structure and biogenesis	MiaA	-
+ECEGEIHF_00731	L	Replication, recombination and repair	MutL	-
+ECEGEIHF_00732	M	Cell wall/membrane/envelope biogenesis	DedA	-
+ECEGEIHF_00733	P	Inorganic ion transport and metabolism	NlpA	-
+ECEGEIHF_00734	G	Carbohydrate transport and metabolism	Pgk	-
+ECEGEIHF_00735	G	Carbohydrate transport and metabolism	GapA	-
+ECEGEIHF_00736	G	Carbohydrate transport and metabolism	TktA	-
+ECEGEIHF_00737	J	Translation, ribosomal structure and biogenesis	RsmE	-
+ECEGEIHF_00738	M	Cell wall/membrane/envelope biogenesis	MltE	-
+ECEGEIHF_00739	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00740	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_00743	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_00744	T	Signal transduction mechanisms	WalK	-
+ECEGEIHF_00745	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00746	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_00747	H	Coenzyme transport and metabolism	SerA	-
+ECEGEIHF_00749	H	Coenzyme transport and metabolism	MopI	-
+ECEGEIHF_00750	P	Inorganic ion transport and metabolism	MgtE	-
+ECEGEIHF_00751	E	Amino acid transport and metabolism	AroE	-
+ECEGEIHF_00752	K	Transcription	VacB	-
+ECEGEIHF_00753	R	General function prediction only	YcfP	-
+ECEGEIHF_00754	M	Cell wall/membrane/envelope biogenesis	MurC	-
+ECEGEIHF_00756	E	Amino acid transport and metabolism	AroQ	-
+ECEGEIHF_00757	I	Lipid transport and metabolism	AccB	-
+ECEGEIHF_00758	I	Lipid transport and metabolism	PccA	-
+ECEGEIHF_00759	J	Translation, ribosomal structure and biogenesis	PrmA	-
+ECEGEIHF_00761	P	Inorganic ion transport and metabolism	ModC	-
+ECEGEIHF_00762	P	Inorganic ion transport and metabolism	ModB	-
+ECEGEIHF_00763	P	Inorganic ion transport and metabolism	ModA	-
+ECEGEIHF_00764	K	Transcription	ModE	-
+ECEGEIHF_00765	C	Energy production and conversion	NapC	-
+ECEGEIHF_00766	E	Amino acid transport and metabolism	PepD	-
+ECEGEIHF_00767	E	Amino acid transport and metabolism	PepN	-
+ECEGEIHF_00768	G	Carbohydrate transport and metabolism	Fbp	-
+ECEGEIHF_00770	F	Nucleotide transport and metabolism	Upp	-
+ECEGEIHF_00771	C	Energy production and conversion	SdhD	-
+ECEGEIHF_00772	R	General function prediction only	AbgB	-
+ECEGEIHF_00773	C	Energy production and conversion	DcuC	-
+ECEGEIHF_00774	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00775	T	Signal transduction mechanisms	ComP	-
+ECEGEIHF_00776	T	Signal transduction mechanisms	CitB	-
+ECEGEIHF_00777	C	Energy production and conversion	NapB	-
+ECEGEIHF_00778	C	Energy production and conversion	NapH	-
+ECEGEIHF_00779	R	General function prediction only		-
+ECEGEIHF_00780	C	Energy production and conversion	ForC	-
+ECEGEIHF_00781	O	Posttranslational modification, protein turnover, chaperones	NapD	-
+ECEGEIHF_00782	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00783	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_00784	F	Nucleotide transport and metabolism		-
+ECEGEIHF_00785	H	Coenzyme transport and metabolism	LarC	-
+ECEGEIHF_00786	R	General function prediction only		-
+ECEGEIHF_00787	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00788	T	Signal transduction mechanisms		-
+ECEGEIHF_00789	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+ECEGEIHF_00790	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+ECEGEIHF_00791	J	Translation, ribosomal structure and biogenesis	RbbA	-
+ECEGEIHF_00792	P	Inorganic ion transport and metabolism	NosD	-
+ECEGEIHF_00793	P	Inorganic ion transport and metabolism	NosL	-
+ECEGEIHF_00794	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_00795	C	Energy production and conversion	HybA	-
+ECEGEIHF_00796	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+ECEGEIHF_00797	P	Inorganic ion transport and metabolism	PspE	-
+ECEGEIHF_00798	C	Energy production and conversion	NapC	-
+ECEGEIHF_00799	M	Cell wall/membrane/envelope biogenesis	LarA	-
+ECEGEIHF_00800	K	Transcription	TACO1	-
+ECEGEIHF_00801	F	Nucleotide transport and metabolism	PurD	-
+ECEGEIHF_00803	H	Coenzyme transport and metabolism	NadD	-
+ECEGEIHF_00804	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_00805	C	Energy production and conversion	HybA	-
+ECEGEIHF_00806	C	Energy production and conversion	BisC	-
+ECEGEIHF_00807	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_00808	C	Energy production and conversion	HybA	-
+ECEGEIHF_00809	C	Energy production and conversion	BisC	-
+ECEGEIHF_00810	C	Energy production and conversion	DcuC	-
+ECEGEIHF_00812	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00813	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+ECEGEIHF_00814	J	Translation, ribosomal structure and biogenesis	RsfS	-
+ECEGEIHF_00815	J	Translation, ribosomal structure and biogenesis	RlmH	-
+ECEGEIHF_00816	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+ECEGEIHF_00817	P	Inorganic ion transport and metabolism	ChrA	-
+ECEGEIHF_00818	P	Inorganic ion transport and metabolism	ChrA	-
+ECEGEIHF_00819	H	Coenzyme transport and metabolism	PdxK	-
+ECEGEIHF_00820	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+ECEGEIHF_00821	L	Replication, recombination and repair	SrmB	-
+ECEGEIHF_00822	E	Amino acid transport and metabolism	AroG1	-
+ECEGEIHF_00823	O	Posttranslational modification, protein turnover, chaperones	SERPIN	-
+ECEGEIHF_00824	E	Amino acid transport and metabolism	PepP	-
+ECEGEIHF_00825	S	Function unknown	YeiH	-
+ECEGEIHF_00826	V	Defense mechanisms	HsdS	-
+ECEGEIHF_00827	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+ECEGEIHF_00828	V	Defense mechanisms	AcrB	-
+ECEGEIHF_00829	R	General function prediction only	YdeI	-
+ECEGEIHF_00830	E	Amino acid transport and metabolism	HisJ	-
+ECEGEIHF_00831	J	Translation, ribosomal structure and biogenesis	RluA	-
+ECEGEIHF_00833	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+ECEGEIHF_00834	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+ECEGEIHF_00835	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+ECEGEIHF_00837	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00838	M	Cell wall/membrane/envelope biogenesis	OpgE	-
+ECEGEIHF_00839	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_00840	T	Signal transduction mechanisms	BaeS	-
+ECEGEIHF_00841	H	Coenzyme transport and metabolism	HemH	-
+ECEGEIHF_00842	J	Translation, ribosomal structure and biogenesis	YhhQ	-
+ECEGEIHF_00843	R	General function prediction only	YheT	-
+ECEGEIHF_00844	O	Posttranslational modification, protein turnover, chaperones	GlnE1	-
+ECEGEIHF_00845	M	Cell wall/membrane/envelope biogenesis	YhdP	-
+ECEGEIHF_00846	V	Defense mechanisms	Nit1	-
+ECEGEIHF_00847	O	Posttranslational modification, protein turnover, chaperones	TldD	-
+ECEGEIHF_00848	V	Defense mechanisms	NorM	-
+ECEGEIHF_00849	F	Nucleotide transport and metabolism	YjhB	-
+ECEGEIHF_00850	L	Replication, recombination and repair		-
+ECEGEIHF_00851	R	General function prediction only	YczE	-
+ECEGEIHF_00852	K	Transcription	LysR	-
+ECEGEIHF_00853	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00855	K	Transcription	LysR	-
+ECEGEIHF_00856	R	General function prediction only	YczE	-
+ECEGEIHF_00857	X	Mobilome: prophages, transposons	IS285	-
+ECEGEIHF_00858	R	General function prediction only	YczE	-
+ECEGEIHF_00859	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00860	G	Carbohydrate transport and metabolism	UhpC	-
+ECEGEIHF_00861	R	General function prediction only	YnbB	-
+ECEGEIHF_00862	I	Lipid transport and metabolism	PlsC	-
+ECEGEIHF_00863	E	Amino acid transport and metabolism	AroG1	-
+ECEGEIHF_00864	K	Transcription	AcrR	-
+ECEGEIHF_00865	M	Cell wall/membrane/envelope biogenesis	TolC	-
+ECEGEIHF_00866	V	Defense mechanisms	AcrB	-
+ECEGEIHF_00867	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+ECEGEIHF_00868	J	Translation, ribosomal structure and biogenesis	RpsI	-
+ECEGEIHF_00869	J	Translation, ribosomal structure and biogenesis	RplM	-
+ECEGEIHF_00870	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+ECEGEIHF_00871	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+ECEGEIHF_00872	C	Energy production and conversion	GlpA	-
+ECEGEIHF_00873	J	Translation, ribosomal structure and biogenesis	RaiA	-
+ECEGEIHF_00875	L	Replication, recombination and repair	UvrA	-
+ECEGEIHF_00876	V	Defense mechanisms	McrA	-
+ECEGEIHF_00877	K	Transcription	MarR	-
+ECEGEIHF_00878	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_00879	S	Function unknown		-
+ECEGEIHF_00880	M	Cell wall/membrane/envelope biogenesis	LptF	-
+ECEGEIHF_00881	M	Cell wall/membrane/envelope biogenesis	LptF	-
+ECEGEIHF_00882	E	Amino acid transport and metabolism	AppF	-
+ECEGEIHF_00883	E	Amino acid transport and metabolism	DppD	-
+ECEGEIHF_00884	E	Amino acid transport and metabolism	DppC	-
+ECEGEIHF_00885	R	General function prediction only	AbgB	-
+ECEGEIHF_00886	E	Amino acid transport and metabolism	DppB	-
+ECEGEIHF_00887	E	Amino acid transport and metabolism	DdpA	-
+ECEGEIHF_00888	X	Mobilome: prophages, transposons		-
+ECEGEIHF_00889	E	Amino acid transport and metabolism	DdpA	-
+ECEGEIHF_00895	L	Replication, recombination and repair	Ung	-
+ECEGEIHF_00896	C	Energy production and conversion	Gph	-
+ECEGEIHF_00897	G	Carbohydrate transport and metabolism	Rpe	-
+ECEGEIHF_00898	M	Cell wall/membrane/envelope biogenesis	MltA	-
+ECEGEIHF_00899	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_00900	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_00902	R	General function prediction only	Gdt1	-
+ECEGEIHF_00904	S	Function unknown		-
+ECEGEIHF_00905	H	Coenzyme transport and metabolism	HemA	-
+ECEGEIHF_00906	J	Translation, ribosomal structure and biogenesis	PrfA	-
+ECEGEIHF_00907	J	Translation, ribosomal structure and biogenesis	HemK	-
+ECEGEIHF_00910	O	Posttranslational modification, protein turnover, chaperones	SspB	-
+ECEGEIHF_00911	O	Posttranslational modification, protein turnover, chaperones	GstA	-
+ECEGEIHF_00912	M	Cell wall/membrane/envelope biogenesis	MscL	-
+ECEGEIHF_00914	H	Coenzyme transport and metabolism	NIF3	-
+ECEGEIHF_00916	T	Signal transduction mechanisms	UspA	-
+ECEGEIHF_00917	J	Translation, ribosomal structure and biogenesis	TcdA	-
+ECEGEIHF_00918	T	Signal transduction mechanisms	UspA	-
+ECEGEIHF_00919	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00920	T	Signal transduction mechanisms	CitB	-
+ECEGEIHF_00921	H	Coenzyme transport and metabolism	MoaC	-
+ECEGEIHF_00922	R	General function prediction only		-
+ECEGEIHF_00923	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+ECEGEIHF_00924	D	Cell cycle control, cell division, chromosome partitioning	Mrp	-
+ECEGEIHF_00925	J	Translation, ribosomal structure and biogenesis	MetG	-
+ECEGEIHF_00926	P	Inorganic ion transport and metabolism	SUL1	-
+ECEGEIHF_00927	C	Energy production and conversion	SfcA	-
+ECEGEIHF_00928	P	Inorganic ion transport and metabolism	ClcA	-
+ECEGEIHF_00929	D	Cell cycle control, cell division, chromosome partitioning	CpoB	-
+ECEGEIHF_00930	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+ECEGEIHF_00931	U	Intracellular trafficking, secretion, and vesicular transport	TolB	-
+ECEGEIHF_00932	F	Nucleotide transport and metabolism	PurH	-
+ECEGEIHF_00933	J	Translation, ribosomal structure and biogenesis	DusA	-
+ECEGEIHF_00934	J	Translation, ribosomal structure and biogenesis	GCD1	-
+ECEGEIHF_00935	R	General function prediction only	AmgK	-
+ECEGEIHF_00936	M	Cell wall/membrane/envelope biogenesis	LptD	-
+ECEGEIHF_00937	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+ECEGEIHF_00938	J	Translation, ribosomal structure and biogenesis	RsmA	-
+ECEGEIHF_00939	R	General function prediction only	YgjP	-
+ECEGEIHF_00940	I	Lipid transport and metabolism	PlsC	-
+ECEGEIHF_00941	J	Translation, ribosomal structure and biogenesis	GlyS	-
+ECEGEIHF_00942	J	Translation, ribosomal structure and biogenesis	GlyQ	-
+ECEGEIHF_00943	J	Translation, ribosomal structure and biogenesis	GatA	-
+ECEGEIHF_00944	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+ECEGEIHF_00945	M	Cell wall/membrane/envelope biogenesis	Lnt	-
+ECEGEIHF_00946	P	Inorganic ion transport and metabolism	CorC	-
+ECEGEIHF_00947	J	Translation, ribosomal structure and biogenesis	YbeY	-
+ECEGEIHF_00948	T	Signal transduction mechanisms	PhoH	-
+ECEGEIHF_00949	J	Translation, ribosomal structure and biogenesis	MiaB	-
+ECEGEIHF_00950	T	Signal transduction mechanisms	ApaH	-
+ECEGEIHF_00951	K	Transcription	AcrR	-
+ECEGEIHF_00952	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00953	E	Amino acid transport and metabolism	HutH	-
+ECEGEIHF_00955	H	Coenzyme transport and metabolism	ThiD	-
+ECEGEIHF_00956	M	Cell wall/membrane/envelope biogenesis	KdtA	-
+ECEGEIHF_00957	M	Cell wall/membrane/envelope biogenesis	RfaF	-
+ECEGEIHF_00958	G	Carbohydrate transport and metabolism	Pgi	-
+ECEGEIHF_00959	G	Carbohydrate transport and metabolism	ManB	-
+ECEGEIHF_00960	M	Cell wall/membrane/envelope biogenesis	RfaE	-
+ECEGEIHF_00961	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+ECEGEIHF_00962	E	Amino acid transport and metabolism	HisB1/GmhB	-
+ECEGEIHF_00963	M	Cell wall/membrane/envelope biogenesis	TagD	-
+ECEGEIHF_00964	M	Cell wall/membrane/envelope biogenesis	GalU	-
+ECEGEIHF_00965	I	Lipid transport and metabolism	PlsC	-
+ECEGEIHF_00966	J	Translation, ribosomal structure and biogenesis	YqgF	-
+ECEGEIHF_00967	K	Transcription	AlgH	-
+ECEGEIHF_00969	V	Defense mechanisms	AcrB	-
+ECEGEIHF_00970	R	General function prediction only	HdeD	-
+ECEGEIHF_00972	K	Transcription	LysR	-
+ECEGEIHF_00973	C	Energy production and conversion	DcuC	-
+ECEGEIHF_00974	F	Nucleotide transport and metabolism	AllB	-
+ECEGEIHF_00975	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_00976	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_00977	P	Inorganic ion transport and metabolism	NarK	-
+ECEGEIHF_00978	E	Amino acid transport and metabolism	RhtB	-
+ECEGEIHF_00979	F	Nucleotide transport and metabolism	PurL1	-
+ECEGEIHF_00980	G	Carbohydrate transport and metabolism	GckA	-
+ECEGEIHF_00981	L	Replication, recombination and repair	UvrA	-
+ECEGEIHF_00982	L	Replication, recombination and repair	Ssb	-
+ECEGEIHF_00983	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_00984	C	Energy production and conversion	SdhA	-
+ECEGEIHF_00986	P	Inorganic ion transport and metabolism	PhnD	-
+ECEGEIHF_00987	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_00988	V	Defense mechanisms	SalY	-
+ECEGEIHF_00989	M	Cell wall/membrane/envelope biogenesis	LolD	-
+ECEGEIHF_00990	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+ECEGEIHF_00991	M	Cell wall/membrane/envelope biogenesis	TolC	-
+ECEGEIHF_00992	G	Carbohydrate transport and metabolism	SuhB	-
+ECEGEIHF_00993	J	Translation, ribosomal structure and biogenesis	FusA	-
+ECEGEIHF_00994	R	General function prediction only		-
+ECEGEIHF_00995	J	Translation, ribosomal structure and biogenesis	AspS	-
+ECEGEIHF_00996	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_00999	C	Energy production and conversion	PatZN	-
+ECEGEIHF_01001	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01002	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01003	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01004	T	Signal transduction mechanisms		-
+ECEGEIHF_01005	I	Lipid transport and metabolism	CaiD	-
+ECEGEIHF_01006	I	Lipid transport and metabolism	YciA	-
+ECEGEIHF_01007	E	Amino acid transport and metabolism	GlnQ	-
+ECEGEIHF_01008	G	Carbohydrate transport and metabolism	GutQ	-
+ECEGEIHF_01009	M	Cell wall/membrane/envelope biogenesis	KdsC	-
+ECEGEIHF_01010	M	Cell wall/membrane/envelope biogenesis	LptC	-
+ECEGEIHF_01011	M	Cell wall/membrane/envelope biogenesis	LptA	-
+ECEGEIHF_01012	M	Cell wall/membrane/envelope biogenesis	LptB	-
+ECEGEIHF_01013	K	Transcription	RpoN	-
+ECEGEIHF_01014	G	Carbohydrate transport and metabolism	PtsN	-
+ECEGEIHF_01015	T	Signal transduction mechanisms	HprK	-
+ECEGEIHF_01016	T	Signal transduction mechanisms	RapZ	-
+ECEGEIHF_01017	L	Replication, recombination and repair	MutY	-
+ECEGEIHF_01018	L	Replication, recombination and repair	Nei	-
+ECEGEIHF_01019	F	Nucleotide transport and metabolism	UraA	-
+ECEGEIHF_01020	J	Translation, ribosomal structure and biogenesis	PrfC	-
+ECEGEIHF_01022	G	Carbohydrate transport and metabolism	AfuA	-
+ECEGEIHF_01023	J	Translation, ribosomal structure and biogenesis	MnmE	-
+ECEGEIHF_01024	C	Energy production and conversion	FdnI	-
+ECEGEIHF_01025	C	Energy production and conversion	Nar1	-
+ECEGEIHF_01026	C	Energy production and conversion	Nar1	-
+ECEGEIHF_01027	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_01028	I	Lipid transport and metabolism	FAA1	-
+ECEGEIHF_01030	J	Translation, ribosomal structure and biogenesis	Uup	-
+ECEGEIHF_01031	M	Cell wall/membrane/envelope biogenesis	LpoA	-
+ECEGEIHF_01032	J	Translation, ribosomal structure and biogenesis	RsmI	-
+ECEGEIHF_01033	C	Energy production and conversion	PPK2	-
+ECEGEIHF_01034	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01035	T	Signal transduction mechanisms		-
+ECEGEIHF_01036	G	Carbohydrate transport and metabolism	LigW	-
+ECEGEIHF_01037	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01038	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01039	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+ECEGEIHF_01040	S	Function unknown		-
+ECEGEIHF_01041	V	Defense mechanisms	MazE	-
+ECEGEIHF_01042	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_01043	C	Energy production and conversion	HybA	-
+ECEGEIHF_01044	P	Inorganic ion transport and metabolism	NrfA	-
+ECEGEIHF_01046	C	Energy production and conversion	YdhV	-
+ECEGEIHF_01047	C	Energy production and conversion	HybA	-
+ECEGEIHF_01050	H	Coenzyme transport and metabolism	MoeA	-
+ECEGEIHF_01051	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01052	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01053	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01054	T	Signal transduction mechanisms		-
+ECEGEIHF_01055	R	General function prediction only	YbhB	-
+ECEGEIHF_01056	T	Signal transduction mechanisms	CBS	-
+ECEGEIHF_01057	J	Translation, ribosomal structure and biogenesis	TtcA	-
+ECEGEIHF_01058	H	Coenzyme transport and metabolism	FolB	-
+ECEGEIHF_01059	J	Translation, ribosomal structure and biogenesis	PcnB	-
+ECEGEIHF_01060	H	Coenzyme transport and metabolism	FAU1	-
+ECEGEIHF_01062	C	Energy production and conversion	BisC	-
+ECEGEIHF_01063	J	Translation, ribosomal structure and biogenesis	TrpS	-
+ECEGEIHF_01064	R	General function prediction only	AbgB	-
+ECEGEIHF_01065	H	Coenzyme transport and metabolism	MetK	-
+ECEGEIHF_01066	I	Lipid transport and metabolism	LpxP	-
+ECEGEIHF_01067	E	Amino acid transport and metabolism	DapF	-
+ECEGEIHF_01068	S	Function unknown	YigA	-
+ECEGEIHF_01069	J	Translation, ribosomal structure and biogenesis	RlmK	-
+ECEGEIHF_01070	E	Amino acid transport and metabolism	AspD	-
+ECEGEIHF_01071	R	General function prediction only	YejR	-
+ECEGEIHF_01072	K	Transcription	DksA	-
+ECEGEIHF_01074	R	General function prediction only	YfdV	-
+ECEGEIHF_01075	K	Transcription	MngR	-
+ECEGEIHF_01076	R	General function prediction only	AbgB	-
+ECEGEIHF_01077	P	Inorganic ion transport and metabolism	NarK	-
+ECEGEIHF_01078	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01079	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01080	E	Amino acid transport and metabolism	Dsd1	-
+ECEGEIHF_01081	K	Transcription	LysR	-
+ECEGEIHF_01082	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01083	R	General function prediction only		-
+ECEGEIHF_01084	P	Inorganic ion transport and metabolism	CopZ	-
+ECEGEIHF_01085	E	Amino acid transport and metabolism	ArgB	-
+ECEGEIHF_01086	K	Transcription	AcrR	-
+ECEGEIHF_01087	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+ECEGEIHF_01088	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+ECEGEIHF_01089	G	Carbohydrate transport and metabolism	GpmA	-
+ECEGEIHF_01090	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_01091	K	Transcription	LysR	-
+ECEGEIHF_01092	K	Transcription	LysR	-
+ECEGEIHF_01093	R	General function prediction only	YurZ	-
+ECEGEIHF_01094	I	Lipid transport and metabolism	Aes	-
+ECEGEIHF_01095	S	Function unknown		-
+ECEGEIHF_01096	R	General function prediction only	YurZ	-
+ECEGEIHF_01097	P	Inorganic ion transport and metabolism	PspE	-
+ECEGEIHF_01098	U	Intracellular trafficking, secretion, and vesicular transport	SecB	-
+ECEGEIHF_01099	F	Nucleotide transport and metabolism	PpnN	-
+ECEGEIHF_01100	P	Inorganic ion transport and metabolism	PstB	-
+ECEGEIHF_01101	R	General function prediction only	AAA_14	-
+ECEGEIHF_01102	F	Nucleotide transport and metabolism	NupO	-
+ECEGEIHF_01103	F	Nucleotide transport and metabolism	NupP	-
+ECEGEIHF_01104	F	Nucleotide transport and metabolism	NupQ	-
+ECEGEIHF_01105	T	Signal transduction mechanisms	Med	-
+ECEGEIHF_01106	P	Inorganic ion transport and metabolism	PstS	-
+ECEGEIHF_01107	P	Inorganic ion transport and metabolism	PstC	-
+ECEGEIHF_01108	P	Inorganic ion transport and metabolism	PstA	-
+ECEGEIHF_01109	K	Transcription	HxlR	-
+ECEGEIHF_01110	R	General function prediction only	YwnB	-
+ECEGEIHF_01111	F	Nucleotide transport and metabolism	NCS2	-
+ECEGEIHF_01112	J	Translation, ribosomal structure and biogenesis	TrmL	-
+ECEGEIHF_01113	K	Transcription	RpoD	-
+ECEGEIHF_01114	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+ECEGEIHF_01115	M	Cell wall/membrane/envelope biogenesis	LolD	-
+ECEGEIHF_01116	F	Nucleotide transport and metabolism	GppA	-
+ECEGEIHF_01117	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+ECEGEIHF_01118	J	Translation, ribosomal structure and biogenesis	RsmD	-
+ECEGEIHF_01119	H	Coenzyme transport and metabolism	CoaD	-
+ECEGEIHF_01120	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_01121	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01123	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01124	F	Nucleotide transport and metabolism	HinT	-
+ECEGEIHF_01125	C	Energy production and conversion	GlpC	-
+ECEGEIHF_01126	E	Amino acid transport and metabolism	IlvA	-
+ECEGEIHF_01128	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_01129	C	Energy production and conversion	NhaC	-
+ECEGEIHF_01131	C	Energy production and conversion	NrfF	-
+ECEGEIHF_01132	C	Energy production and conversion	CcmF	-
+ECEGEIHF_01133	C	Energy production and conversion	NrfG	-
+ECEGEIHF_01134	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_01135	E	Amino acid transport and metabolism	FtcD	-
+ECEGEIHF_01136	E	Amino acid transport and metabolism	GluFT	-
+ECEGEIHF_01137	C	Energy production and conversion	EutG	-
+ECEGEIHF_01138	R	General function prediction only	MdaB	-
+ECEGEIHF_01139	K	Transcription	LysR	-
+ECEGEIHF_01140	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_01142	C	Energy production and conversion	LldD	-
+ECEGEIHF_01143	P	Inorganic ion transport and metabolism	YvgK	-
+ECEGEIHF_01144	K	Transcription	LysR	-
+ECEGEIHF_01145	K	Transcription	LysR	-
+ECEGEIHF_01146	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_01147	K	Transcription	LysR	-
+ECEGEIHF_01148	E	Amino acid transport and metabolism	SpeB	-
+ECEGEIHF_01149	O	Posttranslational modification, protein turnover, chaperones	YbbJ	-
+ECEGEIHF_01150	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+ECEGEIHF_01151	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_01152	T	Signal transduction mechanisms	FrsA	-
+ECEGEIHF_01153	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_01154	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_01155	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_01156	K	Transcription	LysR	-
+ECEGEIHF_01157	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_01159	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_01160	M	Cell wall/membrane/envelope biogenesis	RlpA	-
+ECEGEIHF_01161	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+ECEGEIHF_01162	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+ECEGEIHF_01163	M	Cell wall/membrane/envelope biogenesis	MreD	-
+ECEGEIHF_01164	D	Cell cycle control, cell division, chromosome partitioning	MreC	-
+ECEGEIHF_01165	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+ECEGEIHF_01166	J	Translation, ribosomal structure and biogenesis	GatC	-
+ECEGEIHF_01167	J	Translation, ribosomal structure and biogenesis	GatA	-
+ECEGEIHF_01168	J	Translation, ribosomal structure and biogenesis	GatB	-
+ECEGEIHF_01169	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01171	P	Inorganic ion transport and metabolism	CynT	-
+ECEGEIHF_01172	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01173	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01175	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_01176	C	Energy production and conversion	HybA	-
+ECEGEIHF_01177	P	Inorganic ion transport and metabolism	NrfA	-
+ECEGEIHF_01179	C	Energy production and conversion	YdhV	-
+ECEGEIHF_01180	C	Energy production and conversion	HybA	-
+ECEGEIHF_01182	E	Amino acid transport and metabolism	PotE	-
+ECEGEIHF_01183	X	Mobilome: prophages, transposons	InsG	-
+ECEGEIHF_01184	F	Nucleotide transport and metabolism	PyrE	-
+ECEGEIHF_01185	L	Replication, recombination and repair	XthA	-
+ECEGEIHF_01186	J	Translation, ribosomal structure and biogenesis	RsuA	-
+ECEGEIHF_01187	G	Carbohydrate transport and metabolism	UhpC	-
+ECEGEIHF_01189	G	Carbohydrate transport and metabolism	PtsA	-
+ECEGEIHF_01190	T	Signal transduction mechanisms	PtsH	-
+ECEGEIHF_01191	G	Carbohydrate transport and metabolism	ManX	-
+ECEGEIHF_01193	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_01194	P	Inorganic ion transport and metabolism	TrkG	-
+ECEGEIHF_01195	P	Inorganic ion transport and metabolism	TrkA	-
+ECEGEIHF_01196	T	Signal transduction mechanisms	AtoC	-
+ECEGEIHF_01197	T	Signal transduction mechanisms	NtrY	-
+ECEGEIHF_01199	J	Translation, ribosomal structure and biogenesis	RsmB	-
+ECEGEIHF_01200	J	Translation, ribosomal structure and biogenesis	Fmt	-
+ECEGEIHF_01201	H	Coenzyme transport and metabolism	MenH	-
+ECEGEIHF_01202	J	Translation, ribosomal structure and biogenesis	Def	-
+ECEGEIHF_01203	L	Replication, recombination and repair	TopA	-
+ECEGEIHF_01205	P	Inorganic ion transport and metabolism	MpfA	-
+ECEGEIHF_01207	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+ECEGEIHF_01208	E	Amino acid transport and metabolism	HisJ	-
+ECEGEIHF_01209	E	Amino acid transport and metabolism	BatB	-
+ECEGEIHF_01210	E	Amino acid transport and metabolism	HisM	-
+ECEGEIHF_01212	V	Defense mechanisms	AhpC	-
+ECEGEIHF_01213	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_01214	J	Translation, ribosomal structure and biogenesis	YmdB	-
+ECEGEIHF_01216	R	General function prediction only	YddA	-
+ECEGEIHF_01217	P	Inorganic ion transport and metabolism	CirA	-
+ECEGEIHF_01218	V	Defense mechanisms	Csa3	-
+ECEGEIHF_01219	V	Defense mechanisms	Csa3	-
+ECEGEIHF_01220	V	Defense mechanisms	Csa3	-
+ECEGEIHF_01221	P	Inorganic ion transport and metabolism	FepA	-
+ECEGEIHF_01222	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01223	R	General function prediction only		-
+ECEGEIHF_01224	K	Transcription	LysR	-
+ECEGEIHF_01225	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_01226	E	Amino acid transport and metabolism	PepD2	-
+ECEGEIHF_01227	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01228	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01229	E	Amino acid transport and metabolism	PepF	-
+ECEGEIHF_01231	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01232	T	Signal transduction mechanisms		-
+ECEGEIHF_01233	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01234	C	Energy production and conversion	GltP	-
+ECEGEIHF_01237	K	Transcription	LysR	-
+ECEGEIHF_01238	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01239	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_01240	F	Nucleotide transport and metabolism	AllB	-
+ECEGEIHF_01243	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01244	K	Transcription	LysR	-
+ECEGEIHF_01245	M	Cell wall/membrane/envelope biogenesis	BepA	-
+ECEGEIHF_01246	M	Cell wall/membrane/envelope biogenesis	LolB	-
+ECEGEIHF_01247	I	Lipid transport and metabolism	IspE	-
+ECEGEIHF_01249	E	Amino acid transport and metabolism	PrsA	-
+ECEGEIHF_01250	J	Translation, ribosomal structure and biogenesis	RplY	-
+ECEGEIHF_01251	L	Replication, recombination and repair	SrmB	-
+ECEGEIHF_01252	J	Translation, ribosomal structure and biogenesis	Pth	-
+ECEGEIHF_01253	F	Nucleotide transport and metabolism	YbbK	-
+ECEGEIHF_01254	J	Translation, ribosomal structure and biogenesis	GTP1	-
+ECEGEIHF_01255	K	Transcription	HipB	-
+ECEGEIHF_01256	K	Transcription	LysR	-
+ECEGEIHF_01257	R	General function prediction only	CYTH	-
+ECEGEIHF_01259	G	Carbohydrate transport and metabolism	CitT	-
+ECEGEIHF_01260	V	Defense mechanisms	RelB	-
+ECEGEIHF_01261	X	Mobilome: prophages, transposons	ParE	-
+ECEGEIHF_01263	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01270	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01271	T	Signal transduction mechanisms		-
+ECEGEIHF_01274	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01275	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01276	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01277	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01278	T	Signal transduction mechanisms		-
+ECEGEIHF_01279	H	Coenzyme transport and metabolism	CoaX	-
+ECEGEIHF_01280	H	Coenzyme transport and metabolism	BirA2	-
+ECEGEIHF_01281	R	General function prediction only		-
+ECEGEIHF_01283	T	Signal transduction mechanisms	YbeD	-
+ECEGEIHF_01284	H	Coenzyme transport and metabolism	LipB	-
+ECEGEIHF_01285	H	Coenzyme transport and metabolism	MenA	-
+ECEGEIHF_01286	H	Coenzyme transport and metabolism	LipA	-
+ECEGEIHF_01288	P	Inorganic ion transport and metabolism	TauA	-
+ECEGEIHF_01289	P	Inorganic ion transport and metabolism	TauB	-
+ECEGEIHF_01290	P	Inorganic ion transport and metabolism	TauC	-
+ECEGEIHF_01291	M	Cell wall/membrane/envelope biogenesis	OsmY	-
+ECEGEIHF_01292	R	General function prediction only	MdaB	-
+ECEGEIHF_01294	P	Inorganic ion transport and metabolism	TauA	-
+ECEGEIHF_01296	L	Replication, recombination and repair	GyrB	-
+ECEGEIHF_01297	L	Replication, recombination and repair	DnaN	-
+ECEGEIHF_01298	L	Replication, recombination and repair	DnaA	-
+ECEGEIHF_01299	J	Translation, ribosomal structure and biogenesis	RpmH	-
+ECEGEIHF_01300	A	RNA processing and modification	RnpA	-
+ECEGEIHF_01301	M	Cell wall/membrane/envelope biogenesis	YidD	-
+ECEGEIHF_01302	M	Cell wall/membrane/envelope biogenesis	YidC	-
+ECEGEIHF_01303	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_01305	E	Amino acid transport and metabolism	HutH	-
+ECEGEIHF_01307	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01308	K	Transcription	AcrR	-
+ECEGEIHF_01309	M	Cell wall/membrane/envelope biogenesis	LolC	-
+ECEGEIHF_01310	J	Translation, ribosomal structure and biogenesis	MnmE	-
+ECEGEIHF_01311	J	Translation, ribosomal structure and biogenesis	MnmG	-
+ECEGEIHF_01312	J	Translation, ribosomal structure and biogenesis	RsmG	-
+ECEGEIHF_01313	G	Carbohydrate transport and metabolism	UhpC	-
+ECEGEIHF_01314	K	Transcription	RocR	-
+ECEGEIHF_01315	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01317	E	Amino acid transport and metabolism	HutH	-
+ECEGEIHF_01319	R	General function prediction only	YfdV	-
+ECEGEIHF_01320	V	Defense mechanisms	RidA	-
+ECEGEIHF_01321	E	Amino acid transport and metabolism	PotA	-
+ECEGEIHF_01322	P	Inorganic ion transport and metabolism	FbpB	-
+ECEGEIHF_01323	G	Carbohydrate transport and metabolism	AfuA	-
+ECEGEIHF_01324	R	General function prediction only		-
+ECEGEIHF_01325	M	Cell wall/membrane/envelope biogenesis	PqiB	-
+ECEGEIHF_01326	M	Cell wall/membrane/envelope biogenesis	MlaF	-
+ECEGEIHF_01327	M	Cell wall/membrane/envelope biogenesis	MlaE	-
+ECEGEIHF_01328	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+ECEGEIHF_01329	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+ECEGEIHF_01330	C	Energy production and conversion	AtpI	-
+ECEGEIHF_01331	C	Energy production and conversion	AtpB	-
+ECEGEIHF_01332	C	Energy production and conversion	AtpE	-
+ECEGEIHF_01333	C	Energy production and conversion	AtpF	-
+ECEGEIHF_01334	C	Energy production and conversion	AtpH	-
+ECEGEIHF_01335	C	Energy production and conversion	AtpA	-
+ECEGEIHF_01336	C	Energy production and conversion	AtpG	-
+ECEGEIHF_01337	C	Energy production and conversion	AtpD	-
+ECEGEIHF_01338	C	Energy production and conversion	AtpC	-
+ECEGEIHF_01339	T	Signal transduction mechanisms	UspA	-
+ECEGEIHF_01340	H	Coenzyme transport and metabolism	HemE	-
+ECEGEIHF_01341	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_01342	L	Replication, recombination and repair	PriA	-
+ECEGEIHF_01343	J	Translation, ribosomal structure and biogenesis	RlhA	-
+ECEGEIHF_01345	E	Amino acid transport and metabolism	RhtB	-
+ECEGEIHF_01346	R	General function prediction only	AbgB	-
+ECEGEIHF_01347	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01348	K	Transcription	LysR	-
+ECEGEIHF_01349	K	Transcription	LysR	-
+ECEGEIHF_01350	R	General function prediction only	GBBH	-
+ECEGEIHF_01351	H	Coenzyme transport and metabolism	UbiE	-
+ECEGEIHF_01352	I	Lipid transport and metabolism	Tim44	-
+ECEGEIHF_01353	E	Amino acid transport and metabolism	PutP	-
+ECEGEIHF_01354	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+ECEGEIHF_01355	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+ECEGEIHF_01356	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01357	R	General function prediction only		-
+ECEGEIHF_01358	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01359	K	Transcription	ARO8	-
+ECEGEIHF_01360	E	Amino acid transport and metabolism	MarC	-
+ECEGEIHF_01361	K	Transcription	AcrR	-
+ECEGEIHF_01362	C	Energy production and conversion	TctC	-
+ECEGEIHF_01363	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01364	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_01365	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01366	H	Coenzyme transport and metabolism	MenB	-
+ECEGEIHF_01367	I	Lipid transport and metabolism	MenE	-
+ECEGEIHF_01368	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+ECEGEIHF_01369	V	Defense mechanisms	EcnA	-
+ECEGEIHF_01370	T	Signal transduction mechanisms	BaeS	-
+ECEGEIHF_01371	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_01372	S	Function unknown		-
+ECEGEIHF_01373	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01374	S	Function unknown		-
+ECEGEIHF_01375	S	Function unknown	YbgE	-
+ECEGEIHF_01376	C	Energy production and conversion	AppB	-
+ECEGEIHF_01377	C	Energy production and conversion	AppC	-
+ECEGEIHF_01379	S	Function unknown		-
+ECEGEIHF_01380	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01381	T	Signal transduction mechanisms		-
+ECEGEIHF_01382	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01384	K	Transcription	LysR	-
+ECEGEIHF_01385	T	Signal transduction mechanisms	FrsA	-
+ECEGEIHF_01386	M	Cell wall/membrane/envelope biogenesis	CapA	-
+ECEGEIHF_01387	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01388	R	General function prediction only	AbgB	-
+ECEGEIHF_01389	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01391	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01392	K	Transcription	MngR	-
+ECEGEIHF_01393	P	Inorganic ion transport and metabolism	NarK	-
+ECEGEIHF_01395	C	Energy production and conversion	Mdh	-
+ECEGEIHF_01396	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_01397	R	General function prediction only	YfbK	-
+ECEGEIHF_01398	K	Transcription	SoxR	-
+ECEGEIHF_01399	M	Cell wall/membrane/envelope biogenesis	SpoVK	-
+ECEGEIHF_01400	E	Amino acid transport and metabolism	SstT	-
+ECEGEIHF_01401	C	Energy production and conversion	NarJ	-
+ECEGEIHF_01402	P	Inorganic ion transport and metabolism	NarK	-
+ECEGEIHF_01403	C	Energy production and conversion	NarG	-
+ECEGEIHF_01404	C	Energy production and conversion	NarY	-
+ECEGEIHF_01405	C	Energy production and conversion	NarI	-
+ECEGEIHF_01406	E	Amino acid transport and metabolism	MetC	-
+ECEGEIHF_01407	R	General function prediction only	YqjQ	-
+ECEGEIHF_01408	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_01409	D	Cell cycle control, cell division, chromosome partitioning	FtsN	-
+ECEGEIHF_01410	J	Translation, ribosomal structure and biogenesis	ArgS	-
+ECEGEIHF_01411	H	Coenzyme transport and metabolism	FolE2	-
+ECEGEIHF_01418	J	Translation, ribosomal structure and biogenesis	TufA	-
+ECEGEIHF_01420	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+ECEGEIHF_01421	K	Transcription	NusG	-
+ECEGEIHF_01422	J	Translation, ribosomal structure and biogenesis	RplK	-
+ECEGEIHF_01423	J	Translation, ribosomal structure and biogenesis	RplA	-
+ECEGEIHF_01424	J	Translation, ribosomal structure and biogenesis	RplJ	-
+ECEGEIHF_01425	J	Translation, ribosomal structure and biogenesis	RplL	-
+ECEGEIHF_01426	K	Transcription	RpoB	-
+ECEGEIHF_01427	K	Transcription	RpoC	-
+ECEGEIHF_01428	J	Translation, ribosomal structure and biogenesis	RpsL	-
+ECEGEIHF_01429	J	Translation, ribosomal structure and biogenesis	RpsG	-
+ECEGEIHF_01430	J	Translation, ribosomal structure and biogenesis	FusA	-
+ECEGEIHF_01431	J	Translation, ribosomal structure and biogenesis	TufA	-
+ECEGEIHF_01432	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+ECEGEIHF_01434	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_01435	K	Transcription	AraC	-
+ECEGEIHF_01437	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01438	H	Coenzyme transport and metabolism	ApbE	-
+ECEGEIHF_01439	J	Translation, ribosomal structure and biogenesis	RplC	-
+ECEGEIHF_01440	J	Translation, ribosomal structure and biogenesis	RplD	-
+ECEGEIHF_01441	J	Translation, ribosomal structure and biogenesis	RplW	-
+ECEGEIHF_01442	J	Translation, ribosomal structure and biogenesis	RplB	-
+ECEGEIHF_01443	J	Translation, ribosomal structure and biogenesis	RpsS	-
+ECEGEIHF_01444	J	Translation, ribosomal structure and biogenesis	RplV	-
+ECEGEIHF_01445	J	Translation, ribosomal structure and biogenesis	RpsC	-
+ECEGEIHF_01446	J	Translation, ribosomal structure and biogenesis	RplP	-
+ECEGEIHF_01447	J	Translation, ribosomal structure and biogenesis	RpmC	-
+ECEGEIHF_01448	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+ECEGEIHF_01449	J	Translation, ribosomal structure and biogenesis	RplN	-
+ECEGEIHF_01450	J	Translation, ribosomal structure and biogenesis	RplX	-
+ECEGEIHF_01451	J	Translation, ribosomal structure and biogenesis	RplE	-
+ECEGEIHF_01452	J	Translation, ribosomal structure and biogenesis	RpsN	-
+ECEGEIHF_01453	J	Translation, ribosomal structure and biogenesis	RpsH	-
+ECEGEIHF_01454	J	Translation, ribosomal structure and biogenesis	RplF	-
+ECEGEIHF_01455	J	Translation, ribosomal structure and biogenesis	RplR	-
+ECEGEIHF_01456	J	Translation, ribosomal structure and biogenesis	RpsE	-
+ECEGEIHF_01457	J	Translation, ribosomal structure and biogenesis	RpmD	-
+ECEGEIHF_01458	J	Translation, ribosomal structure and biogenesis	RplO	-
+ECEGEIHF_01459	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+ECEGEIHF_01460	J	Translation, ribosomal structure and biogenesis	RpmJ	-
+ECEGEIHF_01461	J	Translation, ribosomal structure and biogenesis	RpsM	-
+ECEGEIHF_01462	J	Translation, ribosomal structure and biogenesis	RpsK	-
+ECEGEIHF_01463	J	Translation, ribosomal structure and biogenesis	RpsD	-
+ECEGEIHF_01464	K	Transcription	RpoA	-
+ECEGEIHF_01465	J	Translation, ribosomal structure and biogenesis	RplQ	-
+ECEGEIHF_01466	J	Translation, ribosomal structure and biogenesis	HslR	-
+ECEGEIHF_01467	I	Lipid transport and metabolism	Aes	-
+ECEGEIHF_01468	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_01469	C	Energy production and conversion	BisC	-
+ECEGEIHF_01470	C	Energy production and conversion	HybA	-
+ECEGEIHF_01471	O	Posttranslational modification, protein turnover, chaperones	TorD	-
+ECEGEIHF_01472	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_01474	K	Transcription	LysR	-
+ECEGEIHF_01475	C	Energy production and conversion	BisC	-
+ECEGEIHF_01476	C	Energy production and conversion	HybA	-
+ECEGEIHF_01477	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_01478	O	Posttranslational modification, protein turnover, chaperones	TorD	-
+ECEGEIHF_01479	R	General function prediction only		-
+ECEGEIHF_01480	E	Amino acid transport and metabolism	GltD	-
+ECEGEIHF_01481	C	Energy production and conversion	NuoI	-
+ECEGEIHF_01482	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01483	K	Transcription	LysR	-
+ECEGEIHF_01484	R	General function prediction only		-
+ECEGEIHF_01485	J	Translation, ribosomal structure and biogenesis	RimI	-
+ECEGEIHF_01486	K	Transcription	RtcR	-
+ECEGEIHF_01487	A	RNA processing and modification	RCL1	-
+ECEGEIHF_01488	J	Translation, ribosomal structure and biogenesis	RtcB	-
+ECEGEIHF_01489	R	General function prediction only	AAA_14	-
+ECEGEIHF_01490	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_01491	E	Amino acid transport and metabolism	ArgO	-
+ECEGEIHF_01492	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01493	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01494	C	Energy production and conversion	YotD	-
+ECEGEIHF_01495	F	Nucleotide transport and metabolism	GuaB	-
+ECEGEIHF_01496	C	Energy production and conversion	PPK2	-
+ECEGEIHF_01497	D	Cell cycle control, cell division, chromosome partitioning	EngB	-
+ECEGEIHF_01499	O	Posttranslational modification, protein turnover, chaperones	ImmA	-
+ECEGEIHF_01502	H	Coenzyme transport and metabolism	HemB	-
+ECEGEIHF_01503	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01504	T	Signal transduction mechanisms		-
+ECEGEIHF_01505	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01506	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01508	R	General function prediction only		-
+ECEGEIHF_01509	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01510	E	Amino acid transport and metabolism	MalY	-
+ECEGEIHF_01511	K	Transcription	HipB	-
+ECEGEIHF_01512	C	Energy production and conversion	Hmp	-
+ECEGEIHF_01513	Q	Secondary metabolites biosynthesis, transport and catabolism	YejF	-
+ECEGEIHF_01514	E	Amino acid transport and metabolism	DppC	-
+ECEGEIHF_01515	E	Amino acid transport and metabolism	DppB	-
+ECEGEIHF_01516	E	Amino acid transport and metabolism	DdpA	-
+ECEGEIHF_01517	I	Lipid transport and metabolism	FadM	-
+ECEGEIHF_01518	U	Intracellular trafficking, secretion, and vesicular transport	TolQ	-
+ECEGEIHF_01519	U	Intracellular trafficking, secretion, and vesicular transport	ExbD	-
+ECEGEIHF_01520	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+ECEGEIHF_01521	M	Cell wall/membrane/envelope biogenesis	MscK	-
+ECEGEIHF_01522	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_01523	L	Replication, recombination and repair	AdaB	-
+ECEGEIHF_01524	J	Translation, ribosomal structure and biogenesis	ProS	-
+ECEGEIHF_01525	V	Defense mechanisms	MutT	-
+ECEGEIHF_01526	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_01527	E	Amino acid transport and metabolism	ProB	-
+ECEGEIHF_01528	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+ECEGEIHF_01529	J	Translation, ribosomal structure and biogenesis	RpmA	-
+ECEGEIHF_01530	J	Translation, ribosomal structure and biogenesis	RplU	-
+ECEGEIHF_01531	P	Inorganic ion transport and metabolism		-
+ECEGEIHF_01533	C	Energy production and conversion	GltP	-
+ECEGEIHF_01534	R	General function prediction only	AbgB	-
+ECEGEIHF_01535	H	Coenzyme transport and metabolism	IspA	-
+ECEGEIHF_01537	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_01540	L	Replication, recombination and repair	Mod	-
+ECEGEIHF_01541	L	Replication, recombination and repair	Mod	-
+ECEGEIHF_01542	K	Transcription	SSL2	-
+ECEGEIHF_01543	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_01544	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01547	L	Replication, recombination and repair	YhdJ	-
+ECEGEIHF_01550	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01552	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01553	K	Transcription	AF2118	-
+ECEGEIHF_01554	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01555	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01556	K	Transcription	HipB	-
+ECEGEIHF_01557	S	Function unknown		-
+ECEGEIHF_01558	C	Energy production and conversion	FumC	-
+ECEGEIHF_01559	P	Inorganic ion transport and metabolism	NhaP	-
+ECEGEIHF_01560	V	Defense mechanisms	YadH	-
+ECEGEIHF_01561	J	Translation, ribosomal structure and biogenesis	RbbA	-
+ECEGEIHF_01562	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_01563	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_01564	P	Inorganic ion transport and metabolism	FepA	-
+ECEGEIHF_01566	H	Coenzyme transport and metabolism	EcfT	-
+ECEGEIHF_01567	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+ECEGEIHF_01568	H	Coenzyme transport and metabolism	HutX	-
+ECEGEIHF_01569	C	Energy production and conversion	FldA	-
+ECEGEIHF_01570	U	Intracellular trafficking, secretion, and vesicular transport	TolQ	-
+ECEGEIHF_01571	U	Intracellular trafficking, secretion, and vesicular transport	ExbD	-
+ECEGEIHF_01572	M	Cell wall/membrane/envelope biogenesis	TonB	-
+ECEGEIHF_01574	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01576	K	Transcription	LysR	-
+ECEGEIHF_01577	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01578	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_01580	C	Energy production and conversion	YotD	-
+ECEGEIHF_01581	C	Energy production and conversion	FldA	-
+ECEGEIHF_01582	H	Coenzyme transport and metabolism	CoaE	-
+ECEGEIHF_01583	D	Cell cycle control, cell division, chromosome partitioning	ZapD	-
+ECEGEIHF_01584	L	Replication, recombination and repair	YacG	-
+ECEGEIHF_01585	F	Nucleotide transport and metabolism	YjhB	-
+ECEGEIHF_01586	R	General function prediction only	Atu1564	-
+ECEGEIHF_01587	E	Amino acid transport and metabolism	ArgJ	-
+ECEGEIHF_01588	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+ECEGEIHF_01590	K	Transcription	MngR	-
+ECEGEIHF_01591	F	Nucleotide transport and metabolism	PurB	-
+ECEGEIHF_01592	G	Carbohydrate transport and metabolism	CitT	-
+ECEGEIHF_01593	M	Cell wall/membrane/envelope biogenesis	LpxC	-
+ECEGEIHF_01594	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+ECEGEIHF_01595	D	Cell cycle control, cell division, chromosome partitioning	FtsA	-
+ECEGEIHF_01596	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+ECEGEIHF_01597	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+ECEGEIHF_01598	M	Cell wall/membrane/envelope biogenesis	MurC	-
+ECEGEIHF_01599	M	Cell wall/membrane/envelope biogenesis	MurG	-
+ECEGEIHF_01600	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+ECEGEIHF_01601	M	Cell wall/membrane/envelope biogenesis	MurD	-
+ECEGEIHF_01602	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+ECEGEIHF_01603	M	Cell wall/membrane/envelope biogenesis	MurF	-
+ECEGEIHF_01604	M	Cell wall/membrane/envelope biogenesis	MurE	-
+ECEGEIHF_01605	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+ECEGEIHF_01606	D	Cell cycle control, cell division, chromosome partitioning	FtsL	-
+ECEGEIHF_01607	J	Translation, ribosomal structure and biogenesis	RmsH	-
+ECEGEIHF_01608	J	Translation, ribosomal structure and biogenesis	MraZ	-
+ECEGEIHF_01609	M	Cell wall/membrane/envelope biogenesis	OmpW	-
+ECEGEIHF_01610	H	Coenzyme transport and metabolism	HemL	-
+ECEGEIHF_01611	O	Posttranslational modification, protein turnover, chaperones	DsbD	-
+ECEGEIHF_01612	R	General function prediction only	YocR	-
+ECEGEIHF_01613	E	Amino acid transport and metabolism	LeuC	-
+ECEGEIHF_01614	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01615	E	Amino acid transport and metabolism	LeuC	-
+ECEGEIHF_01616	E	Amino acid transport and metabolism	LeuD	-
+ECEGEIHF_01617	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_01618	F	Nucleotide transport and metabolism	PyrF	-
+ECEGEIHF_01619	K	Transcription	LysR	-
+ECEGEIHF_01620	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_01621	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01624	C	Energy production and conversion	ForC	-
+ECEGEIHF_01625	C	Energy production and conversion	HybA	-
+ECEGEIHF_01626	P	Inorganic ion transport and metabolism	NrfD	-
+ECEGEIHF_01627	R	General function prediction only	YczE	-
+ECEGEIHF_01628	R	General function prediction only		-
+ECEGEIHF_01629	P	Inorganic ion transport and metabolism	CbiM	-
+ECEGEIHF_01630	R	General function prediction only	YfaS	-
+ECEGEIHF_01632	H	Coenzyme transport and metabolism	EcfT	-
+ECEGEIHF_01633	P	Inorganic ion transport and metabolism	EcfA2	-
+ECEGEIHF_01634	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01635	K	Transcription	LysR	-
+ECEGEIHF_01636	C	Energy production and conversion	DcuC	-
+ECEGEIHF_01637	F	Nucleotide transport and metabolism	Add	-
+ECEGEIHF_01638	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+ECEGEIHF_01639	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+ECEGEIHF_01640	M	Cell wall/membrane/envelope biogenesis	DacB	-
+ECEGEIHF_01641	J	Translation, ribosomal structure and biogenesis	ElaB	-
+ECEGEIHF_01642	S	Function unknown	YqjE	-
+ECEGEIHF_01645	G	Carbohydrate transport and metabolism	AraJ	-
+ECEGEIHF_01646	R	General function prediction only	YfdV	-
+ECEGEIHF_01647	P	Inorganic ion transport and metabolism	MpfA	-
+ECEGEIHF_01648	H	Coenzyme transport and metabolism	PncC	-
+ECEGEIHF_01649	I	Lipid transport and metabolism	PgpA	-
+ECEGEIHF_01650	H	Coenzyme transport and metabolism	ThiL	-
+ECEGEIHF_01651	K	Transcription	NusB	-
+ECEGEIHF_01652	H	Coenzyme transport and metabolism	RibE	-
+ECEGEIHF_01653	H	Coenzyme transport and metabolism	RibC	-
+ECEGEIHF_01654	H	Coenzyme transport and metabolism	RibD1	-
+ECEGEIHF_01655	K	Transcription	NrdR	-
+ECEGEIHF_01656	E	Amino acid transport and metabolism	GlyA	-
+ECEGEIHF_01657	O	Posttranslational modification, protein turnover, chaperones	IscA	-
+ECEGEIHF_01658	M	Cell wall/membrane/envelope biogenesis	AnmK	-
+ECEGEIHF_01659	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+ECEGEIHF_01660	J	Translation, ribosomal structure and biogenesis	TyrS	-
+ECEGEIHF_01661	J	Translation, ribosomal structure and biogenesis	Dtd	-
+ECEGEIHF_01662	R	General function prediction only	YbhB	-
+ECEGEIHF_01663	E	Amino acid transport and metabolism	ArgC	-
+ECEGEIHF_01664	I	Lipid transport and metabolism	MenE	-
+ECEGEIHF_01665	H	Coenzyme transport and metabolism	HemG	-
+ECEGEIHF_01666	J	Translation, ribosomal structure and biogenesis	InfA	-
+ECEGEIHF_01667	S	Function unknown		-
+ECEGEIHF_01670	P	Inorganic ion transport and metabolism	NorB	-
+ECEGEIHF_01671	P	Inorganic ion transport and metabolism	NorB	-
+ECEGEIHF_01672	P	Inorganic ion transport and metabolism	NorB	-
+ECEGEIHF_01673	P	Inorganic ion transport and metabolism	NorB	-
+ECEGEIHF_01674	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_01675	H	Coenzyme transport and metabolism	PncA	-
+ECEGEIHF_01676	R	General function prediction only	YrpB	-
+ECEGEIHF_01677	M	Cell wall/membrane/envelope biogenesis	PqiB	-
+ECEGEIHF_01678	K	Transcription	LysR	-
+ECEGEIHF_01679	J	Translation, ribosomal structure and biogenesis	MnmA	-
+ECEGEIHF_01680	P	Inorganic ion transport and metabolism	TerC	-
+ECEGEIHF_01681	C	Energy production and conversion	SucD	-
+ECEGEIHF_01682	C	Energy production and conversion	SucC	-
+ECEGEIHF_01683	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+ECEGEIHF_01684	L	Replication, recombination and repair	RecA	-
+ECEGEIHF_01687	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01689	C	Energy production and conversion	FrhB	-
+ECEGEIHF_01690	Q	Secondary metabolites biosynthesis, transport and catabolism	PptA	-
+ECEGEIHF_01691	V	Defense mechanisms	NimA	-
+ECEGEIHF_01692	K	Transcription	AraC	-
+ECEGEIHF_01693	V	Defense mechanisms	McrA	-
+ECEGEIHF_01694	T	Signal transduction mechanisms		-
+ECEGEIHF_01695	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01696	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01698	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01699	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01701	V	Defense mechanisms	YeeA	-
+ECEGEIHF_01702	V	Defense mechanisms	HsdM	-
+ECEGEIHF_01703	K	Transcription	SSL2	-
+ECEGEIHF_01704	E	Amino acid transport and metabolism	AbcC	-
+ECEGEIHF_01705	E	Amino acid transport and metabolism	MetP	-
+ECEGEIHF_01707	J	Translation, ribosomal structure and biogenesis	TrmB	-
+ECEGEIHF_01708	I	Lipid transport and metabolism	UppP	-
+ECEGEIHF_01710	J	Translation, ribosomal structure and biogenesis	MnmC	-
+ECEGEIHF_01711	J	Translation, ribosomal structure and biogenesis	Uup	-
+ECEGEIHF_01712	J	Translation, ribosomal structure and biogenesis	Bud32	-
+ECEGEIHF_01713	U	Intracellular trafficking, secretion, and vesicular transport	TatC	-
+ECEGEIHF_01714	U	Intracellular trafficking, secretion, and vesicular transport	TatA	-
+ECEGEIHF_01715	U	Intracellular trafficking, secretion, and vesicular transport	TatA	-
+ECEGEIHF_01716	F	Nucleotide transport and metabolism	HinT	-
+ECEGEIHF_01717	E	Amino acid transport and metabolism	HisI2	-
+ECEGEIHF_01718	E	Amino acid transport and metabolism	HisI1	-
+ECEGEIHF_01719	E	Amino acid transport and metabolism	HisF	-
+ECEGEIHF_01720	E	Amino acid transport and metabolism	HisA	-
+ECEGEIHF_01721	E	Amino acid transport and metabolism	HisH	-
+ECEGEIHF_01722	E	Amino acid transport and metabolism	HisB2	-
+ECEGEIHF_01723	E	Amino acid transport and metabolism	HisD	-
+ECEGEIHF_01724	E	Amino acid transport and metabolism	HisG	-
+ECEGEIHF_01725	M	Cell wall/membrane/envelope biogenesis	MurA	-
+ECEGEIHF_01727	G	Carbohydrate transport and metabolism	BcsZ	-
+ECEGEIHF_01729	N	Cell motility	BcsA	-
+ECEGEIHF_01730	M	Cell wall/membrane/envelope biogenesis	SlyB	-
+ECEGEIHF_01734	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_01739	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01740	M	Cell wall/membrane/envelope biogenesis	MlaB	-
+ECEGEIHF_01741	M	Cell wall/membrane/envelope biogenesis	MlaC	-
+ECEGEIHF_01742	M	Cell wall/membrane/envelope biogenesis	MlaA	-
+ECEGEIHF_01743	M	Cell wall/membrane/envelope biogenesis	MlaD	-
+ECEGEIHF_01744	M	Cell wall/membrane/envelope biogenesis	MlaE	-
+ECEGEIHF_01745	M	Cell wall/membrane/envelope biogenesis	MlaF	-
+ECEGEIHF_01747	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01748	I	Lipid transport and metabolism	FadM	-
+ECEGEIHF_01749	E	Amino acid transport and metabolism	GltD	-
+ECEGEIHF_01750	E	Amino acid transport and metabolism	GltB1	-
+ECEGEIHF_01751	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_01752	K	Transcription	LysR	-
+ECEGEIHF_01753	E	Amino acid transport and metabolism	RhtB	-
+ECEGEIHF_01754	F	Nucleotide transport and metabolism	Dgt	-
+ECEGEIHF_01755	G	Carbohydrate transport and metabolism	FucP	-
+ECEGEIHF_01756	G	Carbohydrate transport and metabolism	FucP	-
+ECEGEIHF_01757	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01759	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_01760	O	Posttranslational modification, protein turnover, chaperones	CooC	-
+ECEGEIHF_01761	C	Energy production and conversion	CdhC	-
+ECEGEIHF_01762	I	Lipid transport and metabolism	YjiL	-
+ECEGEIHF_01763	E	Amino acid transport and metabolism	HgdB	-
+ECEGEIHF_01764	E	Amino acid transport and metabolism	HgdB	-
+ECEGEIHF_01767	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01768	R	General function prediction only	ProX	-
+ECEGEIHF_01769	K	Transcription	SoxR	-
+ECEGEIHF_01770	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01771	H	Coenzyme transport and metabolism	RibD	-
+ECEGEIHF_01772	R	General function prediction only	EVE	-
+ECEGEIHF_01773	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_01774	P	Inorganic ion transport and metabolism	FepB	-
+ECEGEIHF_01775	P	Inorganic ion transport and metabolism	FepD	-
+ECEGEIHF_01776	P	Inorganic ion transport and metabolism	FepC	-
+ECEGEIHF_01777	H	Coenzyme transport and metabolism	UbiE	-
+ECEGEIHF_01778	K	Transcription	NikR	-
+ECEGEIHF_01782	T	Signal transduction mechanisms	WalK	-
+ECEGEIHF_01783	T	Signal transduction mechanisms	OmpR	-
+ECEGEIHF_01784	G	Carbohydrate transport and metabolism	ManB	-
+ECEGEIHF_01785	H	Coenzyme transport and metabolism	FolP	-
+ECEGEIHF_01787	M	Cell wall/membrane/envelope biogenesis	YifL	-
+ECEGEIHF_01788	E	Amino acid transport and metabolism	LysA	-
+ECEGEIHF_01789	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_01790	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+ECEGEIHF_01791	K	Transcription	HepA	-
+ECEGEIHF_01792	R	General function prediction only	AAA_14	-
+ECEGEIHF_01793	F	Nucleotide transport and metabolism	Dgt	-
+ECEGEIHF_01794	E	Amino acid transport and metabolism	AroB	-
+ECEGEIHF_01795	E	Amino acid transport and metabolism	AroK	-
+ECEGEIHF_01796	M	Cell wall/membrane/envelope biogenesis	MrcA	-
+ECEGEIHF_01799	L	Replication, recombination and repair	XerD	-
+ECEGEIHF_01800	V	Defense mechanisms		-
+ECEGEIHF_01801	V	Defense mechanisms	HsdS	-
+ECEGEIHF_01802	V	Defense mechanisms	HsdM	-
+ECEGEIHF_01803	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01804	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_01805	T	Signal transduction mechanisms	KdpD	-
+ECEGEIHF_01806	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01808	C	Energy production and conversion	SdhA	-
+ECEGEIHF_01809	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01810	E	Amino acid transport and metabolism	MalY	-
+ECEGEIHF_01811	H	Coenzyme transport and metabolism	NadC	-
+ECEGEIHF_01812	P	Inorganic ion transport and metabolism	ModB	-
+ECEGEIHF_01813	P	Inorganic ion transport and metabolism	ModA	-
+ECEGEIHF_01814	P	Inorganic ion transport and metabolism	ModC	-
+ECEGEIHF_01815	L	Replication, recombination and repair	RecD	-
+ECEGEIHF_01816	L	Replication, recombination and repair	RecB	-
+ECEGEIHF_01817	L	Replication, recombination and repair	RecC	-
+ECEGEIHF_01818	X	Mobilome: prophages, transposons	RAYT	-
+ECEGEIHF_01819	X	Mobilome: prophages, transposons	TnpB	-
+ECEGEIHF_01821	L	Replication, recombination and repair	RuvB	-
+ECEGEIHF_01822	L	Replication, recombination and repair	RuvA	-
+ECEGEIHF_01823	L	Replication, recombination and repair	RuvC	-
+ECEGEIHF_01824	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+ECEGEIHF_01825	R	General function prediction only	YpjD	-
+ECEGEIHF_01826	T	Signal transduction mechanisms	YfgM	-
+ECEGEIHF_01827	M	Cell wall/membrane/envelope biogenesis	AmpD	-
+ECEGEIHF_01828	O	Posttranslational modification, protein turnover, chaperones	Ycf19	-
+ECEGEIHF_01831	E	Amino acid transport and metabolism	TyrB	-
+ECEGEIHF_01832	E	Amino acid transport and metabolism	LdcC	-
+ECEGEIHF_01833	E	Amino acid transport and metabolism	PotE	-
+ECEGEIHF_01836	L	Replication, recombination and repair	UvrB	-
+ECEGEIHF_01837	T	Signal transduction mechanisms	Wzb	-
+ECEGEIHF_01838	K	Transcription	IscR	-
+ECEGEIHF_01839	E	Amino acid transport and metabolism	NifS	-
+ECEGEIHF_01840	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+ECEGEIHF_01841	O	Posttranslational modification, protein turnover, chaperones	IscA	-
+ECEGEIHF_01842	O	Posttranslational modification, protein turnover, chaperones	DjlA	-
+ECEGEIHF_01843	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+ECEGEIHF_01844	C	Energy production and conversion	Fdx	-
+ECEGEIHF_01845	O	Posttranslational modification, protein turnover, chaperones	IscX	-
+ECEGEIHF_01846	K	Transcription	HipB	-
+ECEGEIHF_01847	I	Lipid transport and metabolism	Idi	-
+ECEGEIHF_01848	J	Translation, ribosomal structure and biogenesis	LysU	-
+ECEGEIHF_01849	R	General function prediction only	YqjQ	-
+ECEGEIHF_01850	J	Translation, ribosomal structure and biogenesis	PrfA	-
+ECEGEIHF_01851	L	Replication, recombination and repair	RecJ	-
+ECEGEIHF_01852	K	Transcription	RpfE	-
+ECEGEIHF_01853	M	Cell wall/membrane/envelope biogenesis	LolC	-
+ECEGEIHF_01854	M	Cell wall/membrane/envelope biogenesis	LolD	-
+ECEGEIHF_01855	N	Cell motility	TatD	-
+ECEGEIHF_01856	E	Amino acid transport and metabolism	GcvR	-
+ECEGEIHF_01857	D	Cell cycle control, cell division, chromosome partitioning		-
+ECEGEIHF_01858	V	Defense mechanisms	RidA	-
+ECEGEIHF_01859	T	Signal transduction mechanisms	SpoT	-
+ECEGEIHF_01861	K	Transcription	LysR	-
+ECEGEIHF_01862	C	Energy production and conversion	FldA	-
+ECEGEIHF_01864	C	Energy production and conversion	FldA	-
+ECEGEIHF_01865	C	Energy production and conversion	FldA	-
+ECEGEIHF_01866	T	Signal transduction mechanisms	FrsA	-
+ECEGEIHF_01867	T	Signal transduction mechanisms	FrsA	-
+ECEGEIHF_01868	H	Coenzyme transport and metabolism	PdxI	-
+ECEGEIHF_01870	V	Defense mechanisms	NimA	-
+ECEGEIHF_01871	K	Transcription	ARO8	-
+ECEGEIHF_01872	P	Inorganic ion transport and metabolism	NrfA	-
+ECEGEIHF_01874	K	Transcription	SoxR	-
+ECEGEIHF_01875	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_01876	J	Translation, ribosomal structure and biogenesis	PheT	-
+ECEGEIHF_01877	J	Translation, ribosomal structure and biogenesis	PheS	-
+ECEGEIHF_01878	J	Translation, ribosomal structure and biogenesis	RplT	-
+ECEGEIHF_01879	J	Translation, ribosomal structure and biogenesis	RpmI	-
+ECEGEIHF_01880	J	Translation, ribosomal structure and biogenesis	InfC	-
+ECEGEIHF_01881	J	Translation, ribosomal structure and biogenesis	ThrS	-
+ECEGEIHF_01884	J	Translation, ribosomal structure and biogenesis	Tyw1	-
+ECEGEIHF_01886	L	Replication, recombination and repair	SurE	-
+ECEGEIHF_01887	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+ECEGEIHF_01888	J	Translation, ribosomal structure and biogenesis	TrmA	-
+ECEGEIHF_01892	F	Nucleotide transport and metabolism	Ndk	-
+ECEGEIHF_01893	J	Translation, ribosomal structure and biogenesis	RlmN	-
+ECEGEIHF_01894	D	Cell cycle control, cell division, chromosome partitioning	RodZ	-
+ECEGEIHF_01895	I	Lipid transport and metabolism	IspG	-
+ECEGEIHF_01896	J	Translation, ribosomal structure and biogenesis	HisS	-
+ECEGEIHF_01897	T	Signal transduction mechanisms	YfgM	-
+ECEGEIHF_01898	M	Cell wall/membrane/envelope biogenesis	BamB	-
+ECEGEIHF_01899	J	Translation, ribosomal structure and biogenesis	Der	-
+ECEGEIHF_01900	T	Signal transduction mechanisms	Hfq	-
+ECEGEIHF_01901	J	Translation, ribosomal structure and biogenesis	HflX	-
+ECEGEIHF_01902	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+ECEGEIHF_01903	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+ECEGEIHF_01904	S	Function unknown	YjeT	-
+ECEGEIHF_01905	E	Amino acid transport and metabolism	HisZ	-
+ECEGEIHF_01906	F	Nucleotide transport and metabolism	PurA	-
+ECEGEIHF_01907	H	Coenzyme transport and metabolism	Hpt1	-
+ECEGEIHF_01908	H	Coenzyme transport and metabolism	MobB	-
+ECEGEIHF_01909	H	Coenzyme transport and metabolism	MoeA	-
+ECEGEIHF_01910	H	Coenzyme transport and metabolism	MoaE	-
+ECEGEIHF_01911	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+ECEGEIHF_01912	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01913	B	Chromatin structure and dynamics	AbrB	-
+ECEGEIHF_01914	L	Replication, recombination and repair	DinP	-
+ECEGEIHF_01915	R	General function prediction only	AbgB	-
+ECEGEIHF_01916	R	General function prediction only	AbgB	-
+ECEGEIHF_01918	N	Cell motility	PilO	-
+ECEGEIHF_01919	F	Nucleotide transport and metabolism	NrdD	-
+ECEGEIHF_01921	M	Cell wall/membrane/envelope biogenesis	RrrD	-
+ECEGEIHF_01933	X	Mobilome: prophages, transposons	JayE	-
+ECEGEIHF_01935	X	Mobilome: prophages, transposons	gpV	-
+ECEGEIHF_01939	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01949	S	Function unknown		-
+ECEGEIHF_01955	R	General function prediction only	YfdQ	-
+ECEGEIHF_01964	X	Mobilome: prophages, transposons	pRha	-
+ECEGEIHF_01966	R	General function prediction only	YcfA	-
+ECEGEIHF_01967	K	Transcription	AF2118	-
+ECEGEIHF_01974	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01975	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_01977	R	General function prediction only		-
+ECEGEIHF_01978	S	Function unknown	Alpha-E	-
+ECEGEIHF_01979	O	Posttranslational modification, protein turnover, chaperones	YebA	-
+ECEGEIHF_01980	R	General function prediction only		-
+ECEGEIHF_01981	R	General function prediction only		-
+ECEGEIHF_01982	R	General function prediction only	YIH1	-
+ECEGEIHF_01983	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+ECEGEIHF_01987	J	Translation, ribosomal structure and biogenesis	GlnS	-
+ECEGEIHF_01988	R	General function prediction only		-
+ECEGEIHF_01990	C	Energy production and conversion	TctC	-
+ECEGEIHF_01991	T	Signal transduction mechanisms	Crp	-
+ECEGEIHF_01992	H	Coenzyme transport and metabolism	HemN	-
+ECEGEIHF_01993	J	Translation, ribosomal structure and biogenesis	AlaS	-
+ECEGEIHF_01994	X	Mobilome: prophages, transposons		-
+ECEGEIHF_01995	M	Cell wall/membrane/envelope biogenesis	GalE	-
+ECEGEIHF_01996	F	Nucleotide transport and metabolism	Adk	-
+ECEGEIHF_01997	M	Cell wall/membrane/envelope biogenesis	KdsB	-
+ECEGEIHF_01998	J	Translation, ribosomal structure and biogenesis	Trm112	-
+ECEGEIHF_01999	M	Cell wall/membrane/envelope biogenesis	LpxK	-
+ECEGEIHF_02001	L	Replication, recombination and repair	XseA	-
+ECEGEIHF_02002	P	Inorganic ion transport and metabolism	SodA	-
+ECEGEIHF_02003	S	Function unknown		-
+ECEGEIHF_02004	K	Transcription	CspC	-
+ECEGEIHF_02005	O	Posttranslational modification, protein turnover, chaperones	ClpS	-
+ECEGEIHF_02006	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+ECEGEIHF_02007	F	Nucleotide transport and metabolism	Dut	-
+ECEGEIHF_02008	H	Coenzyme transport and metabolism	CoaBC	-
+ECEGEIHF_02009	M	Cell wall/membrane/envelope biogenesis	LspA	-
+ECEGEIHF_02010	J	Translation, ribosomal structure and biogenesis	IleS	-
+ECEGEIHF_02011	H	Coenzyme transport and metabolism	RibF	-
+ECEGEIHF_02012	F	Nucleotide transport and metabolism	PurN	-
+ECEGEIHF_02013	J	Translation, ribosomal structure and biogenesis	RsmB	-
+ECEGEIHF_02014	J	Translation, ribosomal structure and biogenesis	RpmG	-
+ECEGEIHF_02015	J	Translation, ribosomal structure and biogenesis	RpmB	-
+ECEGEIHF_02016	I	Lipid transport and metabolism	IspH	-
+ECEGEIHF_02017	J	Translation, ribosomal structure and biogenesis	EbsC	-
+ECEGEIHF_02018	J	Translation, ribosomal structure and biogenesis	TsaD	-
+ECEGEIHF_02019	J	Translation, ribosomal structure and biogenesis	RpsU	-
+ECEGEIHF_02020	R	General function prediction only	YqeY	-
+ECEGEIHF_02021	L	Replication, recombination and repair	DnaG	-
+ECEGEIHF_02022	K	Transcription	RpoD	-
+ECEGEIHF_02024	C	Energy production and conversion	FldA	-
+ECEGEIHF_02025	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+ECEGEIHF_02026	C	Energy production and conversion	PPX1	-
+ECEGEIHF_02027	H	Coenzyme transport and metabolism	HemC	-
+ECEGEIHF_02028	H	Coenzyme transport and metabolism	HemD	-
+ECEGEIHF_02029	H	Coenzyme transport and metabolism	NadE	-
+ECEGEIHF_02030	T	Signal transduction mechanisms	GlnK	-
+ECEGEIHF_02031	J	Translation, ribosomal structure and biogenesis	SmrA	-
+ECEGEIHF_02032	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+ECEGEIHF_02033	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+ECEGEIHF_02035	R	General function prediction only	YhbS	-
+ECEGEIHF_02038	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02040	J	Translation, ribosomal structure and biogenesis	TsaE	-
+ECEGEIHF_02041	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+ECEGEIHF_02042	G	Carbohydrate transport and metabolism	Fba	-
+ECEGEIHF_02043	I	Lipid transport and metabolism	DgkA	-
+ECEGEIHF_02044	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02045	F	Nucleotide transport and metabolism	PurB	-
+ECEGEIHF_02046	R	General function prediction only		-
+ECEGEIHF_02047	S	Function unknown	YgcG	-
+ECEGEIHF_02048	M	Cell wall/membrane/envelope biogenesis	LemA	-
+ECEGEIHF_02049	C	Energy production and conversion	NfnB	-
+ECEGEIHF_02050	E	Amino acid transport and metabolism		-
+ECEGEIHF_02051	M	Cell wall/membrane/envelope biogenesis	MurI	-
+ECEGEIHF_02052	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02053	J	Translation, ribosomal structure and biogenesis	RsuA	-
+ECEGEIHF_02054	J	Translation, ribosomal structure and biogenesis	TsaC	-
+ECEGEIHF_02055	F	Nucleotide transport and metabolism	PurK	-
+ECEGEIHF_02056	F	Nucleotide transport and metabolism	PurE	-
+ECEGEIHF_02057	F	Nucleotide transport and metabolism	PurC	-
+ECEGEIHF_02058	R	General function prediction only	GvpP	-
+ECEGEIHF_02060	H	Coenzyme transport and metabolism	ThiE	-
+ECEGEIHF_02061	H	Coenzyme transport and metabolism	ThiM	-
+ECEGEIHF_02062	P	Inorganic ion transport and metabolism	TauE	-
+ECEGEIHF_02063	K	Transcription	LysR	-
+ECEGEIHF_02064	I	Lipid transport and metabolism	FabD	-
+ECEGEIHF_02066	I	Lipid transport and metabolism	YdiF	-
+ECEGEIHF_02067	H	Coenzyme transport and metabolism	CitG	-
+ECEGEIHF_02068	C	Energy production and conversion	CitD	-
+ECEGEIHF_02069	I	Lipid transport and metabolism	MmdA	-
+ECEGEIHF_02071	L	Replication, recombination and repair	SbcB	-
+ECEGEIHF_02072	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+ECEGEIHF_02073	C	Energy production and conversion	Fpr	-
+ECEGEIHF_02076	E	Amino acid transport and metabolism	DapB	-
+ECEGEIHF_02077	M	Cell wall/membrane/envelope biogenesis	BamE	-
+ECEGEIHF_02078	P	Inorganic ion transport and metabolism	Fur	-
+ECEGEIHF_02079	E	Amino acid transport and metabolism	PepD	-
+ECEGEIHF_02080	L	Replication, recombination and repair	RecN	-
+ECEGEIHF_02081	H	Coenzyme transport and metabolism	NadK	-
+ECEGEIHF_02083	M	Cell wall/membrane/envelope biogenesis	YgdD	-
+ECEGEIHF_02084	I	Lipid transport and metabolism	FabI	-
+ECEGEIHF_02085	M	Cell wall/membrane/envelope biogenesis	MltF	-
+ECEGEIHF_02086	H	Coenzyme transport and metabolism	UbiE	-
+ECEGEIHF_02087	L	Replication, recombination and repair	RnhA	-
+ECEGEIHF_02089	C	Energy production and conversion	DcuC	-
+ECEGEIHF_02091	R	General function prediction only	YbjL	-
+ECEGEIHF_02092	J	Translation, ribosomal structure and biogenesis	GlnS	-
+ECEGEIHF_02098	Q	Secondary metabolites biosynthesis, transport and catabolism	DLH	-
+ECEGEIHF_02099	C	Energy production and conversion	DcuC	-
+ECEGEIHF_02100	C	Energy production and conversion	DcuC	-
+ECEGEIHF_02101	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02102	M	Cell wall/membrane/envelope biogenesis	RfaF	-
+ECEGEIHF_02103	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+ECEGEIHF_02104	G	Carbohydrate transport and metabolism	CitT	-
+ECEGEIHF_02105	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02107	E	Amino acid transport and metabolism	PutP	-
+ECEGEIHF_02109	H	Coenzyme transport and metabolism	ArfB	-
+ECEGEIHF_02112	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02113	R	General function prediction only	MviM	-
+ECEGEIHF_02114	M	Cell wall/membrane/envelope biogenesis	WecE	-
+ECEGEIHF_02115	R	General function prediction only	WbbJ	-
+ECEGEIHF_02116	M	Cell wall/membrane/envelope biogenesis	WecC	-
+ECEGEIHF_02117	V	Defense mechanisms	Csa3	-
+ECEGEIHF_02118	T	Signal transduction mechanisms	FIDO	-
+ECEGEIHF_02122	V	Defense mechanisms		-
+ECEGEIHF_02123	V	Defense mechanisms		-
+ECEGEIHF_02124	V	Defense mechanisms	HsdM	-
+ECEGEIHF_02125	V	Defense mechanisms	HsdS	-
+ECEGEIHF_02126	T	Signal transduction mechanisms	FIDO	-
+ECEGEIHF_02128	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02130	K	Transcription	AlpA	-
+ECEGEIHF_02134	L	Replication, recombination and repair	FimB	-
+ECEGEIHF_02136	M	Cell wall/membrane/envelope biogenesis	AsmA	-
+ECEGEIHF_02137	C	Energy production and conversion	Gph	-
+ECEGEIHF_02138	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+ECEGEIHF_02139	V	Defense mechanisms	VapI	-
+ECEGEIHF_02140	L	Replication, recombination and repair	GyrA	-
+ECEGEIHF_02141	H	Coenzyme transport and metabolism	SerC	-
+ECEGEIHF_02142	E	Amino acid transport and metabolism	PheA2	-
+ECEGEIHF_02143	E	Amino acid transport and metabolism	HisC	-
+ECEGEIHF_02144	E	Amino acid transport and metabolism	TyrA	-
+ECEGEIHF_02145	E	Amino acid transport and metabolism	AroA	-
+ECEGEIHF_02146	F	Nucleotide transport and metabolism	Cmk	-
+ECEGEIHF_02147	J	Translation, ribosomal structure and biogenesis	RpsA	-
+ECEGEIHF_02148	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_02149	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02150	K	Transcription	LysR	-
+ECEGEIHF_02151	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_02152	E	Amino acid transport and metabolism	MarC	-
+ECEGEIHF_02153	C	Energy production and conversion	Ndh	-
+ECEGEIHF_02154	K	Transcription	HepA	-
+ECEGEIHF_02155	L	Replication, recombination and repair	DnaQ	-
+ECEGEIHF_02156	V	Defense mechanisms	HigB	-
+ECEGEIHF_02157	V	Defense mechanisms	VapI	-
+ECEGEIHF_02158	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02159	K	Transcription	SoxR	-
+ECEGEIHF_02160	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02161	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_02162	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_02163	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02164	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02165	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_02166	K	Transcription	LysR	-
+ECEGEIHF_02167	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02168	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02169	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02170	E	Amino acid transport and metabolism	GLY1	-
+ECEGEIHF_02171	K	Transcription	LysR	-
+ECEGEIHF_02172	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_02173	T	Signal transduction mechanisms	FrsA	-
+ECEGEIHF_02174	K	Transcription	LysR	-
+ECEGEIHF_02175	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_02176	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02177	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02178	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02179	M	Cell wall/membrane/envelope biogenesis	Skp	-
+ECEGEIHF_02180	R	General function prediction only	AAA_14	-
+ECEGEIHF_02181	C	Energy production and conversion	BisC	-
+ECEGEIHF_02182	C	Energy production and conversion	HybA	-
+ECEGEIHF_02183	O	Posttranslational modification, protein turnover, chaperones	TorD	-
+ECEGEIHF_02184	K	Transcription	ArsR	-
+ECEGEIHF_02185	P	Inorganic ion transport and metabolism	YraQ	-
+ECEGEIHF_02188	K	Transcription		-
+ECEGEIHF_02189	V	Defense mechanisms	Csa3	-
+ECEGEIHF_02191	E	Amino acid transport and metabolism	PepF	-
+ECEGEIHF_02192	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_02193	E	Amino acid transport and metabolism	PepF	-
+ECEGEIHF_02194	C	Energy production and conversion	DcuC	-
+ECEGEIHF_02195	V	Defense mechanisms	HicB	-
+ECEGEIHF_02197	D	Cell cycle control, cell division, chromosome partitioning	HEC1	-
+ECEGEIHF_02199	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+ECEGEIHF_02205	U	Intracellular trafficking, secretion, and vesicular transport	TraF	-
+ECEGEIHF_02207	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+ECEGEIHF_02208	N	Cell motility	PilP	-
+ECEGEIHF_02209	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+ECEGEIHF_02215	M	Cell wall/membrane/envelope biogenesis	MltE	-
+ECEGEIHF_02217	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+ECEGEIHF_02221	P	Inorganic ion transport and metabolism	ChlD	-
+ECEGEIHF_02223	R	General function prediction only	MMP0363	-
+ECEGEIHF_02224	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02225	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02226	I	Lipid transport and metabolism	GtrA	-
+ECEGEIHF_02227	M	Cell wall/membrane/envelope biogenesis	Lnt	-
+ECEGEIHF_02228	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02229	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02230	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02231	M	Cell wall/membrane/envelope biogenesis	WecB	-
+ECEGEIHF_02232	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+ECEGEIHF_02233	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02234	G	Carbohydrate transport and metabolism	TagG	-
+ECEGEIHF_02235	G	Carbohydrate transport and metabolism	TagH	-
+ECEGEIHF_02236	M	Cell wall/membrane/envelope biogenesis	TagB	-
+ECEGEIHF_02237	M	Cell wall/membrane/envelope biogenesis	Glf	-
+ECEGEIHF_02238	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02239	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02241	T	Signal transduction mechanisms		-
+ECEGEIHF_02242	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_02245	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02246	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_02247	S	Function unknown		-
+ECEGEIHF_02249	E	Amino acid transport and metabolism	PepD	-
+ECEGEIHF_02250	K	Transcription	LysR	-
+ECEGEIHF_02253	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+ECEGEIHF_02255	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02261	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02263	F	Nucleotide transport and metabolism	YjbM	-
+ECEGEIHF_02264	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_02266	O	Posttranslational modification, protein turnover, chaperones	NfeD	-
+ECEGEIHF_02270	V	Defense mechanisms	YeeF	-
+ECEGEIHF_02271	R	General function prediction only		-
+ECEGEIHF_02272	V	Defense mechanisms		-
+ECEGEIHF_02273	E	Amino acid transport and metabolism	AspA	-
+ECEGEIHF_02274	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_02275	K	Transcription	RpiR	-
+ECEGEIHF_02277	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_02278	P	Inorganic ion transport and metabolism	PhnD	-
+ECEGEIHF_02279	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02280	L	Replication, recombination and repair		-
+ECEGEIHF_02281	L	Replication, recombination and repair	YbjD	-
+ECEGEIHF_02283	V	Defense mechanisms	AbiF	-
+ECEGEIHF_02284	V	Defense mechanisms	AbiF	-
+ECEGEIHF_02285	V	Defense mechanisms	VapI	-
+ECEGEIHF_02286	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02287	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02288	K	Transcription	LysR	-
+ECEGEIHF_02290	X	Mobilome: prophages, transposons	InsA	-
+ECEGEIHF_02291	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02292	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02293	M	Cell wall/membrane/envelope biogenesis	OmpC	-
+ECEGEIHF_02295	K	Transcription	LysR	-
+ECEGEIHF_02296	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+ECEGEIHF_02297	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+ECEGEIHF_02298	H	Coenzyme transport and metabolism	TenA	-
+ECEGEIHF_02299	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02301	F	Nucleotide transport and metabolism	PurB	-
+ECEGEIHF_02302	K	Transcription	LysR	-
+ECEGEIHF_02303	R	General function prediction only		-
+ECEGEIHF_02304	R	General function prediction only		-
+ECEGEIHF_02305	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02306	J	Translation, ribosomal structure and biogenesis	YmdB	-
+ECEGEIHF_02309	L	Replication, recombination and repair	XerD	-
+ECEGEIHF_02310	X	Mobilome: prophages, transposons	PA5055	-
+ECEGEIHF_02312	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02313	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_02314	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02315	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02316	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_02317	T	Signal transduction mechanisms		-
+ECEGEIHF_02318	T	Signal transduction mechanisms		-
+ECEGEIHF_02319	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_02320	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02321	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02323	X	Mobilome: prophages, transposons	PA5055	-
+ECEGEIHF_02325	K	Transcription	LysR	-
+ECEGEIHF_02326	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02327	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02328	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02329	K	Transcription	FadR	-
+ECEGEIHF_02330	G	Carbohydrate transport and metabolism	DcuA	-
+ECEGEIHF_02331	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02332	E	Amino acid transport and metabolism	ArgH	-
+ECEGEIHF_02333	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+ECEGEIHF_02334	M	Cell wall/membrane/envelope biogenesis	RfbC	-
+ECEGEIHF_02335	R	General function prediction only		-
+ECEGEIHF_02337	C	Energy production and conversion	TctC	-
+ECEGEIHF_02338	E	Amino acid transport and metabolism	AmpS	-
+ECEGEIHF_02340	R	General function prediction only	YfdV	-
+ECEGEIHF_02341	K	Transcription	LysR	-
+ECEGEIHF_02344	E	Amino acid transport and metabolism	MetL1	-
+ECEGEIHF_02345	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+ECEGEIHF_02346	F	Nucleotide transport and metabolism	HinT	-
+ECEGEIHF_02348	R	General function prediction only	MdaB	-
+ECEGEIHF_02350	C	Energy production and conversion	DcuC	-
+ECEGEIHF_02351	R	General function prediction only		-
+ECEGEIHF_02352	K	Transcription	LysR	-
+ECEGEIHF_02353	E	Amino acid transport and metabolism	ArgE	-
+ECEGEIHF_02354	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02355	R	General function prediction only	AbgB	-
+ECEGEIHF_02356	X	Mobilome: prophages, transposons	IS285	-
+ECEGEIHF_02357	L	Replication, recombination and repair	XerD	-
+ECEGEIHF_02358	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_02361	X	Mobilome: prophages, transposons	IS285	-
+ECEGEIHF_02363	H	Coenzyme transport and metabolism	PanE	-
+ECEGEIHF_02364	C	Energy production and conversion	RutF	-
+ECEGEIHF_02365	R	General function prediction only	Imp	-
+ECEGEIHF_02366	R	General function prediction only		-
+ECEGEIHF_02367	F	Nucleotide transport and metabolism	NCS2	-
+ECEGEIHF_02368	F	Nucleotide transport and metabolism	NCS2	-
+ECEGEIHF_02369	F	Nucleotide transport and metabolism	NCS2	-
+ECEGEIHF_02371	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_02372	H	Coenzyme transport and metabolism	TbpA	-
+ECEGEIHF_02373	M	Cell wall/membrane/envelope biogenesis	LolB	-
+ECEGEIHF_02375	E	Amino acid transport and metabolism	HisC	-
+ECEGEIHF_02378	T	Signal transduction mechanisms	BaeS	-
+ECEGEIHF_02380	P	Inorganic ion transport and metabolism	YggX	-
+ECEGEIHF_02381	O	Posttranslational modification, protein turnover, chaperones	HslJ	-
+ECEGEIHF_02382	E	Amino acid transport and metabolism	ArgB	-
+ECEGEIHF_02383	J	Translation, ribosomal structure and biogenesis	HrpA	-
+ECEGEIHF_02384	M	Cell wall/membrane/envelope biogenesis	DacC	-
+ECEGEIHF_02385	L	Replication, recombination and repair	DnaQ	-
+ECEGEIHF_02386	J	Translation, ribosomal structure and biogenesis	RsuA	-
+ECEGEIHF_02387	J	Translation, ribosomal structure and biogenesis	RimP	-
+ECEGEIHF_02388	K	Transcription	NusA	-
+ECEGEIHF_02389	J	Translation, ribosomal structure and biogenesis	InfB	-
+ECEGEIHF_02390	J	Translation, ribosomal structure and biogenesis	RbfA	-
+ECEGEIHF_02391	J	Translation, ribosomal structure and biogenesis	TruB	-
+ECEGEIHF_02392	T	Signal transduction mechanisms	TypA	-
+ECEGEIHF_02393	P	Inorganic ion transport and metabolism	YchJ	-
+ECEGEIHF_02394	J	Translation, ribosomal structure and biogenesis	DusA	-
+ECEGEIHF_02395	R	General function prediction only		-
+ECEGEIHF_02396	R	General function prediction only	AAA_14	-
+ECEGEIHF_02398	P	Inorganic ion transport and metabolism	TauA	-
+ECEGEIHF_02400	P	Inorganic ion transport and metabolism	PitA	-
+ECEGEIHF_02401	O	Posttranslational modification, protein turnover, chaperones	AprE	-
+ECEGEIHF_02403	J	Translation, ribosomal structure and biogenesis	CafA	-
+ECEGEIHF_02404	J	Translation, ribosomal structure and biogenesis	RluA	-
+ECEGEIHF_02405	C	Energy production and conversion	Gph	-
+ECEGEIHF_02408	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+ECEGEIHF_02409	J	Translation, ribosomal structure and biogenesis	YceD	-
+ECEGEIHF_02411	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_02412	M	Cell wall/membrane/envelope biogenesis	AidA	-
+ECEGEIHF_02416	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02417	J	Translation, ribosomal structure and biogenesis	RpmF	-
+ECEGEIHF_02418	I	Lipid transport and metabolism	FabH	-
+ECEGEIHF_02419	I	Lipid transport and metabolism	FabD	-
+ECEGEIHF_02420	I	Lipid transport and metabolism	FabG	-
+ECEGEIHF_02421	I	Lipid transport and metabolism	AcpP	-
+ECEGEIHF_02422	I	Lipid transport and metabolism	FabB	-
+ECEGEIHF_02423	J	Translation, ribosomal structure and biogenesis	LepA	-
+ECEGEIHF_02424	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+ECEGEIHF_02425	K	Transcription	Rnc	-
+ECEGEIHF_02426	J	Translation, ribosomal structure and biogenesis	Era	-
+ECEGEIHF_02427	L	Replication, recombination and repair	RecO	-
+ECEGEIHF_02428	S	Function unknown	YhaH	-
+ECEGEIHF_02429	I	Lipid transport and metabolism	AcpS	-
+ECEGEIHF_02430	G	Carbohydrate transport and metabolism	BglX	-
+ECEGEIHF_02431	R	General function prediction only		-
+ECEGEIHF_02432	C	Energy production and conversion	Mdh	-
+ECEGEIHF_02433	J	Translation, ribosomal structure and biogenesis	YafQ	-
+ECEGEIHF_02434	V	Defense mechanisms	RelB	-
+ECEGEIHF_02435	P	Inorganic ion transport and metabolism	ZupT	-
+ECEGEIHF_02437	K	Transcription	LysR	-
+ECEGEIHF_02438	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02439	C	Energy production and conversion	SucA	-
+ECEGEIHF_02440	C	Energy production and conversion	AceF	-
+ECEGEIHF_02441	C	Energy production and conversion	Lpd	-
+ECEGEIHF_02443	L	Replication, recombination and repair	DinG	-
+ECEGEIHF_02445	M	Cell wall/membrane/envelope biogenesis	BamD	-
+ECEGEIHF_02446	J	Translation, ribosomal structure and biogenesis	RluA	-
+ECEGEIHF_02447	F	Nucleotide transport and metabolism	YfiH	-
+ECEGEIHF_02448	S	Function unknown	YdbS	-
+ECEGEIHF_02449	P	Inorganic ion transport and metabolism	PspE	-
+ECEGEIHF_02450	J	Translation, ribosomal structure and biogenesis	MiaB	-
+ECEGEIHF_02451	V	Defense mechanisms	HicB	-
+ECEGEIHF_02453	V	Defense mechanisms	YadH	-
+ECEGEIHF_02454	V	Defense mechanisms	YadH	-
+ECEGEIHF_02455	V	Defense mechanisms	EmrA	-
+ECEGEIHF_02456	M	Cell wall/membrane/envelope biogenesis	TolC	-
+ECEGEIHF_02460	L	Replication, recombination and repair	GyrB	-
+ECEGEIHF_02461	L	Replication, recombination and repair	GyrA	-
+ECEGEIHF_02462	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02463	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02464	H	Coenzyme transport and metabolism	UbiE	-
+ECEGEIHF_02465	R	General function prediction only	YpfJ	-
+ECEGEIHF_02467	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02468	K	Transcription	RpiR	-
+ECEGEIHF_02469	R	General function prediction only		-
+ECEGEIHF_02470	K	Transcription	ARO8	-
+ECEGEIHF_02471	O	Posttranslational modification, protein turnover, chaperones	HtpG	-
+ECEGEIHF_02472	E	Amino acid transport and metabolism	SpeE	-
+ECEGEIHF_02473	L	Replication, recombination and repair	Nth	-
+ECEGEIHF_02474	C	Energy production and conversion	RnfB	-
+ECEGEIHF_02475	C	Energy production and conversion	Fpr	-
+ECEGEIHF_02476	C	Energy production and conversion	IorA	-
+ECEGEIHF_02477	H	Coenzyme transport and metabolism	PncB	-
+ECEGEIHF_02478	P	Inorganic ion transport and metabolism	ArsB	-
+ECEGEIHF_02479	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02481	E	Amino acid transport and metabolism	AlsT	-
+ECEGEIHF_02482	L	Replication, recombination and repair	UvrC	-
+ECEGEIHF_02483	C	Energy production and conversion	NhaC	-
+ECEGEIHF_02484	J	Translation, ribosomal structure and biogenesis	Efp	-
+ECEGEIHF_02485	J	Translation, ribosomal structure and biogenesis	EarP	-
+ECEGEIHF_02487	L	Replication, recombination and repair	YncB	-
+ECEGEIHF_02488	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+ECEGEIHF_02489	F	Nucleotide transport and metabolism	NrdD	-
+ECEGEIHF_02490	F	Nucleotide transport and metabolism	NrdD	-
+ECEGEIHF_02492	I	Lipid transport and metabolism	FAA1	-
+ECEGEIHF_02493	I	Lipid transport and metabolism	FAA1	-
+ECEGEIHF_02494	E	Amino acid transport and metabolism	CysE	-
+ECEGEIHF_02495	J	Translation, ribosomal structure and biogenesis	TrmJ	-
+ECEGEIHF_02496	G	Carbohydrate transport and metabolism	SuhB	-
+ECEGEIHF_02497	L	Replication, recombination and repair	MutS	-
+ECEGEIHF_02498	R	General function prediction only	AbgB	-
+ECEGEIHF_02499	V	Defense mechanisms	YajL	-
+ECEGEIHF_02500	F	Nucleotide transport and metabolism	PyrG	-
+ECEGEIHF_02501	M	Cell wall/membrane/envelope biogenesis	KdsA	-
+ECEGEIHF_02502	G	Carbohydrate transport and metabolism	Eno	-
+ECEGEIHF_02503	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+ECEGEIHF_02504	M	Cell wall/membrane/envelope biogenesis	Alr	-
+ECEGEIHF_02506	P	Inorganic ion transport and metabolism	TauE	-
+ECEGEIHF_02507	O	Posttranslational modification, protein turnover, chaperones	HslO	-
+ECEGEIHF_02508	A	RNA processing and modification	YciV	-
+ECEGEIHF_02509	J	Translation, ribosomal structure and biogenesis	TsaC	-
+ECEGEIHF_02510	O	Posttranslational modification, protein turnover, chaperones	SpoIVFB	-
+ECEGEIHF_02511	H	Coenzyme transport and metabolism	UbiG	-
+ECEGEIHF_02512	E	Amino acid transport and metabolism	DapA	-
+ECEGEIHF_02513	M	Cell wall/membrane/envelope biogenesis	BamC	-
+ECEGEIHF_02514	O	Posttranslational modification, protein turnover, chaperones	SlpA	-
+ECEGEIHF_02515	C	Energy production and conversion	CstA	-
+ECEGEIHF_02516	L	Replication, recombination and repair	UvrC	-
+ECEGEIHF_02517	I	Lipid transport and metabolism	PgsA	-
+ECEGEIHF_02523	X	Mobilome: prophages, transposons	YkfC	-
+ECEGEIHF_02524	E	Amino acid transport and metabolism	AspD	-
+ECEGEIHF_02525	P	Inorganic ion transport and metabolism	FetA	-
+ECEGEIHF_02526	P	Inorganic ion transport and metabolism	FetB	-
+ECEGEIHF_02527	E	Amino acid transport and metabolism	EamA	-
+ECEGEIHF_02528	R	General function prediction only		-
+ECEGEIHF_02529	R	General function prediction only	YhbS	-
+ECEGEIHF_02530	P	Inorganic ion transport and metabolism	MpfA	-
+ECEGEIHF_02533	J	Translation, ribosomal structure and biogenesis	AnsA	-
+ECEGEIHF_02534	L	Replication, recombination and repair	DinP	-
+ECEGEIHF_02536	X	Mobilome: prophages, transposons	IS285	-
+ECEGEIHF_02538	E	Amino acid transport and metabolism	LeuC	-
+ECEGEIHF_02539	E	Amino acid transport and metabolism	LeuD	-
+ECEGEIHF_02540	C	Energy production and conversion	LeuB	-
+ECEGEIHF_02541	E	Amino acid transport and metabolism	Asd	-
+ECEGEIHF_02542	J	Translation, ribosomal structure and biogenesis	TruA	-
+ECEGEIHF_02543	I	Lipid transport and metabolism	AccD	-
+ECEGEIHF_02544	H	Coenzyme transport and metabolism	FolC	-
+ECEGEIHF_02545	D	Cell cycle control, cell division, chromosome partitioning	DedD	-
+ECEGEIHF_02546	F	Nucleotide transport and metabolism	CvpA	-
+ECEGEIHF_02547	F	Nucleotide transport and metabolism	PurF	-
+ECEGEIHF_02548	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+ECEGEIHF_02549	V	Defense mechanisms	AcrB	-
+ECEGEIHF_02550	M	Cell wall/membrane/envelope biogenesis	TolC	-
+ECEGEIHF_02551	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02553	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02555	C	Energy production and conversion	FAHD1	-
+ECEGEIHF_02556	M	Cell wall/membrane/envelope biogenesis	MltB	-
+ECEGEIHF_02557	Q	Secondary metabolites biosynthesis, transport and catabolism	AcuC	-
+ECEGEIHF_02558	L	Replication, recombination and repair	Dam	-
+ECEGEIHF_02559	R	General function prediction only		-
+ECEGEIHF_02560	F	Nucleotide transport and metabolism	MIS1	-
+ECEGEIHF_02562	P	Inorganic ion transport and metabolism	YgaA	-
+ECEGEIHF_02563	C	Energy production and conversion	FixA	-
+ECEGEIHF_02564	C	Energy production and conversion	FixB	-
+ECEGEIHF_02565	J	Translation, ribosomal structure and biogenesis	RpsP	-
+ECEGEIHF_02566	J	Translation, ribosomal structure and biogenesis	RimM	-
+ECEGEIHF_02567	J	Translation, ribosomal structure and biogenesis	TrmD	-
+ECEGEIHF_02568	J	Translation, ribosomal structure and biogenesis	RplS	-
+ECEGEIHF_02569	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02570	X	Mobilome: prophages, transposons		-
+ECEGEIHF_02571	K	Transcription	AbfR1	-
+ECEGEIHF_02572	J	Translation, ribosomal structure and biogenesis	RsgA	-
+ECEGEIHF_02573	O	Posttranslational modification, protein turnover, chaperones	HtpX	-
+ECEGEIHF_02574	A	RNA processing and modification	Orn	-
+ECEGEIHF_02575	I	Lipid transport and metabolism	MmsB	-
+ECEGEIHF_02576	M	Cell wall/membrane/envelope biogenesis	RacX	-
+ECEGEIHF_02577	R	General function prediction only	PerM	-
+ECEGEIHF_02578	K	Transcription	HxlR	-
+ECEGEIHF_02579	P	Inorganic ion transport and metabolism	ZntA	-
+ECEGEIHF_02581	T	Signal transduction mechanisms		-
+ECEGEIHF_02582	T	Signal transduction mechanisms	FixJ	-
+ECEGEIHF_02583	C	Energy production and conversion	SdhA	-
+ECEGEIHF_02584	E	Amino acid transport and metabolism	GltD	-
+ECEGEIHF_02585	C	Energy production and conversion	PorB	-
+ECEGEIHF_02586	C	Energy production and conversion	PorA	-
+ECEGEIHF_02587	C	Energy production and conversion	PorC	-
+ECEGEIHF_02588	C	Energy production and conversion	PatZN	-
+ECEGEIHF_02589	B	Chromatin structure and dynamics	HupA	-
+ECEGEIHF_02590	M	Cell wall/membrane/envelope biogenesis	YejM	-
+ECEGEIHF_02591	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02592	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+ECEGEIHF_02594	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+ECEGEIHF_02595	M	Cell wall/membrane/envelope biogenesis	RfaL	-
+ECEGEIHF_02596	M	Cell wall/membrane/envelope biogenesis	OafA	-
+ECEGEIHF_02597	C	Energy production and conversion	GpsA	-
+ECEGEIHF_02598	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+ECEGEIHF_02599	L	Replication, recombination and repair	Sms	-
+ECEGEIHF_02600	S	Function unknown	YhaH	-
+ECEGEIHF_02601	S	Function unknown	YhaH	-
+ECEGEIHF_02602	M	Cell wall/membrane/envelope biogenesis	PqiC	-
+ECEGEIHF_02603	E	Amino acid transport and metabolism	MalY	-
+ECEGEIHF_02604	K	Transcription	AraC	-
+ECEGEIHF_02605	L	Replication, recombination and repair	AdaB	-
+ECEGEIHF_02606	H	Coenzyme transport and metabolism	HmoA	-
+ECEGEIHF_02607	L	Replication, recombination and repair	AlkA	-
+ECEGEIHF_02608	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+ECEGEIHF_02609	R	General function prediction only	YggE	-
+ECEGEIHF_02610	I	Lipid transport and metabolism	Psd	-
+ECEGEIHF_02611	I	Lipid transport and metabolism	PssA	-
+ECEGEIHF_02612	E	Amino acid transport and metabolism	LeuA	-
+ECEGEIHF_02613	K	Transcription	TfoX	-
+ECEGEIHF_02614	M	Cell wall/membrane/envelope biogenesis	OpgE	-
+ECEGEIHF_02615	J	Translation, ribosomal structure and biogenesis	RpsO	-
+ECEGEIHF_02616	J	Translation, ribosomal structure and biogenesis	Pnp	-

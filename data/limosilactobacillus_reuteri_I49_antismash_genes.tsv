@@ -1,0 +1,73 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065318.1	PBFPHCLI_00246	rplGA	putative ribosomal protein YlxQ	236661	236973	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00247	PBFPHCLI_00247_gene	hypothetical protein	236959	237241	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00248	nusA	Transcription termination/antitermination protein NusA	237290	238478	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00249	rimP	Ribosome maturation factor RimP	238498	238972	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00250	polC_1	DNA polymerase III PolC-type	239105	243437	-	other	other (smcogs) SMCOG1194: DNA polymerase III subunit alpha
+region001	NZ_CP065318.1	PBFPHCLI_00251	proS	Proline--tRNA ligase	243512	245246	-	other	other (smcogs) SMCOG1162: threonyl-tRNA synthetase
+region001	NZ_CP065318.1	PBFPHCLI_00252	rasP	Regulator of sigma-W protease RasP	245274	246549	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_M50
+region001	NZ_CP065318.1	PBFPHCLI_00253	cdsA	Phosphatidate cytidylyltransferase	246571	247357	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00254	uppS	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	247376	248141	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00255	frr	Ribosome-recycling factor	248363	248927	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00256	pyrH	Uridylate kinase	248931	249654	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00257	tsf	Elongation factor Ts	249735	250611	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00258	rpsB	30S ribosomal protein S2	250708	251497	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00259	ldhA	D-lactate dehydrogenase	251659	252652	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) 2-Hacid_dh_C; biosynthetic-additional (smcogs) SMCOG1072: dehydrogenase
+region001	NZ_CP065318.1	PBFPHCLI_00260	PBFPHCLI_00260_gene	hypothetical protein	252653	252944	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00261	yfiC	tRNA1(Val) (adenine(37)-N6)-methyltransferase	252933	253689	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00262	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	253783	254422	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1141: acyltransferase
+region001	NZ_CP065318.1	PBFPHCLI_00263	PBFPHCLI_00263_gene	hypothetical protein	254465	254693	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00264	PBFPHCLI_00264_gene	hypothetical protein	254766	255018	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00265	lexA_2	LexA repressor	255146	255773	+	other	
+region001	NZ_CP065318.1	PBFPHCLI_00266	mvaS	Hydroxymethylglutaryl-CoA synthase	255814	256972	-	biosynthetic	biosynthetic (rule-based-clusters) T3PKS: Chal_sti_synt_N; biosynthetic-additional (smcogs) SMCOG1043: hydroxymethylglutaryl-CoA synthase
+region001	NZ_CP065318.1	PBFPHCLI_00267	rnhA_2	Ribonuclease H	256997	257666	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00269	PBFPHCLI_00269_gene	hypothetical protein	258032	258647	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00270	apt	Adenine phosphoribosyltransferase	258758	259277	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00271	recJ	Single-stranded-DNA-specific exonuclease RecJ	259293	261621	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00272	fabG	3-oxoacyl-[acyl-carrier-protein] reductase FabG	261754	262588	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (smcogs) SMCOG1001: short-chain dehydrogenase/reductase SDR
+region001	NZ_CP065318.1	PBFPHCLI_00273	rnz	Ribonuclease Z	262604	263534	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00274	obg	GTPase Obg	263566	264883	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00275	uvrC	UvrABC system protein C	264947	266759	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00276	PBFPHCLI_00276_gene	hypothetical protein	266902	267040	+	other	
+region001	NZ_CP065318.1	PBFPHCLI_00277	PBFPHCLI_00277_gene	hypothetical protein	267083	267425	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00278	engB	putative GTP-binding protein EngB	267384	267975	-	other	other (smcogs) SMCOG1227: ribosome biogenesis GTP-binding protein YsxC
+region001	NZ_CP065318.1	PBFPHCLI_00279	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	267992	269243	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00280	tig	Trigger factor	269420	270731	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00281	tuf	Elongation factor Tu	270926	272117	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1190: GTP-binding protein LepA
+region001	NZ_CP065318.1	PBFPHCLI_00282	PBFPHCLI_00282_gene	hypothetical protein	272295	273201	-	other	
+region001	NZ_CP065318.1	PBFPHCLI_00283	ltrA_1	Group II intron-encoded protein LtrA	273331	274714	-	other	
+region002	NZ_CP065318.1	PBFPHCLI_00960	PBFPHCLI_00960_gene	hypothetical protein	976978	977200	-	other	
+region002	NZ_CP065318.1	PBFPHCLI_00961	patA_4	Putative N-acetyl-LL-diaminopimelate aminotransferase	977704	978892	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Aminotran_1_2; biosynthetic-additional (rule-based-clusters) DegT_DnrJ_EryC1; biosynthetic-additional (smcogs) SMCOG1019: aminotransferase
+region002	NZ_CP065318.1	PBFPHCLI_00962	ldhD	D-lactate dehydrogenase	978893	979889	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) 2-Hacid_dh_C; biosynthetic-additional (smcogs) SMCOG1072: dehydrogenase
+region002	NZ_CP065318.1	PBFPHCLI_00963	PBFPHCLI_00963_gene	Hydroperoxide reductase	979957	980386	+	other	
+region002	NZ_CP065318.1	PBFPHCLI_00964	PBFPHCLI_00964_gene	hypothetical protein	980665	980851	+	other	
+region002	NZ_CP065318.1	PBFPHCLI_00965	lagD	Lactococcin-G-processing and transport ATP-binding protein LagD	980892	983034	-	biosynthetic	biosynthetic (rule-based-clusters) RiPP-like: TIGR01193; biosynthetic-additional (rule-based-clusters) Peptidase_C39; transport (smcogs) SMCOG1288: ABC transporter related protein
+region002	NZ_CP065318.1	PBFPHCLI_00966	PBFPHCLI_00966_gene	hypothetical protein	983309	983471	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) triceptide_precursor
+region002	NZ_CP065318.1	PBFPHCLI_00967	PBFPHCLI_00967_gene	hypothetical protein	983512	983671	-	other	
+region002	NZ_CP065318.1	PBFPHCLI_00968	PBFPHCLI_00968_gene	hypothetical protein	983672	983840	-	other	
+region002	NZ_CP065318.1	PBFPHCLI_00969	ltrA_4	Group II intron-encoded protein LtrA	984096	985479	-	other	
+region002	NZ_CP065318.1	PBFPHCLI_00970	agrA_1	Accessory gene regulator A	985978	986746	-	other	
+region003	NZ_CP065318.1	PBFPHCLI_01793	PBFPHCLI_01793_gene	hypothetical protein	1830620	1830836	-	other	
+region003	NZ_CP065318.1	PBFPHCLI_01794	PBFPHCLI_01794_gene	hypothetical protein	1831338	1831473	-	other	
+region003	NZ_CP065318.1	PBFPHCLI_01796	mtrR	HTH-type transcriptional regulator MtrR	1831942	1832575	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01797	rplU	50S ribosomal protein L21	1832785	1833094	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01798	PBFPHCLI_01798_gene	hypothetical protein	1833109	1833433	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01799	rpmA	50S ribosomal protein L27	1833458	1833740	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01800	PBFPHCLI_01800_gene	Pyridoxal phosphate homeostasis protein	1833865	1834573	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01801	ypdF	Aminopeptidase YpdF	1834585	1835662	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1172: methionine aminopeptidase
+region003	NZ_CP065318.1	PBFPHCLI_01802	PBFPHCLI_01802_gene	hypothetical protein	1835663	1836338	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01803	PBFPHCLI_01803_gene	putative protein	1836427	1836865	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01804	nusB	Transcription antitermination protein NusB	1836866	1837283	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01805	folD	Bifunctional protein FolD protein	1837411	1838272	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01806	xseA	Exodeoxyribonuclease 7 large subunit	1838264	1839602	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01807	xseB	Exodeoxyribonuclease 7 small subunit	1839603	1839885	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01808	PBFPHCLI_01808_gene	Farnesyl diphosphate synthase	1839903	1840776	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region003	NZ_CP065318.1	PBFPHCLI_01809	tlyA	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA	1840787	1841609	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01810	argR_2	Arginine repressor	1841627	1842080	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01811	recN	DNA repair protein RecN	1842095	1843775	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01812	PBFPHCLI_01812_gene	hypothetical protein	1843929	1844262	-	other	
+region003	NZ_CP065318.1	PBFPHCLI_01813	gmk_2	Guanylate kinase	1844420	1845041	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01814	rpoZ	DNA-directed RNA polymerase subunit omega	1845037	1845256	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01815	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC	1845366	1846572	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Flavoprotein
+region003	NZ_CP065318.1	PBFPHCLI_01816	priA	Primosomal protein N'	1846572	1849002	+	other	
+region003	NZ_CP065318.1	PBFPHCLI_01817	fmt	Methionyl-tRNA formyltransferase	1849019	1849973	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1228: methionyl-tRNA formyltransferase

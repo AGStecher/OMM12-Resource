@@ -1,0 +1,9 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065312.1	52311	82983	30672	cyclic-lactone-autoinducer;lanthipeptide-class-i	RiPP	BGC0001701.4	nisin O	66
+region002	NZ_CP065312.1	329826	365084	35258	ranthipeptide;cyclic-lactone-autoinducer	RiPP			
+region003	NZ_CP065312.1	403669	425470	21801	ranthipeptide	RiPP			
+region004	NZ_CP065312.1	699012	727464	28452	lanthipeptide-class-ii;cyclic-lactone-autoinducer	RiPP			
+region005	NZ_CP065312.1	2975120	2995977	20857	cyclic-lactone-autoinducer	RiPP			
+region006	NZ_CP065312.1	3114813	3137738	22925	lanthipeptide-class-ii	RiPP			
+region007	NZ_CP065312.1	4261708	4282611	20903	terpene-precursor	terpene			
+region008	NZ_CP065312.1	4481865	4504193	22328	lanthipeptide-class-ii	RiPP			

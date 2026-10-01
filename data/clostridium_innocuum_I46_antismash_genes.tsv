@@ -1,0 +1,45 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065320.1	OFOAEPEI_00065	xerD_2	Tyrosine recombinase XerD	58845	59769	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region001	NZ_CP065320.1	OFOAEPEI_00066	prmB	50S ribosomal protein L3 glutamine methyltransferase	59765	60428	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PCMT
+region001	NZ_CP065320.1	OFOAEPEI_00067	spoIIM	Stage II sporulation protein M	60465	61089	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00068	dinB_1	DNA polymerase IV	61183	62365	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00069	spo0A_1	Stage 0 sporulation protein A	62417	63251	-	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region001	NZ_CP065320.1	OFOAEPEI_00070	spoIVB	SpoIVB peptidase	63435	64437	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00071	recN	DNA repair protein RecN	64488	66150	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00072	tlyA	Hemolysin A	66154	66934	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00073	dxs_1	1-deoxy-D-xylulose-5-phosphate synthase	66930	68808	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DXP_synthase_N; biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region001	NZ_CP065320.1	OFOAEPEI_00074	OFOAEPEI_00074_gene	Farnesyl diphosphate synthase	68821	69664	-	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region001	NZ_CP065320.1	OFOAEPEI_00075	xseB	Exodeoxyribonuclease 7 small subunit	69656	69869	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00076	xseA	Exodeoxyribonuclease 7 large subunit	69868	71197	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00077	nusB	Transcription antitermination protein NusB	71193	71571	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00078	OFOAEPEI_00078_gene	hypothetical protein	71646	72549	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00079	OFOAEPEI_00079_gene	hypothetical protein	72599	72929	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00080	spoIIIAH	Stage III sporulation protein AH	72968	73526	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00081	ywaC	GTP pyrophosphokinase YwaC	73587	74964	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00082	ribF	Riboflavin biosynthesis protein RibF	74954	75899	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) CTP_transf_like
+region001	NZ_CP065320.1	OFOAEPEI_00083	truB	tRNA pseudouridine synthase B	75907	76702	-	other	
+region001	NZ_CP065320.1	OFOAEPEI_00084	ttcA	tRNA-cytidine(32) 2-sulfurtransferase	76848	77802	+	other	
+region001	NZ_CP065320.1	OFOAEPEI_00085	OFOAEPEI_00085_gene	hypothetical protein	78040	78619	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02421	norM	Multidrug resistance protein NorM	2458342	2459704	+	transport	transport (smcogs) SMCOG1086: MATE efflux family protein
+region002	NZ_CP065320.1	OFOAEPEI_02422	OFOAEPEI_02422_gene	hypothetical protein	2459732	2460254	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02423	OFOAEPEI_02423_gene	hypothetical protein	2460526	2461819	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02424	chrA1	Chromate transport protein	2462272	2462830	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02425	srpC_1	putative chromate transport protein	2462826	2463375	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02426	ywrD	Glutathione hydrolase-like YwrD proenzyme	2463518	2465120	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1274: gamma-glutamyltranspeptidase
+region002	NZ_CP065320.1	OFOAEPEI_02427	ypdB_4	Transcriptional regulatory protein YpdB	2465151	2465850	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02428	OFOAEPEI_02428_gene	hypothetical protein	2466697	2468014	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02429	agrB	Accessory gene regulator protein B	2468160	2468718	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region002	NZ_CP065320.1	OFOAEPEI_02430	OFOAEPEI_02430_gene	hypothetical protein	2468633	2468840	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02431	OFOAEPEI_02431_gene	hypothetical protein	2469079	2469445	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02432	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU	2469441	2470434	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) GFO_IDH_MocA; biosynthetic-additional (rule-based-clusters) GFO_IDH_MocA_C3; biosynthetic-additional (smcogs) SMCOG1079: oxidoreductase
+region002	NZ_CP065320.1	OFOAEPEI_02433	OFOAEPEI_02433_gene	hypothetical protein	2470540	2471353	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02434	nudG	CTP pyrophosphohydrolase	2471355	2471745	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02435	pstS1	Phosphate-binding protein PstS 1	2471741	2472914	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02436	OFOAEPEI_02436_gene	Deoxyguanosinetriphosphate triphosphohydrolase-like protein	2473073	2474303	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02437	OFOAEPEI_02437_gene	hypothetical protein	2474496	2475120	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02438	OFOAEPEI_02438_gene	hypothetical protein	2475119	2475632	-	other	
+region002	NZ_CP065320.1	OFOAEPEI_02439	tetR	Tetracycline repressor protein class G	2475688	2476366	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02440	licA_8	Lichenan-specific phosphotransferase enzyme IIA component	2476683	2477022	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02441	OFOAEPEI_02441_gene	hypothetical protein	2477082	2477202	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02442	OFOAEPEI_02442_gene	hypothetical protein	2477215	2477407	+	other	
+region002	NZ_CP065320.1	OFOAEPEI_02443	OFOAEPEI_02443_gene	hypothetical protein	2477827	2478700	-	other	

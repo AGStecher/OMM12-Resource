@@ -1,0 +1,17 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds	Assembly Stats GC Percent	CheckM completeness	CheckM contamination
+GCA_002201475.1	ASM220147v1	Acutalibacter muris		KB18					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3802913	Chromosome	6/20/2017		1	54.5	98.25	0.22
+GCF_002201475.1	ASM220147v1	Acutalibacter muris		KB18					GCF_002201475.1-RS_2024_12_11	3802913	Chromosome	6/20/2017		1	54.5	98.25	0.22
+GCA_016697365.1	ASM1669736v1	Acutalibacter muris		KB18					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3802913	Chromosome	1/19/2021		1	54.5	98.25	0.22
+GCF_016697365.1	ASM1669736v1	Acutalibacter muris		KB18					GCF_016697365.1-RS_2025_02_03	3802913	Chromosome	1/19/2021		1	54.5	98.25	0.22
+GCA_949034105.1	MGBC115188	Acutalibacter muris					MGBC115188			3422842	Scaffold	4/20/2023	CAROFO01	102	54.5		
+GCA_948800305.1	MGBC164597	Acutalibacter muris					MGBC164597			3128245	Scaffold	4/17/2023	CAQHGX01	53	55.5	98.25	1.1
+GCF_948800305.1	MGBC164597	Acutalibacter muris					MGBC164597		GCF_948800305.1-RS_2025_08_25	3128245	Scaffold	4/17/2023	CAQHGX01	53	55.5	98.25	1.1
+GCA_948718065.1	MGBC129931	Acutalibacter muris					MGBC129931			3212086	Scaffold	4/18/2023	CAPVCI01	94	55.5	98.25	1.1
+GCF_948718065.1	MGBC129931	Acutalibacter muris					MGBC129931		GCF_948718065.1-RS_2025_08_25	3212086	Scaffold	4/18/2023	CAPVCI01	94	55.5	98.25	1.1
+GCA_948987775.1	MGBC123426	Acutalibacter muris					MGBC123426			3294891	Scaffold	4/20/2023	CARHJZ01	323	56		
+GCA_948580785.1	MGBC117637	Acutalibacter muris					MGBC117637			3052766	Scaffold	4/17/2023	CAPAUK01	196	56	89.8	1.81
+GCF_948580785.1	MGBC117637	Acutalibacter muris					MGBC117637		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3052766	Scaffold	4/17/2023	CAPAUK01	196	56	89.8	1.81
+GCA_948803965.1	MGBC163574	Acutalibacter muris					MGBC163574			3070238	Scaffold	4/17/2023	CAQHVD01	358	55.5	94.06	0.88
+GCF_948803965.1	MGBC163574	Acutalibacter muris					MGBC163574		GCF_948803965.1-RS_2025_08_25	3070238	Scaffold	4/17/2023	CAQHVD01	358	55.5	94.06	0.88
+GCA_948564225.1	MGBC102129	Acutalibacter muris					MGBC102129			3202567	Scaffold	4/18/2023	CAOYIS01	675	55	83.11	0.69
+GCA_948576935.1	MGBC102124	Acutalibacter muris					MGBC102124			3100134	Scaffold	4/17/2023	CAPAFQ01	670	55	83.46	2.88

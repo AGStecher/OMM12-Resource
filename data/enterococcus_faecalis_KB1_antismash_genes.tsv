@@ -1,0 +1,40 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065317.1	BELIKPJO_00335	stp	Multidrug resistance protein Stp	343944	345333	-	transport	transport (smcogs) SMCOG1005: Drug resistance transporter, EmrB/QacA
+region001	NZ_CP065317.1	BELIKPJO_00336	cynR_2	HTH-type transcriptional regulator CynR	345714	346569	-	regulatory	regulatory (smcogs) SMCOG1014: LysR family transcriptional regulator
+region001	NZ_CP065317.1	BELIKPJO_00337	rbn	Ribonuclease BN	346960	347791	+	other	
+region001	NZ_CP065317.1	BELIKPJO_00338	sspA	Glutamyl endopeptidase	347938	348793	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00339	gelE	Gelatinase	348841	350371	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00340	BELIKPJO_00340_gene	hypothetical protein	350608	351952	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00341	agrB	Accessory gene regulator protein B	351948	352677	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region001	NZ_CP065317.1	BELIKPJO_00342	agrA_1	Accessory gene regulator A	352765	353509	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00343	BELIKPJO_00343_gene	N-acetylmuramoyl-L-alanine amidase domain-containing protein	353915	355889	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00344	hypBA2	Beta-L-arabinobiosidase	355970	358130	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00345	lacR_1	Lactose phosphotransferase system repressor	358327	359080	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00346	BELIKPJO_00346_gene	hypothetical protein	359415	360408	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00347	BELIKPJO_00347_gene	hypothetical protein	360498	361077	-	other	
+region001	NZ_CP065317.1	BELIKPJO_00348	pgdA	Peptidoglycan-N-acetylglucosamine deacetylase	361300	362206	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1235: polysaccharide deacetylase
+region001	NZ_CP065317.1	BELIKPJO_00349	rplS	50S ribosomal protein L19	362327	362675	-	other	
+region002	NZ_CP065317.1	BELIKPJO_02403	tipA_2	HTH-type transcriptional activator TipA	2515696	2516473	+	regulatory	regulatory (smcogs) SMCOG1171: transcriptional regulator, MerR family
+region002	NZ_CP065317.1	BELIKPJO_02405	rplU	50S ribosomal protein L21	2517243	2517552	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02406	BELIKPJO_02406_gene	hypothetical protein	2517584	2517929	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02407	rpmA	50S ribosomal protein L27	2517941	2518229	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02408	psiE	Protein PsiE	2518427	2518880	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02409	lpxG_1	UDP-2,3-diacylglucosamine pyrophosphatase LpxG	2518950	2519766	-	other	
+region002	NZ_CP065317.1	BELIKPJO_02410	ypdF	Aminopeptidase YpdF	2519937	2521002	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1172: methionine aminopeptidase
+region002	NZ_CP065317.1	BELIKPJO_02411	BELIKPJO_02411_gene	hypothetical protein	2521015	2521336	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02412	BELIKPJO_02412_gene	putative protein	2521668	2522100	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02413	nusB	Transcription antitermination protein NusB	2522092	2522545	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02414	folD	Bifunctional protein FolD protein	2522648	2523494	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02415	xseA	Exodeoxyribonuclease 7 large subunit	2523503	2524850	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02416	xseB	Exodeoxyribonuclease 7 small subunit	2524851	2525082	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02417	BELIKPJO_02417_gene	Farnesyl diphosphate synthase	2525081	2525963	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region002	NZ_CP065317.1	BELIKPJO_02418	tlyA	Hemolysin A	2525976	2526792	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02419	argR_4	Arginine repressor	2526930	2527380	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02420	recN	DNA repair protein RecN	2527397	2529071	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02421	BELIKPJO_02421_gene	hypothetical protein	2529162	2529273	-	other	
+region002	NZ_CP065317.1	BELIKPJO_02422	corA	Cobalt/magnesium transport protein CorA	2529340	2530306	-	other	
+region002	NZ_CP065317.1	BELIKPJO_02423	BELIKPJO_02423_gene	hypothetical protein	2530571	2530943	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02424	mraZ	Transcriptional regulator MraZ	2531224	2531662	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02425	rsmH	Ribosomal RNA small subunit methyltransferase H	2531676	2532633	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02426	ftsL	Cell division protein FtsL	2532649	2533045	+	other	
+region002	NZ_CP065317.1	BELIKPJO_02427	pbpX_2	Penicillin-binding protein 2X	2533044	2535273	+	other	

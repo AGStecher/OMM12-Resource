@@ -1,0 +1,212 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065312.1	LFHPKGDB_00039	LFHPKGDB_00039_gene	hypothetical protein	52829	53819	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00040	LFHPKGDB_00040_gene	putative ABC transporter ATP-binding protein	53836	54304	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region001	NZ_CP065312.1	LFHPKGDB_00041	LFHPKGDB_00041_gene	hypothetical protein	54416	54971	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00042	LFHPKGDB_00042_gene	hypothetical protein	54975	55725	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00043	LFHPKGDB_00043_gene	hypothetical protein	55746	56220	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00044	LFHPKGDB_00044_gene	hypothetical protein	56315	56792	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00045	LFHPKGDB_00045_gene	hypothetical protein	56776	57208	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00046	sinR_1	HTH-type transcriptional regulator SinR	58160	58493	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00047	LFHPKGDB_00047_gene	hypothetical protein	59437	60292	+	other	other (smcogs) SMCOG1206: transposase
+region001	NZ_CP065312.1	LFHPKGDB_00048	LFHPKGDB_00048_gene	hypothetical protein	60251	60818	+	other	
+region001	NZ_CP065312.1	LFHPKGDB_00049	LFHPKGDB_00049_gene	hypothetical protein	60802	61099	+	other	
+region001	NZ_CP065312.1	LFHPKGDB_00050	LFHPKGDB_00050_gene	hypothetical protein	61404	61857	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00051	LFHPKGDB_00051_gene	hypothetical protein	61920	62337	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00052	agrB_1	Accessory gene regulator protein B	62311	62920	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region001	NZ_CP065312.1	LFHPKGDB_00053	LFHPKGDB_00053_gene	hypothetical protein	62921	63074	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region001	NZ_CP065312.1	LFHPKGDB_00054	dpiB	Sensor histidine kinase DpiB	63144	64473	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00055	lytR_1	Sensory transduction protein LytR	64465	65191	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00056	LFHPKGDB_00056_gene	hypothetical protein	65217	65598	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00057	LFHPKGDB_00057_gene	hypothetical protein	66051	66729	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00058	nisC	Nisin biosynthesis protein NisC	66800	68123	-	biosynthetic	biosynthetic (rule-based-clusters) lanthipeptide-class-i: LANC_like; biosynthetic-additional (smcogs) SMCOG1140: Lanthionine synthetase C family protein
+region001	NZ_CP065312.1	LFHPKGDB_00059	LFHPKGDB_00059_gene	putative ABC transporter ATP-binding protein	68125	69931	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region001	NZ_CP065312.1	LFHPKGDB_00060	nisB	Nisin biosynthesis protein NisB	69917	72983	-	biosynthetic	biosynthetic (rule-based-clusters) lanthipeptide-class-i: Lant_dehydr_N; biosynthetic (rule-based-clusters) lanthipeptide-class-i: Lant_dehydr_C; biosynthetic-additional (rule-based-clusters) Lanthipeptide_LanB_RRE; biosynthetic-additional (smcogs) SMCOG1155: Lantibiotic dehydratase domain protein
+region001	NZ_CP065312.1	LFHPKGDB_00061	atoS	Signal transduction histidine-protein kinase AtoS	73065	74439	-	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region001	NZ_CP065312.1	LFHPKGDB_00062	arlR_1	Response regulator ArlR	74423	75089	-	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region001	NZ_CP065312.1	LFHPKGDB_00063	spaS_1	Lantibiotic subtilin	75235	75385	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TIGR03731; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region001	NZ_CP065312.1	LFHPKGDB_00064	spaS_2	Lantibiotic subtilin	75412	75586	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TIGR03731; biosynthetic-additional (rule-based-clusters) mature_a; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region001	NZ_CP065312.1	LFHPKGDB_00065	spaS_3	Lantibiotic subtilin	75614	75788	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TIGR03731; biosynthetic-additional (rule-based-clusters) mature_a; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region001	NZ_CP065312.1	LFHPKGDB_00066	spaS_4	Lantibiotic subtilin	75815	75989	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TIGR03731; biosynthetic-additional (rule-based-clusters) mature_a; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region001	NZ_CP065312.1	LFHPKGDB_00067	spaS_5	Lantibiotic subtilin	76017	76191	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TIGR03731; biosynthetic-additional (rule-based-clusters) mature_a; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region001	NZ_CP065312.1	LFHPKGDB_00068	resE_1	Sensor histidine kinase ResE	76613	77975	-	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region001	NZ_CP065312.1	LFHPKGDB_00069	saeR_1	Response regulator SaeR	77971	78631	-	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region001	NZ_CP065312.1	LFHPKGDB_00070	nisI	Nisin immunity protein	78692	79508	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00071	LFHPKGDB_00071_gene	hypothetical protein	79500	80232	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00072	LFHPKGDB_00072_gene	hypothetical protein	80233	80956	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00073	yxlF_1	putative ABC transporter ATP-binding protein YxlF	80959	81661	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region001	NZ_CP065312.1	LFHPKGDB_00074	LFHPKGDB_00074_gene	hypothetical protein	81820	82324	-	other	
+region001	NZ_CP065312.1	LFHPKGDB_00075	sipV	Signal peptidase I V	82515	82956	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00330	LFHPKGDB_00330_gene	hypothetical protein	330324	331224	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00331	LFHPKGDB_00331_gene	hypothetical protein	331394	331634	+	other	
+region002	NZ_CP065312.1	LFHPKGDB_00332	LFHPKGDB_00332_gene	hypothetical protein	331742	332153	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00333	cspA	Cold shock-like protein CspA	332577	332790	+	regulatory	regulatory (smcogs) SMCOG1255: cold-shock DNA-binding domain protein
+region002	NZ_CP065312.1	LFHPKGDB_00334	LFHPKGDB_00334_gene	hypothetical protein	333214	333616	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00335	abn2	Extracellular endo-alpha-(1->5)-L-arabinanase 2	333658	336238	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00336	LFHPKGDB_00336_gene	hypothetical protein	336727	336913	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00337	LFHPKGDB_00337_gene	hypothetical protein	336960	337614	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00338	ytrB_2	ABC transporter ATP-binding protein YtrB	337616	338465	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region002	NZ_CP065312.1	LFHPKGDB_00339	bchE_1	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase	338481	339810	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF04055; other (smcogs) SMCOG1277: Radical SAM domain protein
+region002	NZ_CP065312.1	LFHPKGDB_00340	pqqD	Coenzyme PQQ synthesis protein D	339826	341080	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: Stand_Alone_Lasso_RRE; biosynthetic (rule-based-clusters) ranthipeptide: PqqD_RRE; biosynthetic (rule-based-clusters) ranthipeptide: Subtilosin_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PF05402; biosynthetic-additional (rule-based-clusters) TIGR04085
+region002	NZ_CP065312.1	LFHPKGDB_00341	bchE_2	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase	341096	342392	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF04055; other (smcogs) SMCOG1277: Radical SAM domain protein
+region002	NZ_CP065312.1	LFHPKGDB_00342	LFHPKGDB_00342_gene	hypothetical protein	342404	342680	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00343	LFHPKGDB_00343_gene	hypothetical protein	342762	342951	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00344	LFHPKGDB_00344_gene	hypothetical protein	342997	343186	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00345	LFHPKGDB_00345_gene	Putative multidrug export ATP-binding/permease protein	343244	345374	-	transport	biosynthetic-additional (rule-based-clusters) Peptidase_C39; transport (smcogs) SMCOG1288: ABC transporter related protein
+region002	NZ_CP065312.1	LFHPKGDB_00346	metK_1	S-adenosylmethionine synthase	345407	346604	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00347	LFHPKGDB_00347_gene	hypothetical protein	346619	347276	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00348	drrA_2	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	347414	348185	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region002	NZ_CP065312.1	LFHPKGDB_00349	yydH	Putative peptide zinc metalloprotease protein YydH	348199	348916	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00350	queE_1	7-carboxy-7-deazaguanine synthase	348902	349838	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic (rule-based-clusters) ranthipeptide: SPASM; biosynthetic-additional (rule-based-clusters) Fer4_12; biosynthetic-additional (rule-based-clusters) QueE
+region002	NZ_CP065312.1	LFHPKGDB_00351	yydJ	putative peptide export permease protein YydJ	349827	350535	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00352	yydI	putative peptide export ATP-binding protein YydI	350538	351168	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region002	NZ_CP065312.1	LFHPKGDB_00353	LFHPKGDB_00353_gene	hypothetical protein	351277	351424	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00354	LFHPKGDB_00354_gene	hypothetical protein	351468	351615	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00355	LFHPKGDB_00355_gene	hypothetical protein	351764	351929	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00356	LFHPKGDB_00356_gene	hypothetical protein	352181	352358	+	other	
+region002	NZ_CP065312.1	LFHPKGDB_00357	LFHPKGDB_00357_gene	hypothetical protein	353100	353217	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00358	agrA	Accessory gene regulator A	353665	354397	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00359	agrB_2	Accessory gene regulator protein B	354511	355084	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region002	NZ_CP065312.1	LFHPKGDB_00360	LFHPKGDB_00360_gene	hypothetical protein	355049	356339	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00361	LFHPKGDB_00361_gene	hypothetical protein	356710	356839	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00362	LFHPKGDB_00362_gene	hypothetical protein	356924	357944	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00363	LFHPKGDB_00363_gene	hypothetical protein	358004	358436	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00364	LFHPKGDB_00364_gene	hypothetical protein	358408	358624	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00365	LFHPKGDB_00365_gene	hypothetical protein	358837	359797	+	other	
+region002	NZ_CP065312.1	LFHPKGDB_00366	LFHPKGDB_00366_gene	hypothetical protein	359882	360611	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00367	nfrA2_1	FMN reductase [NAD(P)H]	360631	361150	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF00881; biosynthetic-additional (smcogs) SMCOG1159: dihydropteridine reductase
+region002	NZ_CP065312.1	LFHPKGDB_00368	ytcD_1	putative HTH-type transcriptional regulator YtcD	361317	361662	+	regulatory	regulatory (smcogs) SMCOG1167: transcriptional regulator
+region002	NZ_CP065312.1	LFHPKGDB_00369	LFHPKGDB_00369_gene	hypothetical protein	361658	361919	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00370	LFHPKGDB_00370_gene	hypothetical protein	361964	362210	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00371	xerD_1	Tyrosine recombinase XerD	362264	363122	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region002	NZ_CP065312.1	LFHPKGDB_00372	LFHPKGDB_00372_gene	hypothetical protein	363311	363797	-	other	
+region002	NZ_CP065312.1	LFHPKGDB_00373	ribU_1	Riboflavin transporter RibU	363812	364475	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00404	hemZ	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ	403718	405233	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF04055
+region003	NZ_CP065312.1	LFHPKGDB_00405	LFHPKGDB_00405_gene	putative metallo-hydrolase	405257	405890	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1170: metallo-beta-lactamase family protein
+region003	NZ_CP065312.1	LFHPKGDB_00406	relA	GTP pyrophosphokinase	405901	408211	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00407	apt	Adenine phosphoribosyltransferase	408228	408753	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00408	LFHPKGDB_00408_gene	hypothetical protein	409045	409246	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00409	recJ	Single-stranded-DNA-specific exonuclease RecJ	409456	411172	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00410	secDF_1	Protein translocase subunit SecDF	411238	413473	-	transport	transport (smcogs) SMCOG1049: AcrB/AcrD/AcrF family protein
+region003	NZ_CP065312.1	LFHPKGDB_00411	mftC_1	Putative mycofactocin radical SAM maturase MftC	413669	415022	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic (rule-based-clusters) ranthipeptide: TIGR04085; biosynthetic (rule-based-clusters) ranthipeptide: Ranthipeptide_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12
+region003	NZ_CP065312.1	LFHPKGDB_00412	LFHPKGDB_00412_gene	hypothetical protein	415329	415470	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: SCIFF; biosynthetic (rule-based-clusters) ranthipeptide: TIGR03973
+region003	NZ_CP065312.1	LFHPKGDB_00413	LFHPKGDB_00413_gene	hypothetical protein	415603	415978	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00414	LFHPKGDB_00414_gene	hypothetical protein	416043	418011	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00415	LFHPKGDB_00415_gene	hypothetical protein	418059	418164	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00416	LFHPKGDB_00416_gene	hypothetical protein	418324	419605	+	other	other (smcogs) SMCOG1273: hypothetical protein
+region003	NZ_CP065312.1	LFHPKGDB_00417	LFHPKGDB_00417_gene	hypothetical protein	419670	420396	+	other	
+region003	NZ_CP065312.1	LFHPKGDB_00418	LFHPKGDB_00418_gene	hypothetical protein	420424	421048	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00419	idi	Isopentenyl-diphosphate Delta-isomerase	421047	421581	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00420	csxA_1	Exo-beta-D-glucosaminidase	421596	424068	-	other	
+region003	NZ_CP065312.1	LFHPKGDB_00421	yjdJ	putative protein YjdJ	424095	424383	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00689	LFHPKGDB_00689_gene	hypothetical protein	699528	700122	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00690	fabH2	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 2	700137	701025	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) fabH; biosynthetic-additional (smcogs) SMCOG1084: 3-oxoacyl-(acyl carrier protein) synthase III
+region004	NZ_CP065312.1	LFHPKGDB_00691	LFHPKGDB_00691_gene	hypothetical protein	700999	701584	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00692	LFHPKGDB_00692_gene	hypothetical protein	701580	703380	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TPP_enzyme_C
+region004	NZ_CP065312.1	LFHPKGDB_00693	fabH_2	3-oxoacyl-[acyl-carrier-protein] synthase 3	703376	704375	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) fabH; biosynthetic-additional (smcogs) SMCOG1084: 3-oxoacyl-(acyl carrier protein) synthase III
+region004	NZ_CP065312.1	LFHPKGDB_00694	LFHPKGDB_00694_gene	hypothetical protein	704364	704967	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00695	LFHPKGDB_00695_gene	hypothetical protein	704968	706714	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TPP_enzyme_C
+region004	NZ_CP065312.1	LFHPKGDB_00696	acrR_1	HTH-type transcriptional regulator AcrR	707191	707770	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00697	LFHPKGDB_00697_gene	hypothetical protein	708068	708929	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00698	LFHPKGDB_00698_gene	hypothetical protein	709012	712126	-	biosynthetic	biosynthetic (rule-based-clusters) lanthipeptide-class-ii: DUF4135; biosynthetic (rule-based-clusters) lanthipeptide-class-ii: LANC_like; biosynthetic-additional (smcogs) SMCOG1070: lanthionine synthetase C family protein
+region004	NZ_CP065312.1	LFHPKGDB_00699	LFHPKGDB_00699_gene	hypothetical protein	712181	712337	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00700	LFHPKGDB_00700_gene	hypothetical protein	712360	713674	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00701	lytR_2	Sensory transduction protein LytR	713670	714390	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00702	LFHPKGDB_00702_gene	hypothetical protein	715106	715682	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00703	LFHPKGDB_00703_gene	hypothetical protein	716433	716652	+	other	
+region004	NZ_CP065312.1	LFHPKGDB_00704	agrB_3	Accessory gene regulator protein B	716736	717303	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region004	NZ_CP065312.1	LFHPKGDB_00705	LFHPKGDB_00705_gene	hypothetical protein	717320	717464	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223; biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region004	NZ_CP065312.1	LFHPKGDB_00706	LFHPKGDB_00706_gene	hypothetical protein	717585	718017	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00707	LFHPKGDB_00707_gene	hypothetical protein	718784	719477	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00708	LFHPKGDB_00708_gene	hypothetical protein	719445	720147	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00709	LFHPKGDB_00709_gene	hypothetical protein	720167	720479	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00710	LFHPKGDB_00710_gene	hypothetical protein	720612	720726	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00711	LFHPKGDB_00711_gene	Fluoroquinolones export permease protein	720755	721469	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00712	LFHPKGDB_00712_gene	Fluoroquinolones export permease protein	721465	722149	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00713	LFHPKGDB_00713_gene	Fluoroquinolones export ATP-binding protein	722145	722991	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region004	NZ_CP065312.1	LFHPKGDB_00714	slmA_1	Nucleoid occlusion factor SlmA	723075	723642	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00715	LFHPKGDB_00715_gene	hypothetical protein	723987	724434	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00716	LFHPKGDB_00716_gene	hypothetical protein	724447	726721	-	other	
+region004	NZ_CP065312.1	LFHPKGDB_00717	LFHPKGDB_00717_gene	putative ABC transporter ATP-binding protein	726720	727425	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region005	NZ_CP065312.1	LFHPKGDB_02786	drrA_5	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	2975576	2976509	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region005	NZ_CP065312.1	LFHPKGDB_02787	LFHPKGDB_02787_gene	hypothetical protein	2976520	2977660	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02788	LFHPKGDB_02788_gene	hypothetical protein	2977646	2978858	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02789	ybiR	Inner membrane protein YbiR	2978876	2980007	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02790	LFHPKGDB_02790_gene	hypothetical protein	2980103	2980355	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02791	LFHPKGDB_02791_gene	hypothetical protein	2981023	2981458	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02792	LFHPKGDB_02792_gene	hypothetical protein	2981544	2982675	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02793	natA_3	ABC transporter ATP-binding protein NatA	2982723	2983365	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region005	NZ_CP065312.1	LFHPKGDB_02794	LFHPKGDB_02794_gene	hypothetical protein	2983371	2984226	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02795	LFHPKGDB_02795_gene	hypothetical protein	2984218	2985040	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02796	agrB_4	Accessory gene regulator protein B	2985120	2985714	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region005	NZ_CP065312.1	LFHPKGDB_02797	LFHPKGDB_02797_gene	hypothetical protein	2985842	2985977	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region005	NZ_CP065312.1	LFHPKGDB_02798	LFHPKGDB_02798_gene	hypothetical protein	2987031	2988315	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02799	ypdB_2	Transcriptional regulatory protein YpdB	2988295	2989069	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02800	LFHPKGDB_02800_gene	hypothetical protein	2989119	2989338	-	other	
+region005	NZ_CP065312.1	LFHPKGDB_02801	LFHPKGDB_02801_gene	hypothetical protein	2989695	2989893	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02802	pilE	Fimbrial protein	2990067	2990862	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02803	LFHPKGDB_02803_gene	hypothetical protein	2991069	2992320	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02804	LFHPKGDB_02804_gene	hypothetical protein	2992356	2992806	+	other	
+region005	NZ_CP065312.1	LFHPKGDB_02805	LFHPKGDB_02805_gene	hypothetical protein	2993018	2993228	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02920	natA_4	ABC transporter ATP-binding protein NatA	3115894	3116887	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region006	NZ_CP065312.1	LFHPKGDB_02921	LFHPKGDB_02921_gene	hypothetical protein	3116864	3117668	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02922	LFHPKGDB_02922_gene	hypothetical protein	3117664	3118465	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02923	LFHPKGDB_02923_gene	hypothetical protein	3118486	3118834	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02924	LFHPKGDB_02924_gene	hypothetical protein	3118823	3119315	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02925	immR_3	HTH-type transcriptional regulator ImmR	3120743	3121100	-	other	other (smcogs) SMCOG1148: hypothetical protein
+region006	NZ_CP065312.1	LFHPKGDB_02926	btsR_3	Transcriptional regulatory protein BtsR	3121372	3122089	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02927	LFHPKGDB_02927_gene	hypothetical protein	3122090	3123392	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02928	LFHPKGDB_02928_gene	hypothetical protein	3123543	3123699	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02929	LFHPKGDB_02929_gene	hypothetical protein	3124813	3127738	+	biosynthetic	biosynthetic (rule-based-clusters) lanthipeptide-class-ii: DUF4135; biosynthetic (rule-based-clusters) lanthipeptide-class-ii: LANC_like; biosynthetic-additional (smcogs) SMCOG1070: lanthionine synthetase C family protein
+region006	NZ_CP065312.1	LFHPKGDB_02930	LFHPKGDB_02930_gene	hypothetical protein	3127782	3128505	+	other	
+region006	NZ_CP065312.1	LFHPKGDB_02931	xerS_1	Tyrosine recombinase XerS	3129757	3130543	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region006	NZ_CP065312.1	LFHPKGDB_02932	LFHPKGDB_02932_gene	hypothetical protein	3131107	3131329	-	biosynthetic-additional	biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region006	NZ_CP065312.1	LFHPKGDB_02933	ctkA	Serine/threonine-protein kinase CtkA	3131441	3132329	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02934	LFHPKGDB_02934_gene	hypothetical protein	3132331	3132793	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02935	LFHPKGDB_02935_gene	hypothetical protein	3133387	3133603	-	biosynthetic-additional	biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region006	NZ_CP065312.1	LFHPKGDB_02936	LFHPKGDB_02936_gene	hypothetical protein	3133605	3133845	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02937	LFHPKGDB_02937_gene	hypothetical protein	3133844	3134336	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02938	LFHPKGDB_02938_gene	hypothetical protein	3134332	3134635	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02939	LFHPKGDB_02939_gene	hypothetical protein	3134905	3135127	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02940	LFHPKGDB_02940_gene	hypothetical protein	3135139	3136264	-	other	
+region006	NZ_CP065312.1	LFHPKGDB_02941	LFHPKGDB_02941_gene	hypothetical protein	3136311	3137346	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03965	spoIIIAB	Stage III sporulation protein AB	4261846	4262365	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03966	LFHPKGDB_03966_gene	hypothetical protein	4262443	4262638	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03967	LFHPKGDB_03967_gene	hypothetical protein	4262657	4263044	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03968	spoIIIAE	Stage III sporulation protein AE	4263040	4264525	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03969	LFHPKGDB_03969_gene	hypothetical protein	4264555	4264909	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03970	LFHPKGDB_03970_gene	hypothetical protein	4264905	4265391	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03971	LFHPKGDB_03971_gene	hypothetical protein	4265451	4266237	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03972	prfC	Peptide chain release factor 3	4266460	4268053	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1190: GTP-binding protein LepA
+region007	NZ_CP065312.1	LFHPKGDB_03973	LFHPKGDB_03973_gene	hypothetical protein	4268294	4268834	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03974	LFHPKGDB_03974_gene	Alkaline shock protein 23	4269095	4269476	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03975	nusB	Transcription antitermination protein NusB	4269775	4270183	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03976	xseA	Exodeoxyribonuclease 7 large subunit	4270179	4271475	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03977	xseB_1	Exodeoxyribonuclease 7 small subunit	4271497	4271719	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03978	LFHPKGDB_03978_gene	Farnesyl diphosphate synthase	4271708	4272611	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region007	NZ_CP065312.1	LFHPKGDB_03979	dxs_7	1-deoxy-D-xylulose-5-phosphate synthase	4272625	4274488	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DXP_synthase_N; biosynthetic-additional (rule-based-clusters) TPP_enzyme_C; biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region007	NZ_CP065312.1	LFHPKGDB_03980	tlyA	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA	4274484	4275294	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03981	nadK	NAD kinase	4275298	4276159	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03982	argR	Arginine repressor	4276244	4276715	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03983	recN	DNA repair protein RecN	4276720	4278406	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03984	spoIVB	SpoIVB peptidase	4278488	4279691	+	other	
+region007	NZ_CP065312.1	LFHPKGDB_03985	spo0A_2	Stage 0 sporulation protein A	4279890	4280685	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region007	NZ_CP065312.1	LFHPKGDB_03986	glgA	Glycogen synthase	4280831	4282277	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Glycos_transf_1; biosynthetic-additional (smcogs) SMCOG1045: glycosyl transferase group 1
+region008	NZ_CP065312.1	LFHPKGDB_04165	kup	Low affinity potassium transport system protein kup	4482598	4484590	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04166	LFHPKGDB_04166_gene	hypothetical protein	4484714	4484963	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04167	LFHPKGDB_04167_gene	hypothetical protein	4485057	4485738	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04168	glpK_4	Glycerol kinase	4485886	4487383	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1210: glycerol kinase
+region008	NZ_CP065312.1	LFHPKGDB_04169	LFHPKGDB_04169_gene	hypothetical protein	4487512	4488505	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04170	lytR_3	Sensory transduction protein LytR	4488857	4489574	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04171	LFHPKGDB_04171_gene	hypothetical protein	4489573	4490938	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04172	LFHPKGDB_04172_gene	hypothetical protein	4490888	4491029	+	biosynthetic-additional	biosynthetic-additional (lanthipeptides) predicted lanthipeptide
+region008	NZ_CP065312.1	LFHPKGDB_04173	LFHPKGDB_04173_gene	hypothetical protein	4491176	4491869	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04174	LFHPKGDB_04174_gene	hypothetical protein	4491865	4494193	+	biosynthetic	biosynthetic (rule-based-clusters) lanthipeptide-class-ii: DUF4135; biosynthetic (rule-based-clusters) lanthipeptide-class-ii: LANC_like; biosynthetic-additional (smcogs) SMCOG1070: lanthionine synthetase C family protein
+region008	NZ_CP065312.1	LFHPKGDB_04175	LFHPKGDB_04175_gene	hypothetical protein	4494527	4494995	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04176	LFHPKGDB_04176_gene	hypothetical protein	4495101	4496502	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04177	LFHPKGDB_04177_gene	hypothetical protein	4496536	4497292	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04178	LFHPKGDB_04178_gene	hypothetical protein	4497284	4498184	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04179	LFHPKGDB_04179_gene	Fluoroquinolones export ATP-binding protein	4498205	4498877	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region008	NZ_CP065312.1	LFHPKGDB_04180	LFHPKGDB_04180_gene	hypothetical protein	4498869	4499520	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04181	LFHPKGDB_04181_gene	hypothetical protein	4499534	4501130	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04182	LFHPKGDB_04182_gene	hypothetical protein	4501122	4502124	+	other	
+region008	NZ_CP065312.1	LFHPKGDB_04183	LFHPKGDB_04183_gene	putative protein	4502506	4503376	+	other	

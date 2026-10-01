@@ -1,0 +1,4 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065318.1	235814	276972	41158	T3PKS	PKS			
+region002	NZ_CP065318.1	975892	988034	12142	RiPP-like	RiPP			
+region003	NZ_CP065318.1	1829903	1850776	20873	terpene-precursor	terpene			

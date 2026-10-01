@@ -1,0 +1,266 @@
+Pathway modules
+Carbohydrate metabolism
+Central carbohydrate metabolism
+M00001 Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate (11)  (complete 9/9)
+K00134
+GFAIFJLA_00799
+K00850
+GFAIFJLA_03821
+K00873
+GFAIFJLA_02115
+K00927
+GFAIFJLA_02834
+K01624
+GFAIFJLA_00394, GFAIFJLA_03063
+K01689
+GFAIFJLA_03308
+K01803
+GFAIFJLA_02833
+K01810
+GFAIFJLA_02808
+K15633
+GFAIFJLA_02831
+K21071
+GFAIFJLA_03639
+K25026
+GFAIFJLA_03675
+M00002 Glycolysis, core module involving three-carbon compounds (6)  (complete 5/5)
+K00134
+GFAIFJLA_00799
+K00873
+GFAIFJLA_02115
+K00927
+GFAIFJLA_02834
+K01689
+GFAIFJLA_03308
+K01803
+GFAIFJLA_02833
+K15633
+GFAIFJLA_02831
+M00307 Pyruvate oxidation, pyruvate => acetyl-CoA (1)  (complete 1/1)
+K03737
+GFAIFJLA_03651
+M00005 PRPP biosynthesis, ribose-5P => PRPP (1)  (complete 1/1)
+K00948
+GFAIFJLA_01289
+Other carbohydrate metabolism
+M00632 Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P (4)  (complete 4/4)
+K00849
+GFAIFJLA_00366
+K00965
+GFAIFJLA_01724
+K01784
+GFAIFJLA_03819
+K01785
+GFAIFJLA_01261, GFAIFJLA_03676
+M00854 Glycogen biosynthesis, glucose-1P => glycogen/starch (4)  (complete 2/2)
+K00700
+GFAIFJLA_03447
+K00703
+GFAIFJLA_03450
+K00963
+GFAIFJLA_02340
+K00975
+GFAIFJLA_03448, GFAIFJLA_03449
+Lipid metabolism
+Fatty acid metabolism
+M00082 Fatty acid biosynthesis, initiation (6)  (complete 2/2)
+K00645
+GFAIFJLA_02007
+K00648
+GFAIFJLA_02009
+K01961
+GFAIFJLA_02002
+K01962
+GFAIFJLA_02000
+K01963
+GFAIFJLA_02001
+K02160
+GFAIFJLA_02004
+M00083 Fatty acid biosynthesis, elongation (4)  (complete 1/1)
+K00059
+GFAIFJLA_02006, GFAIFJLA_02042
+K02371
+GFAIFJLA_02008
+K02372
+GFAIFJLA_02003
+K09458
+GFAIFJLA_02005
+Nucleotide metabolism
+Purine metabolism
+M00048 De novo purine biosynthesis, PRPP + glutamine => IMP (9)  (complete 8/8)
+K00602
+GFAIFJLA_00358
+K00764
+GFAIFJLA_00674, GFAIFJLA_03028
+K01588
+GFAIFJLA_00353
+K01756
+GFAIFJLA_00860
+K01923
+GFAIFJLA_02107
+K01933
+GFAIFJLA_00355, GFAIFJLA_00475
+K01945
+GFAIFJLA_00360
+K01952
+GFAIFJLA_01912
+K11175
+GFAIFJLA_00356
+Pyrimidine metabolism
+M00051 De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP (8)  (complete 3/3)
+K00609
+GFAIFJLA_02297
+K00610
+GFAIFJLA_02295
+K00762
+GFAIFJLA_02040
+K01465
+GFAIFJLA_00369
+K01591
+GFAIFJLA_00368
+K01955
+GFAIFJLA_00702, GFAIFJLA_01142
+K01956
+GFAIFJLA_00703
+K17828
+GFAIFJLA_00834
+Amino acid metabolism
+Serine and threonine metabolism
+M00020 Serine biosynthesis, glycerate-3P => serine (3)  (complete 3/3)
+K00058
+GFAIFJLA_00887
+K00831
+GFAIFJLA_00885
+K22305
+GFAIFJLA_00833
+M00018 Threonine biosynthesis, aspartate => homoserine => threonine (5)  (complete 5/5)
+K00003
+GFAIFJLA_03240
+K00133
+GFAIFJLA_00120
+K00872
+GFAIFJLA_03241
+K00928
+GFAIFJLA_03242
+K01733
+GFAIFJLA_03761
+Cysteine and methionine metabolism
+M00021 Cysteine biosynthesis, serine => cysteine (2)  (complete 2/2)
+K00640
+GFAIFJLA_01288
+K01738
+GFAIFJLA_02100
+Branched-chain amino acid metabolism
+M00019 Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine (5)  (complete 4/4)
+K00053
+GFAIFJLA_02882
+K00826
+GFAIFJLA_02482
+K01652
+GFAIFJLA_00089, GFAIFJLA_02885
+K01653
+GFAIFJLA_00088, GFAIFJLA_02884
+K01687
+GFAIFJLA_02381, GFAIFJLA_02879
+M00570 Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine (6)  (complete 5/5)
+K00053
+GFAIFJLA_02882
+K00826
+GFAIFJLA_02482
+K01652
+GFAIFJLA_00089, GFAIFJLA_02885
+K01653
+GFAIFJLA_00088, GFAIFJLA_02884
+K01687
+GFAIFJLA_02381, GFAIFJLA_02879
+K01754
+GFAIFJLA_02887
+Lysine metabolism
+M00527 Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine (7)  (complete 7/7)
+K00133
+GFAIFJLA_00120
+K00215
+GFAIFJLA_00122
+K00928
+GFAIFJLA_03242
+K01586
+GFAIFJLA_03754
+K01714
+GFAIFJLA_00121, GFAIFJLA_03570
+K01778
+GFAIFJLA_00699
+K10206
+GFAIFJLA_00696
+Arginine and proline metabolism
+M00028 Ornithine biosynthesis, glutamate => ornithine (4)  (complete 4/4)
+K00145
+GFAIFJLA_03663
+K00620
+GFAIFJLA_03664
+K00821
+GFAIFJLA_03667
+K00930
+GFAIFJLA_03666
+M00844 Arginine biosynthesis, ornithine => arginine (3)  (complete 3/3)
+K00611
+GFAIFJLA_03668
+K01755
+GFAIFJLA_03662
+K01940
+GFAIFJLA_03660
+M00015 Proline biosynthesis, glutamate => proline (3)  (complete 2/2)
+K00147
+GFAIFJLA_03260
+K00286
+GFAIFJLA_03259
+K00931
+GFAIFJLA_03261
+Aromatic amino acid metabolism
+M00022 Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate (8)  (complete 4/4)
+K00014
+GFAIFJLA_02866
+K00800
+GFAIFJLA_01512
+K00891
+GFAIFJLA_01997, GFAIFJLA_02867
+K01626
+GFAIFJLA_01911
+K01735
+GFAIFJLA_02870
+K01736
+GFAIFJLA_01511
+K03785
+GFAIFJLA_00782
+K03856
+GFAIFJLA_02868
+Glycan metabolism
+Nucleotide sugar biosynthesis
+M00549 UDP-Glc biosynthesis, Glc => UDP-Glc (3)  (complete 3/3)
+K00963
+GFAIFJLA_02340
+K01835
+GFAIFJLA_02043
+K25026
+GFAIFJLA_03675
+M00554 UDP-Gal biosynthesis, Gal => UDP-Gal (2)  (complete 2/2)
+K00849
+GFAIFJLA_00366
+K00965
+GFAIFJLA_01724
+Metabolism of cofactors and vitamins
+Cofactor and vitamin metabolism
+M00899 Thiamine salvage pathway, HMP/HET => TMP (3)  (complete 2/2)
+K00788
+GFAIFJLA_00103
+K00878
+GFAIFJLA_00104
+K00941
+GFAIFJLA_00101
+M00140 C1-unit interconversion, prokaryotes (3)  (complete 3/3)
+K00600
+GFAIFJLA_02900
+K01491
+GFAIFJLA_00133
+K01938
+GFAIFJLA_00141

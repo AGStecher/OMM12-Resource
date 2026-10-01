@@ -1,0 +1,4011 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PBFPHCLI_00001	CDS	2346	narG	1.7.99.4	COG5013	Respiratory nitrate reductase 1 alpha chain
+PBFPHCLI_00001	gene	2346	narG			
+PBFPHCLI_00002	CDS	1560	narH	1.7.99.4	COG1140	Respiratory nitrate reductase 1 beta chain
+PBFPHCLI_00002	gene	1560	narH			
+PBFPHCLI_00003	CDS	579	narJ		COG2180	Nitrate reductase molybdenum cofactor assembly chaperone NarJ
+PBFPHCLI_00003	gene	579	narJ			
+PBFPHCLI_00004	CDS	690	narX	1.7.99.4		Nitrate reductase-like protein NarX
+PBFPHCLI_00004	gene	690	narX			
+PBFPHCLI_00005	CDS	891				hypothetical protein
+PBFPHCLI_00005	gene	891				
+PBFPHCLI_00006	CDS	648	xerC_1			Tyrosine recombinase XerC
+PBFPHCLI_00006	gene	648	xerC_1			
+PBFPHCLI_00007	CDS	855				hypothetical protein
+PBFPHCLI_00007	gene	855				
+PBFPHCLI_00008	CDS	564				hypothetical protein
+PBFPHCLI_00008	gene	564				
+PBFPHCLI_00009	CDS	1740	inuJ	2.4.1.9		Inulosucrase
+PBFPHCLI_00009	gene	1740	inuJ			
+PBFPHCLI_00010	CDS	969				hypothetical protein
+PBFPHCLI_00010	gene	969				
+PBFPHCLI_00011	CDS	1080	xerS		COG0582	Tyrosine recombinase XerS
+PBFPHCLI_00011	gene	1080	xerS			
+PBFPHCLI_00012	tRNA	74				tRNA-Pro(tgg)
+PBFPHCLI_00012	gene	74				
+PBFPHCLI_00013	CDS	594	accC	6.3.4.14	COG0439	Biotin carboxylase
+PBFPHCLI_00013	gene	594	accC			
+PBFPHCLI_00014	CDS	849	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PBFPHCLI_00014	gene	849	accD			
+PBFPHCLI_00015	CDS	777	accA	6.4.1.2	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PBFPHCLI_00015	gene	777	accA			
+PBFPHCLI_00016	CDS	765	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+PBFPHCLI_00016	gene	765	fabI			
+PBFPHCLI_00017	tRNA	73				tRNA-Glu(ttc)
+PBFPHCLI_00017	gene	73				
+PBFPHCLI_00018	tRNA	72				tRNA-Gly(gcc)
+PBFPHCLI_00018	gene	72				
+PBFPHCLI_00019	tRNA	87				tRNA-Leu(taa)
+PBFPHCLI_00019	gene	87				
+PBFPHCLI_00020	tRNA	77				tRNA-Pro(tgg)
+PBFPHCLI_00020	gene	77				
+PBFPHCLI_00021	tRNA	71				tRNA-Gly(tcc)
+PBFPHCLI_00021	gene	71				
+PBFPHCLI_00022	tRNA	73				tRNA-Glu(ttc)
+PBFPHCLI_00022	gene	73				
+PBFPHCLI_00023	tRNA	75				tRNA-Val(tac)
+PBFPHCLI_00023	gene	75				
+PBFPHCLI_00024	tRNA	74				tRNA-Gln(ttg)
+PBFPHCLI_00024	gene	74				
+PBFPHCLI_00025	CDS	354				hypothetical protein
+PBFPHCLI_00025	gene	354				
+PBFPHCLI_00026	CDS	648				hypothetical protein
+PBFPHCLI_00026	gene	648				
+PBFPHCLI_00027	CDS	969				hypothetical protein
+PBFPHCLI_00027	gene	969				
+PBFPHCLI_00028	CDS	858	nlhH_1	3.1.1.1	COG0657	Carboxylesterase NlhH
+PBFPHCLI_00028	gene	858	nlhH_1			
+PBFPHCLI_00029	CDS	198				hypothetical protein
+PBFPHCLI_00029	gene	198				
+PBFPHCLI_00030	CDS	663				hypothetical protein
+PBFPHCLI_00030	gene	663				
+PBFPHCLI_00031	CDS	171				hypothetical protein
+PBFPHCLI_00031	gene	171				
+PBFPHCLI_00032	CDS	1170				hypothetical protein
+PBFPHCLI_00032	gene	1170				
+PBFPHCLI_00033	CDS	474				hypothetical protein
+PBFPHCLI_00033	gene	474				
+PBFPHCLI_00034	CDS	213				hypothetical protein
+PBFPHCLI_00034	gene	213				
+PBFPHCLI_00035	CDS	135				hypothetical protein
+PBFPHCLI_00035	gene	135				
+PBFPHCLI_00036	CDS	237				hypothetical protein
+PBFPHCLI_00036	gene	237				
+PBFPHCLI_00037	CDS	183				hypothetical protein
+PBFPHCLI_00037	gene	183				
+PBFPHCLI_00038	CDS	639				hypothetical protein
+PBFPHCLI_00038	gene	639				
+PBFPHCLI_00039	CDS	987	Int-Tn_1			Transposase from transposon Tn916
+PBFPHCLI_00039	gene	987	Int-Tn_1			
+PBFPHCLI_00040	CDS	909				hypothetical protein
+PBFPHCLI_00040	gene	909				
+PBFPHCLI_00041	CDS	216				hypothetical protein
+PBFPHCLI_00041	gene	216				
+PBFPHCLI_00042	CDS	180				hypothetical protein
+PBFPHCLI_00042	gene	180				
+PBFPHCLI_00043	CDS	204				hypothetical protein
+PBFPHCLI_00043	gene	204				
+PBFPHCLI_00044	CDS	345				hypothetical protein
+PBFPHCLI_00044	gene	345				
+PBFPHCLI_00045	CDS	324				hypothetical protein
+PBFPHCLI_00045	gene	324				
+PBFPHCLI_00046	CDS	159				hypothetical protein
+PBFPHCLI_00046	gene	159				
+PBFPHCLI_00047	CDS	216				hypothetical protein
+PBFPHCLI_00047	gene	216				
+PBFPHCLI_00048	CDS	657	lexA_1	3.4.21.88	COG1974	LexA repressor
+PBFPHCLI_00048	gene	657	lexA_1			
+PBFPHCLI_00049	CDS	900				hypothetical protein
+PBFPHCLI_00049	gene	900				
+PBFPHCLI_00050	CDS	513				hypothetical protein
+PBFPHCLI_00050	gene	513				
+PBFPHCLI_00051	CDS	450				hypothetical protein
+PBFPHCLI_00051	gene	450				
+PBFPHCLI_00052	CDS	861				hypothetical protein
+PBFPHCLI_00052	gene	861				
+PBFPHCLI_00053	CDS	183				hypothetical protein
+PBFPHCLI_00053	gene	183				
+PBFPHCLI_00054	CDS	558				hypothetical protein
+PBFPHCLI_00054	gene	558				
+PBFPHCLI_00055	tRNA	72				tRNA-Arg(tcg)
+PBFPHCLI_00055	gene	72				
+PBFPHCLI_00056	CDS	363	lapA			Lipopolysaccharide assembly protein A
+PBFPHCLI_00056	gene	363	lapA			
+PBFPHCLI_00057	CDS	819	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PBFPHCLI_00057	gene	819	ybjI			
+PBFPHCLI_00058	CDS	483	ntd	2.4.2.6		Nucleoside deoxyribosyltransferase
+PBFPHCLI_00058	gene	483	ntd			
+PBFPHCLI_00059	CDS	156				hypothetical protein
+PBFPHCLI_00059	gene	156				
+PBFPHCLI_00060	CDS	1332				hypothetical protein
+PBFPHCLI_00060	gene	1332				
+PBFPHCLI_00061	CDS	444				hypothetical protein
+PBFPHCLI_00061	gene	444				
+PBFPHCLI_00062	CDS	270	ybaN		COG2832	Inner membrane protein YbaN
+PBFPHCLI_00062	gene	270	ybaN			
+PBFPHCLI_00063	CDS	2325				hypothetical protein
+PBFPHCLI_00063	gene	2325				
+PBFPHCLI_00064	CDS	855	endA	3.1.30.-		DNA-entry nuclease
+PBFPHCLI_00064	gene	855	endA			
+PBFPHCLI_00065	CDS	1389	yifK_1		COG1113	putative transport protein YifK
+PBFPHCLI_00065	gene	1389	yifK_1			
+PBFPHCLI_00066	CDS	819				hypothetical protein
+PBFPHCLI_00066	gene	819				
+PBFPHCLI_00067	CDS	1776	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+PBFPHCLI_00067	gene	1776	dxs			
+PBFPHCLI_00068	CDS	1251				hypothetical protein
+PBFPHCLI_00068	gene	1251				
+PBFPHCLI_00069	CDS	693				hypothetical protein
+PBFPHCLI_00069	gene	693				
+PBFPHCLI_00070	CDS	2514	uvrA_1		COG0178	UvrABC system protein A
+PBFPHCLI_00070	gene	2514	uvrA_1			
+PBFPHCLI_00071	CDS	339	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+PBFPHCLI_00071	gene	339	crcB_1			
+PBFPHCLI_00072	CDS	378	crcB_2			Putative fluoride ion transporter CrcB
+PBFPHCLI_00072	gene	378	crcB_2			
+PBFPHCLI_00073	CDS	393			COG0346	Virulence protein
+PBFPHCLI_00073	gene	393				
+PBFPHCLI_00074	CDS	816				hypothetical protein
+PBFPHCLI_00074	gene	816				
+PBFPHCLI_00075	CDS	1737	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+PBFPHCLI_00075	gene	1737	ubiB			
+PBFPHCLI_00076	CDS	1362				hypothetical protein
+PBFPHCLI_00076	gene	1362				
+PBFPHCLI_00077	CDS	429	copY			Transcriptional repressor CopY
+PBFPHCLI_00077	gene	429	copY			
+PBFPHCLI_00078	CDS	852	mdtD_1			Putative multidrug resistance protein MdtD
+PBFPHCLI_00078	gene	852	mdtD_1			
+PBFPHCLI_00079	CDS	456				hypothetical protein
+PBFPHCLI_00079	gene	456				
+PBFPHCLI_00080	CDS	234				hypothetical protein
+PBFPHCLI_00080	gene	234				
+PBFPHCLI_00081	CDS	525				hypothetical protein
+PBFPHCLI_00081	gene	525				
+PBFPHCLI_00082	CDS	846				hypothetical protein
+PBFPHCLI_00082	gene	846				
+PBFPHCLI_00083	CDS	849	gspA_1		COG1442	General stress protein A
+PBFPHCLI_00083	gene	849	gspA_1			
+PBFPHCLI_00084	CDS	657	yedJ		COG1418	putative protein YedJ
+PBFPHCLI_00084	gene	657	yedJ			
+PBFPHCLI_00085	CDS	678				hypothetical protein
+PBFPHCLI_00085	gene	678				
+PBFPHCLI_00086	CDS	879	degV		COG1307	Protein DegV
+PBFPHCLI_00086	gene	879	degV			
+PBFPHCLI_00087	CDS	1683	yloA		COG1293	putative protein YloA
+PBFPHCLI_00087	gene	1683	yloA			
+PBFPHCLI_00088	CDS	2475	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase arginine-specific large chain
+PBFPHCLI_00088	gene	2475	carB_1			
+PBFPHCLI_00089	CDS	1086	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+PBFPHCLI_00089	gene	1086	carA_1			
+PBFPHCLI_00090	CDS	912	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PBFPHCLI_00090	gene	912	rluD_1			
+PBFPHCLI_00091	CDS	447	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+PBFPHCLI_00091	gene	447	lspA			
+PBFPHCLI_00092	CDS	393				hypothetical protein
+PBFPHCLI_00092	gene	393				
+PBFPHCLI_00093	CDS	396	rnhA_1		COG0328	14.7 kDa ribonuclease H-like protein
+PBFPHCLI_00093	gene	396	rnhA_1			
+PBFPHCLI_00094	CDS	1155	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+PBFPHCLI_00094	gene	1155	rlmL			
+PBFPHCLI_00095	CDS	477			COG1780	Putative NrdI-like protein
+PBFPHCLI_00095	gene	477				
+PBFPHCLI_00096	CDS	363	gpsB		COG3599	Cell cycle protein GpsB
+PBFPHCLI_00096	gene	363	gpsB			
+PBFPHCLI_00097	CDS	573				hypothetical protein
+PBFPHCLI_00097	gene	573				
+PBFPHCLI_00098	CDS	615	recU	3.1.22.-	COG3331	Holliday junction resolvase RecU
+PBFPHCLI_00098	gene	615	recU			
+PBFPHCLI_00099	CDS	2265	ponA		COG0744	Penicillin-binding protein 1A
+PBFPHCLI_00099	gene	2265	ponA			
+PBFPHCLI_00100	CDS	918	yicL_1		COG0697	putative inner membrane transporter YicL
+PBFPHCLI_00100	gene	918	yicL_1			
+PBFPHCLI_00101	CDS	705	dnaD		COG3935	DNA replication protein DnaD
+PBFPHCLI_00101	gene	705	dnaD			
+PBFPHCLI_00102	CDS	519				hypothetical protein
+PBFPHCLI_00102	gene	519				
+PBFPHCLI_00103	CDS	2865	dinG	3.6.4.12	COG0847	putative ATP-dependent helicase DinG 
+PBFPHCLI_00103	gene	2865	dinG			
+PBFPHCLI_00104	CDS	951	galK_1	2.7.1.6		Galactokinase
+PBFPHCLI_00104	gene	951	galK_1			
+PBFPHCLI_00105	CDS	972	thrB	2.7.1.39		Homoserine kinase
+PBFPHCLI_00105	gene	972	thrB			
+PBFPHCLI_00106	CDS	1128		2.7.4.2		Phosphomevalonate kinase
+PBFPHCLI_00106	gene	1128				
+PBFPHCLI_00107	CDS	1044	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+PBFPHCLI_00107	gene	1044	fni			
+PBFPHCLI_00108	CDS	501	yagU		COG3477	Inner membrane protein YagU
+PBFPHCLI_00108	gene	501	yagU			
+PBFPHCLI_00109	CDS	2190	melA	3.2.1.22	COG3345	Alpha-galactosidase Mel36A
+PBFPHCLI_00109	gene	2190	melA			
+PBFPHCLI_00110	CDS	1020	lacR_1		COG1609	HTH-type transcriptional regulator LacR
+PBFPHCLI_00110	gene	1020	lacR_1			
+PBFPHCLI_00111	CDS	879	gmuE	2.7.1.4	COG1940	Putative fructokinase
+PBFPHCLI_00111	gene	879	gmuE			
+PBFPHCLI_00112	CDS	975	ldh_1	1.1.1.27	COG0039	L-lactate dehydrogenase
+PBFPHCLI_00112	gene	975	ldh_1			
+PBFPHCLI_00113	CDS	741	lrgB		COG1346	Antiholin-like protein LrgB
+PBFPHCLI_00113	gene	741	lrgB			
+PBFPHCLI_00114	CDS	420	lrgA		COG1380	Antiholin-like protein LrgA
+PBFPHCLI_00114	gene	420	lrgA			
+PBFPHCLI_00115	CDS	732	lytR		COG3279	Sensory transduction protein LytR
+PBFPHCLI_00115	gene	732	lytR			
+PBFPHCLI_00116	CDS	1626	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+PBFPHCLI_00116	gene	1626	ypdA			
+PBFPHCLI_00117	CDS	867				hypothetical protein
+PBFPHCLI_00117	gene	867				
+PBFPHCLI_00118	CDS	1368	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+PBFPHCLI_00118	gene	1368	rsmF			
+PBFPHCLI_00119	CDS	813	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+PBFPHCLI_00119	gene	813	yitU			
+PBFPHCLI_00120	CDS	237				hypothetical protein
+PBFPHCLI_00120	gene	237				
+PBFPHCLI_00121	CDS	654	nreC_1		COG2197	Oxygen regulatory protein NreC
+PBFPHCLI_00121	gene	654	nreC_1			
+PBFPHCLI_00122	CDS	891				hypothetical protein
+PBFPHCLI_00122	gene	891				
+PBFPHCLI_00123	CDS	333	sufT_1			Fe-S protein maturation auxiliary factor SufT
+PBFPHCLI_00123	gene	333	sufT_1			
+PBFPHCLI_00124	CDS	1410				hypothetical protein
+PBFPHCLI_00124	gene	1410				
+PBFPHCLI_00125	CDS	462	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+PBFPHCLI_00125	gene	462	iscU			
+PBFPHCLI_00126	CDS	1239	csd	2.8.1.7		putative cysteine desulfurase
+PBFPHCLI_00126	gene	1239	csd			
+PBFPHCLI_00127	CDS	1290				hypothetical protein
+PBFPHCLI_00127	gene	1290				
+PBFPHCLI_00128	CDS	798	sufC		COG0396	Vegetative protein 296
+PBFPHCLI_00128	gene	798	sufC			
+PBFPHCLI_00129	CDS	207				hypothetical protein
+PBFPHCLI_00129	gene	207				
+PBFPHCLI_00130	CDS	1992	feoB		COG0370	Fe(2+) transporter FeoB
+PBFPHCLI_00130	gene	1992	feoB			
+PBFPHCLI_00131	CDS	1422	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+PBFPHCLI_00131	gene	1422	menE			
+PBFPHCLI_00132	CDS	822	menB	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+PBFPHCLI_00132	gene	822	menB			
+PBFPHCLI_00133	CDS	375		3.1.2.-	COG2050	Putative esterase
+PBFPHCLI_00133	gene	375				
+PBFPHCLI_00134	CDS	576	sigH		COG1595	RNA polymerase sigma-H factor
+PBFPHCLI_00134	gene	576	sigH			
+PBFPHCLI_00135	CDS	1185	sauU_1			putative sulfoacetate transporter SauU
+PBFPHCLI_00135	gene	1185	sauU_1			
+PBFPHCLI_00136	CDS	2889				hypothetical protein
+PBFPHCLI_00136	gene	2889				
+PBFPHCLI_00137	CDS	726	kcsA		COG1226	pH-gated potassium channel KcsA
+PBFPHCLI_00137	gene	726	kcsA			
+PBFPHCLI_00138	CDS	459	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+PBFPHCLI_00138	gene	459	ribH			
+PBFPHCLI_00139	CDS	1182	ribBA_1		COG0108	Riboflavin biosynthesis protein RibBA
+PBFPHCLI_00139	gene	1182	ribBA_1			
+PBFPHCLI_00140	CDS	603	ribE	2.5.1.9	COG0307	Riboflavin synthase
+PBFPHCLI_00140	gene	603	ribE			
+PBFPHCLI_00141	CDS	1059	ribD		COG0117	Riboflavin biosynthesis protein RibD
+PBFPHCLI_00141	gene	1059	ribD			
+PBFPHCLI_00142	CDS	945	rihA_1	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+PBFPHCLI_00142	gene	945	rihA_1			
+PBFPHCLI_00143	CDS	126				hypothetical protein
+PBFPHCLI_00143	gene	126				
+PBFPHCLI_00144	CDS	2268				hypothetical protein
+PBFPHCLI_00144	gene	2268				
+PBFPHCLI_00145	CDS	789				hypothetical protein
+PBFPHCLI_00145	gene	789				
+PBFPHCLI_00146	CDS	450				hypothetical protein
+PBFPHCLI_00146	gene	450				
+PBFPHCLI_00147	CDS	492				hypothetical protein
+PBFPHCLI_00147	gene	492				
+PBFPHCLI_00148	CDS	501				hypothetical protein
+PBFPHCLI_00148	gene	501				
+PBFPHCLI_00149	CDS	858				hypothetical protein
+PBFPHCLI_00149	gene	858				
+PBFPHCLI_00150	CDS	276				hypothetical protein
+PBFPHCLI_00150	gene	276				
+PBFPHCLI_00151	CDS	1923	aam	3.5.1.13	COG0154	Acylamidase
+PBFPHCLI_00151	gene	1923	aam			
+PBFPHCLI_00152	CDS	210				hypothetical protein
+PBFPHCLI_00152	gene	210				
+PBFPHCLI_00153	CDS	312				hypothetical protein
+PBFPHCLI_00153	gene	312				
+PBFPHCLI_00154	CDS	534				hypothetical protein
+PBFPHCLI_00154	gene	534				
+PBFPHCLI_00155	CDS	1530	xylB_1	2.7.1.17	COG1070	Xylulose kinase
+PBFPHCLI_00155	gene	1530	xylB_1			
+PBFPHCLI_00156	CDS	1224	gntT		COG2610	High-affinity gluconate transporter
+PBFPHCLI_00156	gene	1224	gntT			
+PBFPHCLI_00157	CDS	1005	kdgR		COG1609	HTH-type transcriptional regulator KdgR
+PBFPHCLI_00157	gene	1005	kdgR			
+PBFPHCLI_00158	CDS	1530	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+PBFPHCLI_00158	gene	1530	xylB_2			
+PBFPHCLI_00159	CDS	546				hypothetical protein
+PBFPHCLI_00159	gene	546				
+PBFPHCLI_00160	CDS	192				hypothetical protein
+PBFPHCLI_00160	gene	192				
+PBFPHCLI_00161	CDS	384				Alkaline shock protein 23
+PBFPHCLI_00161	gene	384				
+PBFPHCLI_00162	CDS	495	ywnH_1	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+PBFPHCLI_00162	gene	495	ywnH_1			
+PBFPHCLI_00163	CDS	141				hypothetical protein
+PBFPHCLI_00163	gene	141				
+PBFPHCLI_00164	CDS	324				hypothetical protein
+PBFPHCLI_00164	gene	324				
+PBFPHCLI_00165	CDS	390				hypothetical protein
+PBFPHCLI_00165	gene	390				
+PBFPHCLI_00166	CDS	936	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+PBFPHCLI_00166	gene	936	ppaC			
+PBFPHCLI_00167	CDS	468	rppH	3.6.1.-		RNA pyrophosphohydrolase
+PBFPHCLI_00167	gene	468	rppH			
+PBFPHCLI_00168	CDS	2466	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+PBFPHCLI_00168	gene	2466	parC			
+PBFPHCLI_00169	CDS	2010	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+PBFPHCLI_00169	gene	2010	parE			
+PBFPHCLI_00170	CDS	630	plsY	2.3.1.-	COG0344	Glycerol-3-phosphate acyltransferase
+PBFPHCLI_00170	gene	630	plsY			
+PBFPHCLI_00171	CDS	879	lacX			Protein LacX, plasmid
+PBFPHCLI_00171	gene	879	lacX			
+PBFPHCLI_00172	CDS	2121	topA	5.99.1.2		DNA topoisomerase 1
+PBFPHCLI_00172	gene	2121	topA			
+PBFPHCLI_00173	CDS	876	dprA		COG0758	DNA processing protein DprA
+PBFPHCLI_00173	gene	876	dprA			
+PBFPHCLI_00174	CDS	771	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PBFPHCLI_00174	gene	771	rnhB			
+PBFPHCLI_00175	CDS	873	rbgA		COG1161	Ribosome biogenesis GTPase A
+PBFPHCLI_00175	gene	873	rbgA			
+PBFPHCLI_00176	CDS	222				hypothetical protein
+PBFPHCLI_00176	gene	222				
+PBFPHCLI_00177	CDS	603				hypothetical protein
+PBFPHCLI_00177	gene	603				
+PBFPHCLI_00178	CDS	927	lipC	3.-.-.-	COG2755	Spore germination lipase LipC
+PBFPHCLI_00178	gene	927	lipC			
+PBFPHCLI_00179	CDS	843			COG1307	DegV domain-containing protein
+PBFPHCLI_00179	gene	843				
+PBFPHCLI_00180	CDS	645				hypothetical protein
+PBFPHCLI_00180	gene	645				
+PBFPHCLI_00181	CDS	489	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+PBFPHCLI_00181	gene	489	dfrA			
+PBFPHCLI_00182	CDS	963	thyA	2.1.1.45		Thymidylate synthase
+PBFPHCLI_00182	gene	963	thyA			
+PBFPHCLI_00183	CDS	1911	ettA		COG0488	Energy-dependent translational throttle protein EttA
+PBFPHCLI_00183	gene	1911	ettA			
+PBFPHCLI_00184	CDS	1212	cca	2.7.7.72		CCA-adding enzyme
+PBFPHCLI_00184	gene	1212	cca			
+PBFPHCLI_00185	CDS	1266	lapB			Lipopolysaccharide assembly protein B
+PBFPHCLI_00185	gene	1266	lapB			
+PBFPHCLI_00186	CDS	276	hup		COG0776	DNA-binding protein HU
+PBFPHCLI_00186	gene	276	hup			
+PBFPHCLI_00187	CDS	1314	der		COG1160	GTPase Der
+PBFPHCLI_00187	gene	1314	der			
+PBFPHCLI_00188	CDS	1251	rps1		COG0539	30S ribosomal protein S1
+PBFPHCLI_00188	gene	1251	rps1			
+PBFPHCLI_00189	CDS	687	cmk	2.7.4.25	COG0283	Cytidylate kinase
+PBFPHCLI_00189	gene	687	cmk			
+PBFPHCLI_00190	CDS	573				hypothetical protein
+PBFPHCLI_00190	gene	573				
+PBFPHCLI_00191	CDS	1440	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+PBFPHCLI_00191	gene	1440	recQ			
+PBFPHCLI_00192	CDS	1026				hypothetical protein
+PBFPHCLI_00192	gene	1026				
+PBFPHCLI_00193	CDS	579	ribU			Riboflavin transporter RibU
+PBFPHCLI_00193	gene	579	ribU			
+PBFPHCLI_00194	CDS	714	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+PBFPHCLI_00194	gene	714	rluB			
+PBFPHCLI_00195	CDS	606	scpB		COG1386	Segregation and condensation protein B
+PBFPHCLI_00195	gene	606	scpB			
+PBFPHCLI_00196	CDS	792	scpA		COG1354	Segregation and condensation protein A
+PBFPHCLI_00196	gene	792	scpA			
+PBFPHCLI_00197	CDS	357	ribT	2.3.1.-		Protein RibT
+PBFPHCLI_00197	gene	357	ribT			
+PBFPHCLI_00198	CDS	894	xerD			Tyrosine recombinase XerD
+PBFPHCLI_00198	gene	894	xerD			
+PBFPHCLI_00199	CDS	882	cvfB			Conserved virulence factor B
+PBFPHCLI_00199	gene	882	cvfB			
+PBFPHCLI_00200	CDS	1422	pyk	2.7.1.40	COG0469	Pyruvate kinase
+PBFPHCLI_00200	gene	1422	pyk			
+PBFPHCLI_00201	CDS	3348	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+PBFPHCLI_00201	gene	3348	dnaE			
+PBFPHCLI_00202	CDS	204				hypothetical protein
+PBFPHCLI_00202	gene	204				
+PBFPHCLI_00203	CDS	1251	pepT	3.4.11.4		Peptidase T
+PBFPHCLI_00203	gene	1251	pepT			
+PBFPHCLI_00204	CDS	825			COG0327	GTP cyclohydrolase 1 type 2 
+PBFPHCLI_00204	gene	825				
+PBFPHCLI_00205	CDS	708	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+PBFPHCLI_00205	gene	708	trmK			
+PBFPHCLI_00206	CDS	1185	patA_1	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PBFPHCLI_00206	gene	1185	patA_1			
+PBFPHCLI_00207	CDS	1143	sigA			RNA polymerase sigma factor SigA
+PBFPHCLI_00207	gene	1143	sigA			
+PBFPHCLI_00208	CDS	1866	dnaG	2.7.7.-	COG0358	DNA primase
+PBFPHCLI_00208	gene	1866	dnaG			
+PBFPHCLI_00209	CDS	2076	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+PBFPHCLI_00209	gene	2076	glyS			
+PBFPHCLI_00210	CDS	987	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+PBFPHCLI_00210	gene	987	glyQ			
+PBFPHCLI_00211	CDS	786	recO		COG1381	DNA repair protein RecO
+PBFPHCLI_00211	gene	786	recO			
+PBFPHCLI_00212	CDS	906	era		COG1159	GTPase Era
+PBFPHCLI_00212	gene	906	era			
+PBFPHCLI_00213	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+PBFPHCLI_00213	gene	396	dgkA			
+PBFPHCLI_00214	CDS	480	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PBFPHCLI_00214	gene	480	ybeY			
+PBFPHCLI_00215	CDS	1008			COG1702	PhoH-like protein
+PBFPHCLI_00215	gene	1008				
+PBFPHCLI_00216	CDS	972	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PBFPHCLI_00216	gene	972	birA			
+PBFPHCLI_00217	CDS	573	bioY		COG1268	Biotin transporter BioY
+PBFPHCLI_00217	gene	573	bioY			
+PBFPHCLI_00218	CDS	1386	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+PBFPHCLI_00218	gene	1386	argH			
+PBFPHCLI_00219	CDS	1233	argG	6.3.4.5		Argininosuccinate synthase
+PBFPHCLI_00219	gene	1233	argG			
+PBFPHCLI_00220	CDS	978	cbh	3.5.1.24		Choloylglycine hydrolase
+PBFPHCLI_00220	gene	978	cbh			
+PBFPHCLI_00221	CDS	447	yqeY		COG1610	putative protein YqeY
+PBFPHCLI_00221	gene	447	yqeY			
+PBFPHCLI_00222	CDS	192	rpsU		COG0828	30S ribosomal protein S21
+PBFPHCLI_00222	gene	192	rpsU			
+PBFPHCLI_00223	CDS	1512	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+PBFPHCLI_00223	gene	1512	artQ_1			
+PBFPHCLI_00224	CDS	741	artM		COG1126	Arginine transport ATP-binding protein ArtM
+PBFPHCLI_00224	gene	741	artM			
+PBFPHCLI_00225	CDS	1803	aspS	6.1.1.12		Aspartate--tRNA ligase
+PBFPHCLI_00225	gene	1803	aspS			
+PBFPHCLI_00226	CDS	849				hypothetical protein
+PBFPHCLI_00226	gene	849				
+PBFPHCLI_00227	CDS	438	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PBFPHCLI_00227	gene	438	dtd			
+PBFPHCLI_00228	CDS	2238	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+PBFPHCLI_00228	gene	2238	relA			
+PBFPHCLI_00229	CDS	336				hypothetical protein
+PBFPHCLI_00229	gene	336				
+PBFPHCLI_00230	CDS	741	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PBFPHCLI_00230	gene	741	rsmE			
+PBFPHCLI_00231	CDS	960	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+PBFPHCLI_00231	gene	960	prmA			
+PBFPHCLI_00232	CDS	339				hypothetical protein
+PBFPHCLI_00232	gene	339				
+PBFPHCLI_00233	CDS	960	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+PBFPHCLI_00233	gene	960	ldh_2			
+PBFPHCLI_00234	CDS	1077	yjmC	1.1.1.-	COG2055	putative oxidoreductase YjmC
+PBFPHCLI_00234	gene	1077	yjmC			
+PBFPHCLI_00235	CDS	1416	pepDA_1	3.4.-.-	COG4690	Dipeptidase A
+PBFPHCLI_00235	gene	1416	pepDA_1			
+PBFPHCLI_00236	CDS	1836	lepA	3.6.5.-	COG0481	Elongation factor 4
+PBFPHCLI_00236	gene	1836	lepA			
+PBFPHCLI_00237	CDS	1152	dnaJ		COG0484	Chaperone protein DnaJ
+PBFPHCLI_00237	gene	1152	dnaJ			
+PBFPHCLI_00238	CDS	1866	dnaK		COG0443	Chaperone protein DnaK
+PBFPHCLI_00238	gene	1866	dnaK			
+PBFPHCLI_00239	CDS	573	grpE		COG0576	Protein GrpE
+PBFPHCLI_00239	gene	573	grpE			
+PBFPHCLI_00240	CDS	1053	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+PBFPHCLI_00240	gene	1053	hrcA			
+PBFPHCLI_00241	CDS	372				hypothetical protein
+PBFPHCLI_00241	gene	372				
+PBFPHCLI_00242	CDS	948	ribF		COG0196	Riboflavin biosynthesis protein RibF
+PBFPHCLI_00242	gene	948	ribF			
+PBFPHCLI_00243	CDS	906	truB	5.4.99.25		tRNA pseudouridine synthase B
+PBFPHCLI_00243	gene	906	truB			
+PBFPHCLI_00244	CDS	360	rbfA			Ribosome-binding factor A
+PBFPHCLI_00244	gene	360	rbfA			
+PBFPHCLI_00245	CDS	2259	infB			Translation initiation factor IF-2
+PBFPHCLI_00245	gene	2259	infB			
+PBFPHCLI_00246	CDS	312	rplGA		COG1358	putative ribosomal protein YlxQ
+PBFPHCLI_00246	gene	312	rplGA			
+PBFPHCLI_00247	CDS	282				hypothetical protein
+PBFPHCLI_00247	gene	282				
+PBFPHCLI_00248	CDS	1188	nusA		COG0195	Transcription termination/antitermination protein NusA
+PBFPHCLI_00248	gene	1188	nusA			
+PBFPHCLI_00249	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+PBFPHCLI_00249	gene	474	rimP			
+PBFPHCLI_00250	CDS	4332	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PBFPHCLI_00250	gene	4332	polC_1			
+PBFPHCLI_00251	CDS	1734	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+PBFPHCLI_00251	gene	1734	proS			
+PBFPHCLI_00252	CDS	1275	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+PBFPHCLI_00252	gene	1275	rasP			
+PBFPHCLI_00253	CDS	786	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+PBFPHCLI_00253	gene	786	cdsA			
+PBFPHCLI_00254	CDS	765	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+PBFPHCLI_00254	gene	765	uppS			
+PBFPHCLI_00255	CDS	564	frr			Ribosome-recycling factor
+PBFPHCLI_00255	gene	564	frr			
+PBFPHCLI_00256	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+PBFPHCLI_00256	gene	723	pyrH			
+PBFPHCLI_00257	CDS	876	tsf		COG0264	Elongation factor Ts
+PBFPHCLI_00257	gene	876	tsf			
+PBFPHCLI_00258	CDS	789	rpsB		COG0052	30S ribosomal protein S2
+PBFPHCLI_00258	gene	789	rpsB			
+PBFPHCLI_00259	CDS	993	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+PBFPHCLI_00259	gene	993	ldhA			
+PBFPHCLI_00260	CDS	291				hypothetical protein
+PBFPHCLI_00260	gene	291				
+PBFPHCLI_00261	CDS	756	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PBFPHCLI_00261	gene	756	yfiC			
+PBFPHCLI_00262	CDS	639	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PBFPHCLI_00262	gene	639	plsC			
+PBFPHCLI_00263	CDS	228				hypothetical protein
+PBFPHCLI_00263	gene	228				
+PBFPHCLI_00264	CDS	252				hypothetical protein
+PBFPHCLI_00264	gene	252				
+PBFPHCLI_00265	CDS	627	lexA_2	3.4.21.88	COG1974	LexA repressor
+PBFPHCLI_00265	gene	627	lexA_2			
+PBFPHCLI_00266	CDS	1158	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+PBFPHCLI_00266	gene	1158	mvaS			
+PBFPHCLI_00267	CDS	669	rnhA_2	3.1.26.4	COG0328	Ribonuclease H
+PBFPHCLI_00267	gene	669	rnhA_2			
+PBFPHCLI_00268	tRNA	88				tRNA-Ser(cga)
+PBFPHCLI_00268	gene	88				
+PBFPHCLI_00269	CDS	615				hypothetical protein
+PBFPHCLI_00269	gene	615				
+PBFPHCLI_00270	CDS	519	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+PBFPHCLI_00270	gene	519	apt			
+PBFPHCLI_00271	CDS	2328	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+PBFPHCLI_00271	gene	2328	recJ			
+PBFPHCLI_00272	CDS	834	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PBFPHCLI_00272	gene	834	fabG			
+PBFPHCLI_00273	CDS	930	rnz	3.1.26.11	COG1234	Ribonuclease Z
+PBFPHCLI_00273	gene	930	rnz			
+PBFPHCLI_00274	CDS	1317	obg	3.6.5.-	COG0536	GTPase Obg
+PBFPHCLI_00274	gene	1317	obg			
+PBFPHCLI_00275	CDS	1812	uvrC		COG0322	UvrABC system protein C
+PBFPHCLI_00275	gene	1812	uvrC			
+PBFPHCLI_00276	CDS	138				hypothetical protein
+PBFPHCLI_00276	gene	138				
+PBFPHCLI_00277	CDS	342				hypothetical protein
+PBFPHCLI_00277	gene	342				
+PBFPHCLI_00278	CDS	591	engB		COG0218	putative GTP-binding protein EngB
+PBFPHCLI_00278	gene	591	engB			
+PBFPHCLI_00279	CDS	1251	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PBFPHCLI_00279	gene	1251	clpX			
+PBFPHCLI_00280	CDS	1311	tig	5.2.1.8	COG0544	Trigger factor
+PBFPHCLI_00280	gene	1311	tig			
+PBFPHCLI_00281	CDS	1191	tuf			Elongation factor Tu
+PBFPHCLI_00281	gene	1191	tuf			
+PBFPHCLI_00282	CDS	906				hypothetical protein
+PBFPHCLI_00282	gene	906				
+PBFPHCLI_00283	CDS	1383	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_00283	gene	1383	ltrA_1			
+PBFPHCLI_00284	CDS	1782	rnj2	3.1.-.-		Ribonuclease J 2
+PBFPHCLI_00284	gene	1782	rnj2			
+PBFPHCLI_00285	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+PBFPHCLI_00285	gene	270	rpsO			
+PBFPHCLI_00286	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+PBFPHCLI_00286	gene	255	rpsT			
+PBFPHCLI_00287	CDS	1698				hypothetical protein
+PBFPHCLI_00287	gene	1698				
+PBFPHCLI_00288	CDS	1032	yqeN		COG1466	putative protein YqeN
+PBFPHCLI_00288	gene	1032	yqeN			
+PBFPHCLI_00289	CDS	2130	comEC		COG0658	ComE operon protein 3
+PBFPHCLI_00289	gene	2130	comEC			
+PBFPHCLI_00290	CDS	486	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+PBFPHCLI_00290	gene	486	tadA_1			
+PBFPHCLI_00291	CDS	633	comEA		COG1555	ComE operon protein 1
+PBFPHCLI_00291	gene	633	comEA			
+PBFPHCLI_00292	CDS	1053	ylbL		COG3480	putative protein YlbL
+PBFPHCLI_00292	gene	1053	ylbL			
+PBFPHCLI_00293	CDS	522	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+PBFPHCLI_00293	gene	522	coaD			
+PBFPHCLI_00294	CDS	564	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+PBFPHCLI_00294	gene	564	rsmD			
+PBFPHCLI_00295	CDS	285				hypothetical protein
+PBFPHCLI_00295	gene	285				
+PBFPHCLI_00296	CDS	1224	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+PBFPHCLI_00296	gene	1224	ftsW			
+PBFPHCLI_00297	CDS	1845	typA		COG1217	GTP-binding protein TypA/BipA
+PBFPHCLI_00297	gene	1845	typA			
+PBFPHCLI_00298	CDS	774	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+PBFPHCLI_00298	gene	774	suhB			
+PBFPHCLI_00299	CDS	294				hypothetical protein
+PBFPHCLI_00299	gene	294				
+PBFPHCLI_00300	CDS	1428	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+PBFPHCLI_00300	gene	1428	pdhD			
+PBFPHCLI_00301	CDS	1335	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+PBFPHCLI_00301	gene	1335	pdhC			
+PBFPHCLI_00302	CDS	978	pdhB	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+PBFPHCLI_00302	gene	978	pdhB			
+PBFPHCLI_00303	CDS	1107	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+PBFPHCLI_00303	gene	1107	pdhA			
+PBFPHCLI_00304	CDS	561	def_1	3.5.1.88	COG0242	Peptide deformylase
+PBFPHCLI_00304	gene	561	def_1			
+PBFPHCLI_00305	CDS	477				hypothetical protein
+PBFPHCLI_00305	gene	477				
+PBFPHCLI_00306	CDS	213				hypothetical protein
+PBFPHCLI_00306	gene	213				
+PBFPHCLI_00307	CDS	948	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+PBFPHCLI_00307	gene	948	ytlR			
+PBFPHCLI_00308	CDS	204				hypothetical protein
+PBFPHCLI_00308	gene	204				
+PBFPHCLI_00309	CDS	459				hypothetical protein
+PBFPHCLI_00309	gene	459				
+PBFPHCLI_00310	CDS	1464	yocH		COG1388	Cell wall-binding protein YocH
+PBFPHCLI_00310	gene	1464	yocH			
+PBFPHCLI_00311	CDS	747				hypothetical protein
+PBFPHCLI_00311	gene	747				
+PBFPHCLI_00312	CDS	597				hypothetical protein
+PBFPHCLI_00312	gene	597				
+PBFPHCLI_00313	CDS	297				hypothetical protein
+PBFPHCLI_00313	gene	297				
+PBFPHCLI_00314	CDS	351				hypothetical protein
+PBFPHCLI_00314	gene	351				
+PBFPHCLI_00315	CDS	720	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+PBFPHCLI_00315	gene	720	garK			
+PBFPHCLI_00316	CDS	387	glxK	2.7.1.31	COG1929	Glycerate 3-kinase
+PBFPHCLI_00316	gene	387	glxK			
+PBFPHCLI_00317	CDS	1059	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+PBFPHCLI_00317	gene	1059	asd			
+PBFPHCLI_00318	CDS	1185	patA_2	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PBFPHCLI_00318	gene	1185	patA_2			
+PBFPHCLI_00319	CDS	780	dapB_1	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PBFPHCLI_00319	gene	780	dapB_1			
+PBFPHCLI_00320	CDS	924	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PBFPHCLI_00320	gene	924	dapA			
+PBFPHCLI_00321	CDS	1146		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+PBFPHCLI_00321	gene	1146				
+PBFPHCLI_00322	CDS	711	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PBFPHCLI_00322	gene	711	dapH			
+PBFPHCLI_00323	CDS	1311	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+PBFPHCLI_00323	gene	1311	lysA			
+PBFPHCLI_00324	CDS	1359	yclM	2.7.2.4	COG0527	Aspartokinase 3
+PBFPHCLI_00324	gene	1359	yclM			
+PBFPHCLI_00325	CDS	996	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+PBFPHCLI_00325	gene	996	dapF			
+PBFPHCLI_00326	CDS	975	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PBFPHCLI_00326	gene	975	prs_1			
+PBFPHCLI_00327	CDS	2478	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+PBFPHCLI_00327	gene	2478	recD2			
+PBFPHCLI_00328	CDS	684	yrrB			TPR repeat-containing protein YrrB
+PBFPHCLI_00328	gene	684	yrrB			
+PBFPHCLI_00329	CDS	657	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PBFPHCLI_00329	gene	657	pspA			
+PBFPHCLI_00330	CDS	1134	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+PBFPHCLI_00330	gene	1134	mnmA			
+PBFPHCLI_00331	CDS	339				hypothetical protein
+PBFPHCLI_00331	gene	339				
+PBFPHCLI_00332	CDS	1155	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+PBFPHCLI_00332	gene	1155	iscS_1			
+PBFPHCLI_00333	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PBFPHCLI_00333	gene	696	mtnN			
+PBFPHCLI_00334	CDS	270				hypothetical protein
+PBFPHCLI_00334	gene	270				
+PBFPHCLI_00335	CDS	552	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+PBFPHCLI_00335	gene	552	nudF			
+PBFPHCLI_00336	CDS	204	cspB			Cold shock protein CspB
+PBFPHCLI_00336	gene	204	cspB			
+PBFPHCLI_00337	CDS	2853	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+PBFPHCLI_00337	gene	2853	ileS			
+PBFPHCLI_00338	CDS	741	divIVA		COG3599	Septum site-determining protein DivIVA
+PBFPHCLI_00338	gene	741	divIVA			
+PBFPHCLI_00339	CDS	786				hypothetical protein
+PBFPHCLI_00339	gene	786				
+PBFPHCLI_00340	CDS	261				hypothetical protein
+PBFPHCLI_00340	gene	261				
+PBFPHCLI_00341	CDS	417	sepF		COG1799	Cell division protein SepF
+PBFPHCLI_00341	gene	417	sepF			
+PBFPHCLI_00342	CDS	1248	ftsZ		COG0206	Cell division protein FtsZ
+PBFPHCLI_00342	gene	1248	ftsZ			
+PBFPHCLI_00343	CDS	1374	ftsA_1		COG0849	Cell division protein FtsA
+PBFPHCLI_00343	gene	1374	ftsA_1			
+PBFPHCLI_00344	CDS	849	divIB		COG1589	Cell division protein DivIB
+PBFPHCLI_00344	gene	849	divIB			
+PBFPHCLI_00345	CDS	1113	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PBFPHCLI_00345	gene	1113	murG			
+PBFPHCLI_00346	CDS	1371	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PBFPHCLI_00346	gene	1371	murD			
+PBFPHCLI_00347	CDS	972	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PBFPHCLI_00347	gene	972	mraY			
+PBFPHCLI_00348	CDS	2160	pbpB		COG0768	Penicillin-binding protein 2B
+PBFPHCLI_00348	gene	2160	pbpB			
+PBFPHCLI_00349	CDS	372	ftsL_1			Cell division protein FtsL
+PBFPHCLI_00349	gene	372	ftsL_1			
+PBFPHCLI_00350	CDS	957	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+PBFPHCLI_00350	gene	957	rsmH			
+PBFPHCLI_00351	CDS	429	mraZ			Transcriptional regulator MraZ
+PBFPHCLI_00351	gene	429	mraZ			
+PBFPHCLI_00352	CDS	354				hypothetical protein
+PBFPHCLI_00352	gene	354				
+PBFPHCLI_00353	CDS	120				hypothetical protein
+PBFPHCLI_00353	gene	120				
+PBFPHCLI_00354	CDS	2331	spoIIIE		COG1674	DNA translocase SpoIIIE
+PBFPHCLI_00354	gene	2331	spoIIIE			
+PBFPHCLI_00355	CDS	510	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+PBFPHCLI_00355	gene	510	trmL			
+PBFPHCLI_00356	CDS	858	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+PBFPHCLI_00356	gene	858	rlmA			
+PBFPHCLI_00357	CDS	1029	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+PBFPHCLI_00357	gene	1029	pgl			
+PBFPHCLI_00358	CDS	258				hypothetical protein
+PBFPHCLI_00358	gene	258				
+PBFPHCLI_00359	CDS	174				hypothetical protein
+PBFPHCLI_00359	gene	174				
+PBFPHCLI_00360	rRNA	112				5S ribosomal RNA
+PBFPHCLI_00360	gene	112				
+PBFPHCLI_00361	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_00361	gene	2919				
+PBFPHCLI_00362	tRNA	75				tRNA-Ala(tgc)
+PBFPHCLI_00362	gene	75				
+PBFPHCLI_00363	tRNA	77				tRNA-Ile(gat)
+PBFPHCLI_00363	gene	77				
+PBFPHCLI_00364	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_00364	gene	1573				
+PBFPHCLI_00365	CDS	906		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+PBFPHCLI_00365	gene	906				
+PBFPHCLI_00366	CDS	813	nadK	2.7.1.23	COG0061	NAD kinase
+PBFPHCLI_00366	gene	813	nadK			
+PBFPHCLI_00367	CDS	654	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+PBFPHCLI_00367	gene	654	yjbM			
+PBFPHCLI_00368	CDS	639				hypothetical protein
+PBFPHCLI_00368	gene	639				
+PBFPHCLI_00369	CDS	1377	pepDA_2	3.4.-.-	COG4690	Dipeptidase A
+PBFPHCLI_00369	gene	1377	pepDA_2			
+PBFPHCLI_00370	CDS	1035	coiA		COG4469	Competence protein CoiA
+PBFPHCLI_00370	gene	1035	coiA			
+PBFPHCLI_00371	CDS	672	mecA		COG4862	Adapter protein MecA 1
+PBFPHCLI_00371	gene	672	mecA			
+PBFPHCLI_00372	CDS	402	spxA		COG1393	Regulatory protein Spx
+PBFPHCLI_00372	gene	402	spxA			
+PBFPHCLI_00373	CDS	492	hmoB	1.14.14.18	COG2329	Heme-degrading monooxygenase HmoB
+PBFPHCLI_00373	gene	492	hmoB			
+PBFPHCLI_00374	CDS	189				hypothetical protein
+PBFPHCLI_00374	gene	189				
+PBFPHCLI_00375	CDS	357				hypothetical protein
+PBFPHCLI_00375	gene	357				
+PBFPHCLI_00376	CDS	1545				hypothetical protein
+PBFPHCLI_00376	gene	1545				
+PBFPHCLI_00377	tRNA	77				tRNA-Asp(gtc)
+PBFPHCLI_00377	gene	77				
+PBFPHCLI_00378	tRNA	76				tRNA-Met(cat)
+PBFPHCLI_00378	gene	76				
+PBFPHCLI_00379	tRNA	75				tRNA-Glu(ttc)
+PBFPHCLI_00379	gene	75				
+PBFPHCLI_00380	tRNA	90				tRNA-Ser(gct)
+PBFPHCLI_00380	gene	90				
+PBFPHCLI_00381	tRNA	77				tRNA-Ile(gat)
+PBFPHCLI_00381	gene	77				
+PBFPHCLI_00382	tRNA	71				tRNA-Gly(tcc)
+PBFPHCLI_00382	gene	71				
+PBFPHCLI_00383	tRNA	75				tRNA-Phe(gaa)
+PBFPHCLI_00383	gene	75				
+PBFPHCLI_00384	tRNA	77				tRNA-Asp(gtc)
+PBFPHCLI_00384	gene	77				
+PBFPHCLI_00385	tRNA	76				tRNA-Met(cat)
+PBFPHCLI_00385	gene	76				
+PBFPHCLI_00386	tRNA	88				tRNA-Ser(tga)
+PBFPHCLI_00386	gene	88				
+PBFPHCLI_00387	tRNA	77				tRNA-Met(cat)
+PBFPHCLI_00387	gene	77				
+PBFPHCLI_00388	tRNA	76				tRNA-Met(cat)
+PBFPHCLI_00388	gene	76				
+PBFPHCLI_00389	tRNA	76				tRNA-Pro(tgg)
+PBFPHCLI_00389	gene	76				
+PBFPHCLI_00390	tRNA	76				tRNA-Arg(acg)
+PBFPHCLI_00390	gene	76				
+PBFPHCLI_00391	tRNA	87				tRNA-Leu(taa)
+PBFPHCLI_00391	gene	87				
+PBFPHCLI_00392	tRNA	72				tRNA-Gly(gcc)
+PBFPHCLI_00392	gene	72				
+PBFPHCLI_00393	tRNA	74				tRNA-Thr(tgt)
+PBFPHCLI_00393	gene	74				
+PBFPHCLI_00394	tRNA	75				tRNA-Lys(ttt)
+PBFPHCLI_00394	gene	75				
+PBFPHCLI_00395	tRNA	75				tRNA-Val(tac)
+PBFPHCLI_00395	gene	75				
+PBFPHCLI_00396	rRNA	112				5S ribosomal RNA
+PBFPHCLI_00396	gene	112				
+PBFPHCLI_00397	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_00397	gene	2919				
+PBFPHCLI_00398	tRNA	75				tRNA-Ala(tgc)
+PBFPHCLI_00398	gene	75				
+PBFPHCLI_00399	tRNA	77				tRNA-Ile(gat)
+PBFPHCLI_00399	gene	77				
+PBFPHCLI_00400	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_00400	gene	1573				
+PBFPHCLI_00401	CDS	648	dedA_1		COG0586	Protein DedA
+PBFPHCLI_00401	gene	648	dedA_1			
+PBFPHCLI_00402	CDS	654				hypothetical protein
+PBFPHCLI_00402	gene	654				
+PBFPHCLI_00403	CDS	771	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+PBFPHCLI_00403	gene	771	yutF			
+PBFPHCLI_00404	CDS	537	yutD		COG4470	putative protein YutD
+PBFPHCLI_00404	gene	537	yutD			
+PBFPHCLI_00405	CDS	609	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PBFPHCLI_00405	gene	609	cpdA			
+PBFPHCLI_00406	CDS	1197	ackA_1	2.7.2.1	COG0282	Acetate kinase
+PBFPHCLI_00406	gene	1197	ackA_1			
+PBFPHCLI_00407	CDS	798				hypothetical protein
+PBFPHCLI_00407	gene	798				
+PBFPHCLI_00408	CDS	192				hypothetical protein
+PBFPHCLI_00408	gene	192				
+PBFPHCLI_00409	CDS	432				hypothetical protein
+PBFPHCLI_00409	gene	432				
+PBFPHCLI_00410	CDS	291				hypothetical protein
+PBFPHCLI_00410	gene	291				
+PBFPHCLI_00411	CDS	435				hypothetical protein
+PBFPHCLI_00411	gene	435				
+PBFPHCLI_00412	CDS	312				hypothetical protein
+PBFPHCLI_00412	gene	312				
+PBFPHCLI_00413	CDS	1035				hypothetical protein
+PBFPHCLI_00413	gene	1035				
+PBFPHCLI_00414	CDS	978	comGA		COG2804	ComG operon protein 1
+PBFPHCLI_00414	gene	978	comGA			
+PBFPHCLI_00415	CDS	1383	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_00415	gene	1383	ltrA_2			
+PBFPHCLI_00416	CDS	747	yebC		COG0217	putative transcriptional regulatory protein YebC
+PBFPHCLI_00416	gene	747	yebC			
+PBFPHCLI_00417	CDS	846				hypothetical protein
+PBFPHCLI_00417	gene	846				
+PBFPHCLI_00418	CDS	1011	ccpA_1		COG1609	Catabolite control protein A
+PBFPHCLI_00418	gene	1011	ccpA_1			
+PBFPHCLI_00419	CDS	1101	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+PBFPHCLI_00419	gene	1101	pepQ			
+PBFPHCLI_00420	CDS	459				hypothetical protein
+PBFPHCLI_00420	gene	459				
+PBFPHCLI_00421	CDS	441				hypothetical protein
+PBFPHCLI_00421	gene	441				
+PBFPHCLI_00422	CDS	876	ykuT		COG0668	putative MscS family protein YkuT
+PBFPHCLI_00422	gene	876	ykuT			
+PBFPHCLI_00423	CDS	837	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+PBFPHCLI_00423	gene	837	ybiV			
+PBFPHCLI_00424	CDS	444	ykuL		COG0517	CBS domain-containing protein YkuL
+PBFPHCLI_00424	gene	444	ykuL			
+PBFPHCLI_00425	CDS	525				hypothetical protein
+PBFPHCLI_00425	gene	525				
+PBFPHCLI_00426	CDS	588	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+PBFPHCLI_00426	gene	588	rdgB			
+PBFPHCLI_00427	CDS	804	murI	5.1.1.3		Glutamate racemase
+PBFPHCLI_00427	gene	804	murI			
+PBFPHCLI_00428	CDS	555	yslB			putative protein YslB
+PBFPHCLI_00428	gene	555	yslB			
+PBFPHCLI_00429	CDS	315	trxA_1		COG0526	Thioredoxin
+PBFPHCLI_00429	gene	315	trxA_1			
+PBFPHCLI_00430	CDS	2376	mutS2	3.1.-.-		Endonuclease MutS2
+PBFPHCLI_00430	gene	2376	mutS2			
+PBFPHCLI_00431	CDS	537				hypothetical protein
+PBFPHCLI_00431	gene	537				
+PBFPHCLI_00432	CDS	297				hypothetical protein
+PBFPHCLI_00432	gene	297				
+PBFPHCLI_00433	CDS	444	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+PBFPHCLI_00433	gene	444	yrrK			
+PBFPHCLI_00434	CDS	267				hypothetical protein
+PBFPHCLI_00434	gene	267				
+PBFPHCLI_00435	CDS	2655	alaS	6.1.1.7		Alanine--tRNA ligase
+PBFPHCLI_00435	gene	2655	alaS			
+PBFPHCLI_00436	CDS	1374	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+PBFPHCLI_00436	gene	1374	cshB			
+PBFPHCLI_00437	CDS	960	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+PBFPHCLI_00437	gene	960	nrnA			
+PBFPHCLI_00438	CDS	465	yajC		COG1862	Sec translocon accessory complex subunit YajC
+PBFPHCLI_00438	gene	465	yajC			
+PBFPHCLI_00439	CDS	1110	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+PBFPHCLI_00439	gene	1110	tgt			
+PBFPHCLI_00440	CDS	1017	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PBFPHCLI_00440	gene	1017	ruvB			
+PBFPHCLI_00441	CDS	600	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+PBFPHCLI_00441	gene	600	ruvA			
+PBFPHCLI_00442	CDS	2007	mutL		COG0323	DNA mismatch repair protein MutL
+PBFPHCLI_00442	gene	2007	mutL			
+PBFPHCLI_00443	CDS	2646	mutS		COG0249	DNA mismatch repair protein MutS
+PBFPHCLI_00443	gene	2646	mutS			
+PBFPHCLI_00444	CDS	1554	rny	3.1.-.-	COG1418	Ribonuclease Y
+PBFPHCLI_00444	gene	1554	rny			
+PBFPHCLI_00445	CDS	1089	recA		COG0468	Protein RecA
+PBFPHCLI_00445	gene	1089	recA			
+PBFPHCLI_00446	CDS	1248	cinA		COG1058	Putative competence-damage inducible protein
+PBFPHCLI_00446	gene	1248	cinA			
+PBFPHCLI_00447	CDS	588	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PBFPHCLI_00447	gene	588	pgsA			
+PBFPHCLI_00448	CDS	1038				hypothetical protein
+PBFPHCLI_00448	gene	1038				
+PBFPHCLI_00449	CDS	1299	albF	3.4.24.-	COG0612	Putative zinc protease AlbF
+PBFPHCLI_00449	gene	1299	albF			
+PBFPHCLI_00450	CDS	1248				hypothetical protein
+PBFPHCLI_00450	gene	1248				
+PBFPHCLI_00451	CDS	852	fliY_1		COG0834	L-cystine-binding protein FliY
+PBFPHCLI_00451	gene	852	fliY_1			
+PBFPHCLI_00452	CDS	651	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+PBFPHCLI_00452	gene	651	glnQ_1			
+PBFPHCLI_00453	CDS	648	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+PBFPHCLI_00453	gene	648	artQ_2			
+PBFPHCLI_00454	CDS	537				hypothetical protein
+PBFPHCLI_00454	gene	537				
+PBFPHCLI_00455	CDS	858	mreC		COG1792	Cell shape-determining protein MreC
+PBFPHCLI_00455	gene	858	mreC			
+PBFPHCLI_00456	CDS	1002	mreB		COG1077	Rod shape-determining protein MreB
+PBFPHCLI_00456	gene	1002	mreB			
+PBFPHCLI_00457	CDS	633				hypothetical protein
+PBFPHCLI_00457	gene	633				
+PBFPHCLI_00458	CDS	1314	fpgS_1	6.3.2.17		Folylpolyglutamate synthase
+PBFPHCLI_00458	gene	1314	fpgS_1			
+PBFPHCLI_00459	CDS	1215		1.6.99.-		NADH dehydrogenase-like protein
+PBFPHCLI_00459	gene	1215				
+PBFPHCLI_00460	CDS	1746			COG1132	putative ABC transporter ATP-binding protein
+PBFPHCLI_00460	gene	1746				
+PBFPHCLI_00461	CDS	1686	cydD		COG4988	ATP-binding/permease protein CydD
+PBFPHCLI_00461	gene	1686	cydD			
+PBFPHCLI_00462	CDS	1017	cydB	1.10.3.14	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+PBFPHCLI_00462	gene	1017	cydB			
+PBFPHCLI_00463	CDS	1419	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+PBFPHCLI_00463	gene	1419	cydA			
+PBFPHCLI_00464	CDS	2655	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+PBFPHCLI_00464	gene	2655	valS			
+PBFPHCLI_00465	CDS	1221	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+PBFPHCLI_00465	gene	1221	thiI			
+PBFPHCLI_00466	CDS	1149	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+PBFPHCLI_00466	gene	1149	iscS_2			
+PBFPHCLI_00467	CDS	1704	ezrA		COG4477	Septation ring formation regulator EzrA
+PBFPHCLI_00467	gene	1704	ezrA			
+PBFPHCLI_00468	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+PBFPHCLI_00468	gene	606	rpsD			
+PBFPHCLI_00469	CDS	1026	gadC_1		COG0531	Glutamate/gamma-aminobutyrate antiporter
+PBFPHCLI_00469	gene	1026	gadC_1			
+PBFPHCLI_00470	CDS	969				hypothetical protein
+PBFPHCLI_00470	gene	969				
+PBFPHCLI_00471	CDS	378	gadC_2		COG0531	Glutamate/gamma-aminobutyrate antiporter
+PBFPHCLI_00471	gene	378	gadC_2			
+PBFPHCLI_00472	CDS	921	glsA_1	3.5.1.2	COG2066	Glutaminase
+PBFPHCLI_00472	gene	921	glsA_1			
+PBFPHCLI_00473	CDS	1539	gadC_3		COG0531	Glutamate/gamma-aminobutyrate antiporter
+PBFPHCLI_00473	gene	1539	gadC_3			
+PBFPHCLI_00474	CDS	1407	gadB	4.1.1.15	COG0076	Glutamate decarboxylase
+PBFPHCLI_00474	gene	1407	gadB			
+PBFPHCLI_00475	CDS	1395	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+PBFPHCLI_00475	gene	1395	pbuG			
+PBFPHCLI_00476	CDS	1320	frc	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
+PBFPHCLI_00476	gene	1320	frc			
+PBFPHCLI_00477	CDS	1734	oxc	4.1.1.8	COG0028	Oxalyl-CoA decarboxylase
+PBFPHCLI_00477	gene	1734	oxc			
+PBFPHCLI_00478	CDS	750				hypothetical protein
+PBFPHCLI_00478	gene	750				
+PBFPHCLI_00479	CDS	744				hypothetical protein
+PBFPHCLI_00479	gene	744				
+PBFPHCLI_00480	CDS	408				hypothetical protein
+PBFPHCLI_00480	gene	408				
+PBFPHCLI_00481	CDS	273				hypothetical protein
+PBFPHCLI_00481	gene	273				
+PBFPHCLI_00482	CDS	489	yueI		COG5506	putative protein YueI
+PBFPHCLI_00482	gene	489	yueI			
+PBFPHCLI_00483	CDS	1305			COG2256	putative AAA domain-containing protein
+PBFPHCLI_00483	gene	1305				
+PBFPHCLI_00484	CDS	297				hypothetical protein
+PBFPHCLI_00484	gene	297				
+PBFPHCLI_00485	CDS	489				Putative universal stress protein
+PBFPHCLI_00485	gene	489				
+PBFPHCLI_00486	CDS	1098	araR		COG1609	Arabinose metabolism transcriptional repressor
+PBFPHCLI_00486	gene	1098	araR			
+PBFPHCLI_00487	CDS	843	yvgN_1	1.1.1.-	COG0656	Glyoxal reductase
+PBFPHCLI_00487	gene	843	yvgN_1			
+PBFPHCLI_00488	CDS	570	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+PBFPHCLI_00488	gene	570	maa			
+PBFPHCLI_00489	CDS	1422	araA	5.3.1.4		L-arabinose isomerase
+PBFPHCLI_00489	gene	1422	araA			
+PBFPHCLI_00490	CDS	729	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase
+PBFPHCLI_00490	gene	729	araD			
+PBFPHCLI_00491	CDS	1623	araB	2.7.1.16		Ribulokinase
+PBFPHCLI_00491	gene	1623	araB			
+PBFPHCLI_00492	CDS	1416	xylT			D-xylose transporter
+PBFPHCLI_00492	gene	1416	xylT			
+PBFPHCLI_00493	CDS	846				hypothetical protein
+PBFPHCLI_00493	gene	846				
+PBFPHCLI_00494	CDS	1137	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+PBFPHCLI_00494	gene	1137	ddl			
+PBFPHCLI_00495	CDS	294	gcvH		COG0509	Glycine cleavage system H protein
+PBFPHCLI_00495	gene	294	gcvH			
+PBFPHCLI_00496	CDS	1194	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+PBFPHCLI_00496	gene	1194	rodA			
+PBFPHCLI_00497	CDS	225				hypothetical protein
+PBFPHCLI_00497	gene	225				
+PBFPHCLI_00498	CDS	993	mbl		COG1077	MreB-like protein
+PBFPHCLI_00498	gene	993	mbl			
+PBFPHCLI_00499	CDS	1317	murA1_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+PBFPHCLI_00499	gene	1317	murA1_1			
+PBFPHCLI_00500	CDS	264				hypothetical protein
+PBFPHCLI_00500	gene	264				
+PBFPHCLI_00501	CDS	432	atpC		COG0355	ATP synthase epsilon chain
+PBFPHCLI_00501	gene	432	atpC			
+PBFPHCLI_00502	CDS	1428	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+PBFPHCLI_00502	gene	1428	atpD			
+PBFPHCLI_00503	CDS	945	atpG		COG0224	ATP synthase gamma chain
+PBFPHCLI_00503	gene	945	atpG			
+PBFPHCLI_00504	CDS	1530	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+PBFPHCLI_00504	gene	1530	atpA			
+PBFPHCLI_00505	CDS	543	atpH		COG0712	ATP synthase subunit delta
+PBFPHCLI_00505	gene	543	atpH			
+PBFPHCLI_00506	CDS	519	atpF		COG0711	ATP synthase subunit b
+PBFPHCLI_00506	gene	519	atpF			
+PBFPHCLI_00507	CDS	219	atpE			ATP synthase subunit c
+PBFPHCLI_00507	gene	219	atpE			
+PBFPHCLI_00508	CDS	708	atpB			ATP synthase subunit a
+PBFPHCLI_00508	gene	708	atpB			
+PBFPHCLI_00509	CDS	1272	pyrP			Uracil permease
+PBFPHCLI_00509	gene	1272	pyrP			
+PBFPHCLI_00510	CDS	774				hypothetical protein
+PBFPHCLI_00510	gene	774				
+PBFPHCLI_00511	CDS	1116				hypothetical protein
+PBFPHCLI_00511	gene	1116				
+PBFPHCLI_00512	CDS	1728	ptsI_1	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+PBFPHCLI_00512	gene	1728	ptsI_1			
+PBFPHCLI_00513	CDS	636	upp	2.4.2.9		Uracil phosphoribosyltransferase
+PBFPHCLI_00513	gene	636	upp			
+PBFPHCLI_00514	CDS	1236	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+PBFPHCLI_00514	gene	1236	glyA			
+PBFPHCLI_00515	CDS	1029	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+PBFPHCLI_00515	gene	1029	ywlC			
+PBFPHCLI_00516	CDS	867	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+PBFPHCLI_00516	gene	867	prmC			
+PBFPHCLI_00517	CDS	1089	prfA		COG0216	Peptide chain release factor 1
+PBFPHCLI_00517	gene	1089	prfA			
+PBFPHCLI_00518	CDS	576	tdk	2.7.1.21		Thymidine kinase
+PBFPHCLI_00518	gene	576	tdk			
+PBFPHCLI_00519	CDS	1338	murF_1	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PBFPHCLI_00519	gene	1338	murF_1			
+PBFPHCLI_00520	CDS	708	cobQ			Cobyric acid synthase
+PBFPHCLI_00520	gene	708	cobQ			
+PBFPHCLI_00521	CDS	102				hypothetical protein
+PBFPHCLI_00521	gene	102				
+PBFPHCLI_00522	CDS	1398	arcD1_1		COG0531	Arginine/ornithine antiporter ArcD1
+PBFPHCLI_00522	gene	1398	arcD1_1			
+PBFPHCLI_00523	CDS	1422	arcD1_2		COG0531	Arginine/ornithine antiporter ArcD1
+PBFPHCLI_00523	gene	1422	arcD1_2			
+PBFPHCLI_00524	CDS	462	argR_1		COG1438	Arginine repressor
+PBFPHCLI_00524	gene	462	argR_1			
+PBFPHCLI_00525	CDS	1233	arcA	3.5.3.6		Arginine deiminase
+PBFPHCLI_00525	gene	1233	arcA			
+PBFPHCLI_00526	CDS	1020	pbpX_1		COG1680	Putative penicillin-binding protein PbpX
+PBFPHCLI_00526	gene	1020	pbpX_1			
+PBFPHCLI_00527	CDS	600				hypothetical protein
+PBFPHCLI_00527	gene	600				
+PBFPHCLI_00528	CDS	3111				hypothetical protein
+PBFPHCLI_00528	gene	3111				
+PBFPHCLI_00529	CDS	864				hypothetical protein
+PBFPHCLI_00529	gene	864				
+PBFPHCLI_00530	CDS	1089	xerC_2		COG4974	Tyrosine recombinase XerC
+PBFPHCLI_00530	gene	1089	xerC_2			
+PBFPHCLI_00531	CDS	678				hypothetical protein
+PBFPHCLI_00531	gene	678				
+PBFPHCLI_00532	CDS	186				hypothetical protein
+PBFPHCLI_00532	gene	186				
+PBFPHCLI_00533	CDS	624				hypothetical protein
+PBFPHCLI_00533	gene	624				
+PBFPHCLI_00534	CDS	276				hypothetical protein
+PBFPHCLI_00534	gene	276				
+PBFPHCLI_00535	CDS	138				hypothetical protein
+PBFPHCLI_00535	gene	138				
+PBFPHCLI_00536	CDS	315				hypothetical protein
+PBFPHCLI_00536	gene	315				
+PBFPHCLI_00537	CDS	276				hypothetical protein
+PBFPHCLI_00537	gene	276				
+PBFPHCLI_00538	CDS	285				hypothetical protein
+PBFPHCLI_00538	gene	285				
+PBFPHCLI_00539	CDS	471				hypothetical protein
+PBFPHCLI_00539	gene	471				
+PBFPHCLI_00540	CDS	1047				hypothetical protein
+PBFPHCLI_00540	gene	1047				
+PBFPHCLI_00541	CDS	426				hypothetical protein
+PBFPHCLI_00541	gene	426				
+PBFPHCLI_00542	CDS	402				hypothetical protein
+PBFPHCLI_00542	gene	402				
+PBFPHCLI_00543	CDS	180				hypothetical protein
+PBFPHCLI_00543	gene	180				
+PBFPHCLI_00544	CDS	180				hypothetical protein
+PBFPHCLI_00544	gene	180				
+PBFPHCLI_00545	CDS	183				hypothetical protein
+PBFPHCLI_00545	gene	183				
+PBFPHCLI_00546	tRNA	75				tRNA-Glu(ctc)
+PBFPHCLI_00546	gene	75				
+PBFPHCLI_00547	CDS	249				hypothetical protein
+PBFPHCLI_00547	gene	249				
+PBFPHCLI_00548	CDS	201				hypothetical protein
+PBFPHCLI_00548	gene	201				
+PBFPHCLI_00549	CDS	330				hypothetical protein
+PBFPHCLI_00549	gene	330				
+PBFPHCLI_00550	tRNA	74				tRNA-Gln(ctg)
+PBFPHCLI_00550	gene	74				
+PBFPHCLI_00551	CDS	477				hypothetical protein
+PBFPHCLI_00551	gene	477				
+PBFPHCLI_00552	CDS	1938	copA	3.6.3.54	COG2217	Copper-exporting P-type ATPase
+PBFPHCLI_00552	gene	1938	copA			
+PBFPHCLI_00553	CDS	288				hypothetical protein
+PBFPHCLI_00553	gene	288				
+PBFPHCLI_00554	CDS	369				hypothetical protein
+PBFPHCLI_00554	gene	369				
+PBFPHCLI_00555	CDS	582				hypothetical protein
+PBFPHCLI_00555	gene	582				
+PBFPHCLI_00556	CDS	915	yicL_2		COG0697	putative inner membrane transporter YicL
+PBFPHCLI_00556	gene	915	yicL_2			
+PBFPHCLI_00557	CDS	933	arcC1	2.7.2.2		Carbamate kinase 1
+PBFPHCLI_00557	gene	933	arcC1			
+PBFPHCLI_00558	CDS	1008	argF	2.1.3.3		Ornithine carbamoyltransferase
+PBFPHCLI_00558	gene	1008	argF			
+PBFPHCLI_00559	CDS	840	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+PBFPHCLI_00559	gene	840	srrA_1			
+PBFPHCLI_00560	CDS	300				hypothetical protein
+PBFPHCLI_00560	gene	300				
+PBFPHCLI_00561	CDS	207				hypothetical protein
+PBFPHCLI_00561	gene	207				
+PBFPHCLI_00562	CDS	1359	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PBFPHCLI_00562	gene	1359	pgi			
+PBFPHCLI_00563	CDS	615	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+PBFPHCLI_00563	gene	615	lacA			
+PBFPHCLI_00564	CDS	861	glcU_1		COG4975	Glucose uptake protein GlcU
+PBFPHCLI_00564	gene	861	glcU_1			
+PBFPHCLI_00565	CDS	1488	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+PBFPHCLI_00565	gene	1488	phoR			
+PBFPHCLI_00566	CDS	720	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+PBFPHCLI_00566	gene	720	srrA_2			
+PBFPHCLI_00567	tmRNA	372	ssrA			transfer-messenger RNA, SsrA
+PBFPHCLI_00567	gene	372	ssrA			
+PBFPHCLI_00568	CDS	612				hypothetical protein
+PBFPHCLI_00568	gene	612				
+PBFPHCLI_00569	CDS	807		3.1.3.-		Putative phosphatase
+PBFPHCLI_00569	gene	807				
+PBFPHCLI_00570	CDS	456				hypothetical protein
+PBFPHCLI_00570	gene	456				
+PBFPHCLI_00571	CDS	1875	oatA	2.3.1.-		O-acetyltransferase OatA
+PBFPHCLI_00571	gene	1875	oatA			
+PBFPHCLI_00572	CDS	312				hypothetical protein
+PBFPHCLI_00572	gene	312				
+PBFPHCLI_00573	CDS	1821	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PBFPHCLI_00573	gene	1821	glmS			
+PBFPHCLI_00574	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+PBFPHCLI_00574	gene	1356	glmM			
+PBFPHCLI_00575	CDS	900	cdaR		COG4856	CdaA regulatory protein CdaR
+PBFPHCLI_00575	gene	900	cdaR			
+PBFPHCLI_00576	CDS	852	dacA_1	2.7.7.85	COG1624	Diadenylate cyclase
+PBFPHCLI_00576	gene	852	dacA_1			
+PBFPHCLI_00577	CDS	1356	fucP		COG0738	L-fucose-proton symporter
+PBFPHCLI_00577	gene	1356	fucP			
+PBFPHCLI_00578	CDS	396	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+PBFPHCLI_00578	gene	396	rbsD			
+PBFPHCLI_00579	CDS	924	rbsK/rbiA_1			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+PBFPHCLI_00579	gene	924	rbsK/rbiA_1			
+PBFPHCLI_00580	CDS	897	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PBFPHCLI_00580	gene	897	murB			
+PBFPHCLI_00581	CDS	537	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PBFPHCLI_00581	gene	537	polC_2			
+PBFPHCLI_00582	CDS	423				hypothetical protein
+PBFPHCLI_00582	gene	423				
+PBFPHCLI_00583	CDS	510	aaaT	2.3.1.-	COG0454	L-amino acid N-acetyltransferase AaaT
+PBFPHCLI_00583	gene	510	aaaT			
+PBFPHCLI_00584	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PBFPHCLI_00584	gene	459	tsaE			
+PBFPHCLI_00585	CDS	975	pta	2.3.1.8		Phosphate acetyltransferase
+PBFPHCLI_00585	gene	975	pta			
+PBFPHCLI_00586	CDS	690	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+PBFPHCLI_00586	gene	690	ung			
+PBFPHCLI_00587	CDS	585				hypothetical protein
+PBFPHCLI_00587	gene	585				
+PBFPHCLI_00588	CDS	474	smpB		COG0691	SsrA-binding protein
+PBFPHCLI_00588	gene	474	smpB			
+PBFPHCLI_00589	CDS	2400	rnr	3.1.13.1	COG0557	Ribonuclease R
+PBFPHCLI_00589	gene	2400	rnr			
+PBFPHCLI_00590	CDS	777	est	3.1.1.1		Carboxylesterase
+PBFPHCLI_00590	gene	777	est			
+PBFPHCLI_00591	CDS	240	secG		COG1314	putative protein-export membrane protein SecG
+PBFPHCLI_00591	gene	240	secG			
+PBFPHCLI_00592	CDS	1551	clcA_1		COG0038	H(+)/Cl(-) exchange transporter ClcA
+PBFPHCLI_00592	gene	1551	clcA_1			
+PBFPHCLI_00593	CDS	1383	yifK_2		COG1113	putative transport protein YifK
+PBFPHCLI_00593	gene	1383	yifK_2			
+PBFPHCLI_00594	CDS	1323	eno2	4.2.1.11	COG0148	Enolase 2
+PBFPHCLI_00594	gene	1323	eno2			
+PBFPHCLI_00595	CDS	750	tpiA_1	5.3.1.1		Triosephosphate isomerase
+PBFPHCLI_00595	gene	750	tpiA_1			
+PBFPHCLI_00596	CDS	1206	pgk	2.7.2.3		Phosphoglycerate kinase
+PBFPHCLI_00596	gene	1206	pgk			
+PBFPHCLI_00597	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+PBFPHCLI_00597	gene	1008	gap			
+PBFPHCLI_00598	tRNA	72				tRNA-Arg(ccg)
+PBFPHCLI_00598	gene	72				
+PBFPHCLI_00599	CDS	594	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+PBFPHCLI_00599	gene	594	clpP			
+PBFPHCLI_00600	CDS	1356	glpT		COG2271	Glycerol-3-phosphate transporter
+PBFPHCLI_00600	gene	1356	glpT			
+PBFPHCLI_00601	CDS	132				hypothetical protein
+PBFPHCLI_00601	gene	132				
+PBFPHCLI_00602	CDS	114				hypothetical protein
+PBFPHCLI_00602	gene	114				
+PBFPHCLI_00603	CDS	942	whiA		COG1481	Putative sporulation transcription regulator WhiA
+PBFPHCLI_00603	gene	942	whiA			
+PBFPHCLI_00604	CDS	987			COG0391	Putative gluconeogenesis factor
+PBFPHCLI_00604	gene	987				
+PBFPHCLI_00605	CDS	873	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+PBFPHCLI_00605	gene	873	yvcJ			
+PBFPHCLI_00606	CDS	1332	steT		COG0531	Serine/threonine exchanger SteT
+PBFPHCLI_00606	gene	1332	steT			
+PBFPHCLI_00607	CDS	2865	uvrA_2			UvrABC system protein A
+PBFPHCLI_00607	gene	2865	uvrA_2			
+PBFPHCLI_00608	CDS	2073	uvrB		COG0556	UvrABC system protein B
+PBFPHCLI_00608	gene	2073	uvrB			
+PBFPHCLI_00609	CDS	273				hypothetical protein
+PBFPHCLI_00609	gene	273				
+PBFPHCLI_00610	CDS	639	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+PBFPHCLI_00610	gene	639	yfbR			
+PBFPHCLI_00611	CDS	1725	pgcA	5.4.2.2		Phosphoglucomutase
+PBFPHCLI_00611	gene	1725	pgcA			
+PBFPHCLI_00612	CDS	507		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+PBFPHCLI_00612	gene	507				
+PBFPHCLI_00613	CDS	885	fliY_2		COG0834	L-cystine-binding protein FliY
+PBFPHCLI_00613	gene	885	fliY_2			
+PBFPHCLI_00614	CDS	1170	dapE_1	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+PBFPHCLI_00614	gene	1170	dapE_1			
+PBFPHCLI_00615	CDS	933	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+PBFPHCLI_00615	gene	933	trxB_1			
+PBFPHCLI_00616	CDS	870	lutA		COG0247	Lactate utilization protein A
+PBFPHCLI_00616	gene	870	lutA			
+PBFPHCLI_00617	CDS	1488	lutB		COG1139	Lactate utilization protein B
+PBFPHCLI_00617	gene	1488	lutB			
+PBFPHCLI_00618	CDS	735	lutC		COG1556	Lactate utilization protein C
+PBFPHCLI_00618	gene	735	lutC			
+PBFPHCLI_00619	CDS	915	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+PBFPHCLI_00619	gene	915	gtaB			
+PBFPHCLI_00620	CDS	1017	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PBFPHCLI_00620	gene	1017	gpsA			
+PBFPHCLI_00621	CDS	828	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+PBFPHCLI_00621	gene	828	lgt			
+PBFPHCLI_00622	CDS	963	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+PBFPHCLI_00622	gene	963	hprK			
+PBFPHCLI_00623	CDS	357				hypothetical protein
+PBFPHCLI_00623	gene	357				
+PBFPHCLI_00624	CDS	336				hypothetical protein
+PBFPHCLI_00624	gene	336				
+PBFPHCLI_00625	CDS	999	prfB			Peptide chain release factor 2
+PBFPHCLI_00625	gene	999	prfB			
+PBFPHCLI_00626	CDS	2364	secA_1		COG0653	Protein translocase subunit SecA
+PBFPHCLI_00626	gene	2364	secA_1			
+PBFPHCLI_00627	CDS	549	hpf			Ribosome hibernation promotion factor
+PBFPHCLI_00627	gene	549	hpf			
+PBFPHCLI_00628	CDS	681				hypothetical protein
+PBFPHCLI_00628	gene	681				
+PBFPHCLI_00629	CDS	1332	comFA	3.6.4.12	COG4098	ComF operon protein 1
+PBFPHCLI_00629	gene	1332	comFA			
+PBFPHCLI_00630	CDS	633	yigZ		COG1739	IMPACT family member YigZ
+PBFPHCLI_00630	gene	633	yigZ			
+PBFPHCLI_00631	CDS	426				hypothetical protein
+PBFPHCLI_00631	gene	426				
+PBFPHCLI_00632	CDS	336				hypothetical protein
+PBFPHCLI_00632	gene	336				
+PBFPHCLI_00633	CDS	969				hypothetical protein
+PBFPHCLI_00633	gene	969				
+PBFPHCLI_00634	CDS	540	bmr3_1			Multidrug resistance protein 3
+PBFPHCLI_00634	gene	540	bmr3_1			
+PBFPHCLI_00635	CDS	411	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+PBFPHCLI_00635	gene	411	mhqR			
+PBFPHCLI_00636	CDS	261				hypothetical protein
+PBFPHCLI_00636	gene	261				
+PBFPHCLI_00637	CDS	1839	plaP		COG0531	Low-affinity putrescine importer PlaP
+PBFPHCLI_00637	gene	1839	plaP			
+PBFPHCLI_00638	CDS	1611	yveA		COG0531	Aspartate-proton symporter
+PBFPHCLI_00638	gene	1611	yveA			
+PBFPHCLI_00639	CDS	489	proX_1		COG3760	Prolyl-tRNA editing protein ProX
+PBFPHCLI_00639	gene	489	proX_1			
+PBFPHCLI_00640	CDS	1629	groL		COG0459	60 kDa chaperonin
+PBFPHCLI_00640	gene	1629	groL			
+PBFPHCLI_00641	CDS	285	groS		COG0234	10 kDa chaperonin
+PBFPHCLI_00641	gene	285	groS			
+PBFPHCLI_00642	CDS	645	rex		COG2344	Redox-sensing transcriptional repressor Rex
+PBFPHCLI_00642	gene	645	rex			
+PBFPHCLI_00643	CDS	1938	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+PBFPHCLI_00643	gene	1938	yheS			
+PBFPHCLI_00644	CDS	966	panE_1	1.1.1.169	COG1893	putative 2-dehydropantoate 2-reductase
+PBFPHCLI_00644	gene	966	panE_1			
+PBFPHCLI_00645	CDS	1179	bacF	2.6.1.-	COG0436	Transaminase BacF
+PBFPHCLI_00645	gene	1179	bacF			
+PBFPHCLI_00646	CDS	786	yafV	3.5.1.3		Omega-amidase YafV
+PBFPHCLI_00646	gene	786	yafV			
+PBFPHCLI_00647	CDS	789	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+PBFPHCLI_00647	gene	789	proB			
+PBFPHCLI_00648	CDS	1245	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+PBFPHCLI_00648	gene	1245	proA			
+PBFPHCLI_00649	CDS	774	proC_1	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+PBFPHCLI_00649	gene	774	proC_1			
+PBFPHCLI_00650	CDS	1032	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PBFPHCLI_00650	gene	1032	tsaD			
+PBFPHCLI_00651	CDS	555	rimI	2.3.1.255	COG0456	N-alpha-acetyltransferase RimI
+PBFPHCLI_00651	gene	555	rimI			
+PBFPHCLI_00652	CDS	726	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PBFPHCLI_00652	gene	726	tsaB			
+PBFPHCLI_00653	CDS	996	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+PBFPHCLI_00653	gene	996	galE			
+PBFPHCLI_00654	CDS	972	ppx_1	3.6.1.11	COG0248	Exopolyphosphatase
+PBFPHCLI_00654	gene	972	ppx_1			
+PBFPHCLI_00655	CDS	2244	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+PBFPHCLI_00655	gene	2244	ppk			
+PBFPHCLI_00656	CDS	1515	ppx_2	3.6.1.11	COG0248	Exopolyphosphatase
+PBFPHCLI_00656	gene	1515	ppx_2			
+PBFPHCLI_00657	CDS	762				hypothetical protein
+PBFPHCLI_00657	gene	762				
+PBFPHCLI_00658	CDS	867	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+PBFPHCLI_00658	gene	867	rsmI			
+PBFPHCLI_00659	CDS	351	yabA		COG4467	Initiation-control protein YabA
+PBFPHCLI_00659	gene	351	yabA			
+PBFPHCLI_00660	CDS	1014	dnaX_1	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+PBFPHCLI_00660	gene	1014	dnaX_1			
+PBFPHCLI_00661	CDS	324	yaaQ		COG3870	putative protein YaaQ
+PBFPHCLI_00661	gene	324	yaaQ			
+PBFPHCLI_00662	CDS	642	tmk	2.7.4.9	COG0125	Thymidylate kinase
+PBFPHCLI_00662	gene	642	tmk			
+PBFPHCLI_00663	CDS	249				hypothetical protein
+PBFPHCLI_00663	gene	249				
+PBFPHCLI_00664	CDS	603	recR		COG0353	Recombination protein RecR
+PBFPHCLI_00664	gene	603	recR			
+PBFPHCLI_00665	CDS	309				Nucleoid-associated protein
+PBFPHCLI_00665	gene	309				
+PBFPHCLI_00666	CDS	1836	dnaX_2	2.7.7.7	COG2812	DNA polymerase III subunit tau
+PBFPHCLI_00666	gene	1836	dnaX_2			
+PBFPHCLI_00667	CDS	1341				hypothetical protein
+PBFPHCLI_00667	gene	1341				
+PBFPHCLI_00668	CDS	513	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+PBFPHCLI_00668	gene	513	tadA_2			
+PBFPHCLI_00669	CDS	222	nrdH		COG0695	Glutaredoxin-like protein NrdH
+PBFPHCLI_00669	gene	222	nrdH			
+PBFPHCLI_00670	CDS	2172	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 2 subunit alpha
+PBFPHCLI_00670	gene	2172	nrdE			
+PBFPHCLI_00671	CDS	1020	nrdF1	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF1
+PBFPHCLI_00671	gene	1020	nrdF1			
+PBFPHCLI_00672	CDS	2637	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+PBFPHCLI_00672	gene	2637	adhE_1			
+PBFPHCLI_00673	CDS	753				hypothetical protein
+PBFPHCLI_00673	gene	753				
+PBFPHCLI_00674	CDS	612				hypothetical protein
+PBFPHCLI_00674	gene	612				
+PBFPHCLI_00675	CDS	333				hypothetical protein
+PBFPHCLI_00675	gene	333				
+PBFPHCLI_00676	CDS	372	mscL		COG1970	Large-conductance mechanosensitive channel
+PBFPHCLI_00676	gene	372	mscL			
+PBFPHCLI_00677	CDS	459				hypothetical protein
+PBFPHCLI_00677	gene	459				
+PBFPHCLI_00678	CDS	231				hypothetical protein
+PBFPHCLI_00678	gene	231				
+PBFPHCLI_00679	CDS	285				hypothetical protein
+PBFPHCLI_00679	gene	285				
+PBFPHCLI_00680	CDS	366	rplL		COG0222	50S ribosomal protein L7/L12
+PBFPHCLI_00680	gene	366	rplL			
+PBFPHCLI_00681	CDS	501	rplJ			50S ribosomal protein L10
+PBFPHCLI_00681	gene	501	rplJ			
+PBFPHCLI_00682	CDS	1122	mnaA_1	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+PBFPHCLI_00682	gene	1122	mnaA_1			
+PBFPHCLI_00683	CDS	1302		2.4.1.336		Beta-monoglucosyldiacylglycerol synthase
+PBFPHCLI_00683	gene	1302				
+PBFPHCLI_00684	CDS	135				hypothetical protein
+PBFPHCLI_00684	gene	135				
+PBFPHCLI_00685	CDS	1194	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+PBFPHCLI_00685	gene	1194	lysN_1			
+PBFPHCLI_00686	CDS	693	rplA			50S ribosomal protein L1
+PBFPHCLI_00686	gene	693	rplA			
+PBFPHCLI_00687	CDS	426	rplK			50S ribosomal protein L11
+PBFPHCLI_00687	gene	426	rplK			
+PBFPHCLI_00688	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+PBFPHCLI_00688	gene	543	nusG			
+PBFPHCLI_00689	CDS	177	secE			Protein translocase subunit SecE
+PBFPHCLI_00689	gene	177	secE			
+PBFPHCLI_00690	CDS	150	rpmG3		COG0267	50S ribosomal protein L33 3
+PBFPHCLI_00690	gene	150	rpmG3			
+PBFPHCLI_00691	CDS	750		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PBFPHCLI_00691	gene	750				
+PBFPHCLI_00692	CDS	414	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+PBFPHCLI_00692	gene	414	mrnC			
+PBFPHCLI_00693	CDS	1413	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PBFPHCLI_00693	gene	1413	cysS			
+PBFPHCLI_00694	CDS	1143	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+PBFPHCLI_00694	gene	1143	yacL			
+PBFPHCLI_00695	CDS	1374	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PBFPHCLI_00695	gene	1374	radA			
+PBFPHCLI_00696	CDS	537	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PBFPHCLI_00696	gene	537	dut			
+PBFPHCLI_00697	CDS	297				hypothetical protein
+PBFPHCLI_00697	gene	297				
+PBFPHCLI_00698	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+PBFPHCLI_00698	gene	684	rpiA			
+PBFPHCLI_00699	CDS	1341	pepC	3.4.22.40	COG3579	Aminopeptidase C
+PBFPHCLI_00699	gene	1341	pepC			
+PBFPHCLI_00700	CDS	792			COG0834	putative amino-acid ABC transporter-binding protein
+PBFPHCLI_00700	gene	792				
+PBFPHCLI_00701	CDS	750	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+PBFPHCLI_00701	gene	750	tcyC			
+PBFPHCLI_00702	CDS	702	tcyB		COG0765	L-cystine transport system permease protein TcyB
+PBFPHCLI_00702	gene	702	tcyB			
+PBFPHCLI_00703	CDS	1143	metC	4.4.1.8	COG0626	Cystathionine beta-lyase
+PBFPHCLI_00703	gene	1143	metC			
+PBFPHCLI_00704	CDS	867	nlhH_2	3.1.1.1	COG0657	Carboxylesterase NlhH
+PBFPHCLI_00704	gene	867	nlhH_2			
+PBFPHCLI_00705	CDS	711	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PBFPHCLI_00705	gene	711	gpmA_1			
+PBFPHCLI_00706	CDS	1770				hypothetical protein
+PBFPHCLI_00706	gene	1770				
+PBFPHCLI_00707	CDS	960	lacM	3.2.1.23	COG3250	Beta-galactosidase small subunit
+PBFPHCLI_00707	gene	960	lacM			
+PBFPHCLI_00708	CDS	1887	lacL	3.2.1.23	COG3250	Beta-galactosidase large subunit
+PBFPHCLI_00708	gene	1887	lacL			
+PBFPHCLI_00709	tRNA	87				tRNA-Leu(aag)
+PBFPHCLI_00709	gene	87				
+PBFPHCLI_00710	CDS	453				Protein SprT-like protein
+PBFPHCLI_00710	gene	453				
+PBFPHCLI_00711	CDS	2178	yhgF		COG2183	Protein YhgF
+PBFPHCLI_00711	gene	2178	yhgF			
+PBFPHCLI_00712	CDS	828	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+PBFPHCLI_00712	gene	828	nadE			
+PBFPHCLI_00713	CDS	1467	pncB2	6.3.4.21		Nicotinate phosphoribosyltransferase pncB2
+PBFPHCLI_00713	gene	1467	pncB2			
+PBFPHCLI_00714	CDS	702	yvoA		COG2188	HTH-type transcriptional repressor YvoA
+PBFPHCLI_00714	gene	702	yvoA			
+PBFPHCLI_00715	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+PBFPHCLI_00715	gene	720				
+PBFPHCLI_00716	CDS	1650	aspT			Aspartate/alanine antiporter
+PBFPHCLI_00716	gene	1650	aspT			
+PBFPHCLI_00717	CDS	1401	ribZ_1			Riboflavin transporter RibZ
+PBFPHCLI_00717	gene	1401	ribZ_1			
+PBFPHCLI_00718	CDS	645				hypothetical protein
+PBFPHCLI_00718	gene	645				
+PBFPHCLI_00719	tRNA	73				tRNA-Gln(ttg)
+PBFPHCLI_00719	gene	73				
+PBFPHCLI_00720	tRNA	86				tRNA-Tyr(gta)
+PBFPHCLI_00720	gene	86				
+PBFPHCLI_00721	CDS	549				hypothetical protein
+PBFPHCLI_00721	gene	549				
+PBFPHCLI_00722	CDS	135				hypothetical protein
+PBFPHCLI_00722	gene	135				
+PBFPHCLI_00723	CDS	1500	dtpT		COG3104	Di-/tripeptide transporter
+PBFPHCLI_00723	gene	1500	dtpT			
+PBFPHCLI_00724	CDS	702				hypothetical protein
+PBFPHCLI_00724	gene	702				
+PBFPHCLI_00725	CDS	969				hypothetical protein
+PBFPHCLI_00725	gene	969				
+PBFPHCLI_00726	tRNA	76				tRNA-Asn(gtt)
+PBFPHCLI_00726	gene	76				
+PBFPHCLI_00727	CDS	333				hypothetical protein
+PBFPHCLI_00727	gene	333				
+PBFPHCLI_00728	CDS	1545				hypothetical protein
+PBFPHCLI_00728	gene	1545				
+PBFPHCLI_00729	CDS	357				hypothetical protein
+PBFPHCLI_00729	gene	357				
+PBFPHCLI_00730	CDS	189				hypothetical protein
+PBFPHCLI_00730	gene	189				
+PBFPHCLI_00731	tRNA	75				tRNA-Thr(cgt)
+PBFPHCLI_00731	gene	75				
+PBFPHCLI_00732	tRNA	76				tRNA-Asn(gtt)
+PBFPHCLI_00732	gene	76				
+PBFPHCLI_00733	rRNA	112				5S ribosomal RNA
+PBFPHCLI_00733	gene	112				
+PBFPHCLI_00734	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_00734	gene	2919				
+PBFPHCLI_00735	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_00735	gene	1573				
+PBFPHCLI_00736	CDS	1413				hypothetical protein
+PBFPHCLI_00736	gene	1413				
+PBFPHCLI_00737	CDS	1527	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+PBFPHCLI_00737	gene	1527	lysS			
+PBFPHCLI_00738	CDS	1002	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+PBFPHCLI_00738	gene	1002	dus			
+PBFPHCLI_00739	CDS	921	hslO		COG1281	33 kDa chaperonin
+PBFPHCLI_00739	gene	921	hslO			
+PBFPHCLI_00740	CDS	2109	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+PBFPHCLI_00740	gene	2109	ftsH			
+PBFPHCLI_00741	CDS	543	hpt_1	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+PBFPHCLI_00741	gene	543	hpt_1			
+PBFPHCLI_00742	CDS	1395	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+PBFPHCLI_00742	gene	1395	tilS			
+PBFPHCLI_00743	CDS	495	yugI		COG1098	General stress protein 13
+PBFPHCLI_00743	gene	495	yugI			
+PBFPHCLI_00744	CDS	357	ftsL_2			Cell division protein FtsL
+PBFPHCLI_00744	gene	357	ftsL_2			
+PBFPHCLI_00745	CDS	273	hslR		COG1188	Heat shock protein 15
+PBFPHCLI_00745	gene	273	hslR			
+PBFPHCLI_00746	CDS	3540	mfd	3.6.4.-		Transcription-repair-coupling factor
+PBFPHCLI_00746	gene	3540	mfd			
+PBFPHCLI_00747	CDS	561	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+PBFPHCLI_00747	gene	561	pth			
+PBFPHCLI_00748	CDS	639				hypothetical protein
+PBFPHCLI_00748	gene	639				
+PBFPHCLI_00749	CDS	792	mhpD	4.2.1.80		2-keto-4-pentenoate hydratase
+PBFPHCLI_00749	gene	792	mhpD			
+PBFPHCLI_00750	CDS	1239	codA	3.5.4.1	COG0402	Cytosine deaminase
+PBFPHCLI_00750	gene	1239	codA			
+PBFPHCLI_00751	CDS	1377	pucI		COG1953	putative allantoin permease
+PBFPHCLI_00751	gene	1377	pucI			
+PBFPHCLI_00752	CDS	375	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+PBFPHCLI_00752	gene	375	ndoA			
+PBFPHCLI_00753	CDS	1128	alr	5.1.1.1	COG0787	Alanine racemase
+PBFPHCLI_00753	gene	1128	alr			
+PBFPHCLI_00754	CDS	363	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+PBFPHCLI_00754	gene	363	acpS			
+PBFPHCLI_00755	CDS	141				hypothetical protein
+PBFPHCLI_00755	gene	141				
+PBFPHCLI_00756	CDS	1527	dltA	6.2.1.-	COG1020	D-alanine--D-alanyl carrier protein ligase
+PBFPHCLI_00756	gene	1527	dltA			
+PBFPHCLI_00757	CDS	1218	patA_3	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+PBFPHCLI_00757	gene	1218	patA_3			
+PBFPHCLI_00758	CDS	240	dltC			D-alanyl carrier protein
+PBFPHCLI_00758	gene	240	dltC			
+PBFPHCLI_00759	CDS	1290	dltD		COG3966	Protein DltD
+PBFPHCLI_00759	gene	1290	dltD			
+PBFPHCLI_00760	CDS	942	glsA_2	3.5.1.2	COG2066	Glutaminase
+PBFPHCLI_00760	gene	942	glsA_2			
+PBFPHCLI_00761	CDS	12615	ebh			Extracellular matrix-binding protein ebh
+PBFPHCLI_00761	gene	12615	ebh			
+PBFPHCLI_00762	CDS	1494	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+PBFPHCLI_00762	gene	1494	cshA			
+PBFPHCLI_00763	CDS	1380	murF_2	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PBFPHCLI_00763	gene	1380	murF_2			
+PBFPHCLI_00764	CDS	897	htpX	3.4.24.-	COG0501	Protease HtpX 
+PBFPHCLI_00764	gene	897	htpX			
+PBFPHCLI_00765	CDS	570	lemA		COG1704	Protein LemA
+PBFPHCLI_00765	gene	570	lemA			
+PBFPHCLI_00766	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+PBFPHCLI_00766	gene	465	yfkJ			
+PBFPHCLI_00767	CDS	657	gpmA_2	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PBFPHCLI_00767	gene	657	gpmA_2			
+PBFPHCLI_00768	CDS	867	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+PBFPHCLI_00768	gene	867	fba			
+PBFPHCLI_00769	CDS	780	tpiA_2	5.3.1.1	COG0149	Triosephosphate isomerase
+PBFPHCLI_00769	gene	780	tpiA_2			
+PBFPHCLI_00770	CDS	1788				hypothetical protein
+PBFPHCLI_00770	gene	1788				
+PBFPHCLI_00771	CDS	2382	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+PBFPHCLI_00771	gene	2382	ppsA			
+PBFPHCLI_00772	CDS	705				hypothetical protein
+PBFPHCLI_00772	gene	705				
+PBFPHCLI_00773	CDS	891				hypothetical protein
+PBFPHCLI_00773	gene	891				
+PBFPHCLI_00774	CDS	1317	gmuC		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+PBFPHCLI_00774	gene	1317	gmuC			
+PBFPHCLI_00775	CDS	246	rpmE2		COG0254	50S ribosomal protein L31 type B
+PBFPHCLI_00775	gene	246	rpmE2			
+PBFPHCLI_00776	CDS	1278	murA1_2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PBFPHCLI_00776	gene	1278	murA1_2			
+PBFPHCLI_00777	CDS	1605	pyrG	6.3.4.2	COG0504	CTP synthase
+PBFPHCLI_00777	gene	1605	pyrG			
+PBFPHCLI_00778	CDS	570	rpoE			putative DNA-directed RNA polymerase subunit delta
+PBFPHCLI_00778	gene	570	rpoE			
+PBFPHCLI_00779	CDS	399	ywiB		COG4506	putative beta-barrel protein YwiB
+PBFPHCLI_00779	gene	399	ywiB			
+PBFPHCLI_00780	CDS	825	lipL	2.3.1.200	COG0095	Lipoyl-[GcvH]:protein N-lipoyltransferase
+PBFPHCLI_00780	gene	825	lipL			
+PBFPHCLI_00781	CDS	1368				hypothetical protein
+PBFPHCLI_00781	gene	1368				
+PBFPHCLI_00782	CDS	822		3.1.3.-		Putative phosphatase
+PBFPHCLI_00782	gene	822				
+PBFPHCLI_00783	CDS	738				hypothetical protein
+PBFPHCLI_00783	gene	738				
+PBFPHCLI_00784	CDS	990	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PBFPHCLI_00784	gene	990	prs_2			
+PBFPHCLI_00785	CDS	1368	glmU			Bifunctional protein GlmU
+PBFPHCLI_00785	gene	1368	glmU			
+PBFPHCLI_00786	CDS	819	purR		COG0503	Pur operon repressor
+PBFPHCLI_00786	gene	819	purR			
+PBFPHCLI_00787	CDS	798	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+PBFPHCLI_00787	gene	798	znuB			
+PBFPHCLI_00788	CDS	672	fbpC	3.6.3.30		Fe(3+) ions import ATP-binding protein FbpC
+PBFPHCLI_00788	gene	672	fbpC			
+PBFPHCLI_00789	CDS	912	fimA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+PBFPHCLI_00789	gene	912	fimA			
+PBFPHCLI_00790	CDS	852	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PBFPHCLI_00790	gene	852	ispE			
+PBFPHCLI_00791	CDS	243	veg		COG4466	Protein Veg
+PBFPHCLI_00791	gene	243	veg			
+PBFPHCLI_00792	CDS	894	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+PBFPHCLI_00792	gene	894	rsmA			
+PBFPHCLI_00793	CDS	567	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+PBFPHCLI_00793	gene	567	rnmV			
+PBFPHCLI_00794	CDS	819	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+PBFPHCLI_00794	gene	819	dtd3			
+PBFPHCLI_00795	CDS	2028	metG	6.1.1.10		Methionine--tRNA ligase
+PBFPHCLI_00795	gene	2028	metG			
+PBFPHCLI_00796	CDS	882				hypothetical protein
+PBFPHCLI_00796	gene	882				
+PBFPHCLI_00797	CDS	126				hypothetical protein
+PBFPHCLI_00797	gene	126				
+PBFPHCLI_00798	CDS	699	cobB	3.5.1.-	COG0846	NAD-dependent protein deacetylase
+PBFPHCLI_00798	gene	699	cobB			
+PBFPHCLI_00799	CDS	960				hypothetical protein
+PBFPHCLI_00799	gene	960				
+PBFPHCLI_00800	CDS	1263	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+PBFPHCLI_00800	gene	1263	mvaA			
+PBFPHCLI_00801	CDS	942	ppx_3	3.6.1.11	COG0248	Exopolyphosphatase
+PBFPHCLI_00801	gene	942	ppx_3			
+PBFPHCLI_00802	CDS	1023	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+PBFPHCLI_00802	gene	1023	trpS2			
+PBFPHCLI_00803	CDS	960	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+PBFPHCLI_00803	gene	960	yhdJ			
+PBFPHCLI_00804	CDS	1947				hypothetical protein
+PBFPHCLI_00804	gene	1947				
+PBFPHCLI_00805	CDS	2319	helD_1	3.6.4.12	COG3973	DNA helicase IV
+PBFPHCLI_00805	gene	2319	helD_1			
+PBFPHCLI_00806	CDS	1170	napA			Na(+)/H(+) antiporter
+PBFPHCLI_00806	gene	1170	napA			
+PBFPHCLI_00807	tRNA	74				tRNA-Thr(ggt)
+PBFPHCLI_00807	gene	74				
+PBFPHCLI_00808	CDS	1362		5.1.1.21	COG0160	Isoleucine 2-epimerase
+PBFPHCLI_00808	gene	1362				
+PBFPHCLI_00809	CDS	1473	yhdG_1		COG0531	putative amino acid permease YhdG
+PBFPHCLI_00809	gene	1473	yhdG_1			
+PBFPHCLI_00810	CDS	642	nth	4.2.99.18	COG0177	Endonuclease III
+PBFPHCLI_00810	gene	642	nth			
+PBFPHCLI_00811	CDS	279	urdA	1.3.99.33	COG1053	Urocanate reductase
+PBFPHCLI_00811	gene	279	urdA			
+PBFPHCLI_00812	CDS	1197	tetA			Tetracycline resistance protein, class B
+PBFPHCLI_00812	gene	1197	tetA			
+PBFPHCLI_00813	CDS	933		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+PBFPHCLI_00813	gene	933				
+PBFPHCLI_00814	CDS	852	metQ_1		COG1464	putative D-methionine-binding lipoprotein MetQ
+PBFPHCLI_00814	gene	852	metQ_1			
+PBFPHCLI_00815	CDS	1065	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+PBFPHCLI_00815	gene	1065	metN			
+PBFPHCLI_00816	CDS	690	metP		COG2011	Methionine import system permease protein MetP
+PBFPHCLI_00816	gene	690	metP			
+PBFPHCLI_00817	CDS	1146	dapE_2	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+PBFPHCLI_00817	gene	1146	dapE_2			
+PBFPHCLI_00818	CDS	1338	clcA_2		COG0038	H(+)/Cl(-) exchange transporter ClcA
+PBFPHCLI_00818	gene	1338	clcA_2			
+PBFPHCLI_00819	CDS	429	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+PBFPHCLI_00819	gene	429	msrB			
+PBFPHCLI_00820	CDS	639	opuCB_1			Carnitine transport permease protein OpuCB
+PBFPHCLI_00820	gene	639	opuCB_1			
+PBFPHCLI_00821	CDS	771	opuBA		COG1125	Choline transport ATP-binding protein OpuBA
+PBFPHCLI_00821	gene	771	opuBA			
+PBFPHCLI_00822	CDS	666	opuCB_2		COG1174	Glycine betaine/carnitine/choline transport system permease protein OpuCB
+PBFPHCLI_00822	gene	666	opuCB_2			
+PBFPHCLI_00823	CDS	900	opuCC		COG1732	Glycine betaine/carnitine/choline-binding protein OpuCC
+PBFPHCLI_00823	gene	900	opuCC			
+PBFPHCLI_00824	CDS	456	ywnA_1		COG1959	Putative HTH-type transcriptional regulator YwnA
+PBFPHCLI_00824	gene	456	ywnA_1			
+PBFPHCLI_00825	CDS	855	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+PBFPHCLI_00825	gene	855	qorB			
+PBFPHCLI_00826	CDS	132				hypothetical protein
+PBFPHCLI_00826	gene	132				
+PBFPHCLI_00827	CDS	1191	deoB_1	5.4.2.7	COG1015	Phosphopentomutase
+PBFPHCLI_00827	gene	1191	deoB_1			
+PBFPHCLI_00828	CDS	1809	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+PBFPHCLI_00828	gene	1809	zosA			
+PBFPHCLI_00829	CDS	735				hypothetical protein
+PBFPHCLI_00829	gene	735				
+PBFPHCLI_00830	CDS	705				hypothetical protein
+PBFPHCLI_00830	gene	705				
+PBFPHCLI_00831	CDS	321				hypothetical protein
+PBFPHCLI_00831	gene	321				
+PBFPHCLI_00832	CDS	1353	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+PBFPHCLI_00832	gene	1353	rclA			
+PBFPHCLI_00833	CDS	288				hypothetical protein
+PBFPHCLI_00833	gene	288				
+PBFPHCLI_00834	CDS	2850	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+PBFPHCLI_00834	gene	2850	radD			
+PBFPHCLI_00835	CDS	501				hypothetical protein
+PBFPHCLI_00835	gene	501				
+PBFPHCLI_00836	CDS	954	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+PBFPHCLI_00836	gene	954	ydhF			
+PBFPHCLI_00837	tRNA	76				tRNA-His(gtg)
+PBFPHCLI_00837	gene	76				
+PBFPHCLI_00838	CDS	771	tpiA_3	5.3.1.1		Triosephosphate isomerase
+PBFPHCLI_00838	gene	771	tpiA_3			
+PBFPHCLI_00839	CDS	402	psiE		COG3223	Protein PsiE
+PBFPHCLI_00839	gene	402	psiE			
+PBFPHCLI_00840	CDS	543	ydeN	3.-.-.-	COG3545	Putative hydrolase YdeN
+PBFPHCLI_00840	gene	543	ydeN			
+PBFPHCLI_00841	CDS	93				hypothetical protein
+PBFPHCLI_00841	gene	93				
+PBFPHCLI_00842	CDS	1026			COG0053	putative cation efflux system protein
+PBFPHCLI_00842	gene	1026				
+PBFPHCLI_00843	CDS	240				hypothetical protein
+PBFPHCLI_00843	gene	240				
+PBFPHCLI_00844	CDS	1209	nhaC_1		COG1757	Na(+)/H(+) antiporter NhaC
+PBFPHCLI_00844	gene	1209	nhaC_1			
+PBFPHCLI_00845	CDS	234				hypothetical protein
+PBFPHCLI_00845	gene	234				
+PBFPHCLI_00846	CDS	651	dapB_2	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+PBFPHCLI_00846	gene	651	dapB_2			
+PBFPHCLI_00847	CDS	228				hypothetical protein
+PBFPHCLI_00847	gene	228				
+PBFPHCLI_00848	CDS	741	bacC_1	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+PBFPHCLI_00848	gene	741	bacC_1			
+PBFPHCLI_00849	CDS	1323	yhjE			Inner membrane metabolite transport protein YhjE
+PBFPHCLI_00849	gene	1323	yhjE			
+PBFPHCLI_00850	CDS	339	yybR_1		COG1733	putative HTH-type transcriptional regulator YybR
+PBFPHCLI_00850	gene	339	yybR_1			
+PBFPHCLI_00851	CDS	1017				Zinc-type alcohol dehydrogenase-like protein
+PBFPHCLI_00851	gene	1017				
+PBFPHCLI_00852	CDS	951				hypothetical protein
+PBFPHCLI_00852	gene	951				
+PBFPHCLI_00853	tRNA	75				tRNA-Thr(agt)
+PBFPHCLI_00853	gene	75				
+PBFPHCLI_00854	rRNA	112				5S ribosomal RNA
+PBFPHCLI_00854	gene	112				
+PBFPHCLI_00855	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_00855	gene	2919				
+PBFPHCLI_00856	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_00856	gene	1573				
+PBFPHCLI_00857	CDS	1251	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+PBFPHCLI_00857	gene	1251	tyrS1			
+PBFPHCLI_00858	CDS	1050				hypothetical protein
+PBFPHCLI_00858	gene	1050				
+PBFPHCLI_00859	CDS	687	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PBFPHCLI_00859	gene	687	gpmA_3			
+PBFPHCLI_00860	CDS	1260	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+PBFPHCLI_00860	gene	1260	purD			
+PBFPHCLI_00861	CDS	1539	purH			Bifunctional purine biosynthesis protein PurH
+PBFPHCLI_00861	gene	1539	purH			
+PBFPHCLI_00862	CDS	573	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+PBFPHCLI_00862	gene	573	purN			
+PBFPHCLI_00863	CDS	1038	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+PBFPHCLI_00863	gene	1038	purM			
+PBFPHCLI_00864	CDS	1455	purF	2.4.2.14		Amidophosphoribosyltransferase
+PBFPHCLI_00864	gene	1455	purF			
+PBFPHCLI_00865	CDS	2229	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+PBFPHCLI_00865	gene	2229	purL			
+PBFPHCLI_00866	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+PBFPHCLI_00866	gene	681	purQ			
+PBFPHCLI_00867	CDS	249	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+PBFPHCLI_00867	gene	249	purS			
+PBFPHCLI_00868	CDS	720	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PBFPHCLI_00868	gene	720	purC			
+PBFPHCLI_00869	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+PBFPHCLI_00869	gene	1296	purB			
+PBFPHCLI_00870	CDS	1155	purK_1	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+PBFPHCLI_00870	gene	1155	purK_1			
+PBFPHCLI_00871	CDS	486	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+PBFPHCLI_00871	gene	486	purE			
+PBFPHCLI_00872	CDS	717	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+PBFPHCLI_00872	gene	717	aldC			
+PBFPHCLI_00873	CDS	1680	alsS	2.2.1.6	COG0028	Acetolactate synthase
+PBFPHCLI_00873	gene	1680	alsS			
+PBFPHCLI_00874	CDS	1662	fhs	6.3.4.3		Formate--tetrahydrofolate ligase
+PBFPHCLI_00874	gene	1662	fhs			
+PBFPHCLI_00875	CDS	1035				Sodium-lithium/proton antiporter
+PBFPHCLI_00875	gene	1035				
+PBFPHCLI_00876	CDS	1176	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+PBFPHCLI_00876	gene	1176	cfa			
+PBFPHCLI_00877	CDS	663	ribBA_2		COG0108	Riboflavin biosynthesis protein RibBA
+PBFPHCLI_00877	gene	663	ribBA_2			
+PBFPHCLI_00878	CDS	642	yvdM_1	5.4.2.6	COG0637	Beta-phosphoglucomutase
+PBFPHCLI_00878	gene	642	yvdM_1			
+PBFPHCLI_00879	CDS	642	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+PBFPHCLI_00879	gene	642	pyrE			
+PBFPHCLI_00880	CDS	732	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PBFPHCLI_00880	gene	732	pyrF			
+PBFPHCLI_00881	CDS	927	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PBFPHCLI_00881	gene	927	pyrDB			
+PBFPHCLI_00882	CDS	1293	pyrC	3.5.2.3	COG0044	Dihydroorotase
+PBFPHCLI_00882	gene	1293	pyrC			
+PBFPHCLI_00883	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+PBFPHCLI_00883	gene	930	pyrB			
+PBFPHCLI_00884	CDS	873	gltC			HTH-type transcriptional regulator GltC
+PBFPHCLI_00884	gene	873	gltC			
+PBFPHCLI_00885	CDS	345				hypothetical protein
+PBFPHCLI_00885	gene	345				
+PBFPHCLI_00886	CDS	909	ygaZ		COG1296	Inner membrane protein YgaZ
+PBFPHCLI_00886	gene	909	ygaZ			
+PBFPHCLI_00887	CDS	1146	resE	2.7.13.3		Sensor histidine kinase ResE
+PBFPHCLI_00887	gene	1146	resE			
+PBFPHCLI_00888	CDS	690	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PBFPHCLI_00888	gene	690	phoP_1			
+PBFPHCLI_00889	CDS	1143	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+PBFPHCLI_00889	gene	1143	guaB			
+PBFPHCLI_00890	CDS	933	deoR		COG2390	Deoxyribonucleoside regulator
+PBFPHCLI_00890	gene	933	deoR			
+PBFPHCLI_00891	CDS	711	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+PBFPHCLI_00891	gene	711	deoD			
+PBFPHCLI_00892	CDS	1299	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+PBFPHCLI_00892	gene	1299	pdp			
+PBFPHCLI_00893	CDS	1194	deoB_2	5.4.2.7	COG1015	Phosphopentomutase
+PBFPHCLI_00893	gene	1194	deoB_2			
+PBFPHCLI_00894	CDS	675	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+PBFPHCLI_00894	gene	675	deoC			
+PBFPHCLI_00895	CDS	771				hypothetical protein
+PBFPHCLI_00895	gene	771				
+PBFPHCLI_00896	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+PBFPHCLI_00896	gene	1098	ychF			
+PBFPHCLI_00897	CDS	198				hypothetical protein
+PBFPHCLI_00897	gene	198				
+PBFPHCLI_00898	CDS	885	spo0J		COG1475	Stage 0 sporulation protein J
+PBFPHCLI_00898	gene	885	spo0J			
+PBFPHCLI_00899	CDS	771	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+PBFPHCLI_00899	gene	771	soj			
+PBFPHCLI_00900	CDS	969	noc		COG1475	Nucleoid occlusion protein
+PBFPHCLI_00900	gene	969	noc			
+PBFPHCLI_00901	CDS	726	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+PBFPHCLI_00901	gene	726	rsmG			
+PBFPHCLI_00902	CDS	885	mmgB	1.1.1.157	COG1250	putative 3-hydroxybutyryl-CoA dehydrogenase
+PBFPHCLI_00902	gene	885	mmgB			
+PBFPHCLI_00903	CDS	909	rihC	3.2.-.-	COG1957	Non-specific ribonucleoside hydrolase RihC
+PBFPHCLI_00903	gene	909	rihC			
+PBFPHCLI_00904	CDS	1212	nupG		COG1972	Purine nucleoside transport protein NupG
+PBFPHCLI_00904	gene	1212	nupG			
+PBFPHCLI_00905	CDS	1350	cycA_1		COG1113	D-serine/D-alanine/glycine transporter
+PBFPHCLI_00905	gene	1350	cycA_1			
+PBFPHCLI_00906	CDS	744	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+PBFPHCLI_00906	gene	744	glnQ_2			
+PBFPHCLI_00907	CDS	1464	glnP_1		COG0765	Glutamine transport system permease protein GlnP
+PBFPHCLI_00907	gene	1464	glnP_1			
+PBFPHCLI_00908	CDS	1308	serS	6.1.1.11		Serine--tRNA ligase
+PBFPHCLI_00908	gene	1308	serS			
+PBFPHCLI_00909	CDS	8898				hypothetical protein
+PBFPHCLI_00909	gene	8898				
+PBFPHCLI_00910	CDS	1743	bca			C protein alpha-antigen
+PBFPHCLI_00910	gene	1743	bca			
+PBFPHCLI_00911	CDS	927	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PBFPHCLI_00911	gene	927	apbE			
+PBFPHCLI_00912	CDS	1251	nfr2	1.5.1.36	COG0431	NADH-dependent flavin reductase subunit 2
+PBFPHCLI_00912	gene	1251	nfr2			
+PBFPHCLI_00913	CDS	573	nfr1	1.5.1.36	COG0431	NADH-dependent flavin reductase subunit 1
+PBFPHCLI_00913	gene	573	nfr1			
+PBFPHCLI_00914	CDS	1407	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PBFPHCLI_00914	gene	1407	rlmCD			
+PBFPHCLI_00915	CDS	1011	ccpA_2		COG1609	Catabolite control protein A
+PBFPHCLI_00915	gene	1011	ccpA_2			
+PBFPHCLI_00916	CDS	1374				hypothetical protein
+PBFPHCLI_00916	gene	1374				
+PBFPHCLI_00917	CDS	1089	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+PBFPHCLI_00917	gene	1089	carA_2			
+PBFPHCLI_00918	CDS	3171	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+PBFPHCLI_00918	gene	3171	carB_2			
+PBFPHCLI_00919	CDS	1386				hypothetical protein
+PBFPHCLI_00919	gene	1386				
+PBFPHCLI_00920	CDS	1683	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+PBFPHCLI_00920	gene	1683	malL			
+PBFPHCLI_00921	CDS	699				hypothetical protein
+PBFPHCLI_00921	gene	699				
+PBFPHCLI_00922	CDS	1116	sdrE			Serine-aspartate repeat-containing protein E
+PBFPHCLI_00922	gene	1116	sdrE			
+PBFPHCLI_00923	CDS	1503	gtf1_1	2.4.1.-	COG0438	Glycosyltransferase Gtf1
+PBFPHCLI_00923	gene	1503	gtf1_1			
+PBFPHCLI_00924	CDS	1542	tagE	2.4.1.52	COG0438	Poly(glycerol-phosphate) alpha-glucosyltransferase
+PBFPHCLI_00924	gene	1542	tagE			
+PBFPHCLI_00925	CDS	405				hypothetical protein
+PBFPHCLI_00925	gene	405				
+PBFPHCLI_00926	CDS	642				hypothetical protein
+PBFPHCLI_00926	gene	642				
+PBFPHCLI_00927	CDS	387				hypothetical protein
+PBFPHCLI_00927	gene	387				
+PBFPHCLI_00928	CDS	537	pyrR			Bifunctional protein pyrR
+PBFPHCLI_00928	gene	537	pyrR			
+PBFPHCLI_00929	CDS	783				hypothetical protein
+PBFPHCLI_00929	gene	783				
+PBFPHCLI_00930	CDS	1299	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+PBFPHCLI_00930	gene	1299	purA			
+PBFPHCLI_00931	CDS	975	guaC	1.7.1.7	COG0516	GMP reductase
+PBFPHCLI_00931	gene	975	guaC			
+PBFPHCLI_00932	CDS	1350	nox_1	1.6.99.3	COG0446	NADH oxidase
+PBFPHCLI_00932	gene	1350	nox_1			
+PBFPHCLI_00933	CDS	498	hmpT		COG4720	Thiamine precursor transporter HmpT
+PBFPHCLI_00933	gene	498	hmpT			
+PBFPHCLI_00934	CDS	1788				hypothetical protein
+PBFPHCLI_00934	gene	1788				
+PBFPHCLI_00935	CDS	597				hypothetical protein
+PBFPHCLI_00935	gene	597				
+PBFPHCLI_00936	CDS	747				hypothetical protein
+PBFPHCLI_00936	gene	747				
+PBFPHCLI_00937	CDS	867	yvgN_2	1.1.1.-	COG0656	Glyoxal reductase
+PBFPHCLI_00937	gene	867	yvgN_2			
+PBFPHCLI_00938	CDS	729		2.4.2.-	COG2071	Putative glutamine amidotransferase
+PBFPHCLI_00938	gene	729				
+PBFPHCLI_00939	CDS	1341	gshAB_1			Glutathione biosynthesis bifunctional protein GshAB
+PBFPHCLI_00939	gene	1341	gshAB_1			
+PBFPHCLI_00940	CDS	786				hypothetical protein
+PBFPHCLI_00940	gene	786				
+PBFPHCLI_00941	CDS	384				hypothetical protein
+PBFPHCLI_00941	gene	384				
+PBFPHCLI_00942	CDS	1248	baeS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase BaeS
+PBFPHCLI_00942	gene	1248	baeS			
+PBFPHCLI_00943	CDS	666	mprA		COG0745	Response regulator MprA
+PBFPHCLI_00943	gene	666	mprA			
+PBFPHCLI_00944	CDS	615	ywaC	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+PBFPHCLI_00944	gene	615	ywaC			
+PBFPHCLI_00945	CDS	495				hypothetical protein
+PBFPHCLI_00945	gene	495				
+PBFPHCLI_00946	CDS	663	yvdM_2	5.4.2.6	COG0637	Beta-phosphoglucomutase
+PBFPHCLI_00946	gene	663	yvdM_2			
+PBFPHCLI_00947	CDS	2253	malP	2.4.1.8		Maltose phosphorylase
+PBFPHCLI_00947	gene	2253	malP			
+PBFPHCLI_00948	CDS	1350				hypothetical protein
+PBFPHCLI_00948	gene	1350				
+PBFPHCLI_00949	CDS	1179	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+PBFPHCLI_00949	gene	1179	thlA			
+PBFPHCLI_00950	CDS	936	malR		COG1609	HTH-type transcriptional regulator MalR
+PBFPHCLI_00950	gene	936	malR			
+PBFPHCLI_00951	CDS	4179	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+PBFPHCLI_00951	gene	4179	addA			
+PBFPHCLI_00952	CDS	3783	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+PBFPHCLI_00952	gene	3783	addB			
+PBFPHCLI_00953	CDS	309				hypothetical protein
+PBFPHCLI_00953	gene	309				
+PBFPHCLI_00954	CDS	1071	ltrA_3		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_00954	gene	1071	ltrA_3			
+PBFPHCLI_00955	CDS	1464	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PBFPHCLI_00955	gene	1464	clsA_1			
+PBFPHCLI_00956	CDS	585				hypothetical protein
+PBFPHCLI_00956	gene	585				
+PBFPHCLI_00957	CDS	2919				hypothetical protein
+PBFPHCLI_00957	gene	2919				
+PBFPHCLI_00958	CDS	1104	menC	4.2.1.113	COG4948	o-succinylbenzoate synthase
+PBFPHCLI_00958	gene	1104	menC			
+PBFPHCLI_00959	CDS	2238	clpC_1			putative ATP-dependent Clp protease ATP-binding subunit
+PBFPHCLI_00959	gene	2238	clpC_1			
+PBFPHCLI_00960	CDS	222				hypothetical protein
+PBFPHCLI_00960	gene	222				
+PBFPHCLI_00961	CDS	1188	patA_4	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PBFPHCLI_00961	gene	1188	patA_4			
+PBFPHCLI_00962	CDS	996	ldhD	1.1.1.28	COG1052	D-lactate dehydrogenase
+PBFPHCLI_00962	gene	996	ldhD			
+PBFPHCLI_00963	CDS	429		1.11.1.-	COG1765	Hydroperoxide reductase
+PBFPHCLI_00963	gene	429				
+PBFPHCLI_00964	CDS	186				hypothetical protein
+PBFPHCLI_00964	gene	186				
+PBFPHCLI_00965	CDS	2142	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+PBFPHCLI_00965	gene	2142	lagD			
+PBFPHCLI_00966	CDS	162				hypothetical protein
+PBFPHCLI_00966	gene	162				
+PBFPHCLI_00967	CDS	159				hypothetical protein
+PBFPHCLI_00967	gene	159				
+PBFPHCLI_00968	CDS	168				hypothetical protein
+PBFPHCLI_00968	gene	168				
+PBFPHCLI_00969	CDS	1383	ltrA_4		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_00969	gene	1383	ltrA_4			
+PBFPHCLI_00970	CDS	768	agrA_1		COG3279	Accessory gene regulator A
+PBFPHCLI_00970	gene	768	agrA_1			
+PBFPHCLI_00971	CDS	1314				hypothetical protein
+PBFPHCLI_00971	gene	1314				
+PBFPHCLI_00972	CDS	132				hypothetical protein
+PBFPHCLI_00972	gene	132				
+PBFPHCLI_00973	CDS	165				hypothetical protein
+PBFPHCLI_00973	gene	165				
+PBFPHCLI_00974	CDS	891				hypothetical protein
+PBFPHCLI_00974	gene	891				
+PBFPHCLI_00975	CDS	969				hypothetical protein
+PBFPHCLI_00975	gene	969				
+PBFPHCLI_00976	CDS	288				hypothetical protein
+PBFPHCLI_00976	gene	288				
+PBFPHCLI_00977	CDS	660				hypothetical protein
+PBFPHCLI_00977	gene	660				
+PBFPHCLI_00978	CDS	1236	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+PBFPHCLI_00978	gene	1236	macB_1			
+PBFPHCLI_00979	CDS	699	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PBFPHCLI_00979	gene	699	yknY			
+PBFPHCLI_00980	CDS	1083	mdtA			Multidrug resistance protein MdtA
+PBFPHCLI_00980	gene	1083	mdtA			
+PBFPHCLI_00981	CDS	1374	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+PBFPHCLI_00981	gene	1374	sad			
+PBFPHCLI_00982	CDS	813	proC_2	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+PBFPHCLI_00982	gene	813	proC_2			
+PBFPHCLI_00983	CDS	777				hypothetical protein
+PBFPHCLI_00983	gene	777				
+PBFPHCLI_00984	CDS	669	glcU_2		COG4975	Glucose uptake protein GlcU
+PBFPHCLI_00984	gene	669	glcU_2			
+PBFPHCLI_00985	CDS	1173	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+PBFPHCLI_00985	gene	1173	dhaT			
+PBFPHCLI_00986	CDS	537	azr	1.7.-.-	COG0431	FMN-dependent NADPH-azoreductase
+PBFPHCLI_00986	gene	537	azr			
+PBFPHCLI_00987	CDS	198				hypothetical protein
+PBFPHCLI_00987	gene	198				
+PBFPHCLI_00988	CDS	510	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+PBFPHCLI_00988	gene	510	rlmH			
+PBFPHCLI_00989	CDS	987				hypothetical protein
+PBFPHCLI_00989	gene	987				
+PBFPHCLI_00990	CDS	498	ypjQ		COG1267	putative protein YpjQ
+PBFPHCLI_00990	gene	498	ypjQ			
+PBFPHCLI_00991	CDS	1275	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+PBFPHCLI_00991	gene	1275	htrA			
+PBFPHCLI_00992	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+PBFPHCLI_00992	gene	807	yycJ			
+PBFPHCLI_00993	CDS	843	yycI		COG4853	Two-component system WalR/WalK regulatory protein YycI
+PBFPHCLI_00993	gene	843	yycI			
+PBFPHCLI_00994	CDS	1296				hypothetical protein
+PBFPHCLI_00994	gene	1296				
+PBFPHCLI_00995	CDS	1866	walK	2.7.13.3		Sensor histidine kinase WalK
+PBFPHCLI_00995	gene	1866	walK			
+PBFPHCLI_00996	CDS	708	walR		COG0745	Transcriptional regulatory protein WalR
+PBFPHCLI_00996	gene	708	walR			
+PBFPHCLI_00997	tRNA	76				tRNA-Lys(ctt)
+PBFPHCLI_00997	gene	76				
+PBFPHCLI_00998	CDS	1722	lmrA	3.6.3.44	COG1132	Multidrug resistance ABC transporter ATP-binding and permease protein
+PBFPHCLI_00998	gene	1722	lmrA			
+PBFPHCLI_00999	CDS	435			COG1846	putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+PBFPHCLI_00999	gene	435				
+PBFPHCLI_01000	tRNA	76				tRNA-Lys(ctt)
+PBFPHCLI_01000	gene	76				
+PBFPHCLI_01001	CDS	558	immR_1		COG1396	HTH-type transcriptional regulator ImmR
+PBFPHCLI_01001	gene	558	immR_1			
+PBFPHCLI_01002	CDS	879		2.7.4.1	COG2326	Polyphosphate:ADP phosphotransferase
+PBFPHCLI_01002	gene	879				
+PBFPHCLI_01003	CDS	327				hypothetical protein
+PBFPHCLI_01003	gene	327				
+PBFPHCLI_01004	CDS	1203	mdtG			Multidrug resistance protein MdtG
+PBFPHCLI_01004	gene	1203	mdtG			
+PBFPHCLI_01005	CDS	1392	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+PBFPHCLI_01005	gene	1392	dnaC			
+PBFPHCLI_01006	CDS	453	rplI			50S ribosomal protein L9
+PBFPHCLI_01006	gene	453	rplI			
+PBFPHCLI_01007	CDS	2019	gdpP	3.1.4.-	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+PBFPHCLI_01007	gene	2019	gdpP			
+PBFPHCLI_01008	CDS	237	rpsR		COG0238	30S ribosomal protein S18
+PBFPHCLI_01008	gene	237	rpsR			
+PBFPHCLI_01009	CDS	564	ssbA		COG0629	Single-stranded DNA-binding protein A
+PBFPHCLI_01009	gene	564	ssbA			
+PBFPHCLI_01010	CDS	297	rpsF		COG0360	30S ribosomal protein S6
+PBFPHCLI_01010	gene	297	rpsF			
+PBFPHCLI_01011	CDS	2505	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+PBFPHCLI_01011	gene	2505	gyrA			
+PBFPHCLI_01012	CDS	1950	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+PBFPHCLI_01012	gene	1950	gyrB			
+PBFPHCLI_01013	CDS	1125	recF		COG1195	DNA replication and repair protein RecF
+PBFPHCLI_01013	gene	1125	recF			
+PBFPHCLI_01014	CDS	222				hypothetical protein
+PBFPHCLI_01014	gene	222				
+PBFPHCLI_01015	CDS	1143	dnaN		COG0592	Beta sliding clamp
+PBFPHCLI_01015	gene	1143	dnaN			
+PBFPHCLI_01016	CDS	1323	dnaA			Chromosomal replication initiator protein DnaA
+PBFPHCLI_01016	gene	1323	dnaA			
+PBFPHCLI_01017	CDS	135	rpmH			50S ribosomal protein L34
+PBFPHCLI_01017	gene	135	rpmH			
+PBFPHCLI_01018	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+PBFPHCLI_01018	gene	354	rnpA			
+PBFPHCLI_01019	CDS	792	misCA		COG0706	Membrane protein insertase MisCA
+PBFPHCLI_01019	gene	792	misCA			
+PBFPHCLI_01020	CDS	561				hypothetical protein
+PBFPHCLI_01020	gene	561				
+PBFPHCLI_01021	CDS	1593		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+PBFPHCLI_01021	gene	1593				
+PBFPHCLI_01022	CDS	615				hypothetical protein
+PBFPHCLI_01022	gene	615				
+PBFPHCLI_01023	CDS	942	xerC_3		COG4974	Tyrosine recombinase XerC
+PBFPHCLI_01023	gene	942	xerC_3			
+PBFPHCLI_01024	CDS	3000	hsdR	3.1.21.3		Type-1 restriction enzyme R protein
+PBFPHCLI_01024	gene	3000	hsdR			
+PBFPHCLI_01025	CDS	282				hypothetical protein
+PBFPHCLI_01025	gene	282				
+PBFPHCLI_01026	CDS	384				hypothetical protein
+PBFPHCLI_01026	gene	384				
+PBFPHCLI_01027	CDS	201				hypothetical protein
+PBFPHCLI_01027	gene	201				
+PBFPHCLI_01028	CDS	390				hypothetical protein
+PBFPHCLI_01028	gene	390				
+PBFPHCLI_01029	CDS	768				hypothetical protein
+PBFPHCLI_01029	gene	768				
+PBFPHCLI_01030	CDS	1389	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+PBFPHCLI_01030	gene	1389	mnmE			
+PBFPHCLI_01031	CDS	1944	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PBFPHCLI_01031	gene	1944	mnmG			
+PBFPHCLI_01032	CDS	1920	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+PBFPHCLI_01032	gene	1920	asnB			
+PBFPHCLI_01033	CDS	1551	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+PBFPHCLI_01033	gene	1551	murE			
+PBFPHCLI_01034	CDS	1245		6.3.1.12		D-aspartate ligase
+PBFPHCLI_01034	gene	1245				
+PBFPHCLI_01035	CDS	606	spsB	3.4.21.89		Signal peptidase IB
+PBFPHCLI_01035	gene	606	spsB			
+PBFPHCLI_01036	CDS	498	ywnH_2	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+PBFPHCLI_01036	gene	498	ywnH_2			
+PBFPHCLI_01037	CDS	117				hypothetical protein
+PBFPHCLI_01037	gene	117				
+PBFPHCLI_01038	CDS	864	yvgN_3	1.1.1.-	COG0656	Glyoxal reductase
+PBFPHCLI_01038	gene	864	yvgN_3			
+PBFPHCLI_01039	CDS	1569	nfdA	3.5.1.91		N-substituted formamide deformylase
+PBFPHCLI_01039	gene	1569	nfdA			
+PBFPHCLI_01040	CDS	876				hypothetical protein
+PBFPHCLI_01040	gene	876				
+PBFPHCLI_01041	CDS	834		3.6.3.-	COG1131	Fluoroquinolones export ATP-binding protein
+PBFPHCLI_01041	gene	834				
+PBFPHCLI_01042	CDS	333				hypothetical protein
+PBFPHCLI_01042	gene	333				
+PBFPHCLI_01043	CDS	303				hypothetical protein
+PBFPHCLI_01043	gene	303				
+PBFPHCLI_01044	CDS	216				hypothetical protein
+PBFPHCLI_01044	gene	216				
+PBFPHCLI_01045	CDS	273				hypothetical protein
+PBFPHCLI_01045	gene	273				
+PBFPHCLI_01046	CDS	654				hypothetical protein
+PBFPHCLI_01046	gene	654				
+PBFPHCLI_01047	CDS	147				hypothetical protein
+PBFPHCLI_01047	gene	147				
+PBFPHCLI_01048	CDS	678	sapB		COG1285	Protein SapB
+PBFPHCLI_01048	gene	678	sapB			
+PBFPHCLI_01049	CDS	537	hpt_2	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+PBFPHCLI_01049	gene	537	hpt_2			
+PBFPHCLI_01050	CDS	1020	pbpX_2		COG1680	Putative penicillin-binding protein PbpX
+PBFPHCLI_01050	gene	1020	pbpX_2			
+PBFPHCLI_01051	CDS	411	arsC_1	1.20.4.4	COG0394	Arsenate reductase
+PBFPHCLI_01051	gene	411	arsC_1			
+PBFPHCLI_01052	CDS	495	proX_2		COG3760	Prolyl-tRNA editing protein ProX
+PBFPHCLI_01052	gene	495	proX_2			
+PBFPHCLI_01053	CDS	261				hypothetical protein
+PBFPHCLI_01053	gene	261				
+PBFPHCLI_01054	CDS	327				hypothetical protein
+PBFPHCLI_01054	gene	327				
+PBFPHCLI_01055	CDS	486	agrA_2		COG3279	Accessory gene regulator A
+PBFPHCLI_01055	gene	486	agrA_2			
+PBFPHCLI_01056	CDS	1263				hypothetical protein
+PBFPHCLI_01056	gene	1263				
+PBFPHCLI_01057	CDS	486				hypothetical protein
+PBFPHCLI_01057	gene	486				
+PBFPHCLI_01058	CDS	273				hypothetical protein
+PBFPHCLI_01058	gene	273				
+PBFPHCLI_01059	CDS	309				hypothetical protein
+PBFPHCLI_01059	gene	309				
+PBFPHCLI_01060	CDS	453				hypothetical protein
+PBFPHCLI_01060	gene	453				
+PBFPHCLI_01061	CDS	828				hypothetical protein
+PBFPHCLI_01061	gene	828				
+PBFPHCLI_01062	CDS	681	arlR_1		COG0745	Response regulator ArlR
+PBFPHCLI_01062	gene	681	arlR_1			
+PBFPHCLI_01063	CDS	1332	arlS_1	2.7.13.3	COG0642	Signal transduction histidine-protein kinase ArlS
+PBFPHCLI_01063	gene	1332	arlS_1			
+PBFPHCLI_01064	CDS	651				hypothetical protein
+PBFPHCLI_01064	gene	651				
+PBFPHCLI_01065	CDS	1293	dmpP	1.14.13.7		Phenol hydroxylase P5 protein
+PBFPHCLI_01065	gene	1293	dmpP			
+PBFPHCLI_01066	CDS	138				hypothetical protein
+PBFPHCLI_01066	gene	138				
+PBFPHCLI_01067	CDS	321				hypothetical protein
+PBFPHCLI_01067	gene	321				
+PBFPHCLI_01068	CDS	108				hypothetical protein
+PBFPHCLI_01068	gene	108				
+PBFPHCLI_01069	CDS	486				hypothetical protein
+PBFPHCLI_01069	gene	486				
+PBFPHCLI_01070	CDS	435				hypothetical protein
+PBFPHCLI_01070	gene	435				
+PBFPHCLI_01071	CDS	603		2.3.1.-		Putative acetyltransferase
+PBFPHCLI_01071	gene	603				
+PBFPHCLI_01072	CDS	783				hypothetical protein
+PBFPHCLI_01072	gene	783				
+PBFPHCLI_01073	CDS	813	tesE	4.2.1.132		2-hydroxyhexa-2,4-dienoate hydratase
+PBFPHCLI_01073	gene	813	tesE			
+PBFPHCLI_01074	CDS	951		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+PBFPHCLI_01074	gene	951				
+PBFPHCLI_01075	CDS	1194	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+PBFPHCLI_01075	gene	1194	lysN_2			
+PBFPHCLI_01076	CDS	1002	ypuA		COG4086	putative protein YpuA
+PBFPHCLI_01076	gene	1002	ypuA			
+PBFPHCLI_01077	CDS	990	ansA	3.5.1.1	COG0252	L-asparaginase 1
+PBFPHCLI_01077	gene	990	ansA			
+PBFPHCLI_01078	CDS	873	catM			HTH-type transcriptional regulator CatM
+PBFPHCLI_01078	gene	873	catM			
+PBFPHCLI_01079	CDS	879	dkgA	1.1.1.274	COG0656	2,5-diketo-D-gluconic acid reductase A
+PBFPHCLI_01079	gene	879	dkgA			
+PBFPHCLI_01080	CDS	579				hypothetical protein
+PBFPHCLI_01080	gene	579				
+PBFPHCLI_01081	CDS	1143				hypothetical protein
+PBFPHCLI_01081	gene	1143				
+PBFPHCLI_01082	CDS	645				hypothetical protein
+PBFPHCLI_01082	gene	645				
+PBFPHCLI_01083	CDS	363				hypothetical protein
+PBFPHCLI_01083	gene	363				
+PBFPHCLI_01084	CDS	672				hypothetical protein
+PBFPHCLI_01084	gene	672				
+PBFPHCLI_01085	CDS	801				hypothetical protein
+PBFPHCLI_01085	gene	801				
+PBFPHCLI_01086	CDS	1128	pgaC	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+PBFPHCLI_01086	gene	1128	pgaC			
+PBFPHCLI_01087	CDS	498				hypothetical protein
+PBFPHCLI_01087	gene	498				
+PBFPHCLI_01088	CDS	1164	dgcZ	2.7.7.65	COG2199	Diguanylate cyclase DgcZ
+PBFPHCLI_01088	gene	1164	dgcZ			
+PBFPHCLI_01089	CDS	693				hypothetical protein
+PBFPHCLI_01089	gene	693				
+PBFPHCLI_01090	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+PBFPHCLI_01090	gene	1299	asnS			
+PBFPHCLI_01091	CDS	1011	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+PBFPHCLI_01091	gene	1011	asnA			
+PBFPHCLI_01092	CDS	561	folT			Folate transporter FolT
+PBFPHCLI_01092	gene	561	folT			
+PBFPHCLI_01093	CDS	453	ywnA_2		COG1959	Putative HTH-type transcriptional regulator YwnA
+PBFPHCLI_01093	gene	453	ywnA_2			
+PBFPHCLI_01094	CDS	2532	pepN	3.4.11.2		Aminopeptidase N
+PBFPHCLI_01094	gene	2532	pepN			
+PBFPHCLI_01095	CDS	642	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+PBFPHCLI_01095	gene	642	yhfK			
+PBFPHCLI_01096	CDS	1323	pepE	3.4.22.-	COG3579	Aminopeptidase E
+PBFPHCLI_01096	gene	1323	pepE			
+PBFPHCLI_01097	CDS	93				hypothetical protein
+PBFPHCLI_01097	gene	93				
+PBFPHCLI_01098	CDS	747				hypothetical protein
+PBFPHCLI_01098	gene	747				
+PBFPHCLI_01099	CDS	597				hypothetical protein
+PBFPHCLI_01099	gene	597				
+PBFPHCLI_01100	CDS	1143	yhhS			putative MFS-type transporter YhhS
+PBFPHCLI_01100	gene	1143	yhhS			
+PBFPHCLI_01101	CDS	1314				hypothetical protein
+PBFPHCLI_01101	gene	1314				
+PBFPHCLI_01102	CDS	453	ytcD		COG1733	putative HTH-type transcriptional regulator YtcD
+PBFPHCLI_01102	gene	453	ytcD			
+PBFPHCLI_01103	CDS	603				hypothetical protein
+PBFPHCLI_01103	gene	603				
+PBFPHCLI_01104	CDS	312	hxlR_1		COG1733	HTH-type transcriptional activator HxlR
+PBFPHCLI_01104	gene	312	hxlR_1			
+PBFPHCLI_01105	CDS	657	hemA	1.2.1.70		Glutamyl-tRNA reductase
+PBFPHCLI_01105	gene	657	hemA			
+PBFPHCLI_01106	CDS	438				hypothetical protein
+PBFPHCLI_01106	gene	438				
+PBFPHCLI_01107	CDS	234				hypothetical protein
+PBFPHCLI_01107	gene	234				
+PBFPHCLI_01108	CDS	219				hypothetical protein
+PBFPHCLI_01108	gene	219				
+PBFPHCLI_01109	CDS	246				hypothetical protein
+PBFPHCLI_01109	gene	246				
+PBFPHCLI_01110	CDS	1137	metE	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+PBFPHCLI_01110	gene	1137	metE			
+PBFPHCLI_01111	CDS	117				hypothetical protein
+PBFPHCLI_01111	gene	117				
+PBFPHCLI_01112	CDS	957	panE_2	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+PBFPHCLI_01112	gene	957	panE_2			
+PBFPHCLI_01113	CDS	1377	yhdG_2		COG0531	putative amino acid permease YhdG
+PBFPHCLI_01113	gene	1377	yhdG_2			
+PBFPHCLI_01114	CDS	1293				hypothetical protein
+PBFPHCLI_01114	gene	1293				
+PBFPHCLI_01115	CDS	1245	mdtD_2			Putative multidrug resistance protein MdtD
+PBFPHCLI_01115	gene	1245	mdtD_2			
+PBFPHCLI_01116	CDS	135				hypothetical protein
+PBFPHCLI_01116	gene	135				
+PBFPHCLI_01117	CDS	1806	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+PBFPHCLI_01117	gene	1806	thrS			
+PBFPHCLI_01118	CDS	684				hypothetical protein
+PBFPHCLI_01118	gene	684				
+PBFPHCLI_01119	CDS	1593	mntH_1			Divalent metal cation transporter MntH
+PBFPHCLI_01119	gene	1593	mntH_1			
+PBFPHCLI_01120	CDS	1011	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+PBFPHCLI_01120	gene	1011	tdh			
+PBFPHCLI_01121	CDS	513				hypothetical protein
+PBFPHCLI_01121	gene	513				
+PBFPHCLI_01122	CDS	1059			COG0577	putative ABC transporter permease
+PBFPHCLI_01122	gene	1059				
+PBFPHCLI_01123	CDS	690	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+PBFPHCLI_01123	gene	690	lolD			
+PBFPHCLI_01124	CDS	1983	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PBFPHCLI_01124	gene	1983	macB_2			
+PBFPHCLI_01125	CDS	237				hypothetical protein
+PBFPHCLI_01125	gene	237				
+PBFPHCLI_01126	CDS	318	czrA_1		COG0640	HTH-type transcriptional repressor CzrA
+PBFPHCLI_01126	gene	318	czrA_1			
+PBFPHCLI_01127	CDS	1713		3.2.1.-	COG1388	Autolysin
+PBFPHCLI_01127	gene	1713				
+PBFPHCLI_01128	CDS	945	degA_1		COG1609	HTH-type transcriptional regulator DegA
+PBFPHCLI_01128	gene	945	degA_1			
+PBFPHCLI_01129	CDS	186				hypothetical protein
+PBFPHCLI_01129	gene	186				
+PBFPHCLI_01130	CDS	621				hypothetical protein
+PBFPHCLI_01130	gene	621				
+PBFPHCLI_01131	CDS	1197				hypothetical protein
+PBFPHCLI_01131	gene	1197				
+PBFPHCLI_01132	CDS	1278	hisS	6.1.1.21		Histidine--tRNA ligase
+PBFPHCLI_01132	gene	1278	hisS			
+PBFPHCLI_01133	CDS	459				hypothetical protein
+PBFPHCLI_01133	gene	459				
+PBFPHCLI_01134	CDS	495				hypothetical protein
+PBFPHCLI_01134	gene	495				
+PBFPHCLI_01135	CDS	639	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PBFPHCLI_01135	gene	639	nnr			
+PBFPHCLI_01136	CDS	1386				hypothetical protein
+PBFPHCLI_01136	gene	1386				
+PBFPHCLI_01137	CDS	657	yciB	2.-.-.-	COG1376	Putative L,D-transpeptidase YciB
+PBFPHCLI_01137	gene	657	yciB			
+PBFPHCLI_01138	CDS	201				hypothetical protein
+PBFPHCLI_01138	gene	201				
+PBFPHCLI_01139	CDS	582				hypothetical protein
+PBFPHCLI_01139	gene	582				
+PBFPHCLI_01140	CDS	1212	dacA_2	3.4.16.4		D-alanyl-D-alanine carboxypeptidase DacA
+PBFPHCLI_01140	gene	1212	dacA_2			
+PBFPHCLI_01141	CDS	855				hypothetical protein
+PBFPHCLI_01141	gene	855				
+PBFPHCLI_01142	CDS	1383	ltrA_5		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01142	gene	1383	ltrA_5			
+PBFPHCLI_01143	CDS	1122	gldA	1.1.1.6		Glycerol dehydrogenase
+PBFPHCLI_01143	gene	1122	gldA			
+PBFPHCLI_01144	CDS	2130	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+PBFPHCLI_01144	gene	2130	ltaS1_1			
+PBFPHCLI_01145	CDS	264				hypothetical protein
+PBFPHCLI_01145	gene	264				
+PBFPHCLI_01146	CDS	654	gpmA_4	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PBFPHCLI_01146	gene	654	gpmA_4			
+PBFPHCLI_01147	CDS	1554				hypothetical protein
+PBFPHCLI_01147	gene	1554				
+PBFPHCLI_01148	CDS	1410	nhaC_2		COG1757	Na(+)/H(+) antiporter NhaC
+PBFPHCLI_01148	gene	1410	nhaC_2			
+PBFPHCLI_01149	CDS	1329	pucK		COG2233	Uric acid permease PucK
+PBFPHCLI_01149	gene	1329	pucK			
+PBFPHCLI_01150	CDS	1434	pepDA_3	3.4.-.-	COG4690	Dipeptidase A
+PBFPHCLI_01150	gene	1434	pepDA_3			
+PBFPHCLI_01151	CDS	918				hypothetical protein
+PBFPHCLI_01151	gene	918				
+PBFPHCLI_01152	CDS	921	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PBFPHCLI_01152	gene	921	rluD_2			
+PBFPHCLI_01153	CDS	756				hypothetical protein
+PBFPHCLI_01153	gene	756				
+PBFPHCLI_01154	CDS	318	trxA_2		COG0526	Thioredoxin
+PBFPHCLI_01154	gene	318	trxA_2			
+PBFPHCLI_01155	CDS	1323	mepA_1			Multidrug export protein MepA
+PBFPHCLI_01155	gene	1323	mepA_1			
+PBFPHCLI_01156	CDS	372				hypothetical protein
+PBFPHCLI_01156	gene	372				
+PBFPHCLI_01157	CDS	4119				hypothetical protein
+PBFPHCLI_01157	gene	4119				
+PBFPHCLI_01158	CDS	333	czrA_2		COG0640	HTH-type transcriptional repressor CzrA
+PBFPHCLI_01158	gene	333	czrA_2			
+PBFPHCLI_01159	CDS	564				hypothetical protein
+PBFPHCLI_01159	gene	564				
+PBFPHCLI_01160	CDS	765	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+PBFPHCLI_01160	gene	765	ssuB			
+PBFPHCLI_01161	CDS	900	lsrC		COG1172	Autoinducer 2 import system permease protein LsrC
+PBFPHCLI_01161	gene	900	lsrC			
+PBFPHCLI_01162	CDS	996				hypothetical protein
+PBFPHCLI_01162	gene	996				
+PBFPHCLI_01163	CDS	1029	mepH	3.4.-.-	COG0791	Murein DD-endopeptidase MepH
+PBFPHCLI_01163	gene	1029	mepH			
+PBFPHCLI_01164	CDS	195				hypothetical protein
+PBFPHCLI_01164	gene	195				
+PBFPHCLI_01165	CDS	1341				hypothetical protein
+PBFPHCLI_01165	gene	1341				
+PBFPHCLI_01166	CDS	465				hypothetical protein
+PBFPHCLI_01166	gene	465				
+PBFPHCLI_01167	CDS	225	sinR		COG1396	HTH-type transcriptional regulator SinR
+PBFPHCLI_01167	gene	225	sinR			
+PBFPHCLI_01168	CDS	288				hypothetical protein
+PBFPHCLI_01168	gene	288				
+PBFPHCLI_01169	CDS	618				hypothetical protein
+PBFPHCLI_01169	gene	618				
+PBFPHCLI_01170	CDS	351	cadC			Cadmium resistance transcriptional regulatory protein CadC
+PBFPHCLI_01170	gene	351	cadC			
+PBFPHCLI_01171	CDS	411	arsC_2	1.20.4.4	COG0394	Arsenate reductase
+PBFPHCLI_01171	gene	411	arsC_2			
+PBFPHCLI_01172	CDS	1035	acr3		COG0798	Arsenical-resistance protein Acr3
+PBFPHCLI_01172	gene	1035	acr3			
+PBFPHCLI_01173	CDS	312	sdpR		COG0640	Transcriptional repressor SdpR
+PBFPHCLI_01173	gene	312	sdpR			
+PBFPHCLI_01174	CDS	576				hypothetical protein
+PBFPHCLI_01174	gene	576				
+PBFPHCLI_01175	CDS	1542	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+PBFPHCLI_01175	gene	1542	ybiT			
+PBFPHCLI_01176	CDS	780				hypothetical protein
+PBFPHCLI_01176	gene	780				
+PBFPHCLI_01177	CDS	594	lytG_1	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+PBFPHCLI_01177	gene	594	lytG_1			
+PBFPHCLI_01178	CDS	1386	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PBFPHCLI_01178	gene	1386	brnQ_1			
+PBFPHCLI_01179	CDS	1236				hypothetical protein
+PBFPHCLI_01179	gene	1236				
+PBFPHCLI_01180	CDS	1080	nrnB	3.1.-.-	COG2404	Oligoribonuclease NrnB
+PBFPHCLI_01180	gene	1080	nrnB			
+PBFPHCLI_01181	CDS	294				hypothetical protein
+PBFPHCLI_01181	gene	294				
+PBFPHCLI_01182	CDS	285				hypothetical protein
+PBFPHCLI_01182	gene	285				
+PBFPHCLI_01183	CDS	1011				hypothetical protein
+PBFPHCLI_01183	gene	1011				
+PBFPHCLI_01184	CDS	960				hypothetical protein
+PBFPHCLI_01184	gene	960				
+PBFPHCLI_01185	CDS	321				hypothetical protein
+PBFPHCLI_01185	gene	321				
+PBFPHCLI_01186	CDS	684	ywrO	1.6.99.-	COG2249	General stress protein 14
+PBFPHCLI_01186	gene	684	ywrO			
+PBFPHCLI_01187	CDS	174				hypothetical protein
+PBFPHCLI_01187	gene	174				
+PBFPHCLI_01188	CDS	372				hypothetical protein
+PBFPHCLI_01188	gene	372				
+PBFPHCLI_01189	CDS	633		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+PBFPHCLI_01189	gene	633				
+PBFPHCLI_01190	CDS	1146				hypothetical protein
+PBFPHCLI_01190	gene	1146				
+PBFPHCLI_01191	CDS	1293				hypothetical protein
+PBFPHCLI_01191	gene	1293				
+PBFPHCLI_01192	CDS	294				hypothetical protein
+PBFPHCLI_01192	gene	294				
+PBFPHCLI_01193	CDS	1905	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+PBFPHCLI_01193	gene	1905	pepO			
+PBFPHCLI_01194	CDS	636	immR_2		COG1396	HTH-type transcriptional regulator ImmR
+PBFPHCLI_01194	gene	636	immR_2			
+PBFPHCLI_01195	CDS	504	ymdB	3.5.1.-	COG2110	O-acetyl-ADP-ribose deacetylase
+PBFPHCLI_01195	gene	504	ymdB			
+PBFPHCLI_01196	CDS	1161	ydhP_1		COG2814	Inner membrane transport protein YdhP
+PBFPHCLI_01196	gene	1161	ydhP_1			
+PBFPHCLI_01197	CDS	1494	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PBFPHCLI_01197	gene	1494	clsA_2			
+PBFPHCLI_01198	CDS	705	tipA			HTH-type transcriptional activator TipA
+PBFPHCLI_01198	gene	705	tipA			
+PBFPHCLI_01199	CDS	924	cysK	2.5.1.47		Cysteine synthase
+PBFPHCLI_01199	gene	924	cysK			
+PBFPHCLI_01200	CDS	828	metA	2.3.1.30		Serine O-acetyltransferase
+PBFPHCLI_01200	gene	828	metA			
+PBFPHCLI_01201	CDS	1929	yxdM			ABC transporter permease protein YxdM
+PBFPHCLI_01201	gene	1929	yxdM			
+PBFPHCLI_01202	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+PBFPHCLI_01202	gene	756	yxdL			
+PBFPHCLI_01203	CDS	981	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+PBFPHCLI_01203	gene	981	graS			
+PBFPHCLI_01204	CDS	681	graR		COG0745	Response regulator protein GraR
+PBFPHCLI_01204	gene	681	graR			
+PBFPHCLI_01205	CDS	843		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+PBFPHCLI_01205	gene	843				
+PBFPHCLI_01206	CDS	753	pnuC		COG3201	Nicotinamide riboside transporter PnuC
+PBFPHCLI_01206	gene	753	pnuC			
+PBFPHCLI_01207	CDS	498	greA_1		COG0782	Transcription elongation factor GreA
+PBFPHCLI_01207	gene	498	greA_1			
+PBFPHCLI_01208	CDS	1122				hypothetical protein
+PBFPHCLI_01208	gene	1122				
+PBFPHCLI_01209	CDS	327				hypothetical protein
+PBFPHCLI_01209	gene	327				
+PBFPHCLI_01210	CDS	225				hypothetical protein
+PBFPHCLI_01210	gene	225				
+PBFPHCLI_01211	CDS	507				hypothetical protein
+PBFPHCLI_01211	gene	507				
+PBFPHCLI_01212	CDS	783	iphP_1	3.1.3.48		Tyrosine-protein phosphatase
+PBFPHCLI_01212	gene	783	iphP_1			
+PBFPHCLI_01213	CDS	969				hypothetical protein
+PBFPHCLI_01213	gene	969				
+PBFPHCLI_01214	CDS	1179	galK_2	2.7.1.6	COG0153	Galactokinase
+PBFPHCLI_01214	gene	1179	galK_2			
+PBFPHCLI_01215	CDS	1452	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+PBFPHCLI_01215	gene	1452	galT			
+PBFPHCLI_01216	CDS	993	lacR_2		COG1609	HTH-type transcriptional regulator LacR
+PBFPHCLI_01216	gene	993	lacR_2			
+PBFPHCLI_01217	CDS	612			COG0586	putative membrane protein
+PBFPHCLI_01217	gene	612				
+PBFPHCLI_01218	CDS	1314	gltT			Proton/sodium-glutamate symport protein
+PBFPHCLI_01218	gene	1314	gltT			
+PBFPHCLI_01219	CDS	1383	ltrA_6		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01219	gene	1383	ltrA_6			
+PBFPHCLI_01220	CDS	471	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+PBFPHCLI_01220	gene	471	lrpC			
+PBFPHCLI_01221	CDS	969				hypothetical protein
+PBFPHCLI_01221	gene	969				
+PBFPHCLI_01222	CDS	465				Putative universal stress protein
+PBFPHCLI_01222	gene	465				
+PBFPHCLI_01223	CDS	1953	lacS_1		COG2190	Lactose permease
+PBFPHCLI_01223	gene	1953	lacS_1			
+PBFPHCLI_01224	CDS	267				hypothetical protein
+PBFPHCLI_01224	gene	267				
+PBFPHCLI_01225	CDS	1437	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+PBFPHCLI_01225	gene	1437	gnd			
+PBFPHCLI_01226	CDS	1482	zwf	1.1.1.363		Glucose-6-phosphate 1-dehydrogenase
+PBFPHCLI_01226	gene	1482	zwf			
+PBFPHCLI_01227	CDS	1107	yycB		COG2807	putative transporter YycB
+PBFPHCLI_01227	gene	1107	yycB			
+PBFPHCLI_01228	CDS	426				hypothetical protein
+PBFPHCLI_01228	gene	426				
+PBFPHCLI_01229	CDS	468			COG1780	Putative NrdI-like protein
+PBFPHCLI_01229	gene	468				
+PBFPHCLI_01230	CDS	1329				hypothetical protein
+PBFPHCLI_01230	gene	1329				
+PBFPHCLI_01231	CDS	864				hypothetical protein
+PBFPHCLI_01231	gene	864				
+PBFPHCLI_01232	CDS	525				hypothetical protein
+PBFPHCLI_01232	gene	525				
+PBFPHCLI_01233	CDS	528				hypothetical protein
+PBFPHCLI_01233	gene	528				
+PBFPHCLI_01234	CDS	453	slyA			Transcriptional regulator SlyA
+PBFPHCLI_01234	gene	453	slyA			
+PBFPHCLI_01235	CDS	726				hypothetical protein
+PBFPHCLI_01235	gene	726				
+PBFPHCLI_01236	CDS	1122			COG0628	Putative transport protein
+PBFPHCLI_01236	gene	1122				
+PBFPHCLI_01237	CDS	846				hypothetical protein
+PBFPHCLI_01237	gene	846				
+PBFPHCLI_01238	CDS	912				hypothetical protein
+PBFPHCLI_01238	gene	912				
+PBFPHCLI_01239	CDS	708	glpF		COG0580	Glycerol uptake facilitator protein
+PBFPHCLI_01239	gene	708	glpF			
+PBFPHCLI_01240	CDS	834	ftsA_2			Cell division protein FtsA
+PBFPHCLI_01240	gene	834	ftsA_2			
+PBFPHCLI_01241	CDS	978	adaA	2.1.1.-	COG2169	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+PBFPHCLI_01241	gene	978	adaA			
+PBFPHCLI_01242	CDS	282	pduA_1		COG4577	Propanediol utilization protein PduA
+PBFPHCLI_01242	gene	282	pduA_1			
+PBFPHCLI_01243	CDS	717	pduB		COG4816	Propanediol utilization protein PduB
+PBFPHCLI_01243	gene	717	pduB			
+PBFPHCLI_01244	CDS	1686	pduC	4.2.1.28	COG4909	Propanediol dehydratase large subunit
+PBFPHCLI_01244	gene	1686	pduC			
+PBFPHCLI_01245	CDS	711	pduD	4.2.1.28		Propanediol dehydratase medium subunit
+PBFPHCLI_01245	gene	711	pduD			
+PBFPHCLI_01246	CDS	516	pduE	4.2.1.28	COG4910	Propanediol dehydratase small subunit
+PBFPHCLI_01246	gene	516	pduE			
+PBFPHCLI_01247	CDS	1851	ddrA			Diol dehydratase-reactivating factor alpha subunit
+PBFPHCLI_01247	gene	1851	ddrA			
+PBFPHCLI_01248	CDS	360				hypothetical protein
+PBFPHCLI_01248	gene	360				
+PBFPHCLI_01249	CDS	570	ccmK		COG4577	Carbon dioxide-concentrating mechanism protein CcmK
+PBFPHCLI_01249	gene	570	ccmK			
+PBFPHCLI_01250	CDS	291	pduA_2		COG4577	Propanediol utilization protein PduA
+PBFPHCLI_01250	gene	291	pduA_2			
+PBFPHCLI_01251	CDS	645	pduL	2.3.1.222	COG4869	Phosphate propanoyltransferase
+PBFPHCLI_01251	gene	645	pduL			
+PBFPHCLI_01252	CDS	504				hypothetical protein
+PBFPHCLI_01252	gene	504				
+PBFPHCLI_01253	CDS	279	ccmL			Carbon dioxide concentrating mechanism protein CcmL
+PBFPHCLI_01253	gene	279	ccmL			
+PBFPHCLI_01254	CDS	588	yvqK_1	2.5.1.17	COG2096	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+PBFPHCLI_01254	gene	588	yvqK_1			
+PBFPHCLI_01255	CDS	474				hypothetical protein
+PBFPHCLI_01255	gene	474				
+PBFPHCLI_01256	CDS	1449	sucD	1.2.1.76	COG1012	Succinate-semialdehyde dehydrogenase (acetylating)
+PBFPHCLI_01256	gene	1449	sucD			
+PBFPHCLI_01257	CDS	1122	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+PBFPHCLI_01257	gene	1122	adhE_2			
+PBFPHCLI_01258	CDS	1122	ackA_2	2.7.2.1	COG0282	Acetate kinase
+PBFPHCLI_01258	gene	1122	ackA_2			
+PBFPHCLI_01259	CDS	348	pduU		COG4810	Propanediol utilization protein PduU
+PBFPHCLI_01259	gene	348	pduU			
+PBFPHCLI_01260	CDS	795	iphP_2	3.1.3.48		Tyrosine-protein phosphatase
+PBFPHCLI_01260	gene	795	iphP_2			
+PBFPHCLI_01261	CDS	645	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+PBFPHCLI_01261	gene	645	pspB			
+PBFPHCLI_01262	CDS	558				hypothetical protein
+PBFPHCLI_01262	gene	558				
+PBFPHCLI_01263	CDS	429	pduV		COG4917	Propanediol utilization protein PduV
+PBFPHCLI_01263	gene	429	pduV			
+PBFPHCLI_01264	CDS	450				Flavodoxin
+PBFPHCLI_01264	gene	450				
+PBFPHCLI_01265	CDS	843	chrR	1.6.5.2	COG0431	Quinone reductase
+PBFPHCLI_01265	gene	843	chrR			
+PBFPHCLI_01266	CDS	567	yvqK_2	2.5.1.17	COG2096	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+PBFPHCLI_01266	gene	567	yvqK_2			
+PBFPHCLI_01267	CDS	1341				hypothetical protein
+PBFPHCLI_01267	gene	1341				
+PBFPHCLI_01268	CDS	1437	pepDA_4	3.4.-.-	COG4690	Dipeptidase A
+PBFPHCLI_01268	gene	1437	pepDA_4			
+PBFPHCLI_01269	CDS	507	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+PBFPHCLI_01269	gene	507	ybaK			
+PBFPHCLI_01270	CDS	732	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+PBFPHCLI_01270	gene	732	gmuR			
+PBFPHCLI_01271	CDS	2412	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+PBFPHCLI_01271	gene	2412	xpkA			
+PBFPHCLI_01272	CDS	1356			COG0531	putative transporter
+PBFPHCLI_01272	gene	1356				
+PBFPHCLI_01273	CDS	747	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PBFPHCLI_01273	gene	747	menH			
+PBFPHCLI_01274	CDS	1251				hypothetical protein
+PBFPHCLI_01274	gene	1251				
+PBFPHCLI_01275	CDS	450				hypothetical protein
+PBFPHCLI_01275	gene	450				
+PBFPHCLI_01276	CDS	1353	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PBFPHCLI_01276	gene	1353	brnQ_2			
+PBFPHCLI_01277	CDS	903	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+PBFPHCLI_01277	gene	903	bglK			
+PBFPHCLI_01278	CDS	1929	tetO			Tetracycline resistance protein TetO
+PBFPHCLI_01278	gene	1929	tetO			
+PBFPHCLI_01279	CDS	468				Putative universal stress protein
+PBFPHCLI_01279	gene	468				
+PBFPHCLI_01280	CDS	1014	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+PBFPHCLI_01280	gene	1014	lplJ			
+PBFPHCLI_01281	CDS	408				hypothetical protein
+PBFPHCLI_01281	gene	408				
+PBFPHCLI_01282	CDS	459				hypothetical protein
+PBFPHCLI_01282	gene	459				
+PBFPHCLI_01283	CDS	711				hypothetical protein
+PBFPHCLI_01283	gene	711				
+PBFPHCLI_01284	CDS	882	skfE	3.6.3.25	COG1131	SkfA peptide export ATP-binding protein SkfE
+PBFPHCLI_01284	gene	882	skfE			
+PBFPHCLI_01285	CDS	1170	ydhP_2		COG2814	Inner membrane transport protein YdhP
+PBFPHCLI_01285	gene	1170	ydhP_2			
+PBFPHCLI_01286	CDS	1413	gatC_1		COG3775	PTS system galactitol-specific EIIC component
+PBFPHCLI_01286	gene	1413	gatC_1			
+PBFPHCLI_01287	CDS	273	lgoD	1.1.1.-	COG1063	L-galactonate-5-dehydrogenase
+PBFPHCLI_01287	gene	273	lgoD			
+PBFPHCLI_01288	CDS	684	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+PBFPHCLI_01288	gene	684	qorA			
+PBFPHCLI_01289	CDS	858				hypothetical protein
+PBFPHCLI_01289	gene	858				
+PBFPHCLI_01290	CDS	414				hypothetical protein
+PBFPHCLI_01290	gene	414				
+PBFPHCLI_01291	CDS	981			COG1073	putative protein
+PBFPHCLI_01291	gene	981				
+PBFPHCLI_01292	CDS	357				hypothetical protein
+PBFPHCLI_01292	gene	357				
+PBFPHCLI_01293	CDS	1962	nhaK		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+PBFPHCLI_01293	gene	1962	nhaK			
+PBFPHCLI_01294	CDS	342				hypothetical protein
+PBFPHCLI_01294	gene	342				
+PBFPHCLI_01295	CDS	654	ykoC			Putative HMP/thiamine permease protein YkoC
+PBFPHCLI_01295	gene	654	ykoC			
+PBFPHCLI_01296	CDS	1383	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+PBFPHCLI_01296	gene	1383	ykoD			
+PBFPHCLI_01297	CDS	561	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+PBFPHCLI_01297	gene	561	ykoE			
+PBFPHCLI_01298	CDS	786	yfcA		COG0730	putative membrane transporter protein YfcA
+PBFPHCLI_01298	gene	786	yfcA			
+PBFPHCLI_01299	CDS	756	bacC_2	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+PBFPHCLI_01299	gene	756	bacC_2			
+PBFPHCLI_01300	CDS	963	rihA_2	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+PBFPHCLI_01300	gene	963	rihA_2			
+PBFPHCLI_01301	CDS	999	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+PBFPHCLI_01301	gene	999	yumC			
+PBFPHCLI_01302	CDS	969				hypothetical protein
+PBFPHCLI_01302	gene	969				
+PBFPHCLI_01303	CDS	288				hypothetical protein
+PBFPHCLI_01303	gene	288				
+PBFPHCLI_01304	CDS	3015	smc_1			Chromosome partition protein Smc
+PBFPHCLI_01304	gene	3015	smc_1			
+PBFPHCLI_01305	CDS	735				hypothetical protein
+PBFPHCLI_01305	gene	735				
+PBFPHCLI_01306	CDS	597				hypothetical protein
+PBFPHCLI_01306	gene	597				
+PBFPHCLI_01307	CDS	747				hypothetical protein
+PBFPHCLI_01307	gene	747				
+PBFPHCLI_01308	CDS	1326				hypothetical protein
+PBFPHCLI_01308	gene	1326				
+PBFPHCLI_01309	CDS	2271	smc_2			Chromosome partition protein Smc
+PBFPHCLI_01309	gene	2271	smc_2			
+PBFPHCLI_01310	CDS	606				hypothetical protein
+PBFPHCLI_01310	gene	606				
+PBFPHCLI_01311	CDS	585				hypothetical protein
+PBFPHCLI_01311	gene	585				
+PBFPHCLI_01312	CDS	402				hypothetical protein
+PBFPHCLI_01312	gene	402				
+PBFPHCLI_01313	CDS	873				hypothetical protein
+PBFPHCLI_01313	gene	873				
+PBFPHCLI_01314	CDS	648	mupP	3.1.3.-	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+PBFPHCLI_01314	gene	648	mupP			
+PBFPHCLI_01315	CDS	1419			COG0531	putative transporter
+PBFPHCLI_01315	gene	1419				
+PBFPHCLI_01316	CDS	468	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+PBFPHCLI_01316	gene	468	dps			
+PBFPHCLI_01317	CDS	2664	ctpF	3.6.3.-		putative cation-transporting ATPase F
+PBFPHCLI_01317	gene	2664	ctpF			
+PBFPHCLI_01318	CDS	912	fpaP	3.4.11.5		Proline iminopeptidase
+PBFPHCLI_01318	gene	912	fpaP			
+PBFPHCLI_01319	CDS	2403	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+PBFPHCLI_01319	gene	2403	pepX			
+PBFPHCLI_01320	CDS	1092	potA	3.6.3.31		Spermidine/putrescine import ATP-binding protein PotA
+PBFPHCLI_01320	gene	1092	potA			
+PBFPHCLI_01321	CDS	807	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+PBFPHCLI_01321	gene	807	potB			
+PBFPHCLI_01322	CDS	819	ydcV			Inner membrane ABC transporter permease protein YdcV
+PBFPHCLI_01322	gene	819	ydcV			
+PBFPHCLI_01323	CDS	1074	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+PBFPHCLI_01323	gene	1074	potD			
+PBFPHCLI_01324	CDS	1293				hypothetical protein
+PBFPHCLI_01324	gene	1293				
+PBFPHCLI_01325	CDS	1305	ygcS_1			Inner membrane metabolite transport protein YgcS
+PBFPHCLI_01325	gene	1305	ygcS_1			
+PBFPHCLI_01326	CDS	1392	yhdG_3		COG0531	putative amino acid permease YhdG
+PBFPHCLI_01326	gene	1392	yhdG_3			
+PBFPHCLI_01327	CDS	411	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+PBFPHCLI_01327	gene	411	ndx1			
+PBFPHCLI_01328	CDS	576	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+PBFPHCLI_01328	gene	576	gmk_1			
+PBFPHCLI_01329	CDS	438	zur		COG0735	Zinc-specific metallo-regulatory protein
+PBFPHCLI_01329	gene	438	zur			
+PBFPHCLI_01330	CDS	480				hypothetical protein
+PBFPHCLI_01330	gene	480				
+PBFPHCLI_01331	CDS	840				hypothetical protein
+PBFPHCLI_01331	gene	840				
+PBFPHCLI_01332	CDS	252				hypothetical protein
+PBFPHCLI_01332	gene	252				
+PBFPHCLI_01333	CDS	537				hypothetical protein
+PBFPHCLI_01333	gene	537				
+PBFPHCLI_01334	CDS	2886	yueB		COG1511	ESX secretion system protein YueB
+PBFPHCLI_01334	gene	2886	yueB			
+PBFPHCLI_01335	CDS	909		1.1.1.28		D-lactate dehydrogenase
+PBFPHCLI_01335	gene	909				
+PBFPHCLI_01336	CDS	180				hypothetical protein
+PBFPHCLI_01336	gene	180				
+PBFPHCLI_01337	CDS	249				hypothetical protein
+PBFPHCLI_01337	gene	249				
+PBFPHCLI_01338	CDS	525				hypothetical protein
+PBFPHCLI_01338	gene	525				
+PBFPHCLI_01339	CDS	1278	hflX		COG2262	GTPase HflX
+PBFPHCLI_01339	gene	1278	hflX			
+PBFPHCLI_01340	CDS	654	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+PBFPHCLI_01340	gene	654	cobC			
+PBFPHCLI_01341	CDS	651	dedA_2		COG0586	Protein DedA
+PBFPHCLI_01341	gene	651	dedA_2			
+PBFPHCLI_01342	CDS	2307	helD_2	3.6.4.12	COG3973	DNA helicase IV
+PBFPHCLI_01342	gene	2307	helD_2			
+PBFPHCLI_01343	CDS	1344	nox_2	1.6.99.3	COG0446	NADH oxidase
+PBFPHCLI_01343	gene	1344	nox_2			
+PBFPHCLI_01344	CDS	1359	nox_3	1.6.99.3	COG0446	NADH oxidase
+PBFPHCLI_01344	gene	1359	nox_3			
+PBFPHCLI_01345	CDS	870				hypothetical protein
+PBFPHCLI_01345	gene	870				
+PBFPHCLI_01346	CDS	2097	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+PBFPHCLI_01346	gene	2097	ltaS1_2			
+PBFPHCLI_01347	CDS	924	coaA	2.7.1.33	COG1072	Pantothenate kinase
+PBFPHCLI_01347	gene	924	coaA			
+PBFPHCLI_01348	CDS	1191				hypothetical protein
+PBFPHCLI_01348	gene	1191				
+PBFPHCLI_01349	CDS	90				hypothetical protein
+PBFPHCLI_01349	gene	90				
+PBFPHCLI_01350	CDS	1554	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+PBFPHCLI_01350	gene	1554	guaA			
+PBFPHCLI_01351	CDS	1527				hypothetical protein
+PBFPHCLI_01351	gene	1527				
+PBFPHCLI_01352	CDS	879				hypothetical protein
+PBFPHCLI_01352	gene	879				
+PBFPHCLI_01353	CDS	873				hypothetical protein
+PBFPHCLI_01353	gene	873				
+PBFPHCLI_01354	CDS	1023				Zinc-type alcohol dehydrogenase-like protein
+PBFPHCLI_01354	gene	1023				
+PBFPHCLI_01355	CDS	339	yybR_2		COG1733	putative HTH-type transcriptional regulator YybR
+PBFPHCLI_01355	gene	339	yybR_2			
+PBFPHCLI_01356	CDS	153				hypothetical protein
+PBFPHCLI_01356	gene	153				
+PBFPHCLI_01357	CDS	213				hypothetical protein
+PBFPHCLI_01357	gene	213				
+PBFPHCLI_01358	CDS	873		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PBFPHCLI_01358	gene	873				
+PBFPHCLI_01359	CDS	1383	ltrA_7		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01359	gene	1383	ltrA_7			
+PBFPHCLI_01360	CDS	579				hypothetical protein
+PBFPHCLI_01360	gene	579				
+PBFPHCLI_01361	CDS	1161	ydhP_3		COG2814	Inner membrane transport protein YdhP
+PBFPHCLI_01361	gene	1161	ydhP_3			
+PBFPHCLI_01362	CDS	1071				hypothetical protein
+PBFPHCLI_01362	gene	1071				
+PBFPHCLI_01363	CDS	465				hypothetical protein
+PBFPHCLI_01363	gene	465				
+PBFPHCLI_01364	CDS	927	zntB			Zinc transport protein ZntB
+PBFPHCLI_01364	gene	927	zntB			
+PBFPHCLI_01365	CDS	522				hypothetical protein
+PBFPHCLI_01365	gene	522				
+PBFPHCLI_01366	CDS	1170				hypothetical protein
+PBFPHCLI_01366	gene	1170				
+PBFPHCLI_01367	CDS	117				hypothetical protein
+PBFPHCLI_01367	gene	117				
+PBFPHCLI_01368	CDS	579				hypothetical protein
+PBFPHCLI_01368	gene	579				
+PBFPHCLI_01369	CDS	1056	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+PBFPHCLI_01369	gene	1056	adh			
+PBFPHCLI_01370	CDS	615				hypothetical protein
+PBFPHCLI_01370	gene	615				
+PBFPHCLI_01371	CDS	687				hypothetical protein
+PBFPHCLI_01371	gene	687				
+PBFPHCLI_01372	CDS	477	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+PBFPHCLI_01372	gene	477	luxS			
+PBFPHCLI_01373	CDS	864	metQ_2		COG1464	Methionine-binding lipoprotein MetQ
+PBFPHCLI_01373	gene	864	metQ_2			
+PBFPHCLI_01374	CDS	17850	levS	2.4.1.10		Levansucrase
+PBFPHCLI_01374	gene	17850	levS			
+PBFPHCLI_01375	CDS	918				hypothetical protein
+PBFPHCLI_01375	gene	918				
+PBFPHCLI_01376	CDS	12096				hypothetical protein
+PBFPHCLI_01376	gene	12096				
+PBFPHCLI_01377	CDS	5490				hypothetical protein
+PBFPHCLI_01377	gene	5490				
+PBFPHCLI_01378	CDS	1110				hypothetical protein
+PBFPHCLI_01378	gene	1110				
+PBFPHCLI_01379	CDS	558	efp			Elongation factor P
+PBFPHCLI_01379	gene	558	efp			
+PBFPHCLI_01380	CDS	1020				hypothetical protein
+PBFPHCLI_01380	gene	1020				
+PBFPHCLI_01381	CDS	291	yvyI	5.3.1.8	COG1482	Putative mannose-6-phosphate isomerase YvyI
+PBFPHCLI_01381	gene	291	yvyI			
+PBFPHCLI_01382	CDS	531				hypothetical protein
+PBFPHCLI_01382	gene	531				
+PBFPHCLI_01383	CDS	1014				hypothetical protein
+PBFPHCLI_01383	gene	1014				
+PBFPHCLI_01384	CDS	396				hypothetical protein
+PBFPHCLI_01384	gene	396				
+PBFPHCLI_01385	CDS	1209	nrgA			Ammonium transporter
+PBFPHCLI_01385	gene	1209	nrgA			
+PBFPHCLI_01386	CDS	519	ureI			Acid-activated urea channel
+PBFPHCLI_01386	gene	519	ureI			
+PBFPHCLI_01387	CDS	303	ureA	3.5.1.5	COG0831	Urease subunit gamma
+PBFPHCLI_01387	gene	303	ureA			
+PBFPHCLI_01388	CDS	375	ureB	3.5.1.5	COG0832	Urease subunit beta
+PBFPHCLI_01388	gene	375	ureB			
+PBFPHCLI_01389	CDS	1722	ureC	3.5.1.5	COG0804	Urease subunit alpha
+PBFPHCLI_01389	gene	1722	ureC			
+PBFPHCLI_01390	CDS	450	ureE		COG2371	Urease accessory protein UreE
+PBFPHCLI_01390	gene	450	ureE			
+PBFPHCLI_01391	CDS	711	ureF		COG0830	Urease accessory protein UreF
+PBFPHCLI_01391	gene	711	ureF			
+PBFPHCLI_01392	CDS	627	ureG			Urease accessory protein UreG
+PBFPHCLI_01392	gene	627	ureG			
+PBFPHCLI_01393	CDS	855	ureD1		COG0829	Urease accessory protein UreD
+PBFPHCLI_01393	gene	855	ureD1			
+PBFPHCLI_01394	CDS	381	crcB_3		COG0239	Putative fluoride ion transporter CrcB
+PBFPHCLI_01394	gene	381	crcB_3			
+PBFPHCLI_01395	CDS	216	crcB_4			Putative fluoride ion transporter CrcB
+PBFPHCLI_01395	gene	216	crcB_4			
+PBFPHCLI_01396	CDS	1014	larMN		COG0310	putative fused nickel transport protein LarMN
+PBFPHCLI_01396	gene	1014	larMN			
+PBFPHCLI_01397	CDS	849	larQ		COG0619	Nickel permease LarQ
+PBFPHCLI_01397	gene	849	larQ			
+PBFPHCLI_01398	CDS	726	larO	3.6.3.-	COG1122	Nickel import ATP-binding protein LarO
+PBFPHCLI_01398	gene	726	larO			
+PBFPHCLI_01399	CDS	711	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PBFPHCLI_01399	gene	711	phoP_2			
+PBFPHCLI_01400	CDS	873	pstS1		COG0226	Phosphate-binding protein PstS 1
+PBFPHCLI_01400	gene	873	pstS1			
+PBFPHCLI_01401	CDS	900	pstC		COG0573	Phosphate transport system permease protein PstC
+PBFPHCLI_01401	gene	900	pstC			
+PBFPHCLI_01402	CDS	888	pstA2		COG0581	Phosphate transport system permease protein PstA 2
+PBFPHCLI_01402	gene	888	pstA2			
+PBFPHCLI_01403	CDS	756	pstB3	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 3
+PBFPHCLI_01403	gene	756	pstB3			
+PBFPHCLI_01404	CDS	705	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+PBFPHCLI_01404	gene	705	phoU			
+PBFPHCLI_01405	CDS	864				hypothetical protein
+PBFPHCLI_01405	gene	864				
+PBFPHCLI_01406	CDS	147				hypothetical protein
+PBFPHCLI_01406	gene	147				
+PBFPHCLI_01407	CDS	1308		2.4.1.336	COG1215	Beta-monoglucosyldiacylglycerol synthase
+PBFPHCLI_01407	gene	1308				
+PBFPHCLI_01408	CDS	1140		3.2.1.4		Endoglucanase
+PBFPHCLI_01408	gene	1140				
+PBFPHCLI_01409	CDS	762	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+PBFPHCLI_01409	gene	762	nfrA1			
+PBFPHCLI_01410	CDS	1773	sph	4.2.1.53		Oleate hydratase
+PBFPHCLI_01410	gene	1773	sph			
+PBFPHCLI_01411	CDS	1344	ntpJ			Potassium/sodium uptake protein NtpJ
+PBFPHCLI_01411	gene	1344	ntpJ			
+PBFPHCLI_01412	CDS	669	ktrA		COG0569	Ktr system potassium uptake protein A
+PBFPHCLI_01412	gene	669	ktrA			
+PBFPHCLI_01413	CDS	537	menG_1	2.1.1.163		Demethylmenaquinone methyltransferase
+PBFPHCLI_01413	gene	537	menG_1			
+PBFPHCLI_01414	CDS	597				hypothetical protein
+PBFPHCLI_01414	gene	597				
+PBFPHCLI_01415	CDS	747				hypothetical protein
+PBFPHCLI_01415	gene	747				
+PBFPHCLI_01416	CDS	348				hypothetical protein
+PBFPHCLI_01416	gene	348				
+PBFPHCLI_01417	CDS	3093	smc_3			Chromosome partition protein Smc
+PBFPHCLI_01417	gene	3093	smc_3			
+PBFPHCLI_01418	CDS	444				hypothetical protein
+PBFPHCLI_01418	gene	444				
+PBFPHCLI_01419	CDS	1305	mntH_2			Divalent metal cation transporter MntH
+PBFPHCLI_01419	gene	1305	mntH_2			
+PBFPHCLI_01420	CDS	933	hemH	4.99.1.1	COG0276	Ferrochelatase
+PBFPHCLI_01420	gene	933	hemH			
+PBFPHCLI_01421	CDS	915	cysM	2.5.1.47	COG0031	Cysteine synthase
+PBFPHCLI_01421	gene	915	cysM			
+PBFPHCLI_01422	CDS	537	azoR_1	1.7.-.-		FMN-dependent NADH-azoreductase
+PBFPHCLI_01422	gene	537	azoR_1			
+PBFPHCLI_01423	CDS	1029				hypothetical protein
+PBFPHCLI_01423	gene	1029				
+PBFPHCLI_01424	CDS	717				hypothetical protein
+PBFPHCLI_01424	gene	717				
+PBFPHCLI_01425	CDS	918	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+PBFPHCLI_01425	gene	918	thiQ			
+PBFPHCLI_01426	CDS	552			COG0488	putative ABC transporter ATP-binding protein
+PBFPHCLI_01426	gene	552				
+PBFPHCLI_01427	CDS	945	yfeX	1.11.1.-	COG2837	putative deferrochelatase/peroxidase YfeX
+PBFPHCLI_01427	gene	945	yfeX			
+PBFPHCLI_01428	CDS	630				hypothetical protein
+PBFPHCLI_01428	gene	630				
+PBFPHCLI_01429	CDS	813				hypothetical protein
+PBFPHCLI_01429	gene	813				
+PBFPHCLI_01430	CDS	1335		3.4.13.-	COG0624	Putative dipeptidase
+PBFPHCLI_01430	gene	1335				
+PBFPHCLI_01431	CDS	1218	sauU_2			putative sulfoacetate transporter SauU
+PBFPHCLI_01431	gene	1218	sauU_2			
+PBFPHCLI_01432	CDS	1458		2.4.1.7		Sucrose phosphorylase
+PBFPHCLI_01432	gene	1458				
+PBFPHCLI_01433	CDS	798				hypothetical protein
+PBFPHCLI_01433	gene	798				
+PBFPHCLI_01434	CDS	1245	dacA_3	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+PBFPHCLI_01434	gene	1245	dacA_3			
+PBFPHCLI_01435	CDS	441				hypothetical protein
+PBFPHCLI_01435	gene	441				
+PBFPHCLI_01436	CDS	1119	ltrA_8		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01436	gene	1119	ltrA_8			
+PBFPHCLI_01437	CDS	309				hypothetical protein
+PBFPHCLI_01437	gene	309				
+PBFPHCLI_01438	CDS	1038		5.1.3.21	COG2017	Maltose epimerase
+PBFPHCLI_01438	gene	1038				
+PBFPHCLI_01439	CDS	174				hypothetical protein
+PBFPHCLI_01439	gene	174				
+PBFPHCLI_01440	CDS	1398				hypothetical protein
+PBFPHCLI_01440	gene	1398				
+PBFPHCLI_01441	CDS	1161				hypothetical protein
+PBFPHCLI_01441	gene	1161				
+PBFPHCLI_01442	CDS	1539				hypothetical protein
+PBFPHCLI_01442	gene	1539				
+PBFPHCLI_01443	CDS	1047	adhA_1	1.1.1.1	COG1064	putative alcohol dehydrogenase AdhA
+PBFPHCLI_01443	gene	1047	adhA_1			
+PBFPHCLI_01444	CDS	594		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+PBFPHCLI_01444	gene	594				
+PBFPHCLI_01445	CDS	882	oxyR_1			Hydrogen peroxide-inducible genes activator
+PBFPHCLI_01445	gene	882	oxyR_1			
+PBFPHCLI_01446	CDS	1629	mleS	4.1.1.101	COG0281	Malolactic enzyme
+PBFPHCLI_01446	gene	1629	mleS			
+PBFPHCLI_01447	CDS	1389	fumC	4.2.1.2		Fumarate hydratase class II
+PBFPHCLI_01447	gene	1389	fumC			
+PBFPHCLI_01448	CDS	1395	fccA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+PBFPHCLI_01448	gene	1395	fccA			
+PBFPHCLI_01449	CDS	1422	yflS		COG0471	Putative malate transporter YflS
+PBFPHCLI_01449	gene	1422	yflS			
+PBFPHCLI_01450	CDS	888	oxyR_2			Hydrogen peroxide-inducible genes activator
+PBFPHCLI_01450	gene	888	oxyR_2			
+PBFPHCLI_01451	CDS	1368				hypothetical protein
+PBFPHCLI_01451	gene	1368				
+PBFPHCLI_01452	CDS	654	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+PBFPHCLI_01452	gene	654	udg			
+PBFPHCLI_01453	CDS	1509	bmr3_2			Multidrug resistance protein 3
+PBFPHCLI_01453	gene	1509	bmr3_2			
+PBFPHCLI_01454	CDS	984	mlhB	3.1.1.83		Monoterpene epsilon-lactone hydrolase
+PBFPHCLI_01454	gene	984	mlhB			
+PBFPHCLI_01455	CDS	513	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+PBFPHCLI_01455	gene	513	yajL			
+PBFPHCLI_01456	CDS	2586	mprF	2.3.2.3		Phosphatidylglycerol lysyltransferase
+PBFPHCLI_01456	gene	2586	mprF			
+PBFPHCLI_01457	tRNA	77				tRNA-Asp(gtc)
+PBFPHCLI_01457	gene	77				
+PBFPHCLI_01458	CDS	873	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PBFPHCLI_01458	gene	873	rluD_3			
+PBFPHCLI_01459	CDS	729				hypothetical protein
+PBFPHCLI_01459	gene	729				
+PBFPHCLI_01460	CDS	1509	emrB			Multidrug export protein EmrB
+PBFPHCLI_01460	gene	1509	emrB			
+PBFPHCLI_01461	CDS	447				hypothetical protein
+PBFPHCLI_01461	gene	447				
+PBFPHCLI_01462	CDS	348				hypothetical protein
+PBFPHCLI_01462	gene	348				
+PBFPHCLI_01463	CDS	1857	rnj1	3.1.-.-		Ribonuclease J 1
+PBFPHCLI_01463	gene	1857	rnj1			
+PBFPHCLI_01464	CDS	1188				hypothetical protein
+PBFPHCLI_01464	gene	1188				
+PBFPHCLI_01465	CDS	654	glnP_2		COG0765	putative glutamine ABC transporter permease protein GlnP
+PBFPHCLI_01465	gene	654	glnP_2			
+PBFPHCLI_01466	CDS	639	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+PBFPHCLI_01466	gene	639	glnM			
+PBFPHCLI_01467	CDS	831	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+PBFPHCLI_01467	gene	831	glnH			
+PBFPHCLI_01468	CDS	741	glnQ_3			Glutamine transport ATP-binding protein GlnQ
+PBFPHCLI_01468	gene	741	glnQ_3			
+PBFPHCLI_01469	CDS	477				Putative universal stress protein
+PBFPHCLI_01469	gene	477				
+PBFPHCLI_01470	CDS	684				hypothetical protein
+PBFPHCLI_01470	gene	684				
+PBFPHCLI_01471	CDS	693				hypothetical protein
+PBFPHCLI_01471	gene	693				
+PBFPHCLI_01472	CDS	921	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+PBFPHCLI_01472	gene	921	czcD			
+PBFPHCLI_01473	CDS	675	ideR		COG1321	Iron-dependent repressor IdeR
+PBFPHCLI_01473	gene	675	ideR			
+PBFPHCLI_01474	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+PBFPHCLI_01474	gene	201	cspLA			
+PBFPHCLI_01475	CDS	756	yjjP		COG2966	Inner membrane protein YjjP
+PBFPHCLI_01475	gene	756	yjjP			
+PBFPHCLI_01476	CDS	474				hypothetical protein
+PBFPHCLI_01476	gene	474				
+PBFPHCLI_01477	CDS	675				hypothetical protein
+PBFPHCLI_01477	gene	675				
+PBFPHCLI_01478	CDS	456				hypothetical protein
+PBFPHCLI_01478	gene	456				
+PBFPHCLI_01479	CDS	1476	lysP		COG0833	Lysine-specific permease
+PBFPHCLI_01479	gene	1476	lysP			
+PBFPHCLI_01480	CDS	642		2.7.1.76	COG1428	Deoxyadenosine kinase
+PBFPHCLI_01480	gene	642				
+PBFPHCLI_01481	tRNA	75				tRNA-Val(tac)
+PBFPHCLI_01481	gene	75				
+PBFPHCLI_01482	tRNA	85				tRNA-Leu(tag)
+PBFPHCLI_01482	gene	85				
+PBFPHCLI_01483	tRNA	72				tRNA-Gly(gcc)
+PBFPHCLI_01483	gene	72				
+PBFPHCLI_01484	tRNA	75				tRNA-Arg(acg)
+PBFPHCLI_01484	gene	75				
+PBFPHCLI_01485	tRNA	76				tRNA-Pro(cgg)
+PBFPHCLI_01485	gene	76				
+PBFPHCLI_01486	CDS	963			COG1073	putative protein
+PBFPHCLI_01486	gene	963				
+PBFPHCLI_01487	CDS	1029	adhA_2	1.1.1.1		Alcohol dehydrogenase 1
+PBFPHCLI_01487	gene	1029	adhA_2			
+PBFPHCLI_01488	CDS	468	ctsR		COG4463	Transcriptional regulator CtsR
+PBFPHCLI_01488	gene	468	ctsR			
+PBFPHCLI_01489	CDS	2493	clpC_2			ATP-dependent Clp protease ATP-binding subunit ClpC
+PBFPHCLI_01489	gene	2493	clpC_2			
+PBFPHCLI_01490	CDS	603	bepR			HTH-type transcriptional repressor BepR
+PBFPHCLI_01490	gene	603	bepR			
+PBFPHCLI_01491	CDS	3609	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+PBFPHCLI_01491	gene	3609	rpoB			
+PBFPHCLI_01492	CDS	3636	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+PBFPHCLI_01492	gene	3636	rpoC			
+PBFPHCLI_01493	CDS	1176				hypothetical protein
+PBFPHCLI_01493	gene	1176				
+PBFPHCLI_01494	CDS	675	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+PBFPHCLI_01494	gene	675	comC			
+PBFPHCLI_01495	CDS	420	rpsL		COG0048	30S ribosomal protein S12
+PBFPHCLI_01495	gene	420	rpsL			
+PBFPHCLI_01496	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+PBFPHCLI_01496	gene	471	rpsG			
+PBFPHCLI_01497	CDS	2088	fus			Elongation factor G
+PBFPHCLI_01497	gene	2088	fus			
+PBFPHCLI_01498	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+PBFPHCLI_01498	gene	309	rpsJ			
+PBFPHCLI_01499	CDS	660	rplC		COG0087	50S ribosomal protein L3
+PBFPHCLI_01499	gene	660	rplC			
+PBFPHCLI_01500	CDS	624	rplD		COG0088	50S ribosomal protein L4
+PBFPHCLI_01500	gene	624	rplD			
+PBFPHCLI_01501	CDS	297	rplW			50S ribosomal protein L23
+PBFPHCLI_01501	gene	297	rplW			
+PBFPHCLI_01502	CDS	846	rplB		COG0090	50S ribosomal protein L2
+PBFPHCLI_01502	gene	846	rplB			
+PBFPHCLI_01503	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+PBFPHCLI_01503	gene	279	rpsS			
+PBFPHCLI_01504	CDS	348	rplV		COG0091	50S ribosomal protein L22
+PBFPHCLI_01504	gene	348	rplV			
+PBFPHCLI_01505	CDS	666	rpsC		COG0092	30S ribosomal protein S3
+PBFPHCLI_01505	gene	666	rpsC			
+PBFPHCLI_01506	CDS	435	rplP		COG0197	50S ribosomal protein L16
+PBFPHCLI_01506	gene	435	rplP			
+PBFPHCLI_01507	CDS	207	rpmC			50S ribosomal protein L29
+PBFPHCLI_01507	gene	207	rpmC			
+PBFPHCLI_01508	CDS	267	rpsQ			30S ribosomal protein S17
+PBFPHCLI_01508	gene	267	rpsQ			
+PBFPHCLI_01509	CDS	369	rplN		COG0093	50S ribosomal protein L14
+PBFPHCLI_01509	gene	369	rplN			
+PBFPHCLI_01510	CDS	309	rplX		COG0198	50S ribosomal protein L24
+PBFPHCLI_01510	gene	309	rplX			
+PBFPHCLI_01511	CDS	543	rplE		COG0094	50S ribosomal protein L5
+PBFPHCLI_01511	gene	543	rplE			
+PBFPHCLI_01512	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+PBFPHCLI_01512	gene	186	rpsZ			
+PBFPHCLI_01513	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+PBFPHCLI_01513	gene	399	rpsH			
+PBFPHCLI_01514	CDS	537	rplF		COG0097	50S ribosomal protein L6
+PBFPHCLI_01514	gene	537	rplF			
+PBFPHCLI_01515	CDS	357	rplR		COG0256	50S ribosomal protein L18
+PBFPHCLI_01515	gene	357	rplR			
+PBFPHCLI_01516	CDS	510	rpsE			30S ribosomal protein S5
+PBFPHCLI_01516	gene	510	rpsE			
+PBFPHCLI_01517	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+PBFPHCLI_01517	gene	183	rpmD			
+PBFPHCLI_01518	CDS	435	rplO			50S ribosomal protein L15
+PBFPHCLI_01518	gene	435	rplO			
+PBFPHCLI_01519	CDS	1317	secY_1			Protein translocase subunit SecY
+PBFPHCLI_01519	gene	1317	secY_1			
+PBFPHCLI_01520	CDS	660	adk	2.7.4.3		Adenylate kinase
+PBFPHCLI_01520	gene	660	adk			
+PBFPHCLI_01521	CDS	219	infA		COG0361	Translation initiation factor IF-1
+PBFPHCLI_01521	gene	219	infA			
+PBFPHCLI_01522	CDS	120	rpmJ		COG0257	50S ribosomal protein L36
+PBFPHCLI_01522	gene	120	rpmJ			
+PBFPHCLI_01523	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+PBFPHCLI_01523	gene	366	rpsM			
+PBFPHCLI_01524	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+PBFPHCLI_01524	gene	390	rpsK			
+PBFPHCLI_01525	CDS	945	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+PBFPHCLI_01525	gene	945	rpoA			
+PBFPHCLI_01526	CDS	384	rplQ			50S ribosomal protein L17
+PBFPHCLI_01526	gene	384	rplQ			
+PBFPHCLI_01527	CDS	828	ecfA1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+PBFPHCLI_01527	gene	828	ecfA1			
+PBFPHCLI_01528	CDS	864	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+PBFPHCLI_01528	gene	864	ecfA2			
+PBFPHCLI_01529	CDS	804	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+PBFPHCLI_01529	gene	804	ecfT			
+PBFPHCLI_01530	CDS	771	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+PBFPHCLI_01530	gene	771	truA			
+PBFPHCLI_01531	CDS	444	rplM		COG0102	50S ribosomal protein L13
+PBFPHCLI_01531	gene	444	rplM			
+PBFPHCLI_01532	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+PBFPHCLI_01532	gene	396	rpsI			
+PBFPHCLI_01533	CDS	774	butA	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+PBFPHCLI_01533	gene	774	butA			
+PBFPHCLI_01534	CDS	627	lytG_2	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+PBFPHCLI_01534	gene	627	lytG_2			
+PBFPHCLI_01535	CDS	576	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+PBFPHCLI_01535	gene	576	xpt			
+PBFPHCLI_01536	CDS	1134	purK_2	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+PBFPHCLI_01536	gene	1134	purK_2			
+PBFPHCLI_01537	CDS	2274	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+PBFPHCLI_01537	gene	2274	pcrA			
+PBFPHCLI_01538	CDS	2043	ligA	6.5.1.2	COG0272	DNA ligase
+PBFPHCLI_01538	gene	2043	ligA			
+PBFPHCLI_01539	CDS	1116				hypothetical protein
+PBFPHCLI_01539	gene	1116				
+PBFPHCLI_01540	CDS	318	gatC_2	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PBFPHCLI_01540	gene	318	gatC_2			
+PBFPHCLI_01541	CDS	1473	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PBFPHCLI_01541	gene	1473	gatA			
+PBFPHCLI_01542	CDS	1425	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PBFPHCLI_01542	gene	1425	gatB			
+PBFPHCLI_01543	CDS	1014	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+PBFPHCLI_01543	gene	1014	dagK			
+PBFPHCLI_01544	CDS	1383		2.1.1.-	COG2265	putative RNA methyltransferase
+PBFPHCLI_01544	gene	1383				
+PBFPHCLI_01545	CDS	657	ygcS_2			Inner membrane metabolite transport protein YgcS
+PBFPHCLI_01545	gene	657	ygcS_2			
+PBFPHCLI_01546	CDS	1227				hypothetical protein
+PBFPHCLI_01546	gene	1227				
+PBFPHCLI_01547	CDS	420	yjdF			putative protein YjdF
+PBFPHCLI_01547	gene	420	yjdF			
+PBFPHCLI_01548	CDS	366				hypothetical protein
+PBFPHCLI_01548	gene	366				
+PBFPHCLI_01549	CDS	300				hypothetical protein
+PBFPHCLI_01549	gene	300				
+PBFPHCLI_01550	CDS	504	sttH	3.5.2.19		Streptothricin hydrolase
+PBFPHCLI_01550	gene	504	sttH			
+PBFPHCLI_01551	CDS	537	betI			HTH-type transcriptional regulator BetI
+PBFPHCLI_01551	gene	537	betI			
+PBFPHCLI_01552	CDS	453	azoR_2	1.7.-.-		FMN-dependent NADH-azoreductase
+PBFPHCLI_01552	gene	453	azoR_2			
+PBFPHCLI_01553	CDS	969				hypothetical protein
+PBFPHCLI_01553	gene	969				
+PBFPHCLI_01554	CDS	453				hypothetical protein
+PBFPHCLI_01554	gene	453				
+PBFPHCLI_01555	CDS	702				hypothetical protein
+PBFPHCLI_01555	gene	702				
+PBFPHCLI_01556	CDS	414				hypothetical protein
+PBFPHCLI_01556	gene	414				
+PBFPHCLI_01557	CDS	831				hypothetical protein
+PBFPHCLI_01557	gene	831				
+PBFPHCLI_01558	CDS	1182	amt			Ammonia channel
+PBFPHCLI_01558	gene	1182	amt			
+PBFPHCLI_01559	CDS	1326	garB	1.8.1.16		Glutathione amide reductase
+PBFPHCLI_01559	gene	1326	garB			
+PBFPHCLI_01560	CDS	483	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+PBFPHCLI_01560	gene	483	yvbK			
+PBFPHCLI_01561	CDS	540				hypothetical protein
+PBFPHCLI_01561	gene	540				
+PBFPHCLI_01562	CDS	654	cnbA	1.7.1.16		Chloronitrobenzene nitroreductase
+PBFPHCLI_01562	gene	654	cnbA			
+PBFPHCLI_01563	CDS	1383	ltrA_9		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01563	gene	1383	ltrA_9			
+PBFPHCLI_01564	CDS	924	atl_1		COG4193	Bifunctional autolysin
+PBFPHCLI_01564	gene	924	atl_1			
+PBFPHCLI_01565	CDS	447				hypothetical protein
+PBFPHCLI_01565	gene	447				
+PBFPHCLI_01566	CDS	435			COG3279	putative HTH-type transcriptional regulator
+PBFPHCLI_01566	gene	435				
+PBFPHCLI_01567	CDS	570				hypothetical protein
+PBFPHCLI_01567	gene	570				
+PBFPHCLI_01568	CDS	1176	ymfD			Bacillibactin exporter
+PBFPHCLI_01568	gene	1176	ymfD			
+PBFPHCLI_01569	CDS	708	ybhL_1		COG0670	Inner membrane protein YbhL
+PBFPHCLI_01569	gene	708	ybhL_1			
+PBFPHCLI_01570	CDS	456				hypothetical protein
+PBFPHCLI_01570	gene	456				
+PBFPHCLI_01571	CDS	1017				hypothetical protein
+PBFPHCLI_01571	gene	1017				
+PBFPHCLI_01572	CDS	1530	gshAB_2			Glutathione biosynthesis bifunctional protein GshAB
+PBFPHCLI_01572	gene	1530	gshAB_2			
+PBFPHCLI_01573	CDS	924		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+PBFPHCLI_01573	gene	924				
+PBFPHCLI_01574	CDS	576	yvdD		COG1611	LOG family protein YvdD
+PBFPHCLI_01574	gene	576	yvdD			
+PBFPHCLI_01575	CDS	363				hypothetical protein
+PBFPHCLI_01575	gene	363				
+PBFPHCLI_01576	CDS	1020	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+PBFPHCLI_01576	gene	1020	iolU			
+PBFPHCLI_01577	CDS	1302	cshC	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshC
+PBFPHCLI_01577	gene	1302	cshC			
+PBFPHCLI_01578	tRNA	75				tRNA-Arg(cct)
+PBFPHCLI_01578	gene	75				
+PBFPHCLI_01579	CDS	1122	mnaA_2	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+PBFPHCLI_01579	gene	1122	mnaA_2			
+PBFPHCLI_01580	CDS	450				hypothetical protein
+PBFPHCLI_01580	gene	450				
+PBFPHCLI_01581	CDS	438				hypothetical protein
+PBFPHCLI_01581	gene	438				
+PBFPHCLI_01582	CDS	459				Flavodoxin
+PBFPHCLI_01582	gene	459				
+PBFPHCLI_01583	CDS	858	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+PBFPHCLI_01583	gene	858	map			
+PBFPHCLI_01584	CDS	1122	vioD	4.2.1.145		Capreomycidine synthase
+PBFPHCLI_01584	gene	1122	vioD			
+PBFPHCLI_01585	CDS	1422	arcD1_3		COG0531	Arginine/ornithine antiporter ArcD1
+PBFPHCLI_01585	gene	1422	arcD1_3			
+PBFPHCLI_01586	CDS	1506	yjeM_1			Inner membrane transporter YjeM
+PBFPHCLI_01586	gene	1506	yjeM_1			
+PBFPHCLI_01587	CDS	897				hypothetical protein
+PBFPHCLI_01587	gene	897				
+PBFPHCLI_01588	CDS	228				hypothetical protein
+PBFPHCLI_01588	gene	228				
+PBFPHCLI_01589	CDS	216				hypothetical protein
+PBFPHCLI_01589	gene	216				
+PBFPHCLI_01590	CDS	1341				hypothetical protein
+PBFPHCLI_01590	gene	1341				
+PBFPHCLI_01591	CDS	792	recX			Regulatory protein RecX
+PBFPHCLI_01591	gene	792	recX			
+PBFPHCLI_01592	CDS	768				hypothetical protein
+PBFPHCLI_01592	gene	768				
+PBFPHCLI_01593	CDS	930	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+PBFPHCLI_01593	gene	930	csbB			
+PBFPHCLI_01594	CDS	648	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+PBFPHCLI_01594	gene	648	wcaJ			
+PBFPHCLI_01595	CDS	2742				hypothetical protein
+PBFPHCLI_01595	gene	2742				
+PBFPHCLI_01596	CDS	2544				hypothetical protein
+PBFPHCLI_01596	gene	2544				
+PBFPHCLI_01597	CDS	555				hypothetical protein
+PBFPHCLI_01597	gene	555				
+PBFPHCLI_01598	CDS	1119	glf_1	5.4.99.9	COG0562	UDP-galactopyranose mutase
+PBFPHCLI_01598	gene	1119	glf_1			
+PBFPHCLI_01599	CDS	1431	rfbX_1		COG2244	Putative O-antigen transporter
+PBFPHCLI_01599	gene	1431	rfbX_1			
+PBFPHCLI_01600	CDS	915	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+PBFPHCLI_01600	gene	915	wbbL			
+PBFPHCLI_01601	CDS	1203				hypothetical protein
+PBFPHCLI_01601	gene	1203				
+PBFPHCLI_01602	CDS	624				hypothetical protein
+PBFPHCLI_01602	gene	624				
+PBFPHCLI_01603	CDS	978	wfgD	2.4.1.305		UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+PBFPHCLI_01603	gene	978	wfgD			
+PBFPHCLI_01604	CDS	765				hypothetical protein
+PBFPHCLI_01604	gene	765				
+PBFPHCLI_01605	CDS	891	glfT1	2.4.1.287	COG1216	Galactofuranosyltransferase GlfT1
+PBFPHCLI_01605	gene	891	glfT1			
+PBFPHCLI_01606	CDS	1710				hypothetical protein
+PBFPHCLI_01606	gene	1710				
+PBFPHCLI_01607	CDS	2322	lytG_3	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+PBFPHCLI_01607	gene	2322	lytG_3			
+PBFPHCLI_01608	CDS	1266				hypothetical protein
+PBFPHCLI_01608	gene	1266				
+PBFPHCLI_01609	CDS	870	rmlA_1	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+PBFPHCLI_01609	gene	870	rmlA_1			
+PBFPHCLI_01610	CDS	582	rfbC_1	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+PBFPHCLI_01610	gene	582	rfbC_1			
+PBFPHCLI_01611	CDS	1041	rmlB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+PBFPHCLI_01611	gene	1041	rmlB_1			
+PBFPHCLI_01612	CDS	840	strL_1	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+PBFPHCLI_01612	gene	840	strL_1			
+PBFPHCLI_01613	CDS	1218				hypothetical protein
+PBFPHCLI_01613	gene	1218				
+PBFPHCLI_01614	CDS	1242	atl_2		COG4193	Bifunctional autolysin
+PBFPHCLI_01614	gene	1242	atl_2			
+PBFPHCLI_01615	CDS	1119			COG0628	Putative transport protein
+PBFPHCLI_01615	gene	1119				
+PBFPHCLI_01616	CDS	1470	brpA		COG1316	Biofilm regulatory protein A
+PBFPHCLI_01616	gene	1470	brpA			
+PBFPHCLI_01617	CDS	1578	prfC			Peptide chain release factor 3
+PBFPHCLI_01617	gene	1578	prfC			
+PBFPHCLI_01618	CDS	2811	ripB	3.4.-.-	COG0791	Peptidoglycan endopeptidase RipB
+PBFPHCLI_01618	gene	2811	ripB			
+PBFPHCLI_01619	CDS	2718	toxA	3.4.22.-		Toxin A
+PBFPHCLI_01619	gene	2718	toxA			
+PBFPHCLI_01620	CDS	5172				hypothetical protein
+PBFPHCLI_01620	gene	5172				
+PBFPHCLI_01621	CDS	384	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+PBFPHCLI_01621	gene	384	ytrA			
+PBFPHCLI_01622	CDS	867	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+PBFPHCLI_01622	gene	867	ytrB			
+PBFPHCLI_01623	CDS	687				hypothetical protein
+PBFPHCLI_01623	gene	687				
+PBFPHCLI_01624	CDS	597				hypothetical protein
+PBFPHCLI_01624	gene	597				
+PBFPHCLI_01625	CDS	747				hypothetical protein
+PBFPHCLI_01625	gene	747				
+PBFPHCLI_01626	CDS	726				hypothetical protein
+PBFPHCLI_01626	gene	726				
+PBFPHCLI_01627	CDS	609	panT			Pantothenate transporter PanT
+PBFPHCLI_01627	gene	609	panT			
+PBFPHCLI_01628	CDS	2205	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+PBFPHCLI_01628	gene	2205	clpE			
+PBFPHCLI_01629	CDS	186				hypothetical protein
+PBFPHCLI_01629	gene	186				
+PBFPHCLI_01630	CDS	267	ptsH		COG1925	Phosphocarrier protein HPr
+PBFPHCLI_01630	gene	267	ptsH			
+PBFPHCLI_01631	CDS	1731	ptsI_2	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+PBFPHCLI_01631	gene	1731	ptsI_2			
+PBFPHCLI_01632	CDS	1218		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+PBFPHCLI_01632	gene	1218				
+PBFPHCLI_01633	CDS	1029	cpoA	2.4.1.-	COG0438	Alpha-galactosylglucosyldiacylglycerol synthase
+PBFPHCLI_01633	gene	1029	cpoA			
+PBFPHCLI_01634	CDS	1014				hypothetical protein
+PBFPHCLI_01634	gene	1014				
+PBFPHCLI_01635	CDS	249	ykuJ		COG4703	putative protein YkuJ
+PBFPHCLI_01635	gene	249	ykuJ			
+PBFPHCLI_01636	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_01636	gene	1573				
+PBFPHCLI_01637	tRNA	77				tRNA-Ile(gat)
+PBFPHCLI_01637	gene	77				
+PBFPHCLI_01638	tRNA	75				tRNA-Ala(tgc)
+PBFPHCLI_01638	gene	75				
+PBFPHCLI_01639	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_01639	gene	2919				
+PBFPHCLI_01640	rRNA	112				5S ribosomal RNA
+PBFPHCLI_01640	gene	112				
+PBFPHCLI_01641	tRNA	94				tRNA-Ser(gga)
+PBFPHCLI_01641	gene	94				
+PBFPHCLI_01642	tRNA	73				tRNA-Glu(ttc)
+PBFPHCLI_01642	gene	73				
+PBFPHCLI_01643	tRNA	75				tRNA-Val(tac)
+PBFPHCLI_01643	gene	75				
+PBFPHCLI_01644	tRNA	75				tRNA-Phe(gaa)
+PBFPHCLI_01644	gene	75				
+PBFPHCLI_01645	tRNA	85				tRNA-Tyr(gta)
+PBFPHCLI_01645	gene	85				
+PBFPHCLI_01646	tRNA	72				tRNA-Trp(cca)
+PBFPHCLI_01646	gene	72				
+PBFPHCLI_01647	tRNA	76				tRNA-His(gtg)
+PBFPHCLI_01647	gene	76				
+PBFPHCLI_01648	tRNA	71				tRNA-Cys(gca)
+PBFPHCLI_01648	gene	71				
+PBFPHCLI_01649	tRNA	87				tRNA-Leu(caa)
+PBFPHCLI_01649	gene	87				
+PBFPHCLI_01650	CDS	189				hypothetical protein
+PBFPHCLI_01650	gene	189				
+PBFPHCLI_01651	CDS	357				hypothetical protein
+PBFPHCLI_01651	gene	357				
+PBFPHCLI_01652	CDS	1545				hypothetical protein
+PBFPHCLI_01652	gene	1545				
+PBFPHCLI_01653	CDS	969				hypothetical protein
+PBFPHCLI_01653	gene	969				
+PBFPHCLI_01654	CDS	1377				hypothetical protein
+PBFPHCLI_01654	gene	1377				
+PBFPHCLI_01655	CDS	339	sufT_2			Fe-S protein maturation auxiliary factor SufT
+PBFPHCLI_01655	gene	339	sufT_2			
+PBFPHCLI_01656	CDS	999	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+PBFPHCLI_01656	gene	999	moaA			
+PBFPHCLI_01657	CDS	144				hypothetical protein
+PBFPHCLI_01657	gene	144				
+PBFPHCLI_01658	CDS	489	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+PBFPHCLI_01658	gene	489	moaC			
+PBFPHCLI_01659	CDS	465				hypothetical protein
+PBFPHCLI_01659	gene	465				
+PBFPHCLI_01660	CDS	288				hypothetical protein
+PBFPHCLI_01660	gene	288				
+PBFPHCLI_01661	CDS	1020	ltrA_10		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01661	gene	1020	ltrA_10			
+PBFPHCLI_01662	CDS	1407	hsrA			putative transport protein HsrA
+PBFPHCLI_01662	gene	1407	hsrA			
+PBFPHCLI_01663	CDS	2235	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+PBFPHCLI_01663	gene	2235	nrdD			
+PBFPHCLI_01664	CDS	579	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+PBFPHCLI_01664	gene	579	nrdG			
+PBFPHCLI_01665	CDS	891				hypothetical protein
+PBFPHCLI_01665	gene	891				
+PBFPHCLI_01666	CDS	810				hypothetical protein
+PBFPHCLI_01666	gene	810				
+PBFPHCLI_01667	CDS	1701				hypothetical protein
+PBFPHCLI_01667	gene	1701				
+PBFPHCLI_01668	CDS	708				hypothetical protein
+PBFPHCLI_01668	gene	708				
+PBFPHCLI_01669	CDS	198				hypothetical protein
+PBFPHCLI_01669	gene	198				
+PBFPHCLI_01670	CDS	1173	ltrA_11		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01670	gene	1173	ltrA_11			
+PBFPHCLI_01671	CDS	969				hypothetical protein
+PBFPHCLI_01671	gene	969				
+PBFPHCLI_01672	CDS	762	exoA_1	3.1.11.2	COG0708	Exodeoxyribonuclease
+PBFPHCLI_01672	gene	762	exoA_1			
+PBFPHCLI_01673	CDS	1242	preT	1.3.1.1	COG0493	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT
+PBFPHCLI_01673	gene	1242	preT			
+PBFPHCLI_01674	CDS	1299	preA	1.3.1.1	COG0167	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA
+PBFPHCLI_01674	gene	1299	preA			
+PBFPHCLI_01675	CDS	849	ydjG	1.1.1.-	COG0667	NADH-specific methylglyoxal reductase
+PBFPHCLI_01675	gene	849	ydjG			
+PBFPHCLI_01676	CDS	432				Acid shock protein
+PBFPHCLI_01676	gene	432				
+PBFPHCLI_01677	CDS	1500	dinB	2.7.7.7	COG0389	DNA polymerase IV
+PBFPHCLI_01677	gene	1500	dinB			
+PBFPHCLI_01678	CDS	444				hypothetical protein
+PBFPHCLI_01678	gene	444				
+PBFPHCLI_01679	CDS	525				hypothetical protein
+PBFPHCLI_01679	gene	525				
+PBFPHCLI_01680	CDS	168				hypothetical protein
+PBFPHCLI_01680	gene	168				
+PBFPHCLI_01681	CDS	567				hypothetical protein
+PBFPHCLI_01681	gene	567				
+PBFPHCLI_01682	CDS	1347	cycA_2		COG1113	D-serine/D-alanine/glycine transporter
+PBFPHCLI_01682	gene	1347	cycA_2			
+PBFPHCLI_01683	CDS	456	perR		COG0735	Peroxide-responsive repressor PerR
+PBFPHCLI_01683	gene	456	perR			
+PBFPHCLI_01684	CDS	1440	ribZ_2			Riboflavin transporter RibZ
+PBFPHCLI_01684	gene	1440	ribZ_2			
+PBFPHCLI_01685	CDS	540	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+PBFPHCLI_01685	gene	540	tag			
+PBFPHCLI_01686	CDS	1188	metK	2.5.1.6		S-adenosylmethionine synthase
+PBFPHCLI_01686	gene	1188	metK			
+PBFPHCLI_01687	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+PBFPHCLI_01687	gene	2421	leuS			
+PBFPHCLI_01688	CDS	264				hypothetical protein
+PBFPHCLI_01688	gene	264				
+PBFPHCLI_01689	CDS	1650	murJ		COG2244	Lipid II flippase MurJ
+PBFPHCLI_01689	gene	1650	murJ			
+PBFPHCLI_01690	CDS	861	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+PBFPHCLI_01690	gene	861	nnrD			
+PBFPHCLI_01691	CDS	1404		3.4.13.-	COG0624	Putative dipeptidase
+PBFPHCLI_01691	gene	1404				
+PBFPHCLI_01692	CDS	498				Putative universal stress protein
+PBFPHCLI_01692	gene	498				
+PBFPHCLI_01693	CDS	1032		3.2.1.-	COG1388	Autolysin
+PBFPHCLI_01693	gene	1032				
+PBFPHCLI_01694	CDS	633		2.7.1.113	COG1428	Deoxyguanosine kinase
+PBFPHCLI_01694	gene	633				
+PBFPHCLI_01695	CDS	609				hypothetical protein
+PBFPHCLI_01695	gene	609				
+PBFPHCLI_01696	CDS	1017	degA_2		COG1609	HTH-type transcriptional regulator DegA
+PBFPHCLI_01696	gene	1017	degA_2			
+PBFPHCLI_01697	CDS	924	rbsK/rbiA_2			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+PBFPHCLI_01697	gene	924	rbsK/rbiA_2			
+PBFPHCLI_01698	CDS	231				hypothetical protein
+PBFPHCLI_01698	gene	231				
+PBFPHCLI_01699	CDS	678				hypothetical protein
+PBFPHCLI_01699	gene	678				
+PBFPHCLI_01700	CDS	279				hypothetical protein
+PBFPHCLI_01700	gene	279				
+PBFPHCLI_01701	tRNA	87				tRNA-Leu(cag)
+PBFPHCLI_01701	gene	87				
+PBFPHCLI_01702	CDS	396				hypothetical protein
+PBFPHCLI_01702	gene	396				
+PBFPHCLI_01703	CDS	336	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+PBFPHCLI_01703	gene	336	folB			
+PBFPHCLI_01704	CDS	513	sulD		COG0801	Bifunctional folate synthesis protein
+PBFPHCLI_01704	gene	513	sulD			
+PBFPHCLI_01705	CDS	579	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+PBFPHCLI_01705	gene	579	folE			
+PBFPHCLI_01706	CDS	1260	fpgS_2	6.3.2.17		Folylpolyglutamate synthase
+PBFPHCLI_01706	gene	1260	fpgS_2			
+PBFPHCLI_01707	CDS	588		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+PBFPHCLI_01707	gene	588				
+PBFPHCLI_01708	CDS	1164	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PBFPHCLI_01708	gene	1164	folP			
+PBFPHCLI_01709	CDS	336				hypothetical protein
+PBFPHCLI_01709	gene	336				
+PBFPHCLI_01710	CDS	273				hypothetical protein
+PBFPHCLI_01710	gene	273				
+PBFPHCLI_01711	tRNA	72				tRNA-Gly(ccc)
+PBFPHCLI_01711	gene	72				
+PBFPHCLI_01712	CDS	939	ldh_3	1.1.1.27	COG0039	L-lactate dehydrogenase
+PBFPHCLI_01712	gene	939	ldh_3			
+PBFPHCLI_01713	CDS	816	thiD_1	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PBFPHCLI_01713	gene	816	thiD_1			
+PBFPHCLI_01714	CDS	1689	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+PBFPHCLI_01714	gene	1689	argS			
+PBFPHCLI_01715	CDS	2166	pbpF		COG0744	Penicillin-binding protein 1F
+PBFPHCLI_01715	gene	2166	pbpF			
+PBFPHCLI_01716	CDS	372				hypothetical protein
+PBFPHCLI_01716	gene	372				
+PBFPHCLI_01717	CDS	1185	yhaO		COG0420	putative metallophosphoesterase YhaO
+PBFPHCLI_01717	gene	1185	yhaO			
+PBFPHCLI_01718	CDS	2493	yhaN		COG4717	putative protein YhaN
+PBFPHCLI_01718	gene	2493	yhaN			
+PBFPHCLI_01719	CDS	939	prsA	5.2.1.8		Foldase protein PrsA
+PBFPHCLI_01719	gene	939	prsA			
+PBFPHCLI_01720	CDS	231				hypothetical protein
+PBFPHCLI_01720	gene	231				
+PBFPHCLI_01721	CDS	435	hit		COG0537	Protein hit
+PBFPHCLI_01721	gene	435	hit			
+PBFPHCLI_01722	CDS	738	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+PBFPHCLI_01722	gene	738	ecsA_1			
+PBFPHCLI_01723	CDS	1203				hypothetical protein
+PBFPHCLI_01723	gene	1203				
+PBFPHCLI_01724	CDS	642	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+PBFPHCLI_01724	gene	642	trmB			
+PBFPHCLI_01725	CDS	981	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+PBFPHCLI_01725	gene	981	iolS			
+PBFPHCLI_01726	CDS	921	glsA2	3.5.1.2	COG2066	Glutaminase 2
+PBFPHCLI_01726	gene	921	glsA2			
+PBFPHCLI_01727	CDS	339				hypothetical protein
+PBFPHCLI_01727	gene	339				
+PBFPHCLI_01728	CDS	321	ytpP			Thioredoxin-like protein YtpP
+PBFPHCLI_01728	gene	321	ytpP			
+PBFPHCLI_01729	CDS	648	pheT_1	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+PBFPHCLI_01729	gene	648	pheT_1			
+PBFPHCLI_01730	CDS	1305	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+PBFPHCLI_01730	gene	1305	murC			
+PBFPHCLI_01731	CDS	714	ybhL_2		COG0670	Inner membrane protein YbhL
+PBFPHCLI_01731	gene	714	ybhL_2			
+PBFPHCLI_01732	CDS	675				hypothetical protein
+PBFPHCLI_01732	gene	675				
+PBFPHCLI_01733	CDS	2667	polA	2.7.7.7		DNA polymerase I
+PBFPHCLI_01733	gene	2667	polA			
+PBFPHCLI_01734	CDS	831	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+PBFPHCLI_01734	gene	831	mutM			
+PBFPHCLI_01735	CDS	600	coaE	2.7.1.24		Dephospho-CoA kinase
+PBFPHCLI_01735	gene	600	coaE			
+PBFPHCLI_01736	CDS	465	nrdR		COG1327	Transcriptional repressor NrdR
+PBFPHCLI_01736	gene	465	nrdR			
+PBFPHCLI_01737	CDS	1362	dnaB		COG3611	Replication initiation and membrane attachment protein
+PBFPHCLI_01737	gene	1362	dnaB			
+PBFPHCLI_01738	CDS	942	dnaI		COG1484	Primosomal protein DnaI
+PBFPHCLI_01738	gene	942	dnaI			
+PBFPHCLI_01739	CDS	513	infC			Translation initiation factor IF-3
+PBFPHCLI_01739	gene	513	infC			
+PBFPHCLI_01740	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+PBFPHCLI_01740	gene	198	rpmI			
+PBFPHCLI_01741	CDS	354	rplT		COG0292	50S ribosomal protein L20
+PBFPHCLI_01741	gene	354	rplT			
+PBFPHCLI_01742	CDS	531	gph	3.1.3.18		Phosphoglycolate phosphatase
+PBFPHCLI_01742	gene	531	gph			
+PBFPHCLI_01743	CDS	1128	yqeH		COG1161	putative protein YqeH
+PBFPHCLI_01743	gene	1128	yqeH			
+PBFPHCLI_01744	CDS	312			COG1534	RNA-binding protein
+PBFPHCLI_01744	gene	312				
+PBFPHCLI_01745	CDS	645	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+PBFPHCLI_01745	gene	645	nadD			
+PBFPHCLI_01746	CDS	615				hypothetical protein
+PBFPHCLI_01746	gene	615				
+PBFPHCLI_01747	CDS	357	rsfS		COG0799	Ribosomal silencing factor RsfS
+PBFPHCLI_01747	gene	357	rsfS			
+PBFPHCLI_01748	CDS	741		2.1.1.156		Glycine/sarcosine N-methyltransferase
+PBFPHCLI_01748	gene	741				
+PBFPHCLI_01749	CDS	1134				hypothetical protein
+PBFPHCLI_01749	gene	1134				
+PBFPHCLI_01750	CDS	558				hypothetical protein
+PBFPHCLI_01750	gene	558				
+PBFPHCLI_01751	CDS	180	rpmF		COG0333	50S ribosomal protein L32
+PBFPHCLI_01751	gene	180	rpmF			
+PBFPHCLI_01752	CDS	687	arlR_2		COG0745	Response regulator ArlR
+PBFPHCLI_01752	gene	687	arlR_2			
+PBFPHCLI_01753	CDS	1476	arlS_2	2.7.13.3	COG0642	Signal transduction histidine-protein kinase ArlS
+PBFPHCLI_01753	gene	1476	arlS_2			
+PBFPHCLI_01754	CDS	1494	yjeM_2			Inner membrane transporter YjeM
+PBFPHCLI_01754	gene	1494	yjeM_2			
+PBFPHCLI_01755	CDS	1320	mepA_2			Multidrug export protein MepA
+PBFPHCLI_01755	gene	1320	mepA_2			
+PBFPHCLI_01756	CDS	411	def_2	3.5.1.88	COG0242	Peptide deformylase
+PBFPHCLI_01756	gene	411	def_2			
+PBFPHCLI_01757	CDS	951	misCB		COG0706	Membrane protein insertase MisCB
+PBFPHCLI_01757	gene	951	misCB			
+PBFPHCLI_01758	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+PBFPHCLI_01758	gene	276	acyP			
+PBFPHCLI_01759	CDS	777		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PBFPHCLI_01759	gene	777				
+PBFPHCLI_01760	CDS	507				hypothetical protein
+PBFPHCLI_01760	gene	507				
+PBFPHCLI_01761	CDS	339	yodB		COG1733	HTH-type transcriptional regulator YodB
+PBFPHCLI_01761	gene	339	yodB			
+PBFPHCLI_01762	CDS	1047	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+PBFPHCLI_01762	gene	1047	pheS			
+PBFPHCLI_01763	CDS	2418	pheT_2	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+PBFPHCLI_01763	gene	2418	pheT_2			
+PBFPHCLI_01764	CDS	639	cwlS	3.4.19.11	COG0791	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+PBFPHCLI_01764	gene	639	cwlS			
+PBFPHCLI_01765	CDS	657	udk	2.7.1.48	COG0572	Uridine kinase
+PBFPHCLI_01765	gene	657	udk			
+PBFPHCLI_01766	CDS	477	greA_2		COG0782	Transcription elongation factor GreA
+PBFPHCLI_01766	gene	477	greA_2			
+PBFPHCLI_01767	CDS	390				putative protein
+PBFPHCLI_01767	gene	390				
+PBFPHCLI_01768	CDS	2616				hypothetical protein
+PBFPHCLI_01768	gene	2616				
+PBFPHCLI_01769	CDS	2079	penA		COG0768	Penicillin-binding protein 2B
+PBFPHCLI_01769	gene	2079	penA			
+PBFPHCLI_01770	CDS	150	rpmGA			50S ribosomal protein L33 1
+PBFPHCLI_01770	gene	150	rpmGA			
+PBFPHCLI_01771	CDS	555	yqgN		COG0212	putative protein YqgN
+PBFPHCLI_01771	gene	555	yqgN			
+PBFPHCLI_01772	CDS	660	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+PBFPHCLI_01772	gene	660	gluP			
+PBFPHCLI_01773	CDS	240	yqgQ		COG4483	putative protein YqgQ
+PBFPHCLI_01773	gene	240	yqgQ			
+PBFPHCLI_01774	CDS	972	glcK	2.7.1.2	COG1940	Glucokinase
+PBFPHCLI_01774	gene	972	glcK			
+PBFPHCLI_01775	CDS	387	yibN		COG0607	putative protein YibN
+PBFPHCLI_01775	gene	387	yibN			
+PBFPHCLI_01776	CDS	177				hypothetical protein
+PBFPHCLI_01776	gene	177				
+PBFPHCLI_01777	CDS	924	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PBFPHCLI_01777	gene	924	miaA			
+PBFPHCLI_01778	CDS	1344	glnA	6.3.1.2		Glutamine synthetase
+PBFPHCLI_01778	gene	1344	glnA			
+PBFPHCLI_01779	CDS	1506	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+PBFPHCLI_01779	gene	1506	gltX			
+PBFPHCLI_01780	CDS	1182	patA_5	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PBFPHCLI_01780	gene	1182	patA_5			
+PBFPHCLI_01781	CDS	126				hypothetical protein
+PBFPHCLI_01781	gene	126				
+PBFPHCLI_01782	CDS	1905				hypothetical protein
+PBFPHCLI_01782	gene	1905				
+PBFPHCLI_01783	CDS	474				hypothetical protein
+PBFPHCLI_01783	gene	474				
+PBFPHCLI_01784	CDS	969				hypothetical protein
+PBFPHCLI_01784	gene	969				
+PBFPHCLI_01785	CDS	1530				hypothetical protein
+PBFPHCLI_01785	gene	1530				
+PBFPHCLI_01786	CDS	3015				hypothetical protein
+PBFPHCLI_01786	gene	3015				
+PBFPHCLI_01787	CDS	528	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+PBFPHCLI_01787	gene	528	msrA			
+PBFPHCLI_01788	CDS	315	sufT_3			Fe-S protein maturation auxiliary factor SufT
+PBFPHCLI_01788	gene	315	sufT_3			
+PBFPHCLI_01789	CDS	888				hypothetical protein
+PBFPHCLI_01789	gene	888				
+PBFPHCLI_01790	CDS	1029				hypothetical protein
+PBFPHCLI_01790	gene	1029				
+PBFPHCLI_01791	CDS	507				hypothetical protein
+PBFPHCLI_01791	gene	507				
+PBFPHCLI_01792	CDS	1173	ltrA_12		COG3344	Group II intron-encoded protein LtrA
+PBFPHCLI_01792	gene	1173	ltrA_12			
+PBFPHCLI_01793	CDS	216				hypothetical protein
+PBFPHCLI_01793	gene	216				
+PBFPHCLI_01794	CDS	135				hypothetical protein
+PBFPHCLI_01794	gene	135				
+PBFPHCLI_01795	tRNA	76				tRNA-Arg(tct)
+PBFPHCLI_01795	gene	76				
+PBFPHCLI_01796	CDS	633	mtrR		COG1309	HTH-type transcriptional regulator MtrR
+PBFPHCLI_01796	gene	633	mtrR			
+PBFPHCLI_01797	CDS	309	rplU		COG0261	50S ribosomal protein L21
+PBFPHCLI_01797	gene	309	rplU			
+PBFPHCLI_01798	CDS	324				hypothetical protein
+PBFPHCLI_01798	gene	324				
+PBFPHCLI_01799	CDS	282	rpmA		COG0211	50S ribosomal protein L27
+PBFPHCLI_01799	gene	282	rpmA			
+PBFPHCLI_01800	CDS	708			COG0325	Pyridoxal phosphate homeostasis protein
+PBFPHCLI_01800	gene	708				
+PBFPHCLI_01801	CDS	1077	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+PBFPHCLI_01801	gene	1077	ypdF			
+PBFPHCLI_01802	CDS	675				hypothetical protein
+PBFPHCLI_01802	gene	675				
+PBFPHCLI_01803	CDS	438				putative protein
+PBFPHCLI_01803	gene	438				
+PBFPHCLI_01804	CDS	417	nusB		COG0781	Transcription antitermination protein NusB
+PBFPHCLI_01804	gene	417	nusB			
+PBFPHCLI_01805	CDS	861	folD		COG0190	Bifunctional protein FolD protein
+PBFPHCLI_01805	gene	861	folD			
+PBFPHCLI_01806	CDS	1338	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+PBFPHCLI_01806	gene	1338	xseA			
+PBFPHCLI_01807	CDS	282	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+PBFPHCLI_01807	gene	282	xseB			
+PBFPHCLI_01808	CDS	873		2.5.1.10		Farnesyl diphosphate synthase
+PBFPHCLI_01808	gene	873				
+PBFPHCLI_01809	CDS	822	tlyA	2.1.1.226		16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+PBFPHCLI_01809	gene	822	tlyA			
+PBFPHCLI_01810	CDS	453	argR_2			Arginine repressor
+PBFPHCLI_01810	gene	453	argR_2			
+PBFPHCLI_01811	CDS	1680	recN		COG0497	DNA repair protein RecN
+PBFPHCLI_01811	gene	1680	recN			
+PBFPHCLI_01812	CDS	333				hypothetical protein
+PBFPHCLI_01812	gene	333				
+PBFPHCLI_01813	CDS	621	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+PBFPHCLI_01813	gene	621	gmk_2			
+PBFPHCLI_01814	CDS	219	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+PBFPHCLI_01814	gene	219	rpoZ			
+PBFPHCLI_01815	CDS	1206	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+PBFPHCLI_01815	gene	1206	coaBC			
+PBFPHCLI_01816	CDS	2430	priA	3.6.4.-	COG1198	Primosomal protein N'
+PBFPHCLI_01816	gene	2430	priA			
+PBFPHCLI_01817	CDS	954	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+PBFPHCLI_01817	gene	954	fmt			
+PBFPHCLI_01818	CDS	1350	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+PBFPHCLI_01818	gene	1350	rsmB			
+PBFPHCLI_01819	CDS	741	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+PBFPHCLI_01819	gene	741	stp			
+PBFPHCLI_01820	CDS	1905	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+PBFPHCLI_01820	gene	1905	prkC			
+PBFPHCLI_01821	CDS	891	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+PBFPHCLI_01821	gene	891	rsgA			
+PBFPHCLI_01822	CDS	654	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+PBFPHCLI_01822	gene	654	rpe			
+PBFPHCLI_01823	CDS	651	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+PBFPHCLI_01823	gene	651	thiN			
+PBFPHCLI_01824	CDS	186	rpmB			50S ribosomal protein L28
+PBFPHCLI_01824	gene	186	rpmB			
+PBFPHCLI_01825	CDS	363				putative protein
+PBFPHCLI_01825	gene	363				
+PBFPHCLI_01826	CDS	1710				putative protein
+PBFPHCLI_01826	gene	1710				
+PBFPHCLI_01827	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+PBFPHCLI_01827	gene	2037	recG			
+PBFPHCLI_01828	CDS	1032	plsX	2.3.1.-	COG0416	Phosphate acyltransferase
+PBFPHCLI_01828	gene	1032	plsX			
+PBFPHCLI_01829	CDS	255	acpP		COG0236	Acyl carrier protein
+PBFPHCLI_01829	gene	255	acpP			
+PBFPHCLI_01830	CDS	702	rnc	3.1.26.3	COG0571	Ribonuclease 3
+PBFPHCLI_01830	gene	702	rnc			
+PBFPHCLI_01831	CDS	3564	smc_4		COG1196	Chromosome partition protein Smc
+PBFPHCLI_01831	gene	3564	smc_4			
+PBFPHCLI_01832	CDS	1527	ftsY		COG0552	Signal recognition particle receptor FtsY
+PBFPHCLI_01832	gene	1527	ftsY			
+PBFPHCLI_01833	CDS	342				hypothetical protein
+PBFPHCLI_01833	gene	342				
+PBFPHCLI_01834	CDS	1446	ffh		COG0541	Signal recognition particle protein
+PBFPHCLI_01834	gene	1446	ffh			
+PBFPHCLI_01835	CDS	276	rpsP		COG0228	30S ribosomal protein S16
+PBFPHCLI_01835	gene	276	rpsP			
+PBFPHCLI_01836	CDS	261				hypothetical protein
+PBFPHCLI_01836	gene	261				
+PBFPHCLI_01837	CDS	507	rimM			Ribosome maturation factor RimM
+PBFPHCLI_01837	gene	507	rimM			
+PBFPHCLI_01838	CDS	759	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+PBFPHCLI_01838	gene	759	trmD			
+PBFPHCLI_01839	CDS	1431	yhdG_4		COG0531	putative amino acid permease YhdG
+PBFPHCLI_01839	gene	1431	yhdG_4			
+PBFPHCLI_01840	CDS	387	rplS		COG0335	50S ribosomal protein L19
+PBFPHCLI_01840	gene	387	rplS			
+PBFPHCLI_01841	CDS	1131	Int-Tn_2			Transposase from transposon Tn916
+PBFPHCLI_01841	gene	1131	Int-Tn_2			
+PBFPHCLI_01842	CDS	318				hypothetical protein
+PBFPHCLI_01842	gene	318				
+PBFPHCLI_01843	CDS	654				hypothetical protein
+PBFPHCLI_01843	gene	654				
+PBFPHCLI_01844	CDS	588				hypothetical protein
+PBFPHCLI_01844	gene	588				
+PBFPHCLI_01845	CDS	495				hypothetical protein
+PBFPHCLI_01845	gene	495				
+PBFPHCLI_01846	CDS	135				hypothetical protein
+PBFPHCLI_01846	gene	135				
+PBFPHCLI_01847	CDS	225				hypothetical protein
+PBFPHCLI_01847	gene	225				
+PBFPHCLI_01848	CDS	333				hypothetical protein
+PBFPHCLI_01848	gene	333				
+PBFPHCLI_01849	CDS	828	exoA_2	3.1.11.2	COG0708	Exodeoxyribonuclease
+PBFPHCLI_01849	gene	828	exoA_2			
+PBFPHCLI_01850	CDS	480				hypothetical protein
+PBFPHCLI_01850	gene	480				
+PBFPHCLI_01851	CDS	4149	cas9-2	3.1.-.-		CRISPR-associated endonuclease Cas9 2
+PBFPHCLI_01851	gene	4149	cas9-2			
+PBFPHCLI_01852	CDS	909	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+PBFPHCLI_01852	gene	909	cas1			
+PBFPHCLI_01853	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+PBFPHCLI_01853	gene	306	cas2			
+PBFPHCLI_01854	CDS	672				hypothetical protein
+PBFPHCLI_01854	gene	672				
+PBFPHCLI_01855	CDS	1164				hypothetical protein
+PBFPHCLI_01855	gene	1164				
+PBFPHCLI_01856	CDS	1020	lacR_3		COG1609	HTH-type transcriptional regulator LacR
+PBFPHCLI_01856	gene	1020	lacR_3			
+PBFPHCLI_01857	CDS	1923	lacS_2		COG2190	Lactose permease
+PBFPHCLI_01857	gene	1923	lacS_2			
+PBFPHCLI_01858	CDS	2013	lacZ	3.2.1.23	COG1874	Beta-galactosidase LacZ
+PBFPHCLI_01858	gene	2013	lacZ			
+PBFPHCLI_01859	CDS	2742			COG1629	putative hemoglobin and hemoglobin-haptoglobin-binding protein 3
+PBFPHCLI_01859	gene	2742				
+PBFPHCLI_01860	CDS	981	hexs-b	2.5.1.83		Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+PBFPHCLI_01860	gene	981	hexs-b			
+PBFPHCLI_01861	CDS	900	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PBFPHCLI_01861	gene	900	menA			
+PBFPHCLI_01862	CDS	702	menG_2	2.1.1.163		Demethylmenaquinone methyltransferase
+PBFPHCLI_01862	gene	702	menG_2			
+PBFPHCLI_01863	CDS	1224	yjhB			Putative metabolite transport protein YjhB
+PBFPHCLI_01863	gene	1224	yjhB			
+PBFPHCLI_01864	CDS	852				hypothetical protein
+PBFPHCLI_01864	gene	852				
+PBFPHCLI_01865	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+PBFPHCLI_01865	gene	270	rpsN2			
+PBFPHCLI_01866	CDS	693				hypothetical protein
+PBFPHCLI_01866	gene	693				
+PBFPHCLI_01867	CDS	663	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+PBFPHCLI_01867	gene	663	sdhB			
+PBFPHCLI_01868	CDS	882	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+PBFPHCLI_01868	gene	882	sdhA			
+PBFPHCLI_01869	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+PBFPHCLI_01869	gene	564	ahpC			
+PBFPHCLI_01870	CDS	1668	trxB_2	1.8.1.9		Thioredoxin reductase
+PBFPHCLI_01870	gene	1668	trxB_2			
+PBFPHCLI_01871	CDS	5010				hypothetical protein
+PBFPHCLI_01871	gene	5010				
+PBFPHCLI_01872	CDS	1200	gspA_2		COG1442	General stress protein A
+PBFPHCLI_01872	gene	1200	gspA_2			
+PBFPHCLI_01873	CDS	1191	secY_2			Protein translocase subunit SecY
+PBFPHCLI_01873	gene	1191	secY_2			
+PBFPHCLI_01874	CDS	1512				hypothetical protein
+PBFPHCLI_01874	gene	1512				
+PBFPHCLI_01875	CDS	1488	asp2			Accessory Sec system protein Asp2
+PBFPHCLI_01875	gene	1488	asp2			
+PBFPHCLI_01876	CDS	888	asp3			Accessory Sec system protein Asp3
+PBFPHCLI_01876	gene	888	asp3			
+PBFPHCLI_01877	CDS	2355	secA_2		COG0653	Protein translocase subunit SecA
+PBFPHCLI_01877	gene	2355	secA_2			
+PBFPHCLI_01878	CDS	1539	gtf1_2	2.4.1.-	COG0438	Glycosyltransferase Gtf1
+PBFPHCLI_01878	gene	1539	gtf1_2			
+PBFPHCLI_01879	CDS	1326	gtf2			Glycosyltransferase-stabilizing protein Gtf2
+PBFPHCLI_01879	gene	1326	gtf2			
+PBFPHCLI_01880	CDS	198				hypothetical protein
+PBFPHCLI_01880	gene	198				
+PBFPHCLI_01881	CDS	7026				hypothetical protein
+PBFPHCLI_01881	gene	7026				
+PBFPHCLI_01882	CDS	588				hypothetical protein
+PBFPHCLI_01882	gene	588				
+PBFPHCLI_01883	CDS	1023				Zinc-type alcohol dehydrogenase-like protein
+PBFPHCLI_01883	gene	1023				
+PBFPHCLI_01884	CDS	369	yybR_3		COG1733	putative HTH-type transcriptional regulator YybR
+PBFPHCLI_01884	gene	369	yybR_3			
+PBFPHCLI_01885	CDS	906	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+PBFPHCLI_01885	gene	906	ecsA_2			
+PBFPHCLI_01886	CDS	1248	yhaP		COG1668	putative protein YhaP
+PBFPHCLI_01886	gene	1248	yhaP			
+PBFPHCLI_01887	CDS	624				hypothetical protein
+PBFPHCLI_01887	gene	624				
+PBFPHCLI_01888	CDS	264				hypothetical protein
+PBFPHCLI_01888	gene	264				
+PBFPHCLI_01889	CDS	225				hypothetical protein
+PBFPHCLI_01889	gene	225				
+PBFPHCLI_01890	CDS	237				hypothetical protein
+PBFPHCLI_01890	gene	237				
+PBFPHCLI_01891	CDS	843	xerC_4		COG4973	Tyrosine recombinase XerC
+PBFPHCLI_01891	gene	843	xerC_4			
+PBFPHCLI_01892	CDS	324	ssb		COG0629	Single-stranded DNA-binding protein
+PBFPHCLI_01892	gene	324	ssb			
+PBFPHCLI_01893	CDS	1038				hypothetical protein
+PBFPHCLI_01893	gene	1038				
+PBFPHCLI_01894	CDS	762				hypothetical protein
+PBFPHCLI_01894	gene	762				
+PBFPHCLI_01895	CDS	291				hypothetical protein
+PBFPHCLI_01895	gene	291				
+PBFPHCLI_01896	CDS	327				hypothetical protein
+PBFPHCLI_01896	gene	327				
+PBFPHCLI_01897	CDS	870				hypothetical protein
+PBFPHCLI_01897	gene	870				
+PBFPHCLI_01898	CDS	1164				hypothetical protein
+PBFPHCLI_01898	gene	1164				
+PBFPHCLI_01899	CDS	336				hypothetical protein
+PBFPHCLI_01899	gene	336				
+PBFPHCLI_01900	CDS	921	repE			Replication initiation protein
+PBFPHCLI_01900	gene	921	repE			
+PBFPHCLI_01901	CDS	150				hypothetical protein
+PBFPHCLI_01901	gene	150				
+PBFPHCLI_01902	CDS	453				hypothetical protein
+PBFPHCLI_01902	gene	453				
+PBFPHCLI_01903	CDS	3114				hypothetical protein
+PBFPHCLI_01903	gene	3114				
+PBFPHCLI_01904	CDS	1404	pepDA_5	3.4.-.-	COG4690	Dipeptidase A
+PBFPHCLI_01904	gene	1404	pepDA_5			
+PBFPHCLI_01905	CDS	1830	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+PBFPHCLI_01905	gene	1830	gerN			
+PBFPHCLI_01906	CDS	186	ywhB	5.3.2.6	COG1942	2-hydroxymuconate tautomerase
+PBFPHCLI_01906	gene	186	ywhB			
+PBFPHCLI_01907	CDS	1503	glpK	2.7.1.30	COG0554	Glycerol kinase
+PBFPHCLI_01907	gene	1503	glpK			
+PBFPHCLI_01908	CDS	504				hypothetical protein
+PBFPHCLI_01908	gene	504				
+PBFPHCLI_01909	CDS	237				hypothetical protein
+PBFPHCLI_01909	gene	237				
+PBFPHCLI_01910	CDS	576	fliA			RNA polymerase sigma factor FliA
+PBFPHCLI_01910	gene	576	fliA			
+PBFPHCLI_01911	CDS	555				hypothetical protein
+PBFPHCLI_01911	gene	555				
+PBFPHCLI_01912	CDS	399	hxlR_2		COG1733	HTH-type transcriptional activator HxlR
+PBFPHCLI_01912	gene	399	hxlR_2			
+PBFPHCLI_01913	CDS	1005	tagU	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+PBFPHCLI_01913	gene	1005	tagU			
+PBFPHCLI_01914	CDS	876	cap8A		COG3944	Capsular polysaccharide type 8 biosynthesis protein cap8A
+PBFPHCLI_01914	gene	876	cap8A			
+PBFPHCLI_01915	CDS	747	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+PBFPHCLI_01915	gene	747	ywqD			
+PBFPHCLI_01916	CDS	651	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+PBFPHCLI_01916	gene	651	epsL			
+PBFPHCLI_01917	CDS	870	rmlA_2	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+PBFPHCLI_01917	gene	870	rmlA_2			
+PBFPHCLI_01918	CDS	582	rfbC_2	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+PBFPHCLI_01918	gene	582	rfbC_2			
+PBFPHCLI_01919	CDS	1041	rmlB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+PBFPHCLI_01919	gene	1041	rmlB_2			
+PBFPHCLI_01920	CDS	1218				hypothetical protein
+PBFPHCLI_01920	gene	1218				
+PBFPHCLI_01921	CDS	1170	mshA_1	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+PBFPHCLI_01921	gene	1170	mshA_1			
+PBFPHCLI_01922	CDS	954				hypothetical protein
+PBFPHCLI_01922	gene	954				
+PBFPHCLI_01923	CDS	1020	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+PBFPHCLI_01923	gene	1020	epsJ			
+PBFPHCLI_01924	CDS	468	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+PBFPHCLI_01924	gene	468	cysE			
+PBFPHCLI_01925	CDS	1233				hypothetical protein
+PBFPHCLI_01925	gene	1233				
+PBFPHCLI_01926	CDS	1128	glf_2	5.4.99.9	COG0562	UDP-galactopyranose mutase
+PBFPHCLI_01926	gene	1128	glf_2			
+PBFPHCLI_01927	CDS	1437	rfbX_2		COG2244	Putative O-antigen transporter
+PBFPHCLI_01927	gene	1437	rfbX_2			
+PBFPHCLI_01928	CDS	1137	mshA_2	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+PBFPHCLI_01928	gene	1137	mshA_2			
+PBFPHCLI_01929	CDS	843	strL_2	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+PBFPHCLI_01929	gene	843	strL_2			
+PBFPHCLI_01930	CDS	996				hypothetical protein
+PBFPHCLI_01930	gene	996				
+PBFPHCLI_01931	CDS	690				hypothetical protein
+PBFPHCLI_01931	gene	690				
+PBFPHCLI_01932	CDS	1413		3.1.21.4		Type IIS restriction enzyme Eco57I
+PBFPHCLI_01932	gene	1413				
+PBFPHCLI_01933	CDS	684	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+PBFPHCLI_01933	gene	684	yurK			
+PBFPHCLI_01934	CDS	999				hypothetical protein
+PBFPHCLI_01934	gene	999				
+PBFPHCLI_01935	CDS	1374				hypothetical protein
+PBFPHCLI_01935	gene	1374				
+PBFPHCLI_01936	CDS	882	ydjH	2.7.1.-	COG0524	putative sugar kinase YdjH
+PBFPHCLI_01936	gene	882	ydjH			
+PBFPHCLI_01937	CDS	1461				hypothetical protein
+PBFPHCLI_01937	gene	1461				
+PBFPHCLI_01938	CDS	1428				hypothetical protein
+PBFPHCLI_01938	gene	1428				
+PBFPHCLI_01939	CDS	249				hypothetical protein
+PBFPHCLI_01939	gene	249				
+PBFPHCLI_01940	CDS	357	pemK	3.1.-.-		Endoribonuclease PemK
+PBFPHCLI_01940	gene	357	pemK			
+PBFPHCLI_01941	CDS	330				hypothetical protein
+PBFPHCLI_01941	gene	330				
+PBFPHCLI_01942	CDS	558				hypothetical protein
+PBFPHCLI_01942	gene	558				
+PBFPHCLI_01943	CDS	336				hypothetical protein
+PBFPHCLI_01943	gene	336				
+PBFPHCLI_01944	CDS	636				hypothetical protein
+PBFPHCLI_01944	gene	636				
+PBFPHCLI_01945	CDS	159				hypothetical protein
+PBFPHCLI_01945	gene	159				
+PBFPHCLI_01946	CDS	2811	smc_5			Chromosome partition protein Smc
+PBFPHCLI_01946	gene	2811	smc_5			
+PBFPHCLI_01947	CDS	807				hypothetical protein
+PBFPHCLI_01947	gene	807				
+PBFPHCLI_01948	CDS	933	mmuM	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+PBFPHCLI_01948	gene	933	mmuM			
+PBFPHCLI_01949	CDS	1404	rocE		COG0833	Amino-acid permease RocE
+PBFPHCLI_01949	gene	1404	rocE			
+PBFPHCLI_01950	CDS	258				hypothetical protein
+PBFPHCLI_01950	gene	258				
+PBFPHCLI_01951	CDS	375				hypothetical protein
+PBFPHCLI_01951	gene	375				
+PBFPHCLI_01952	CDS	243				hypothetical protein
+PBFPHCLI_01952	gene	243				
+PBFPHCLI_01953	CDS	1893				hypothetical protein
+PBFPHCLI_01953	gene	1893				
+PBFPHCLI_01954	CDS	3489	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+PBFPHCLI_01954	gene	3489	rapA			
+PBFPHCLI_01955	CDS	771	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+PBFPHCLI_01955	gene	771	ywqE			
+PBFPHCLI_01956	CDS	543	lyc	3.2.1.17	COG3409	Autolytic lysozyme
+PBFPHCLI_01956	gene	543	lyc			
+PBFPHCLI_01957	CDS	255				hypothetical protein
+PBFPHCLI_01957	gene	255				
+PBFPHCLI_01958	CDS	1119	sbcD		COG0420	Nuclease SbcCD subunit D
+PBFPHCLI_01958	gene	1119	sbcD			
+PBFPHCLI_01959	CDS	3102	sbcC			Nuclease SbcCD subunit C
+PBFPHCLI_01959	gene	3102	sbcC			
+PBFPHCLI_01960	CDS	315	limB	1.14.13.107		Limonene 1,2-monooxygenase
+PBFPHCLI_01960	gene	315	limB			
+PBFPHCLI_01961	CDS	702				hypothetical protein
+PBFPHCLI_01961	gene	702				
+PBFPHCLI_01962	CDS	969				hypothetical protein
+PBFPHCLI_01962	gene	969				
+PBFPHCLI_01963	CDS	678				hypothetical protein
+PBFPHCLI_01963	gene	678				
+PBFPHCLI_01964	CDS	2259	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+PBFPHCLI_01964	gene	2259	yhcR			
+PBFPHCLI_01965	CDS	423				hypothetical protein
+PBFPHCLI_01965	gene	423				
+PBFPHCLI_01966	CDS	570		2.7.7.-	COG2184	Adenosine monophosphate-protein transferase NmFic
+PBFPHCLI_01966	gene	570				
+PBFPHCLI_01967	CDS	705	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+PBFPHCLI_01967	gene	705	nagB			
+PBFPHCLI_01968	CDS	1131				hypothetical protein
+PBFPHCLI_01968	gene	1131				
+PBFPHCLI_01969	CDS	2439				hypothetical protein
+PBFPHCLI_01969	gene	2439				
+PBFPHCLI_01970	CDS	2157				hypothetical protein
+PBFPHCLI_01970	gene	2157				
+PBFPHCLI_01971	CDS	492				hypothetical protein
+PBFPHCLI_01971	gene	492				
+PBFPHCLI_01972	rRNA	1573				16S ribosomal RNA
+PBFPHCLI_01972	gene	1573				
+PBFPHCLI_01973	rRNA	2919				23S ribosomal RNA
+PBFPHCLI_01973	gene	2919				
+PBFPHCLI_01974	rRNA	112				5S ribosomal RNA
+PBFPHCLI_01974	gene	112				
+PBFPHCLI_01975	CDS	204				hypothetical protein
+PBFPHCLI_01975	gene	204				
+PBFPHCLI_01976	CDS	642	pgpB	3.1.3.27	COG0671	Phosphatidylglycerophosphatase B
+PBFPHCLI_01976	gene	642	pgpB			
+PBFPHCLI_01977	CDS	2307	yicI	3.2.1.177	COG1501	Alpha-xylosidase
+PBFPHCLI_01977	gene	2307	yicI			
+PBFPHCLI_01978	CDS	1260	clcA_3		COG0038	H(+)/Cl(-) exchange transporter ClcA
+PBFPHCLI_01978	gene	1260	clcA_3			
+PBFPHCLI_01979	CDS	459				hypothetical protein
+PBFPHCLI_01979	gene	459				
+PBFPHCLI_01980	CDS	651	thiE	2.5.1.3		Thiamine-phosphate synthase
+PBFPHCLI_01980	gene	651	thiE			
+PBFPHCLI_01981	CDS	819	thiD_2	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PBFPHCLI_01981	gene	819	thiD_2			
+PBFPHCLI_01982	CDS	810	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+PBFPHCLI_01982	gene	810	thiM			
+PBFPHCLI_01983	CDS	306				hypothetical protein
+PBFPHCLI_01983	gene	306				
+PBFPHCLI_01984	CDS	1902				hypothetical protein
+PBFPHCLI_01984	gene	1902				
+PBFPHCLI_01985	CDS	666	fixK		COG0664	Nitrogen fixation regulation protein FixK
+PBFPHCLI_01985	gene	666	fixK			
+PBFPHCLI_01986	CDS	438				hypothetical protein
+PBFPHCLI_01986	gene	438				
+PBFPHCLI_01987	CDS	960				hypothetical protein
+PBFPHCLI_01987	gene	960				
+PBFPHCLI_01988	CDS	1020			COG0614	putative protein
+PBFPHCLI_01988	gene	1020				
+PBFPHCLI_01989	CDS	777			COG1120	putative ABC transporter ATP-binding protein
+PBFPHCLI_01989	gene	777				
+PBFPHCLI_01990	CDS	954			COG0609	putative ABC transporter permease protein
+PBFPHCLI_01990	gene	954				
+PBFPHCLI_01991	CDS	450				hypothetical protein
+PBFPHCLI_01991	gene	450				
+PBFPHCLI_01992	CDS	402	moaE1	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit 1
+PBFPHCLI_01992	gene	402	moaE1			
+PBFPHCLI_01993	CDS	246				hypothetical protein
+PBFPHCLI_01993	gene	246				
+PBFPHCLI_01994	CDS	1194	narT		COG2223	putative nitrate transporter NarT
+PBFPHCLI_01994	gene	1194	narT			
+PBFPHCLI_01995	CDS	909				hypothetical protein
+PBFPHCLI_01995	gene	909				
+PBFPHCLI_01996	CDS	969				hypothetical protein
+PBFPHCLI_01996	gene	969				
+PBFPHCLI_01997	CDS	276				hypothetical protein
+PBFPHCLI_01997	gene	276				
+PBFPHCLI_01998	CDS	654	nreC_2		COG2197	Oxygen regulatory protein NreC
+PBFPHCLI_01998	gene	654	nreC_2			
+PBFPHCLI_01999	CDS	942	nreB	2.7.13.3		Oxygen sensor histidine kinase NreB
+PBFPHCLI_01999	gene	942	nreB			
+PBFPHCLI_02000	CDS	285				hypothetical protein
+PBFPHCLI_02000	gene	285				
+PBFPHCLI_02001	CDS	573	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+PBFPHCLI_02001	gene	573	mobA			
+PBFPHCLI_02002	CDS	492	mobB		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+PBFPHCLI_02002	gene	492	mobB			
+PBFPHCLI_02003	CDS	1218	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+PBFPHCLI_02003	gene	1218	moeA			
+PBFPHCLI_02004	CDS	498	moaB			Molybdenum cofactor biosynthesis protein B
+PBFPHCLI_02004	gene	498	moaB			
+PBFPHCLI_02005	CDS	1020	thiF	2.7.7.73	COG0476	Sulfur carrier protein ThiS adenylyltransferase
+PBFPHCLI_02005	gene	1020	thiF			

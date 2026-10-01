@@ -1,0 +1,3 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065315.1	3694679	3715561	20882	terpene-precursor	terpene			
+region002	NZ_CP065315.1	3718832	3740410	21578	ranthipeptide	RiPP			

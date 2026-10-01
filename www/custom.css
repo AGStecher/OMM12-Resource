@@ -1,0 +1,262 @@
+/* ============================================================
+   OMM12 Resource — custom.css
+   SECTION 1: Component styles (bacteria cards, icons, layout)
+   SECTION 2: Classic Dark Blue elegant theme
+   Edit palette in the :root block (Section 2).
+   Apply: save to www/custom.css, then hard-refresh (Ctrl/Cmd-Shift-R).
+   ============================================================ */
+
+
+/* ============================================================
+   SECTION 1 — COMPONENT STYLES
+   ============================================================ */
+
+/* --- Bacteria collection cards --- */
+.bacteria-item { padding: 10px; }
+.bacteria-item-content { text-align: center; margin-bottom: 20px; }
+.bacteria-image {
+  width: 90%; max-width: 300px; display: block; margin: 0 auto;
+  height: auto; cursor: pointer; border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.bacteria-image:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+.bacteria-name {
+  font-weight: bold; font-size: 1.1em;
+  color: var(--navy-900); margin-top: 10px; margin-bottom: 0;
+}
+
+/* --- Misc layout --- */
+.dashboard-container .box { margin-top: 10px; }
+.box-header.with-border { border-bottom: none; }
+.box-body { padding: 15px; }
+
+/* --- Links / icons --- */
+.ncbi-link { color: #003366; font-weight: bold; }
+.ncbi-link:hover { text-decoration: underline; }
+.icon-image {
+  width: 100px; height: 100px; object-position: center;
+  display: block; margin: auto;
+}
+
+
+/* ============================================================
+   SECTION 2 — CLASSIC DARK BLUE THEME
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap');
+
+:root {
+  --navy-900: #0d1b2a;
+  --navy-800: #1b263b;
+  --navy-700: #2c3e57;
+  --navy-100: #e8edf3;
+  --gold:     #c9a227;
+  --gold-soft:#e3c766;
+  --cream:    #f0e6c8;
+  --ink:      #1b263b;
+  --page-bg:  #f4f6f9;
+}
+
+/* ---------- Base ---------- */
+body, .content-wrapper {
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+  color: var(--ink);
+  background-color: var(--page-bg);
+}
+
+/* Serif section headers */
+h2, h3, .details-page-header {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: var(--navy-900);
+  letter-spacing: 0.3px;
+}
+
+/* ---------- Top header bar ---------- */
+.skin-black-light .main-header .logo,
+.skin-black-light .main-header .navbar {
+  background-color: var(--navy-900);
+  color: #ffffff;
+}
+.main-header .logo {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700; font-size: 24px; letter-spacing: 0.5px;
+  border-bottom: 2px solid var(--gold);
+}
+
+/* ---------- Sidebar ---------- */
+.skin-black-light .main-sidebar { background-color: var(--navy-800); }
+.skin-black-light .sidebar-menu > li > a {
+  color: #c3ccd9; border-left: 3px solid transparent;
+}
+.skin-black-light .sidebar-menu > li.active > a,
+.skin-black-light .sidebar-menu > li:hover > a {
+  background-color: var(--navy-900); color: #ffffff;
+  border-left: 3px solid var(--gold);
+}
+
+/* ---------- Boxes ---------- */
+.box {
+  border: none; border-top: none; border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(13, 27, 42, 0.10);
+  margin-bottom: 16px;
+}
+.box-header { border-radius: 6px 6px 0 0; font-weight: 600; font-size: 15px; }
+.box-body { background-color: #ffffff; }
+
+/* Info boxes — navy header */
+.box.box-solid.box-info, .box.box-info { border-top: none; }
+.box.box-solid.box-info > .box-header,
+.box.box-info > .box-header {
+  background-color: var(--navy-800);
+  border-bottom: 2px solid var(--gold);
+}
+
+/* Sub-pathway (primary) — light header */
+.box.box-solid.box-primary > .box-header,
+.box.box-primary > .box-header {
+  background-color: var(--navy-100);
+  border-left: 4px solid var(--gold);
+}
+.box.box-solid.box-primary { border-top: none; }
+
+/* Warning boxes — slate header */
+.box.box-solid.box-warning > .box-header { background-color: var(--navy-700); }
+
+/* ---------- Box TITLE text (override solidHeader dark default) ---------- */
+.box.box-solid.box-info    .box-header .box-title,
+.box.box-info              .box-header .box-title,
+.box.box-solid.box-warning .box-header .box-title,
+.box-solid .box-header .box-title {
+  color: var(--cream) !important;
+}
+.box.box-solid.box-primary .box-header .box-title {
+  color: var(--navy-900) !important;
+}
+
+/* Collapse arrows match title */
+.box.box-solid.box-info    > .box-header .btn-box-tool,
+.box.box-solid.box-warning > .box-header .btn-box-tool {
+  color: var(--navy-900); opacity: 0.85;
+}
+.box.box-solid.box-primary > .box-header .btn-box-tool {
+  color: var(--navy-900); opacity: 0.85;
+}
+.box-header .btn-box-tool:hover { color: var(--gold-soft); opacity: 1; }
+
+/* ---------- Section dividers ---------- */
+.section-divider {
+  margin-top: 30px; padding-bottom: 6px;
+  border-bottom: 2px solid var(--navy-800);
+  color: var(--navy-900);
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* ---------- Tables (DT) ---------- */
+table.dataTable thead th {
+  background-color: var(--navy-800); color: #ffffff;
+  border-bottom: 2px solid var(--gold); font-weight: 600;
+}
+table.dataTable tbody tr:hover { background-color: #eef2f7; }
+table.dataTable tbody td { color: var(--ink); }
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  background: var(--navy-800) !important; color: #ffffff !important;
+  border-radius: 4px;
+}
+.dataTables_wrapper .dataTables_filter input {
+  border: 1px solid #c3ccd9; border-radius: 4px; padding: 3px 8px;
+}
+
+/* ---------- Buttons ---------- */
+.btn-primary {
+  background-color: var(--navy-800); border-color: var(--navy-900);
+  color: #ffffff;
+}
+.btn-primary:hover { background-color: var(--navy-900); }
+.btn-sm.btn-default { border-color: var(--navy-700); color: var(--navy-800); }
+/* downloadButton() always emits "btn btn-default"; the appended btn-primary
+   loses to AdminLTE's grey .btn-default, so force it back here. */
+.shiny-download-link.btn-primary {
+  background-color: var(--navy-800) !important;
+  border-color: var(--navy-900) !important;
+  color: #ffffff !important;
+}
+.shiny-download-link.btn-primary:hover,
+.shiny-download-link.btn-primary:focus {
+  background-color: var(--navy-900) !important;
+  color: #ffffff !important;
+}
+
+/* ---------- Links ---------- */
+a, .content a { color: var(--navy-800); }
+a:hover { color: var(--gold); }
+
+/* ---------- Striped tables ---------- */
+.table-striped > tbody > tr:nth-of-type(odd) { background-color: #f1f4f8; }
+.table > tbody > tr > td { border-color: #e2e8f0; }
+
+/* ---------- Scroll-to-top button ---------- */
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1000;
+  display: none; /* shown via fadeIn() once the user scrolls */
+  padding: 10px 18px;
+  border-radius: 24px;
+  background-color: var(--navy-800);
+  color: #ffffff !important;
+  border: 1px solid var(--gold);
+  box-shadow: 0 2px 8px rgba(13, 27, 42, 0.25);
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+.scroll-to-top-btn:hover,
+.scroll-to-top-btn:focus {
+  background-color: var(--gold);
+  color: var(--navy-900) !important;
+  box-shadow: 0 4px 10px rgba(13, 27, 42, 0.3);
+}
+.scroll-to-top-btn i { margin-right: 6px; }
+
+/* ---------- Header logo mark ---------- */
+.main-header .logo, .main-header .navbar-static-top { height: 50px; }
+.main-header .logo > a, .main-header .logo {
+  padding: 0 15px !important;
+}
+.main-header .logo a, .main-header .logo a:link, .main-header .logo a:visited {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+.main-header .logo span { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 20px; }
+
+/* ---------- Footer ---------- */
+.omm12-footer {
+  margin-top: 40px;
+  padding: 22px 26px 18px;
+  background-color: var(--navy-900);
+  color: #c3ccd9;
+  border-top: 2px solid var(--gold);
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+.omm12-footer-brand { display: flex; align-items: center; gap: 12px; }
+.omm12-footer-brand strong { color: #ffffff; font-size: 14px; }
+.omm12-footer-tagline { color: #8fa0b8; font-size: 11.5px; }
+.omm12-footer-block strong { color: #ffffff; }
+.omm12-footer a { color: var(--gold-soft); }
+.omm12-footer a:hover { color: #ffffff; text-decoration: underline; }
+@media (max-width: 768px) {
+  .omm12-footer .col-sm-5, .omm12-footer .col-sm-4, .omm12-footer .col-sm-3 {
+    margin-bottom: 14px;
+  }
+}
+
+/* Stecher Lab logo in the footer ("Developed by"): white card so the dark text stays readable on the navy footer */
+.omm12-footer-lablogo { display: inline-block; background: #ffffff; border-radius: 6px; padding: 6px 10px; margin: 6px 0 8px; }
+.omm12-footer-lablogo img { height: 40px; width: auto; display: block; }
+.omm12-footer-lablogo:hover { box-shadow: 0 0 0 2px var(--gold-soft, #c9a227); }

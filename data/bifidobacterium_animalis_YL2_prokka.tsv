@@ -1,0 +1,3395 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBAOMCCE_00001	CDS	147				hypothetical protein
+GBAOMCCE_00001	gene	147				
+GBAOMCCE_00002	CDS	771	ppgK	2.7.1.63	COG1940	Polyphosphate glucokinase
+GBAOMCCE_00002	gene	771	ppgK			
+GBAOMCCE_00003	CDS	597	ribU		COG3601	Riboflavin transporter RibU
+GBAOMCCE_00003	gene	597	ribU			
+GBAOMCCE_00004	CDS	2298	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GBAOMCCE_00004	gene	2298	ykoD_1			
+GBAOMCCE_00005	CDS	837	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+GBAOMCCE_00005	gene	837	ytbE			
+GBAOMCCE_00006	CDS	306	yhbY		COG1534	RNA-binding protein YhbY
+GBAOMCCE_00006	gene	306	yhbY			
+GBAOMCCE_00007	CDS	741	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+GBAOMCCE_00007	gene	741	tenA			
+GBAOMCCE_00008	CDS	381	yccF		COG3304	Inner membrane protein YccF
+GBAOMCCE_00008	gene	381	yccF			
+GBAOMCCE_00009	CDS	369				hypothetical protein
+GBAOMCCE_00009	gene	369				
+GBAOMCCE_00010	CDS	717				hypothetical protein
+GBAOMCCE_00010	gene	717				
+GBAOMCCE_00011	CDS	1566				hypothetical protein
+GBAOMCCE_00011	gene	1566				
+GBAOMCCE_00012	CDS	1890		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+GBAOMCCE_00012	gene	1890				
+GBAOMCCE_00013	CDS	1503	emrY			putative multidrug resistance protein EmrY
+GBAOMCCE_00013	gene	1503	emrY			
+GBAOMCCE_00014	CDS	1515			COG2256	putative AAA domain-containing protein
+GBAOMCCE_00014	gene	1515				
+GBAOMCCE_00015	CDS	2589	helY_1	3.6.4.-	COG4581	putative helicase HelY
+GBAOMCCE_00015	gene	2589	helY_1			
+GBAOMCCE_00016	CDS	198		2.7.4.-	COG2326	Polyphosphate:AMP/ADP phosphotransferase
+GBAOMCCE_00016	gene	198				
+GBAOMCCE_00017	CDS	588		2.7.4.-	COG2326	Polyphosphate:AMP/ADP phosphotransferase
+GBAOMCCE_00017	gene	588				
+GBAOMCCE_00018	CDS	1092	glnP_1		COG0765	putative glutamine ABC transporter permease protein GlnP
+GBAOMCCE_00018	gene	1092	glnP_1			
+GBAOMCCE_00019	CDS	678	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+GBAOMCCE_00019	gene	678	glnM			
+GBAOMCCE_00020	CDS	840	glnH_1		COG0834	ABC transporter glutamine-binding protein GlnH
+GBAOMCCE_00020	gene	840	glnH_1			
+GBAOMCCE_00021	CDS	786	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+GBAOMCCE_00021	gene	786	glnQ_1			
+GBAOMCCE_00022	CDS	789	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GBAOMCCE_00022	gene	789	menH			
+GBAOMCCE_00023	CDS	1419				putative protein
+GBAOMCCE_00023	gene	1419				
+GBAOMCCE_00024	CDS	1347	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GBAOMCCE_00024	gene	1347	hisS			
+GBAOMCCE_00025	CDS	1803	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+GBAOMCCE_00025	gene	1803	aspS			
+GBAOMCCE_00026	CDS	2553	clpC1		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC1
+GBAOMCCE_00026	gene	2553	clpC1			
+GBAOMCCE_00027	CDS	963				Universal stress protein
+GBAOMCCE_00027	gene	963				
+GBAOMCCE_00028	CDS	1014				hypothetical protein
+GBAOMCCE_00028	gene	1014				
+GBAOMCCE_00029	CDS	1134				putative protein
+GBAOMCCE_00029	gene	1134				
+GBAOMCCE_00030	CDS	444	csp		COG1278	Cold shock-like protein
+GBAOMCCE_00030	gene	444	csp			
+GBAOMCCE_00031	CDS	1809	tcrY	2.7.13.3		putative sensor histidine kinase TcrY
+GBAOMCCE_00031	gene	1809	tcrY			
+GBAOMCCE_00032	CDS	738	tcrX		COG0745	putative transcriptional regulatory protein TcrX
+GBAOMCCE_00032	gene	738	tcrX			
+GBAOMCCE_00033	CDS	1011				hypothetical protein
+GBAOMCCE_00033	gene	1011				
+GBAOMCCE_00034	CDS	294				hypothetical protein
+GBAOMCCE_00034	gene	294				
+GBAOMCCE_00035	CDS	1614	groL1		COG0459	60 kDa chaperonin 1
+GBAOMCCE_00035	gene	1614	groL1			
+GBAOMCCE_00036	CDS	213	cspA		COG1278	putative cold shock protein A
+GBAOMCCE_00036	gene	213	cspA			
+GBAOMCCE_00037	CDS	666				hypothetical protein
+GBAOMCCE_00037	gene	666				
+GBAOMCCE_00038	CDS	690	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+GBAOMCCE_00038	gene	690	ung			
+GBAOMCCE_00039	CDS	1065				hypothetical protein
+GBAOMCCE_00039	gene	1065				
+GBAOMCCE_00040	CDS	966				hypothetical protein
+GBAOMCCE_00040	gene	966				
+GBAOMCCE_00041	CDS	513				hypothetical protein
+GBAOMCCE_00041	gene	513				
+GBAOMCCE_00042	CDS	1062				hypothetical protein
+GBAOMCCE_00042	gene	1062				
+GBAOMCCE_00043	CDS	1005				hypothetical protein
+GBAOMCCE_00043	gene	1005				
+GBAOMCCE_00044	CDS	600				hypothetical protein
+GBAOMCCE_00044	gene	600				
+GBAOMCCE_00045	CDS	279				hypothetical protein
+GBAOMCCE_00045	gene	279				
+GBAOMCCE_00046	CDS	1551				hypothetical protein
+GBAOMCCE_00046	gene	1551				
+GBAOMCCE_00047	CDS	1446	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+GBAOMCCE_00047	gene	1446	purB			
+GBAOMCCE_00048	CDS	2505				hypothetical protein
+GBAOMCCE_00048	gene	2505				
+GBAOMCCE_00049	CDS	186				hypothetical protein
+GBAOMCCE_00049	gene	186				
+GBAOMCCE_00050	CDS	282	hup		COG0776	DNA-binding protein HB1
+GBAOMCCE_00050	gene	282	hup			
+GBAOMCCE_00051	CDS	1491	pafA	6.3.1.19		Pup--protein ligase
+GBAOMCCE_00051	gene	1491	pafA			
+GBAOMCCE_00052	CDS	216	pup			Prokaryotic ubiquitin-like protein Pup
+GBAOMCCE_00052	gene	216	pup			
+GBAOMCCE_00053	CDS	894	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+GBAOMCCE_00053	gene	894	suhB			
+GBAOMCCE_00054	CDS	1605	dop	3.4.-.-		Pup deamidase/depupylase
+GBAOMCCE_00054	gene	1605	dop			
+GBAOMCCE_00055	CDS	1569	mpa			Proteasome-associated ATPase
+GBAOMCCE_00055	gene	1569	mpa			
+GBAOMCCE_00056	CDS	696	yqjA		COG0586	Inner membrane protein YqjA
+GBAOMCCE_00056	gene	696	yqjA			
+GBAOMCCE_00057	CDS	702	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+GBAOMCCE_00057	gene	702	serB			
+GBAOMCCE_00058	CDS	966	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GBAOMCCE_00058	gene	966	fmt			
+GBAOMCCE_00059	CDS	2244	priA	3.6.4.-	COG1198	putative primosomal protein N'
+GBAOMCCE_00059	gene	2244	priA			
+GBAOMCCE_00060	CDS	1284		2.1.1.-	COG2230	putative fatty acid methyltransferase
+GBAOMCCE_00060	gene	1284				
+GBAOMCCE_00061	CDS	1227	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+GBAOMCCE_00061	gene	1227	metK			
+GBAOMCCE_00062	CDS	285	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+GBAOMCCE_00062	gene	285	rpoZ			
+GBAOMCCE_00063	CDS	1866	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+GBAOMCCE_00063	gene	1866	ilvD			
+GBAOMCCE_00064	CDS	630	gmk	2.7.4.8	COG0194	Guanylate kinase
+GBAOMCCE_00064	gene	630	gmk			
+GBAOMCCE_00065	CDS	972	pyrF_1	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GBAOMCCE_00065	gene	972	pyrF_1			
+GBAOMCCE_00066	CDS	3411	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+GBAOMCCE_00066	gene	3411	carB			
+GBAOMCCE_00067	CDS	1236	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+GBAOMCCE_00067	gene	1236	carA			
+GBAOMCCE_00068	CDS	465	nusB		COG0781	Transcription antitermination protein NusB
+GBAOMCCE_00068	gene	465	nusB			
+GBAOMCCE_00069	CDS	564	efp		COG0231	Elongation factor P
+GBAOMCCE_00069	gene	564	efp			
+GBAOMCCE_00070	CDS	570				hypothetical protein
+GBAOMCCE_00070	gene	570				
+GBAOMCCE_00071	CDS	675				hypothetical protein
+GBAOMCCE_00071	gene	675				
+GBAOMCCE_00072	CDS	1200	tuf		COG0050	Elongation factor Tu
+GBAOMCCE_00072	gene	1200	tuf			
+GBAOMCCE_00073	CDS	2130	fusA_1		COG0480	Elongation factor G
+GBAOMCCE_00073	gene	2130	fusA_1			
+GBAOMCCE_00074	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+GBAOMCCE_00074	gene	471	rpsG			
+GBAOMCCE_00075	CDS	372	rpsL		COG0048	30S ribosomal protein S12
+GBAOMCCE_00075	gene	372	rpsL			
+GBAOMCCE_00076	tRNA	75				tRNA-His(gtg)
+GBAOMCCE_00076	gene	75				
+GBAOMCCE_00077	CDS	1026	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+GBAOMCCE_00077	gene	1026	ltaE			
+GBAOMCCE_00078	CDS	1203		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+GBAOMCCE_00078	gene	1203				
+GBAOMCCE_00079	CDS	1242	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+GBAOMCCE_00079	gene	1242	purT			
+GBAOMCCE_00080	CDS	753	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GBAOMCCE_00080	gene	753	purC			
+GBAOMCCE_00081	CDS	3735	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+GBAOMCCE_00081	gene	3735	purL			
+GBAOMCCE_00082	CDS	1233				hypothetical protein
+GBAOMCCE_00082	gene	1233				
+GBAOMCCE_00083	CDS	585				hypothetical protein
+GBAOMCCE_00083	gene	585				
+GBAOMCCE_00084	CDS	450				hypothetical protein
+GBAOMCCE_00084	gene	450				
+GBAOMCCE_00085	CDS	768				hypothetical protein
+GBAOMCCE_00085	gene	768				
+GBAOMCCE_00086	CDS	1536				hypothetical protein
+GBAOMCCE_00086	gene	1536				
+GBAOMCCE_00087	CDS	144				hypothetical protein
+GBAOMCCE_00087	gene	144				
+GBAOMCCE_00088	CDS	597				hypothetical protein
+GBAOMCCE_00088	gene	597				
+GBAOMCCE_00089	CDS	558				hypothetical protein
+GBAOMCCE_00089	gene	558				
+GBAOMCCE_00090	CDS	1281	era_1			GTPase Era
+GBAOMCCE_00090	gene	1281	era_1			
+GBAOMCCE_00091	CDS	414				hypothetical protein
+GBAOMCCE_00091	gene	414				
+GBAOMCCE_00092	CDS	1497	umuC		COG0389	Protein UmuC
+GBAOMCCE_00092	gene	1497	umuC			
+GBAOMCCE_00093	CDS	1557	purF	2.4.2.14		Amidophosphoribosyltransferase
+GBAOMCCE_00093	gene	1557	purF			
+GBAOMCCE_00094	CDS	1035	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GBAOMCCE_00094	gene	1035	purM			
+GBAOMCCE_00095	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GBAOMCCE_00095	gene	1263	purD			
+GBAOMCCE_00096	CDS	1374				hypothetical protein
+GBAOMCCE_00096	gene	1374				
+GBAOMCCE_00097	CDS	2769	lysX		COG1190	Lysylphosphatidylglycerol biosynthesis bifunctional protein LysX
+GBAOMCCE_00097	gene	2769	lysX			
+GBAOMCCE_00098	CDS	402	zur		COG0735	Zinc uptake regulation protein
+GBAOMCCE_00098	gene	402	zur			
+GBAOMCCE_00099	CDS	1152	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+GBAOMCCE_00099	gene	1152	purK			
+GBAOMCCE_00100	CDS	498	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GBAOMCCE_00100	gene	498	purE			
+GBAOMCCE_00101	CDS	1848	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+GBAOMCCE_00101	gene	1848	dxs			
+GBAOMCCE_00102	tRNA	75				tRNA-Arg(tct)
+GBAOMCCE_00102	gene	75				
+GBAOMCCE_00103	CDS	105				hypothetical protein
+GBAOMCCE_00103	gene	105				
+GBAOMCCE_00104	CDS	1194	ybiR		COG0471	Inner membrane protein YbiR
+GBAOMCCE_00104	gene	1194	ybiR			
+GBAOMCCE_00105	CDS	2094	dnaG	2.7.7.-	COG0358	DNA primase
+GBAOMCCE_00105	gene	2094	dnaG			
+GBAOMCCE_00106	CDS	1368	alr	5.1.1.1	COG0787	Alanine racemase
+GBAOMCCE_00106	gene	1368	alr			
+GBAOMCCE_00107	CDS	525				hypothetical protein
+GBAOMCCE_00107	gene	525				
+GBAOMCCE_00108	CDS	501	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+GBAOMCCE_00108	gene	501	luxS			
+GBAOMCCE_00109	CDS	1080	hcxA	1.1.1.-	COG0371	Hydroxycarboxylate dehydrogenase A
+GBAOMCCE_00109	gene	1080	hcxA			
+GBAOMCCE_00110	CDS	798				hypothetical protein
+GBAOMCCE_00110	gene	798				
+GBAOMCCE_00111	CDS	480	mshD	2.3.1.189		Mycothiol acetyltransferase
+GBAOMCCE_00111	gene	480	mshD			
+GBAOMCCE_00112	CDS	513				hypothetical protein
+GBAOMCCE_00112	gene	513				
+GBAOMCCE_00113	CDS	513				hypothetical protein
+GBAOMCCE_00113	gene	513				
+GBAOMCCE_00114	CDS	735	fic_1	2.7.7.-	COG3177	Adenosine monophosphate-protein transferase SoFic
+GBAOMCCE_00114	gene	735	fic_1			
+GBAOMCCE_00115	CDS	453				hypothetical protein
+GBAOMCCE_00115	gene	453				
+GBAOMCCE_00116	CDS	813				hypothetical protein
+GBAOMCCE_00116	gene	813				
+GBAOMCCE_00117	CDS	1446	haeIIIM	2.1.1.37		Modification methylase HaeIII
+GBAOMCCE_00117	gene	1446	haeIIIM			
+GBAOMCCE_00118	CDS	1206				hypothetical protein
+GBAOMCCE_00118	gene	1206				
+GBAOMCCE_00119	CDS	333				hypothetical protein
+GBAOMCCE_00119	gene	333				
+GBAOMCCE_00120	CDS	189				hypothetical protein
+GBAOMCCE_00120	gene	189				
+GBAOMCCE_00121	CDS	321				hypothetical protein
+GBAOMCCE_00121	gene	321				
+GBAOMCCE_00122	CDS	522				hypothetical protein
+GBAOMCCE_00122	gene	522				
+GBAOMCCE_00123	CDS	438				hypothetical protein
+GBAOMCCE_00123	gene	438				
+GBAOMCCE_00124	CDS	450				hypothetical protein
+GBAOMCCE_00124	gene	450				
+GBAOMCCE_00125	CDS	534				hypothetical protein
+GBAOMCCE_00125	gene	534				
+GBAOMCCE_00126	CDS	204				hypothetical protein
+GBAOMCCE_00126	gene	204				
+GBAOMCCE_00127	CDS	129				hypothetical protein
+GBAOMCCE_00127	gene	129				
+GBAOMCCE_00128	CDS	738				hypothetical protein
+GBAOMCCE_00128	gene	738				
+GBAOMCCE_00129	CDS	570	ydaF_1	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+GBAOMCCE_00129	gene	570	ydaF_1			
+GBAOMCCE_00130	CDS	945				hypothetical protein
+GBAOMCCE_00130	gene	945				
+GBAOMCCE_00131	CDS	1956	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+GBAOMCCE_00131	gene	1956	recQ			
+GBAOMCCE_00132	CDS	1020	cbs	4.2.1.22	COG0031	Putative cystathionine beta-synthase
+GBAOMCCE_00132	gene	1020	cbs			
+GBAOMCCE_00133	CDS	1176	metB	2.5.1.48	COG0626	Cystathionine gamma-synthase
+GBAOMCCE_00133	gene	1176	metB			
+GBAOMCCE_00134	CDS	789	gsiA_1	3.6.3.-	COG1123	Glutathione import ATP-binding protein GsiA
+GBAOMCCE_00134	gene	789	gsiA_1			
+GBAOMCCE_00135	CDS	798	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+GBAOMCCE_00135	gene	798	oppD			
+GBAOMCCE_00136	CDS	885	oppC		COG1173	Oligopeptide transport system permease protein OppC
+GBAOMCCE_00136	gene	885	oppC			
+GBAOMCCE_00137	CDS	963	gsiC		COG0601	Glutathione transport system permease protein GsiC
+GBAOMCCE_00137	gene	963	gsiC			
+GBAOMCCE_00138	CDS	1851	hbpA		COG0747	Heme-binding protein A
+GBAOMCCE_00138	gene	1851	hbpA			
+GBAOMCCE_00139	CDS	759	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+GBAOMCCE_00139	gene	759	coaX			
+GBAOMCCE_00140	CDS	402				hypothetical protein
+GBAOMCCE_00140	gene	402				
+GBAOMCCE_00141	CDS	750	rluA	5.4.99.28	COG0564	Ribosomal large subunit pseudouridine synthase A
+GBAOMCCE_00141	gene	750	rluA			
+GBAOMCCE_00142	CDS	1905	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GBAOMCCE_00142	gene	1905	glmS_1			
+GBAOMCCE_00143	CDS	687	liaR_1		COG2197	Transcriptional regulatory protein LiaR
+GBAOMCCE_00143	gene	687	liaR_1			
+GBAOMCCE_00144	CDS	936				hypothetical protein
+GBAOMCCE_00144	gene	936				
+GBAOMCCE_00145	CDS	855	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+GBAOMCCE_00145	gene	855	glnQ_2			
+GBAOMCCE_00146	CDS	987	yecS_1		COG0765	L-cystine transport system permease protein YecS
+GBAOMCCE_00146	gene	987	yecS_1			
+GBAOMCCE_00147	CDS	936	fliY		COG0834	L-cystine-binding protein FliY
+GBAOMCCE_00147	gene	936	fliY			
+GBAOMCCE_00148	CDS	930	glnH_2		COG0834	Glutamine-binding periplasmic protein
+GBAOMCCE_00148	gene	930	glnH_2			
+GBAOMCCE_00149	CDS	492	smpB		COG0691	SsrA-binding protein
+GBAOMCCE_00149	gene	492	smpB			
+GBAOMCCE_00150	CDS	1443			COG1705	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+GBAOMCCE_00150	gene	1443				
+GBAOMCCE_00151	CDS	924	ftsX		COG2177	Cell division protein FtsX
+GBAOMCCE_00151	gene	924	ftsX			
+GBAOMCCE_00152	CDS	1329	ftsE		COG2884	Cell division ATP-binding protein FtsE
+GBAOMCCE_00152	gene	1329	ftsE			
+GBAOMCCE_00153	CDS	1134	prfB		COG1186	Peptide chain release factor 2
+GBAOMCCE_00153	gene	1134	prfB			
+GBAOMCCE_00154	CDS	984	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+GBAOMCCE_00154	gene	984	dapD			
+GBAOMCCE_00155	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+GBAOMCCE_00155	gene	480	rlmH			
+GBAOMCCE_00156	CDS	1293	gltA2	2.3.3.16	COG0372	Citrate synthase 1
+GBAOMCCE_00156	gene	1293	gltA2			
+GBAOMCCE_00157	CDS	804	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+GBAOMCCE_00157	gene	804	map			
+GBAOMCCE_00158	CDS	621				hypothetical protein
+GBAOMCCE_00158	gene	621				
+GBAOMCCE_00159	CDS	2082	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+GBAOMCCE_00159	gene	2082	pepO			
+GBAOMCCE_00160	CDS	720	ssb		COG0629	Single-stranded DNA-binding protein
+GBAOMCCE_00160	gene	720	ssb			
+GBAOMCCE_00161	CDS	1800	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GBAOMCCE_00161	gene	1800	proS			
+GBAOMCCE_00162	CDS	432				hypothetical protein
+GBAOMCCE_00162	gene	432				
+GBAOMCCE_00163	CDS	1470	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+GBAOMCCE_00163	gene	1470	recD2			
+GBAOMCCE_00164	CDS	849	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+GBAOMCCE_00164	gene	849	ybjI			
+GBAOMCCE_00165	CDS	654	orn	3.1.-.-	COG1949	Oligoribonuclease
+GBAOMCCE_00165	gene	654	orn			
+GBAOMCCE_00166	CDS	1536	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GBAOMCCE_00166	gene	1536	guaB			
+GBAOMCCE_00167	CDS	1161	wecA	2.7.8.35	COG0472	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+GBAOMCCE_00167	gene	1161	wecA			
+GBAOMCCE_00168	CDS	669		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+GBAOMCCE_00168	gene	669				
+GBAOMCCE_00169	CDS	918	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+GBAOMCCE_00169	gene	918	prmC			
+GBAOMCCE_00170	CDS	1098	prfA		COG0216	Peptide chain release factor 1
+GBAOMCCE_00170	gene	1098	prfA			
+GBAOMCCE_00171	CDS	213	rpmE_1		COG0254	50S ribosomal protein L31
+GBAOMCCE_00171	gene	213	rpmE_1			
+GBAOMCCE_00172	CDS	1236	nagC_1		COG1940	N-acetylglucosamine repressor
+GBAOMCCE_00172	gene	1236	nagC_1			
+GBAOMCCE_00173	CDS	1530	xylB	2.7.1.17	COG1070	Xylulose kinase
+GBAOMCCE_00173	gene	1530	xylB			
+GBAOMCCE_00174	CDS	1560		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43B
+GBAOMCCE_00174	gene	1560				
+GBAOMCCE_00175	CDS	1164	pnbA	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+GBAOMCCE_00175	gene	1164	pnbA			
+GBAOMCCE_00176	CDS	2031				hypothetical protein
+GBAOMCCE_00176	gene	2031				
+GBAOMCCE_00177	CDS	1626	xynB	3.2.1.37		Beta-xylosidase
+GBAOMCCE_00177	gene	1626	xynB			
+GBAOMCCE_00178	CDS	870	sugB		COG0395	Trehalose transport system permease protein SugB
+GBAOMCCE_00178	gene	870	sugB			
+GBAOMCCE_00179	CDS	1059	araP_1		COG1175	L-arabinose transport system permease protein AraP
+GBAOMCCE_00179	gene	1059	araP_1			
+GBAOMCCE_00180	CDS	1278	malX_1		COG2182	Maltose/maltodextrin-binding protein
+GBAOMCCE_00180	gene	1278	malX_1			
+GBAOMCCE_00181	CDS	1017	cytR_1		COG1609	HTH-type transcriptional repressor CytR
+GBAOMCCE_00181	gene	1017	cytR_1			
+GBAOMCCE_00182	CDS	156				hypothetical protein
+GBAOMCCE_00182	gene	156				
+GBAOMCCE_00183	CDS	1677		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43B
+GBAOMCCE_00183	gene	1677				
+GBAOMCCE_00184	CDS	1353	xylA	5.3.1.5	COG2115	Xylose isomerase
+GBAOMCCE_00184	gene	1353	xylA			
+GBAOMCCE_00185	CDS	210	rpmE_2		COG0254	50S ribosomal protein L31
+GBAOMCCE_00185	gene	210	rpmE_2			
+GBAOMCCE_00186	CDS	906				hypothetical protein
+GBAOMCCE_00186	gene	906				
+GBAOMCCE_00187	tRNA	75				tRNA-Met(cat)
+GBAOMCCE_00187	gene	75				
+GBAOMCCE_00188	CDS	966				hypothetical protein
+GBAOMCCE_00188	gene	966				
+GBAOMCCE_00189	CDS	633	ykoE_1		COG4721	Putative HMP/thiamine permease protein YkoE
+GBAOMCCE_00189	gene	633	ykoE_1			
+GBAOMCCE_00190	CDS	1287	megL	4.4.1.11	COG0626	L-methionine gamma-lyase
+GBAOMCCE_00190	gene	1287	megL			
+GBAOMCCE_00191	CDS	429	def_1	3.5.1.88	COG0242	Peptide deformylase
+GBAOMCCE_00191	gene	429	def_1			
+GBAOMCCE_00192	CDS	1656	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+GBAOMCCE_00192	gene	1656	ettA_1			
+GBAOMCCE_00193	CDS	906	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+GBAOMCCE_00193	gene	906	tesB			
+GBAOMCCE_00194	CDS	618				hypothetical protein
+GBAOMCCE_00194	gene	618				
+GBAOMCCE_00195	CDS	870				hypothetical protein
+GBAOMCCE_00195	gene	870				
+GBAOMCCE_00196	CDS	2097	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+GBAOMCCE_00196	gene	2097	ftsH			
+GBAOMCCE_00197	CDS	564	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+GBAOMCCE_00197	gene	564	hpt			
+GBAOMCCE_00198	CDS	1155	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+GBAOMCCE_00198	gene	1155	tilS			
+GBAOMCCE_00199	CDS	1473	dac	3.4.16.4		D-alanyl-D-alanine carboxypeptidase
+GBAOMCCE_00199	gene	1473	dac			
+GBAOMCCE_00200	CDS	1722				hypothetical protein
+GBAOMCCE_00200	gene	1722				
+GBAOMCCE_00201	CDS	873	drrA_1	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+GBAOMCCE_00201	gene	873	drrA_1			
+GBAOMCCE_00202	CDS	1287		2.4.1.336	COG1215	Beta-monoglucosyldiacylglycerol synthase
+GBAOMCCE_00202	gene	1287				
+GBAOMCCE_00203	CDS	1569			COG0628	Putative transport protein
+GBAOMCCE_00203	gene	1569				
+GBAOMCCE_00204	CDS	1026	kfoC_1			Chondroitin synthase
+GBAOMCCE_00204	gene	1026	kfoC_1			
+GBAOMCCE_00205	tRNA	76				tRNA-Phe(gaa)
+GBAOMCCE_00205	gene	76				
+GBAOMCCE_00206	tRNA	75				tRNA-Asp(gtc)
+GBAOMCCE_00206	gene	75				
+GBAOMCCE_00207	tRNA	75				tRNA-Asp(gtc)
+GBAOMCCE_00207	gene	75				
+GBAOMCCE_00208	CDS	1017	lacI_1		COG1609	Lactose operon repressor
+GBAOMCCE_00208	gene	1017	lacI_1			
+GBAOMCCE_00209	CDS	969	lacF_1			Lactose transport system permease protein LacF
+GBAOMCCE_00209	gene	969	lacF_1			
+GBAOMCCE_00210	CDS	981	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+GBAOMCCE_00210	gene	981	araQ_1			
+GBAOMCCE_00211	CDS	2088	beta-galIII	3.2.1.23		Beta-galactosidase III
+GBAOMCCE_00211	gene	2088	beta-galIII			
+GBAOMCCE_00212	CDS	1344	lacE			Lactose-binding protein
+GBAOMCCE_00212	gene	1344	lacE			
+GBAOMCCE_00213	CDS	534				hypothetical protein
+GBAOMCCE_00213	gene	534				
+GBAOMCCE_00214	CDS	606				hypothetical protein
+GBAOMCCE_00214	gene	606				
+GBAOMCCE_00215	CDS	396				hypothetical protein
+GBAOMCCE_00215	gene	396				
+GBAOMCCE_00216	CDS	609	yihX_1	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+GBAOMCCE_00216	gene	609	yihX_1			
+GBAOMCCE_00217	CDS	1083	lacR_1		COG1609	HTH-type transcriptional regulator LacR
+GBAOMCCE_00217	gene	1083	lacR_1			
+GBAOMCCE_00218	CDS	3204	lacZ	3.2.1.23	COG3250	Beta-galactosidase
+GBAOMCCE_00218	gene	3204	lacZ			
+GBAOMCCE_00219	CDS	1518	lacS		COG2190	Lactose permease
+GBAOMCCE_00219	gene	1518	lacS			
+GBAOMCCE_00220	CDS	1560				hypothetical protein
+GBAOMCCE_00220	gene	1560				
+GBAOMCCE_00221	CDS	363				hypothetical protein
+GBAOMCCE_00221	gene	363				
+GBAOMCCE_00222	CDS	378				hypothetical protein
+GBAOMCCE_00222	gene	378				
+GBAOMCCE_00223	CDS	1221				hypothetical protein
+GBAOMCCE_00223	gene	1221				
+GBAOMCCE_00224	CDS	3498	smc_1			Chromosome partition protein Smc
+GBAOMCCE_00224	gene	3498	smc_1			
+GBAOMCCE_00225	CDS	810				hypothetical protein
+GBAOMCCE_00225	gene	810				
+GBAOMCCE_00226	CDS	1575				hypothetical protein
+GBAOMCCE_00226	gene	1575				
+GBAOMCCE_00227	CDS	1422				hypothetical protein
+GBAOMCCE_00227	gene	1422				
+GBAOMCCE_00228	CDS	960	cut3	3.1.1.74		putative cutinase cut3
+GBAOMCCE_00228	gene	960	cut3			
+GBAOMCCE_00229	CDS	1548				hypothetical protein
+GBAOMCCE_00229	gene	1548				
+GBAOMCCE_00230	CDS	576				hypothetical protein
+GBAOMCCE_00230	gene	576				
+GBAOMCCE_00231	CDS	996				hypothetical protein
+GBAOMCCE_00231	gene	996				
+GBAOMCCE_00232	CDS	1068				hypothetical protein
+GBAOMCCE_00232	gene	1068				
+GBAOMCCE_00233	CDS	1116				hypothetical protein
+GBAOMCCE_00233	gene	1116				
+GBAOMCCE_00234	tRNA	73				tRNA-Glu(ttc)
+GBAOMCCE_00234	gene	73				
+GBAOMCCE_00235	CDS	846	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+GBAOMCCE_00235	gene	846	trmB			
+GBAOMCCE_00236	CDS	1011	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+GBAOMCCE_00236	gene	1011	galE			
+GBAOMCCE_00237	CDS	537	ptpA	3.1.3.48	COG0394	putative low molecular weight protein-tyrosine-phosphatase
+GBAOMCCE_00237	gene	537	ptpA			
+GBAOMCCE_00238	CDS	684	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+GBAOMCCE_00238	gene	684	folA			
+GBAOMCCE_00239	CDS	873	thyA	2.1.1.45	COG0207	Thymidylate synthase
+GBAOMCCE_00239	gene	873	thyA			
+GBAOMCCE_00240	CDS	414			COG1765	putative protein
+GBAOMCCE_00240	gene	414				
+GBAOMCCE_00241	CDS	1038				Universal stress protein
+GBAOMCCE_00241	gene	1038				
+GBAOMCCE_00242	CDS	819	iap	3.4.-.-	COG0791	putative endopeptidase p60
+GBAOMCCE_00242	gene	819	iap			
+GBAOMCCE_00243	CDS	1026			COG1705	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+GBAOMCCE_00243	gene	1026				
+GBAOMCCE_00244	CDS	1113	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+GBAOMCCE_00244	gene	1113	serC			
+GBAOMCCE_00245	CDS	681	phoU1		COG0704	Phosphate-specific transport system accessory protein PhoU 
+GBAOMCCE_00245	gene	681	phoU1			
+GBAOMCCE_00246	CDS	1389	senX3_1	2.7.13.3		Signal-transduction histidine kinase senX3
+GBAOMCCE_00246	gene	1389	senX3_1			
+GBAOMCCE_00247	CDS	264				hypothetical protein
+GBAOMCCE_00247	gene	264				
+GBAOMCCE_00248	CDS	1422	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase
+GBAOMCCE_00248	gene	1422	manA			
+GBAOMCCE_00249	CDS	996	ppsC	2.3.1.41		Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+GBAOMCCE_00249	gene	996	ppsC			
+GBAOMCCE_00250	CDS	2118		4.2.1.53	COG4716	Oleate hydratase
+GBAOMCCE_00250	gene	2118				
+GBAOMCCE_00251	CDS	741	gpmA_1	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+GBAOMCCE_00251	gene	741	gpmA_1			
+GBAOMCCE_00252	CDS	1044	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+GBAOMCCE_00252	gene	1044	menA			
+GBAOMCCE_00253	CDS	1530	puuP		COG0531	Putrescine importer PuuP
+GBAOMCCE_00253	gene	1530	puuP			
+GBAOMCCE_00254	CDS	1494				hypothetical protein
+GBAOMCCE_00254	gene	1494				
+GBAOMCCE_00255	CDS	2124	gadC		COG0531	Glutamate/gamma-aminobutyrate antiporter
+GBAOMCCE_00255	gene	2124	gadC			
+GBAOMCCE_00256	CDS	1359	pepC	3.4.22.40	COG3579	Aminopeptidase C
+GBAOMCCE_00256	gene	1359	pepC			
+GBAOMCCE_00257	CDS	1191				hypothetical protein
+GBAOMCCE_00257	gene	1191				
+GBAOMCCE_00258	CDS	99				hypothetical protein
+GBAOMCCE_00258	gene	99				
+GBAOMCCE_00259	CDS	441	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+GBAOMCCE_00259	gene	441	livF			
+GBAOMCCE_00260	CDS	1401	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+GBAOMCCE_00260	gene	1401	lptB			
+GBAOMCCE_00261	CDS	219				hypothetical protein
+GBAOMCCE_00261	gene	219				
+GBAOMCCE_00262	CDS	234				hypothetical protein
+GBAOMCCE_00262	gene	234				
+GBAOMCCE_00263	CDS	1068				hypothetical protein
+GBAOMCCE_00263	gene	1068				
+GBAOMCCE_00264	CDS	1665	lysS1	6.1.1.6	COG1190	Lysine--tRNA ligase 1
+GBAOMCCE_00264	gene	1665	lysS1			
+GBAOMCCE_00265	tRNA	75				tRNA-Pro(cgg)
+GBAOMCCE_00265	gene	75				
+GBAOMCCE_00266	CDS	483	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+GBAOMCCE_00266	gene	483	metZ			
+GBAOMCCE_00267	CDS	747	mdeA	4.4.1.11		L-methionine gamma-lyase
+GBAOMCCE_00267	gene	747	mdeA			
+GBAOMCCE_00268	CDS	471	metC	4.4.1.8		Cystathionine beta-lyase
+GBAOMCCE_00268	gene	471	metC			
+GBAOMCCE_00269	CDS	642				hypothetical protein
+GBAOMCCE_00269	gene	642				
+GBAOMCCE_00270	CDS	2157				hypothetical protein
+GBAOMCCE_00270	gene	2157				
+GBAOMCCE_00271	CDS	1470				hypothetical protein
+GBAOMCCE_00271	gene	1470				
+GBAOMCCE_00272	CDS	99				hypothetical protein
+GBAOMCCE_00272	gene	99				
+GBAOMCCE_00273	CDS	711	liaR_2		COG2197	Transcriptional regulatory protein LiaR
+GBAOMCCE_00273	gene	711	liaR_2			
+GBAOMCCE_00274	CDS	2133				hypothetical protein
+GBAOMCCE_00274	gene	2133				
+GBAOMCCE_00275	CDS	621				hypothetical protein
+GBAOMCCE_00275	gene	621				
+GBAOMCCE_00276	CDS	1548				hypothetical protein
+GBAOMCCE_00276	gene	1548				
+GBAOMCCE_00277	CDS	1677	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+GBAOMCCE_00277	gene	1677	pgm			
+GBAOMCCE_00278	CDS	1158	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+GBAOMCCE_00278	gene	1158	dagK			
+GBAOMCCE_00279	CDS	1287	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GBAOMCCE_00279	gene	1287	serS			
+GBAOMCCE_00280	tRNA	90				tRNA-Ser(tga)
+GBAOMCCE_00280	gene	90				
+GBAOMCCE_00281	CDS	975	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+GBAOMCCE_00281	gene	975	rnhA			
+GBAOMCCE_00282	CDS	702	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+GBAOMCCE_00282	gene	702	rpiA			
+GBAOMCCE_00283	CDS	90				hypothetical protein
+GBAOMCCE_00283	gene	90				
+GBAOMCCE_00284	CDS	681				hypothetical protein
+GBAOMCCE_00284	gene	681				
+GBAOMCCE_00285	CDS	1479	radA	3.6.4.-	COG1066	DNA repair protein RadA
+GBAOMCCE_00285	gene	1479	radA			
+GBAOMCCE_00286	CDS	1287	ribF		COG0196	Riboflavin biosynthesis protein RibF
+GBAOMCCE_00286	gene	1287	ribF			
+GBAOMCCE_00287	CDS	1053	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+GBAOMCCE_00287	gene	1053	truB			
+GBAOMCCE_00288	CDS	654	rbfA		COG0858	Ribosome-binding factor A
+GBAOMCCE_00288	gene	654	rbfA			
+GBAOMCCE_00289	CDS	2835	infB		COG0532	Translation initiation factor IF-2
+GBAOMCCE_00289	gene	2835	infB			
+GBAOMCCE_00290	CDS	1077	nusA		COG0195	Transcription termination/antitermination protein NusA
+GBAOMCCE_00290	gene	1077	nusA			
+GBAOMCCE_00291	CDS	912				hypothetical protein
+GBAOMCCE_00291	gene	912				
+GBAOMCCE_00292	tRNA	88				tRNA-Ser(cga)
+GBAOMCCE_00292	gene	88				
+GBAOMCCE_00293	CDS	903	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GBAOMCCE_00293	gene	903	truA			
+GBAOMCCE_00294	CDS	3474				hypothetical protein
+GBAOMCCE_00294	gene	3474				
+GBAOMCCE_00295	CDS	453	rplQ		COG0203	50S ribosomal protein L17
+GBAOMCCE_00295	gene	453	rplQ			
+GBAOMCCE_00296	CDS	996	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+GBAOMCCE_00296	gene	996	rpoA			
+GBAOMCCE_00297	CDS	399	rpsK		COG0100	30S ribosomal protein S11
+GBAOMCCE_00297	gene	399	rpsK			
+GBAOMCCE_00298	CDS	378	rpsM		COG0099	30S ribosomal protein S13
+GBAOMCCE_00298	gene	378	rpsM			
+GBAOMCCE_00299	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+GBAOMCCE_00299	gene	114	rpmJ			
+GBAOMCCE_00300	CDS	219	infA		COG0361	Translation initiation factor IF-1
+GBAOMCCE_00300	gene	219	infA			
+GBAOMCCE_00301	CDS	573	adk	2.7.4.3	COG0563	Adenylate kinase
+GBAOMCCE_00301	gene	573	adk			
+GBAOMCCE_00302	CDS	1350	secY		COG0201	Protein translocase subunit SecY
+GBAOMCCE_00302	gene	1350	secY			
+GBAOMCCE_00303	CDS	459	rplO		COG0200	50S ribosomal protein L15
+GBAOMCCE_00303	gene	459	rplO			
+GBAOMCCE_00304	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+GBAOMCCE_00304	gene	183	rpmD			
+GBAOMCCE_00305	CDS	732	rpsE		COG0098	30S ribosomal protein S5
+GBAOMCCE_00305	gene	732	rpsE			
+GBAOMCCE_00306	CDS	372	rplR			50S ribosomal protein L18
+GBAOMCCE_00306	gene	372	rplR			
+GBAOMCCE_00307	CDS	540	rplF		COG0097	50S ribosomal protein L6
+GBAOMCCE_00307	gene	540	rplF			
+GBAOMCCE_00308	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+GBAOMCCE_00308	gene	399	rpsH			
+GBAOMCCE_00309	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+GBAOMCCE_00309	gene	186	rpsZ			
+GBAOMCCE_00310	CDS	585	rplE		COG0094	50S ribosomal protein L5
+GBAOMCCE_00310	gene	585	rplE			
+GBAOMCCE_00311	CDS	336	rplX		COG0198	50S ribosomal protein L24
+GBAOMCCE_00311	gene	336	rplX			
+GBAOMCCE_00312	CDS	369	rplN		COG0093	50S ribosomal protein L14
+GBAOMCCE_00312	gene	369	rplN			
+GBAOMCCE_00313	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+GBAOMCCE_00313	gene	261	rpsQ			
+GBAOMCCE_00314	CDS	249	rpmC		COG0255	50S ribosomal protein L29
+GBAOMCCE_00314	gene	249	rpmC			
+GBAOMCCE_00315	CDS	420	rplP		COG0197	50S ribosomal protein L16
+GBAOMCCE_00315	gene	420	rplP			
+GBAOMCCE_00316	CDS	834	rpsC		COG0092	30S ribosomal protein S3
+GBAOMCCE_00316	gene	834	rpsC			
+GBAOMCCE_00317	CDS	360	rplV		COG0091	50S ribosomal protein L22
+GBAOMCCE_00317	gene	360	rplV			
+GBAOMCCE_00318	CDS	279	rpsS			30S ribosomal protein S19
+GBAOMCCE_00318	gene	279	rpsS			
+GBAOMCCE_00319	CDS	831	rplB		COG0090	50S ribosomal protein L2
+GBAOMCCE_00319	gene	831	rplB			
+GBAOMCCE_00320	CDS	297	rplW		COG0089	50S ribosomal protein L23
+GBAOMCCE_00320	gene	297	rplW			
+GBAOMCCE_00321	CDS	657	rplD		COG0088	50S ribosomal protein L4
+GBAOMCCE_00321	gene	657	rplD			
+GBAOMCCE_00322	CDS	651	rplC		COG0087	50S ribosomal protein L3
+GBAOMCCE_00322	gene	651	rplC			
+GBAOMCCE_00323	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+GBAOMCCE_00323	gene	309	rpsJ			
+GBAOMCCE_00324	CDS	813				hypothetical protein
+GBAOMCCE_00324	gene	813				
+GBAOMCCE_00325	CDS	2748	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+GBAOMCCE_00325	gene	2748	adhE			
+GBAOMCCE_00326	CDS	1092	nagC_2		COG1940	N-acetylglucosamine repressor
+GBAOMCCE_00326	gene	1092	nagC_2			
+GBAOMCCE_00327	CDS	2697	glgX_1	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+GBAOMCCE_00327	gene	2697	glgX_1			
+GBAOMCCE_00328	CDS	492	rpsI		COG0103	30S ribosomal protein S9
+GBAOMCCE_00328	gene	492	rpsI			
+GBAOMCCE_00329	CDS	450	rplM		COG0102	50S ribosomal protein L13
+GBAOMCCE_00329	gene	450	rplM			
+GBAOMCCE_00330	CDS	306				hypothetical protein
+GBAOMCCE_00330	gene	306				
+GBAOMCCE_00331	CDS	2169	malQ_1	2.4.1.25	COG1640	4-alpha-glucanotransferase
+GBAOMCCE_00331	gene	2169	malQ_1			
+GBAOMCCE_00332	CDS	687				hypothetical protein
+GBAOMCCE_00332	gene	687				
+GBAOMCCE_00333	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+GBAOMCCE_00333	gene	636	yigZ			
+GBAOMCCE_00334	CDS	1008		1.1.1.81	COG0111	Hydroxypyruvate reductase
+GBAOMCCE_00334	gene	1008				
+GBAOMCCE_00335	CDS	720	lytR		COG3279	Sensory transduction protein LytR
+GBAOMCCE_00335	gene	720	lytR			
+GBAOMCCE_00336	CDS	1437				hypothetical protein
+GBAOMCCE_00336	gene	1437				
+GBAOMCCE_00337	tRNA	89				tRNA-Ser(gct)
+GBAOMCCE_00337	gene	89				
+GBAOMCCE_00338	CDS	1317	dinB	2.7.7.7	COG0389	DNA polymerase IV
+GBAOMCCE_00338	gene	1317	dinB			
+GBAOMCCE_00339	CDS	1158	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+GBAOMCCE_00339	gene	1158	alaC			
+GBAOMCCE_00340	CDS	324			COG1146	Ferredoxin
+GBAOMCCE_00340	gene	324				
+GBAOMCCE_00341	CDS	1605	yhdG		COG0531	putative amino acid permease YhdG
+GBAOMCCE_00341	gene	1605	yhdG			
+GBAOMCCE_00342	CDS	1278	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+GBAOMCCE_00342	gene	1278	murB			
+GBAOMCCE_00343	CDS	171	rpmG2		COG0267	50S ribosomal protein L33 2
+GBAOMCCE_00343	gene	171	rpmG2			
+GBAOMCCE_00344	tRNA	75				tRNA-Met(cat)
+GBAOMCCE_00344	gene	75				
+GBAOMCCE_00345	tRNA	73				tRNA-Thr(ggt)
+GBAOMCCE_00345	gene	73				
+GBAOMCCE_00346	tRNA	83				tRNA-Tyr(gta)
+GBAOMCCE_00346	gene	83				
+GBAOMCCE_00347	CDS	297	groS		COG0234	10 kDa chaperonin
+GBAOMCCE_00347	gene	297	groS			
+GBAOMCCE_00348	CDS	1236				hypothetical protein
+GBAOMCCE_00348	gene	1236				
+GBAOMCCE_00349	CDS	684	ydaF_2	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+GBAOMCCE_00349	gene	684	ydaF_2			
+GBAOMCCE_00350	CDS	738		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+GBAOMCCE_00350	gene	738				
+GBAOMCCE_00351	CDS	192				hypothetical protein
+GBAOMCCE_00351	gene	192				
+GBAOMCCE_00352	CDS	669				hypothetical protein
+GBAOMCCE_00352	gene	669				
+GBAOMCCE_00353	CDS	246				hypothetical protein
+GBAOMCCE_00353	gene	246				
+GBAOMCCE_00354	CDS	3639				hypothetical protein
+GBAOMCCE_00354	gene	3639				
+GBAOMCCE_00355	CDS	1635				hypothetical protein
+GBAOMCCE_00355	gene	1635				
+GBAOMCCE_00356	CDS	381	rplL		COG0222	50S ribosomal protein L7/L12
+GBAOMCCE_00356	gene	381	rplL			
+GBAOMCCE_00357	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+GBAOMCCE_00357	gene	522	rplJ			
+GBAOMCCE_00358	CDS	909	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+GBAOMCCE_00358	gene	909	znuA			
+GBAOMCCE_00359	CDS	1395	pbuO		COG2252	Guanine/hypoxanthine permease PbuO
+GBAOMCCE_00359	gene	1395	pbuO			
+GBAOMCCE_00360	CDS	780	pstB1_1	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 1
+GBAOMCCE_00360	gene	780	pstB1_1			
+GBAOMCCE_00361	CDS	1002	pstA1_1		COG0581	Phosphate transport system permease protein PstA 1
+GBAOMCCE_00361	gene	1002	pstA1_1			
+GBAOMCCE_00362	CDS	996	pstC2_1		COG0573	Phosphate transport system permease protein PstC 2
+GBAOMCCE_00362	gene	996	pstC2_1			
+GBAOMCCE_00363	CDS	1137	pstS2_1		COG0226	Phosphate-binding protein PstS 2
+GBAOMCCE_00363	gene	1137	pstS2_1			
+GBAOMCCE_00364	CDS	780	pstB1_2	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 1
+GBAOMCCE_00364	gene	780	pstB1_2			
+GBAOMCCE_00365	CDS	990	pstA1_2		COG0581	Phosphate transport system permease protein PstA 1
+GBAOMCCE_00365	gene	990	pstA1_2			
+GBAOMCCE_00366	CDS	981	pstC2_2		COG0573	Phosphate transport system permease protein PstC 2
+GBAOMCCE_00366	gene	981	pstC2_2			
+GBAOMCCE_00367	CDS	1116	pstS2_2		COG0226	Phosphate-binding protein PstS 2
+GBAOMCCE_00367	gene	1116	pstS2_2			
+GBAOMCCE_00368	CDS	708	regX3		COG0745	Sensory transduction protein regX3
+GBAOMCCE_00368	gene	708	regX3			
+GBAOMCCE_00369	CDS	1203	senX3_2	2.7.13.3		Signal-transduction histidine kinase senX3
+GBAOMCCE_00369	gene	1203	senX3_2			
+GBAOMCCE_00370	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GBAOMCCE_00370	gene	693	mtnN			
+GBAOMCCE_00371	CDS	1248	aroG_1	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+GBAOMCCE_00371	gene	1248	aroG_1			
+GBAOMCCE_00372	CDS	2133	oatA	2.3.1.-		O-acetyltransferase OatA
+GBAOMCCE_00372	gene	2133	oatA			
+GBAOMCCE_00373	CDS	1131	aroG_2	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+GBAOMCCE_00373	gene	1131	aroG_2			
+GBAOMCCE_00374	CDS	1341	pepE	3.4.22.-	COG3579	Aminopeptidase E
+GBAOMCCE_00374	gene	1341	pepE			
+GBAOMCCE_00375	CDS	1719				hypothetical protein
+GBAOMCCE_00375	gene	1719				
+GBAOMCCE_00376	CDS	720	pcp	3.4.19.3	COG2039	Pyrrolidone-carboxylate peptidase
+GBAOMCCE_00376	gene	720	pcp			
+GBAOMCCE_00377	CDS	828	bcs1			Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1
+GBAOMCCE_00377	gene	828	bcs1			
+GBAOMCCE_00378	CDS	1206		1.10.3.-	COG1496	Polyphenol oxidase
+GBAOMCCE_00378	gene	1206				
+GBAOMCCE_00379	CDS	1536	ydcP	3.4.-.-	COG0826	putative protease YdcP
+GBAOMCCE_00379	gene	1536	ydcP			
+GBAOMCCE_00380	CDS	864	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+GBAOMCCE_00380	gene	864	iolS			
+GBAOMCCE_00381	CDS	264	nrdH		COG0695	Glutaredoxin-like protein NrdH
+GBAOMCCE_00381	gene	264	nrdH			
+GBAOMCCE_00382	CDS	441	nrdI		COG1780	Protein NrdI
+GBAOMCCE_00382	gene	441	nrdI			
+GBAOMCCE_00383	CDS	2127	nrdE1	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 1
+GBAOMCCE_00383	gene	2127	nrdE1			
+GBAOMCCE_00384	CDS	966	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+GBAOMCCE_00384	gene	966	nrdF2			
+GBAOMCCE_00385	CDS	2217				hypothetical protein
+GBAOMCCE_00385	gene	2217				
+GBAOMCCE_00386	CDS	576	lemA		COG1704	Protein LemA
+GBAOMCCE_00386	gene	576	lemA			
+GBAOMCCE_00387	CDS	2676	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+GBAOMCCE_00387	gene	2676	pnp			
+GBAOMCCE_00388	CDS	309	rpsO			30S ribosomal protein S15
+GBAOMCCE_00388	gene	309	rpsO			
+GBAOMCCE_00389	CDS	972	ldhB	1.1.1.27		L-lactate dehydrogenase 2
+GBAOMCCE_00389	gene	972	ldhB			
+GBAOMCCE_00390	CDS	711				hypothetical protein
+GBAOMCCE_00390	gene	711				
+GBAOMCCE_00391	tRNA	74				tRNA-Gly(tcc)
+GBAOMCCE_00391	gene	74				
+GBAOMCCE_00392	CDS	504	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GBAOMCCE_00392	gene	504	acpS			
+GBAOMCCE_00393	CDS	9318	fabY	2.3.1.180	COG0304	Beta-ketoacyl-[acyl-carrier-protein] synthase FabY
+GBAOMCCE_00393	gene	9318	fabY			
+GBAOMCCE_00394	CDS	1632	accD5	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+GBAOMCCE_00394	gene	1632	accD5			
+GBAOMCCE_00395	CDS	1875	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+GBAOMCCE_00395	gene	1875	accA1			
+GBAOMCCE_00396	CDS	639	bioY		COG1268	Biotin transporter BioY
+GBAOMCCE_00396	gene	639	bioY			
+GBAOMCCE_00397	CDS	894	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GBAOMCCE_00397	gene	894	birA			
+GBAOMCCE_00398	CDS	789			COG2508	putative protein
+GBAOMCCE_00398	gene	789				
+GBAOMCCE_00399	CDS	690	rplA		COG0081	50S ribosomal protein L1
+GBAOMCCE_00399	gene	690	rplA			
+GBAOMCCE_00400	CDS	432	rplK		COG0080	50S ribosomal protein L11
+GBAOMCCE_00400	gene	432	rplK			
+GBAOMCCE_00401	CDS	993	nusG			Transcription termination/antitermination protein NusG
+GBAOMCCE_00401	gene	993	nusG			
+GBAOMCCE_00402	CDS	231	secE			Protein translocase subunit SecE
+GBAOMCCE_00402	gene	231	secE			
+GBAOMCCE_00403	tRNA	74				tRNA-Trp(cca)
+GBAOMCCE_00403	gene	74				
+GBAOMCCE_00404	CDS	1218		2.6.1.1		Aspartate aminotransferase
+GBAOMCCE_00404	gene	1218				
+GBAOMCCE_00405	CDS	1134	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+GBAOMCCE_00405	gene	1134	proB			
+GBAOMCCE_00406	CDS	1713	obg	3.6.5.-	COG0536	GTPase Obg
+GBAOMCCE_00406	gene	1713	obg			
+GBAOMCCE_00407	CDS	252	rpmA		COG0211	50S ribosomal protein L27
+GBAOMCCE_00407	gene	252	rpmA			
+GBAOMCCE_00408	CDS	309	rplU		COG0261	50S ribosomal protein L21
+GBAOMCCE_00408	gene	309	rplU			
+GBAOMCCE_00409	CDS	3075	rng	3.1.26.-	COG1530	Ribonuclease G
+GBAOMCCE_00409	gene	3075	rng			
+GBAOMCCE_00410	CDS	1221	dapE	3.5.1.18	COG0624	Putative succinyl-diaminopimelate desuccinylase DapE
+GBAOMCCE_00410	gene	1221	dapE			
+GBAOMCCE_00411	CDS	942				hypothetical protein
+GBAOMCCE_00411	gene	942				
+GBAOMCCE_00412	CDS	1425				hypothetical protein
+GBAOMCCE_00412	gene	1425				
+GBAOMCCE_00413	CDS	990	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+GBAOMCCE_00413	gene	990	yknY			
+GBAOMCCE_00414	CDS	777	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GBAOMCCE_00414	gene	777	rnhB			
+GBAOMCCE_00415	CDS	726	lepB	3.4.21.89	COG0681	Signal peptidase I
+GBAOMCCE_00415	gene	726	lepB			
+GBAOMCCE_00416	CDS	366	rplS		COG0335	50S ribosomal protein L19
+GBAOMCCE_00416	gene	366	rplS			
+GBAOMCCE_00417	CDS	1698	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+GBAOMCCE_00417	gene	1698	pgi			
+GBAOMCCE_00418	CDS	1212	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+GBAOMCCE_00418	gene	1212	rfbM			
+GBAOMCCE_00419	tRNA	76				tRNA-Thr(cgt)
+GBAOMCCE_00419	gene	76				
+GBAOMCCE_00420	tRNA	84				tRNA-Leu(tag)
+GBAOMCCE_00420	gene	84				
+GBAOMCCE_00421	CDS	1284	femA	2.3.2.17		Aminoacyltransferase FemA
+GBAOMCCE_00421	gene	1284	femA			
+GBAOMCCE_00422	CDS	720	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GBAOMCCE_00422	gene	720	rdgB			
+GBAOMCCE_00423	CDS	741	rph	2.7.7.56	COG0689	Ribonuclease PH
+GBAOMCCE_00423	gene	741	rph			
+GBAOMCCE_00424	CDS	621				hypothetical protein
+GBAOMCCE_00424	gene	621				
+GBAOMCCE_00425	CDS	1323	pncB1	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB1
+GBAOMCCE_00425	gene	1323	pncB1			
+GBAOMCCE_00426	CDS	1008	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+GBAOMCCE_00426	gene	1008	gpr			
+GBAOMCCE_00427	CDS	693				hypothetical protein
+GBAOMCCE_00427	gene	693				
+GBAOMCCE_00428	tRNA	73				tRNA-Val(gac)
+GBAOMCCE_00428	gene	73				
+GBAOMCCE_00429	tRNA	76				tRNA-Gly(gcc)
+GBAOMCCE_00429	gene	76				
+GBAOMCCE_00430	CDS	219				hypothetical protein
+GBAOMCCE_00430	gene	219				
+GBAOMCCE_00431	CDS	1944	fusA_2		COG0480	Elongation factor G
+GBAOMCCE_00431	gene	1944	fusA_2			
+GBAOMCCE_00432	CDS	225				hypothetical protein
+GBAOMCCE_00432	gene	225				
+GBAOMCCE_00433	CDS	1662	dppE		COG4166	Dipeptide-binding protein DppE
+GBAOMCCE_00433	gene	1662	dppE			
+GBAOMCCE_00434	CDS	1041				hypothetical protein
+GBAOMCCE_00434	gene	1041				
+GBAOMCCE_00435	CDS	2586				hypothetical protein
+GBAOMCCE_00435	gene	2586				
+GBAOMCCE_00436	CDS	1887				hypothetical protein
+GBAOMCCE_00436	gene	1887				
+GBAOMCCE_00437	CDS	969				hypothetical protein
+GBAOMCCE_00437	gene	969				
+GBAOMCCE_00438	CDS	1836				hypothetical protein
+GBAOMCCE_00438	gene	1836				
+GBAOMCCE_00439	CDS	1461	ribZ			Riboflavin transporter RibZ
+GBAOMCCE_00439	gene	1461	ribZ			
+GBAOMCCE_00440	CDS	696	ydjF		COG1842	Phage shock protein A 
+GBAOMCCE_00440	gene	696	ydjF			
+GBAOMCCE_00441	CDS	819				hypothetical protein
+GBAOMCCE_00441	gene	819				
+GBAOMCCE_00442	CDS	3321	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GBAOMCCE_00442	gene	3321	ileS			
+GBAOMCCE_00443	CDS	291				hypothetical protein
+GBAOMCCE_00443	gene	291				
+GBAOMCCE_00444	CDS	261				hypothetical protein
+GBAOMCCE_00444	gene	261				
+GBAOMCCE_00445	CDS	837	iphP	3.1.3.48		Tyrosine-protein phosphatase
+GBAOMCCE_00445	gene	837	iphP			
+GBAOMCCE_00446	CDS	1125	Eg IV	3.2.1.4	COG2730	Endoglucanase 4
+GBAOMCCE_00446	gene	1125	Eg IV			
+GBAOMCCE_00447	CDS	213				hypothetical protein
+GBAOMCCE_00447	gene	213				
+GBAOMCCE_00448	CDS	2094			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00448	gene	2094				
+GBAOMCCE_00449	CDS	1941			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00449	gene	1941				
+GBAOMCCE_00450	CDS	573	slyA			Transcriptional regulator SlyA
+GBAOMCCE_00450	gene	573	slyA			
+GBAOMCCE_00451	CDS	573		1.6.5.7		2-hydroxy-1,4-benzoquinone reductase
+GBAOMCCE_00451	gene	573				
+GBAOMCCE_00452	CDS	1053	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+GBAOMCCE_00452	gene	1053	adh			
+GBAOMCCE_00453	CDS	369				hypothetical protein
+GBAOMCCE_00453	gene	369				
+GBAOMCCE_00454	CDS	1242	egtA	6.3.2.2		Glutamate--cysteine ligase EgtA
+GBAOMCCE_00454	gene	1242	egtA			
+GBAOMCCE_00455	CDS	4620	hadI	3.-.-.-	COG1924	2-hydroxyisocaproyl-CoA dehydratase activator
+GBAOMCCE_00455	gene	4620	hadI			
+GBAOMCCE_00456	CDS	891				hypothetical protein
+GBAOMCCE_00456	gene	891				
+GBAOMCCE_00457	CDS	837				hypothetical protein
+GBAOMCCE_00457	gene	837				
+GBAOMCCE_00458	CDS	750	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+GBAOMCCE_00458	gene	750	nrdG			
+GBAOMCCE_00459	CDS	2427	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+GBAOMCCE_00459	gene	2427	nrdD			
+GBAOMCCE_00460	CDS	1299	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+GBAOMCCE_00460	gene	1299	xseA			
+GBAOMCCE_00461	CDS	318	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+GBAOMCCE_00461	gene	318	xseB			
+GBAOMCCE_00462	CDS	1026				hypothetical protein
+GBAOMCCE_00462	gene	1026				
+GBAOMCCE_00463	tRNA	74				tRNA-Arg(cct)
+GBAOMCCE_00463	gene	74				
+GBAOMCCE_00464	CDS	729				hypothetical protein
+GBAOMCCE_00464	gene	729				
+GBAOMCCE_00465	CDS	1230	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+GBAOMCCE_00465	gene	1230	aspC			
+GBAOMCCE_00466	CDS	435	vsr	3.1.-.-	COG3727	Very short patch repair protein
+GBAOMCCE_00466	gene	435	vsr			
+GBAOMCCE_00467	CDS	1569				hypothetical protein
+GBAOMCCE_00467	gene	1569				
+GBAOMCCE_00468	CDS	1386				hypothetical protein
+GBAOMCCE_00468	gene	1386				
+GBAOMCCE_00469	CDS	654	def_2	3.5.1.88	COG0242	Peptide deformylase
+GBAOMCCE_00469	gene	654	def_2			
+GBAOMCCE_00470	CDS	1365	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+GBAOMCCE_00470	gene	1365	glmM			
+GBAOMCCE_00471	CDS	2625	pepN	3.4.11.2		Aminopeptidase N
+GBAOMCCE_00471	gene	2625	pepN			
+GBAOMCCE_00472	CDS	1908	rnj	3.1.-.-	COG0595	Ribonuclease J
+GBAOMCCE_00472	gene	1908	rnj			
+GBAOMCCE_00473	CDS	897	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GBAOMCCE_00473	gene	897	dapA			
+GBAOMCCE_00474	CDS	762	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GBAOMCCE_00474	gene	762	dapB			
+GBAOMCCE_00475	CDS	1419	mdtG			Multidrug resistance protein MdtG
+GBAOMCCE_00475	gene	1419	mdtG			
+GBAOMCCE_00476	CDS	711				hypothetical protein
+GBAOMCCE_00476	gene	711				
+GBAOMCCE_00477	CDS	4137	uvrD	3.6.4.12	COG0210	DNA helicase II
+GBAOMCCE_00477	gene	4137	uvrD			
+GBAOMCCE_00478	CDS	4554				hypothetical protein
+GBAOMCCE_00478	gene	4554				
+GBAOMCCE_00479	CDS	1404	pknK	2.7.11.1	COG2909	Serine/threonine-protein kinase PknK
+GBAOMCCE_00479	gene	1404	pknK			
+GBAOMCCE_00480	CDS	5922				hypothetical protein
+GBAOMCCE_00480	gene	5922				
+GBAOMCCE_00481	CDS	1239	ravA	3.6.3.-		ATPase RavA
+GBAOMCCE_00481	gene	1239	ravA			
+GBAOMCCE_00482	CDS	1182				hypothetical protein
+GBAOMCCE_00482	gene	1182				
+GBAOMCCE_00483	CDS	2490				hypothetical protein
+GBAOMCCE_00483	gene	2490				
+GBAOMCCE_00484	CDS	621				hypothetical protein
+GBAOMCCE_00484	gene	621				
+GBAOMCCE_00485	CDS	615				hypothetical protein
+GBAOMCCE_00485	gene	615				
+GBAOMCCE_00486	CDS	4038	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+GBAOMCCE_00486	gene	4038	rpoC			
+GBAOMCCE_00487	CDS	3561	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+GBAOMCCE_00487	gene	3561	rpoB			
+GBAOMCCE_00488	CDS	606				hypothetical protein
+GBAOMCCE_00488	gene	606				
+GBAOMCCE_00489	CDS	990	mutY	3.2.2.-	COG1194	Adenine DNA glycosylase
+GBAOMCCE_00489	gene	990	mutY			
+GBAOMCCE_00490	CDS	672	trmL_1	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+GBAOMCCE_00490	gene	672	trmL_1			
+GBAOMCCE_00491	CDS	1365				hypothetical protein
+GBAOMCCE_00491	gene	1365				
+GBAOMCCE_00492	CDS	273				hypothetical protein
+GBAOMCCE_00492	gene	273				
+GBAOMCCE_00493	CDS	963				hypothetical protein
+GBAOMCCE_00493	gene	963				
+GBAOMCCE_00494	CDS	1251	galK	2.7.1.6	COG0153	Galactokinase
+GBAOMCCE_00494	gene	1251	galK			
+GBAOMCCE_00495	CDS	1281	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+GBAOMCCE_00495	gene	1281	galT			
+GBAOMCCE_00496	CDS	822	lacR_2			Lactose phosphotransferase system repressor
+GBAOMCCE_00496	gene	822	lacR_2			
+GBAOMCCE_00497	CDS	927		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+GBAOMCCE_00497	gene	927				
+GBAOMCCE_00498	CDS	1161	pyrD_1	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+GBAOMCCE_00498	gene	1161	pyrD_1			
+GBAOMCCE_00499	CDS	1131	namA	1.6.99.1	COG1902	NADPH dehydrogenase
+GBAOMCCE_00499	gene	1131	namA			
+GBAOMCCE_00500	CDS	2223	ponA		COG0744	Penicillin-binding protein 1A/1B
+GBAOMCCE_00500	gene	2223	ponA			
+GBAOMCCE_00501	CDS	762	crp			CRP-like cAMP-activated global transcriptional regulator
+GBAOMCCE_00501	gene	762	crp			
+GBAOMCCE_00502	CDS	1164	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+GBAOMCCE_00502	gene	1164	lplJ			
+GBAOMCCE_00503	CDS	465				hypothetical protein
+GBAOMCCE_00503	gene	465				
+GBAOMCCE_00504	CDS	135				hypothetical protein
+GBAOMCCE_00504	gene	135				
+GBAOMCCE_00505	CDS	1041	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+GBAOMCCE_00505	gene	1041	leuB			
+GBAOMCCE_00506	CDS	2403	dapb1	3.4.14.-		Dipeptidyl aminopeptidase BI
+GBAOMCCE_00506	gene	2403	dapb1			
+GBAOMCCE_00507	CDS	1512				hypothetical protein
+GBAOMCCE_00507	gene	1512				
+GBAOMCCE_00508	CDS	411	gcvH			Glycine cleavage system H protein
+GBAOMCCE_00508	gene	411	gcvH			
+GBAOMCCE_00509	CDS	1110	nudC	3.6.1.22	COG2816	NADH pyrophosphatase
+GBAOMCCE_00509	gene	1110	nudC			
+GBAOMCCE_00510	CDS	927	catD	3.1.1.24	COG0596	3-oxoadipate enol-lactonase 2
+GBAOMCCE_00510	gene	927	catD			
+GBAOMCCE_00511	CDS	603				hypothetical protein
+GBAOMCCE_00511	gene	603				
+GBAOMCCE_00512	CDS	396	trxC		COG0526	Putative thioredoxin 2
+GBAOMCCE_00512	gene	396	trxC			
+GBAOMCCE_00513	CDS	1053				hypothetical protein
+GBAOMCCE_00513	gene	1053				
+GBAOMCCE_00514	CDS	1611	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+GBAOMCCE_00514	gene	1611	epsL			
+GBAOMCCE_00515	CDS	450				hypothetical protein
+GBAOMCCE_00515	gene	450				
+GBAOMCCE_00516	CDS	1869				hypothetical protein
+GBAOMCCE_00516	gene	1869				
+GBAOMCCE_00517	CDS	933	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+GBAOMCCE_00517	gene	933	rmlB			
+GBAOMCCE_00518	CDS	822				hypothetical protein
+GBAOMCCE_00518	gene	822				
+GBAOMCCE_00519	CDS	567	rppH_1	3.6.1.-		RNA pyrophosphohydrolase
+GBAOMCCE_00519	gene	567	rppH_1			
+GBAOMCCE_00520	CDS	1635				hypothetical protein
+GBAOMCCE_00520	gene	1635				
+GBAOMCCE_00521	CDS	1248	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+GBAOMCCE_00521	gene	1248	ugd			
+GBAOMCCE_00522	CDS	1536	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+GBAOMCCE_00522	gene	1536	wcaJ			
+GBAOMCCE_00523	CDS	330				hypothetical protein
+GBAOMCCE_00523	gene	330				
+GBAOMCCE_00524	CDS	1725	emrB			Multidrug export protein EmrB
+GBAOMCCE_00524	gene	1725	emrB			
+GBAOMCCE_00525	CDS	1359	mntH		COG1914	Divalent metal cation transporter MntH
+GBAOMCCE_00525	gene	1359	mntH			
+GBAOMCCE_00526	CDS	729				hypothetical protein
+GBAOMCCE_00526	gene	729				
+GBAOMCCE_00527	CDS	1059	rbsR		COG1609	Ribose operon repressor
+GBAOMCCE_00527	gene	1059	rbsR			
+GBAOMCCE_00528	CDS	2091	bgaB	3.2.1.23	COG1874	Beta-galactosidase BgaB
+GBAOMCCE_00528	gene	2091	bgaB			
+GBAOMCCE_00529	CDS	990	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+GBAOMCCE_00529	gene	990	araQ_2			
+GBAOMCCE_00530	CDS	837	lacF_2			Lactose transport system permease protein LacF
+GBAOMCCE_00530	gene	837	lacF_2			
+GBAOMCCE_00531	CDS	1359	araN		COG1653	putative arabinose-binding protein
+GBAOMCCE_00531	gene	1359	araN			
+GBAOMCCE_00532	CDS	876	pdxS_1	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GBAOMCCE_00532	gene	876	pdxS_1			
+GBAOMCCE_00533	CDS	651	pdxT_1	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GBAOMCCE_00533	gene	651	pdxT_1			
+GBAOMCCE_00534	CDS	2181				hypothetical protein
+GBAOMCCE_00534	gene	2181				
+GBAOMCCE_00535	CDS	1227				hypothetical protein
+GBAOMCCE_00535	gene	1227				
+GBAOMCCE_00536	CDS	1107	kanE	2.4.1.301		Alpha-D-kanosaminyltransferase
+GBAOMCCE_00536	gene	1107	kanE			
+GBAOMCCE_00537	CDS	1467	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+GBAOMCCE_00537	gene	1467	tuaB			
+GBAOMCCE_00538	CDS	1032	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+GBAOMCCE_00538	gene	1032	epsJ			
+GBAOMCCE_00539	CDS	981				hypothetical protein
+GBAOMCCE_00539	gene	981				
+GBAOMCCE_00540	CDS	999	epsH_1	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+GBAOMCCE_00540	gene	999	epsH_1			
+GBAOMCCE_00541	CDS	942				hypothetical protein
+GBAOMCCE_00541	gene	942				
+GBAOMCCE_00542	CDS	1215				hypothetical protein
+GBAOMCCE_00542	gene	1215				
+GBAOMCCE_00543	CDS	645	pdxS_2	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GBAOMCCE_00543	gene	645	pdxS_2			
+GBAOMCCE_00544	CDS	654	pdxT_2	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GBAOMCCE_00544	gene	654	pdxT_2			
+GBAOMCCE_00545	CDS	420				hypothetical protein
+GBAOMCCE_00545	gene	420				
+GBAOMCCE_00546	CDS	129				hypothetical protein
+GBAOMCCE_00546	gene	129				
+GBAOMCCE_00547	CDS	507				hypothetical protein
+GBAOMCCE_00547	gene	507				
+GBAOMCCE_00548	CDS	561				hypothetical protein
+GBAOMCCE_00548	gene	561				
+GBAOMCCE_00549	CDS	513				hypothetical protein
+GBAOMCCE_00549	gene	513				
+GBAOMCCE_00550	CDS	1101				hypothetical protein
+GBAOMCCE_00550	gene	1101				
+GBAOMCCE_00551	CDS	1023				hypothetical protein
+GBAOMCCE_00551	gene	1023				
+GBAOMCCE_00552	CDS	1125	epsF	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+GBAOMCCE_00552	gene	1125	epsF			
+GBAOMCCE_00553	CDS	1779	spsI		COG0558	Bifunctional IPC transferase and DIPP synthase
+GBAOMCCE_00553	gene	1779	spsI			
+GBAOMCCE_00554	CDS	1440				hypothetical protein
+GBAOMCCE_00554	gene	1440				
+GBAOMCCE_00555	CDS	1215	rfbX_1		COG2244	Putative O-antigen transporter
+GBAOMCCE_00555	gene	1215	rfbX_1			
+GBAOMCCE_00556	CDS	1263				hypothetical protein
+GBAOMCCE_00556	gene	1263				
+GBAOMCCE_00557	CDS	906	epsH_2	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+GBAOMCCE_00557	gene	906	epsH_2			
+GBAOMCCE_00558	CDS	1893	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GBAOMCCE_00558	gene	1893	glmS_2			
+GBAOMCCE_00559	CDS	1101				hypothetical protein
+GBAOMCCE_00559	gene	1101				
+GBAOMCCE_00560	CDS	1266				hypothetical protein
+GBAOMCCE_00560	gene	1266				
+GBAOMCCE_00561	CDS	1248				hypothetical protein
+GBAOMCCE_00561	gene	1248				
+GBAOMCCE_00562	CDS	699				hypothetical protein
+GBAOMCCE_00562	gene	699				
+GBAOMCCE_00563	CDS	1428	rfbX_2		COG2244	Putative O-antigen transporter
+GBAOMCCE_00563	gene	1428	rfbX_2			
+GBAOMCCE_00564	CDS	867				hypothetical protein
+GBAOMCCE_00564	gene	867				
+GBAOMCCE_00565	CDS	1023	kfoC_2			Chondroitin synthase
+GBAOMCCE_00565	gene	1023	kfoC_2			
+GBAOMCCE_00566	CDS	1218				hypothetical protein
+GBAOMCCE_00566	gene	1218				
+GBAOMCCE_00567	CDS	912	kfoC_3			Chondroitin synthase
+GBAOMCCE_00567	gene	912	kfoC_3			
+GBAOMCCE_00568	CDS	1905	glmS_3	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GBAOMCCE_00568	gene	1905	glmS_3			
+GBAOMCCE_00569	CDS	3636			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00569	gene	3636				
+GBAOMCCE_00570	CDS	1821		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+GBAOMCCE_00570	gene	1821				
+GBAOMCCE_00571	CDS	1389			COG0424	Maf-like protein
+GBAOMCCE_00571	gene	1389				
+GBAOMCCE_00572	CDS	567	etp	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase Etp
+GBAOMCCE_00572	gene	567	etp			
+GBAOMCCE_00573	CDS	1686				hypothetical protein
+GBAOMCCE_00573	gene	1686				
+GBAOMCCE_00574	CDS	1497	yveL	2.7.10.2	COG0489	Putative tyrosine-protein kinase YveL
+GBAOMCCE_00574	gene	1497	yveL			
+GBAOMCCE_00575	CDS	246				hypothetical protein
+GBAOMCCE_00575	gene	246				
+GBAOMCCE_00576	CDS	711				hypothetical protein
+GBAOMCCE_00576	gene	711				
+GBAOMCCE_00577	CDS	132				hypothetical protein
+GBAOMCCE_00577	gene	132				
+GBAOMCCE_00578	CDS	573				hypothetical protein
+GBAOMCCE_00578	gene	573				
+GBAOMCCE_00579	CDS	495				hypothetical protein
+GBAOMCCE_00579	gene	495				
+GBAOMCCE_00580	CDS	888				hypothetical protein
+GBAOMCCE_00580	gene	888				
+GBAOMCCE_00581	CDS	1404				hypothetical protein
+GBAOMCCE_00581	gene	1404				
+GBAOMCCE_00582	CDS	855				hypothetical protein
+GBAOMCCE_00582	gene	855				
+GBAOMCCE_00583	CDS	951				hypothetical protein
+GBAOMCCE_00583	gene	951				
+GBAOMCCE_00584	CDS	1023				hypothetical protein
+GBAOMCCE_00584	gene	1023				
+GBAOMCCE_00585	CDS	120				hypothetical protein
+GBAOMCCE_00585	gene	120				
+GBAOMCCE_00586	CDS	366	ygbF	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+GBAOMCCE_00586	gene	366	ygbF			
+GBAOMCCE_00587	CDS	969	ygbT	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+GBAOMCCE_00587	gene	969	ygbT			
+GBAOMCCE_00588	CDS	675	cse3	3.1.-.-		CRISPR-associated endoribonuclease Cse3
+GBAOMCCE_00588	gene	675	cse3			
+GBAOMCCE_00589	CDS	774	casD			CRISPR system Cascade subunit CasD
+GBAOMCCE_00589	gene	774	casD			
+GBAOMCCE_00590	CDS	1179	casC			CRISPR system Cascade subunit CasC
+GBAOMCCE_00590	gene	1179	casC			
+GBAOMCCE_00591	CDS	669				hypothetical protein
+GBAOMCCE_00591	gene	669				
+GBAOMCCE_00592	CDS	1686	cse1			CRISPR-associated protein CasA/Cse1
+GBAOMCCE_00592	gene	1686	cse1			
+GBAOMCCE_00593	CDS	3135	cas3	3.1.-.-		CRISPR-associated nuclease/helicase Cas3
+GBAOMCCE_00593	gene	3135	cas3			
+GBAOMCCE_00594	CDS	984	thrB	2.7.1.39	COG0083	Homoserine kinase
+GBAOMCCE_00594	gene	984	thrB			
+GBAOMCCE_00595	CDS	1311	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GBAOMCCE_00595	gene	1311	hom			
+GBAOMCCE_00596	CDS	1590	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+GBAOMCCE_00596	gene	1590	lysA			
+GBAOMCCE_00597	CDS	1854	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GBAOMCCE_00597	gene	1854	argS			
+GBAOMCCE_00598	CDS	1431	xynC	3.2.1.136		Glucuronoxylanase XynC
+GBAOMCCE_00598	gene	1431	xynC			
+GBAOMCCE_00599	CDS	399	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+GBAOMCCE_00599	gene	399	yabJ			
+GBAOMCCE_00600	CDS	639	lacG			Lactose transport system permease protein LacG
+GBAOMCCE_00600	gene	639	lacG			
+GBAOMCCE_00601	CDS	453	cbpA_1	2.4.1.20	COG3459	Cellobiose phosphorylase
+GBAOMCCE_00601	gene	453	cbpA_1			
+GBAOMCCE_00602	CDS	522	cbpA_2	2.4.1.20	COG3459	Cellobiose phosphorylase
+GBAOMCCE_00602	gene	522	cbpA_2			
+GBAOMCCE_00603	tRNA	76				tRNA-Arg(ccg)
+GBAOMCCE_00603	gene	76				
+GBAOMCCE_00604	CDS	957			COG3118	putative protein
+GBAOMCCE_00604	gene	957				
+GBAOMCCE_00605	CDS	1011				hypothetical protein
+GBAOMCCE_00605	gene	1011				
+GBAOMCCE_00606	CDS	1350				hypothetical protein
+GBAOMCCE_00606	gene	1350				
+GBAOMCCE_00607	CDS	969	fbp	5.2.1.8	COG0545	FK506-binding protein
+GBAOMCCE_00607	gene	969	fbp			
+GBAOMCCE_00608	CDS	750	nucS	3.1.-.-	COG1637	Endonuclease NucS
+GBAOMCCE_00608	gene	750	nucS			
+GBAOMCCE_00609	CDS	309	atpC			ATP synthase epsilon chain
+GBAOMCCE_00609	gene	309	atpC			
+GBAOMCCE_00610	CDS	1488	atpD	3.6.3.14		ATP synthase subunit beta
+GBAOMCCE_00610	gene	1488	atpD			
+GBAOMCCE_00611	CDS	921	atpG		COG0224	ATP synthase gamma chain
+GBAOMCCE_00611	gene	921	atpG			
+GBAOMCCE_00612	CDS	1641	atpA	3.6.3.14		ATP synthase subunit alpha
+GBAOMCCE_00612	gene	1641	atpA			
+GBAOMCCE_00613	CDS	834	atpH			ATP synthase subunit delta
+GBAOMCCE_00613	gene	834	atpH			
+GBAOMCCE_00614	CDS	528	atpF		COG0711	ATP synthase subunit b
+GBAOMCCE_00614	gene	528	atpF			
+GBAOMCCE_00615	CDS	231	atpE		COG0636	ATP synthase subunit c
+GBAOMCCE_00615	gene	231	atpE			
+GBAOMCCE_00616	CDS	813	atpB		COG0356	ATP synthase subunit a
+GBAOMCCE_00616	gene	813	atpB			
+GBAOMCCE_00617	CDS	1029	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+GBAOMCCE_00617	gene	1029	metAA			
+GBAOMCCE_00618	tRNA	77				tRNA-Met(cat)
+GBAOMCCE_00618	gene	77				
+GBAOMCCE_00619	CDS	1332	frc	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
+GBAOMCCE_00619	gene	1332	frc			
+GBAOMCCE_00620	CDS	498				hypothetical protein
+GBAOMCCE_00620	gene	498				
+GBAOMCCE_00621	CDS	357				hypothetical protein
+GBAOMCCE_00621	gene	357				
+GBAOMCCE_00622	CDS	1098				hypothetical protein
+GBAOMCCE_00622	gene	1098				
+GBAOMCCE_00623	CDS	1104				hypothetical protein
+GBAOMCCE_00623	gene	1104				
+GBAOMCCE_00624	CDS	1773	oxc	4.1.1.8	COG0028	Oxalyl-CoA decarboxylase
+GBAOMCCE_00624	gene	1773	oxc			
+GBAOMCCE_00625	CDS	1659	eriC_1		COG0038	Chloride/fluoride channel protein
+GBAOMCCE_00625	gene	1659	eriC_1			
+GBAOMCCE_00626	CDS	5340				hypothetical protein
+GBAOMCCE_00626	gene	5340				
+GBAOMCCE_00627	CDS	2097				hypothetical protein
+GBAOMCCE_00627	gene	2097				
+GBAOMCCE_00628	CDS	2277	glgE1	2.4.99.16	COG0366	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+GBAOMCCE_00628	gene	2277	glgE1			
+GBAOMCCE_00629	CDS	510	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+GBAOMCCE_00629	gene	510	ppa			
+GBAOMCCE_00630	CDS	849				hypothetical protein
+GBAOMCCE_00630	gene	849				
+GBAOMCCE_00631	CDS	822	srrA		COG0745	Transcriptional regulatory protein SrrA
+GBAOMCCE_00631	gene	822	srrA			
+GBAOMCCE_00632	CDS	744	nth	4.2.99.18	COG0177	Endonuclease III
+GBAOMCCE_00632	gene	744	nth			
+GBAOMCCE_00633	CDS	1635	ddpA		COG0747	putative D,D-dipeptide-binding periplasmic protein DdpA
+GBAOMCCE_00633	gene	1635	ddpA			
+GBAOMCCE_00634	CDS	2793	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+GBAOMCCE_00634	gene	2793	valS			
+GBAOMCCE_00635	CDS	585	lrp_1		COG1522	Leucine-responsive regulatory protein
+GBAOMCCE_00635	gene	585	lrp_1			
+GBAOMCCE_00636	CDS	390				hypothetical protein
+GBAOMCCE_00636	gene	390				
+GBAOMCCE_00637	CDS	1965				hypothetical protein
+GBAOMCCE_00637	gene	1965				
+GBAOMCCE_00638	CDS	2031	rho	3.6.4.-		Transcription termination factor Rho
+GBAOMCCE_00638	gene	2031	rho			
+GBAOMCCE_00639	CDS	1599				hypothetical protein
+GBAOMCCE_00639	gene	1599				
+GBAOMCCE_00640	CDS	315				putative protein
+GBAOMCCE_00640	gene	315				
+GBAOMCCE_00641	CDS	1047	speG	2.3.1.57		Spermidine N(1)-acetyltransferase
+GBAOMCCE_00641	gene	1047	speG			
+GBAOMCCE_00642	CDS	1500	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GBAOMCCE_00642	gene	1500	gatB			
+GBAOMCCE_00643	CDS	1545	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GBAOMCCE_00643	gene	1545	gatA			
+GBAOMCCE_00644	CDS	216	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GBAOMCCE_00644	gene	216	gatC			
+GBAOMCCE_00645	CDS	948				hypothetical protein
+GBAOMCCE_00645	gene	948				
+GBAOMCCE_00646	CDS	972	natA		COG4555	ABC transporter ATP-binding protein NatA
+GBAOMCCE_00646	gene	972	natA			
+GBAOMCCE_00647	CDS	810	trmL_2	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+GBAOMCCE_00647	gene	810	trmL_2			
+GBAOMCCE_00648	CDS	663	pyrE_1	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GBAOMCCE_00648	gene	663	pyrE_1			
+GBAOMCCE_00649	CDS	1407	copA	3.6.3.54	COG2217	Copper-exporting P-type ATPase
+GBAOMCCE_00649	gene	1407	copA			
+GBAOMCCE_00650	CDS	2688	clpB		COG0542	Chaperone protein ClpB
+GBAOMCCE_00650	gene	2688	clpB			
+GBAOMCCE_00651	CDS	822		4.3.2.3		Ureidoglycolate lyase
+GBAOMCCE_00651	gene	822				
+GBAOMCCE_00652	CDS	858			COG0325	Pyridoxal phosphate homeostasis protein
+GBAOMCCE_00652	gene	858				
+GBAOMCCE_00653	CDS	1017	gltX_1	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GBAOMCCE_00653	gene	1017	gltX_1			
+GBAOMCCE_00654	CDS	915				hypothetical protein
+GBAOMCCE_00654	gene	915				
+GBAOMCCE_00655	CDS	735	gla		COG0580	Glycerol facilitator-aquaporin gla
+GBAOMCCE_00655	gene	735	gla			
+GBAOMCCE_00656	CDS	360				hypothetical protein
+GBAOMCCE_00656	gene	360				
+GBAOMCCE_00657	CDS	108				hypothetical protein
+GBAOMCCE_00657	gene	108				
+GBAOMCCE_00658	CDS	795	fic_2	2.7.7.-	COG2184	putative adenosine monophosphate-protein transferase fic
+GBAOMCCE_00658	gene	795	fic_2			
+GBAOMCCE_00659	CDS	891	xerC_1		COG4973	Tyrosine recombinase XerC
+GBAOMCCE_00659	gene	891	xerC_1			
+GBAOMCCE_00660	CDS	525				hypothetical protein
+GBAOMCCE_00660	gene	525				
+GBAOMCCE_00661	CDS	987	ctkA	2.7.11.1		Serine/threonine-protein kinase CtkA
+GBAOMCCE_00661	gene	987	ctkA			
+GBAOMCCE_00662	CDS	243				hypothetical protein
+GBAOMCCE_00662	gene	243				
+GBAOMCCE_00663	CDS	540				hypothetical protein
+GBAOMCCE_00663	gene	540				
+GBAOMCCE_00664	CDS	402				hypothetical protein
+GBAOMCCE_00664	gene	402				
+GBAOMCCE_00665	CDS	384				hypothetical protein
+GBAOMCCE_00665	gene	384				
+GBAOMCCE_00666	CDS	1536				hypothetical protein
+GBAOMCCE_00666	gene	1536				
+GBAOMCCE_00667	CDS	783				hypothetical protein
+GBAOMCCE_00667	gene	783				
+GBAOMCCE_00668	CDS	1878				hypothetical protein
+GBAOMCCE_00668	gene	1878				
+GBAOMCCE_00669	CDS	306				hypothetical protein
+GBAOMCCE_00669	gene	306				
+GBAOMCCE_00670	CDS	453				hypothetical protein
+GBAOMCCE_00670	gene	453				
+GBAOMCCE_00671	CDS	1737	virD4			Protein VirD4
+GBAOMCCE_00671	gene	1737	virD4			
+GBAOMCCE_00672	CDS	675				hypothetical protein
+GBAOMCCE_00672	gene	675				
+GBAOMCCE_00673	CDS	1359				hypothetical protein
+GBAOMCCE_00673	gene	1359				
+GBAOMCCE_00674	CDS	450				hypothetical protein
+GBAOMCCE_00674	gene	450				
+GBAOMCCE_00675	CDS	1713			COG1705	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+GBAOMCCE_00675	gene	1713				
+GBAOMCCE_00676	CDS	2364				hypothetical protein
+GBAOMCCE_00676	gene	2364				
+GBAOMCCE_00677	CDS	375				hypothetical protein
+GBAOMCCE_00677	gene	375				
+GBAOMCCE_00678	CDS	849				hypothetical protein
+GBAOMCCE_00678	gene	849				
+GBAOMCCE_00679	CDS	234				hypothetical protein
+GBAOMCCE_00679	gene	234				
+GBAOMCCE_00680	CDS	660				hypothetical protein
+GBAOMCCE_00680	gene	660				
+GBAOMCCE_00681	CDS	870				hypothetical protein
+GBAOMCCE_00681	gene	870				
+GBAOMCCE_00682	CDS	1122				hypothetical protein
+GBAOMCCE_00682	gene	1122				
+GBAOMCCE_00683	CDS	651			COG2452	putative protein
+GBAOMCCE_00683	gene	651				
+GBAOMCCE_00684	CDS	810				hypothetical protein
+GBAOMCCE_00684	gene	810				
+GBAOMCCE_00685	CDS	291				hypothetical protein
+GBAOMCCE_00685	gene	291				
+GBAOMCCE_00686	CDS	747				hypothetical protein
+GBAOMCCE_00686	gene	747				
+GBAOMCCE_00687	CDS	1089	asa1			Aggregation substance
+GBAOMCCE_00687	gene	1089	asa1			
+GBAOMCCE_00688	CDS	306				hypothetical protein
+GBAOMCCE_00688	gene	306				
+GBAOMCCE_00689	CDS	237				hypothetical protein
+GBAOMCCE_00689	gene	237				
+GBAOMCCE_00690	CDS	591				hypothetical protein
+GBAOMCCE_00690	gene	591				
+GBAOMCCE_00691	CDS	489	whiB			Transcriptional regulator WhiB
+GBAOMCCE_00691	gene	489	whiB			
+GBAOMCCE_00692	CDS	294				hypothetical protein
+GBAOMCCE_00692	gene	294				
+GBAOMCCE_00693	CDS	1251				hypothetical protein
+GBAOMCCE_00693	gene	1251				
+GBAOMCCE_00694	CDS	792				hypothetical protein
+GBAOMCCE_00694	gene	792				
+GBAOMCCE_00695	CDS	204				hypothetical protein
+GBAOMCCE_00695	gene	204				
+GBAOMCCE_00696	CDS	225				hypothetical protein
+GBAOMCCE_00696	gene	225				
+GBAOMCCE_00697	CDS	786				hypothetical protein
+GBAOMCCE_00697	gene	786				
+GBAOMCCE_00698	CDS	651				hypothetical protein
+GBAOMCCE_00698	gene	651				
+GBAOMCCE_00699	CDS	393				hypothetical protein
+GBAOMCCE_00699	gene	393				
+GBAOMCCE_00700	CDS	237				hypothetical protein
+GBAOMCCE_00700	gene	237				
+GBAOMCCE_00701	CDS	540				hypothetical protein
+GBAOMCCE_00701	gene	540				
+GBAOMCCE_00702	tRNA	76				tRNA-Lys(ctt)
+GBAOMCCE_00702	gene	76				
+GBAOMCCE_00703	CDS	420				hypothetical protein
+GBAOMCCE_00703	gene	420				
+GBAOMCCE_00704	CDS	447	rplI		COG0359	50S ribosomal protein L9
+GBAOMCCE_00704	gene	447	rplI			
+GBAOMCCE_00705	CDS	249	rpsR1		COG0238	30S ribosomal protein S18 1
+GBAOMCCE_00705	gene	249	rpsR1			
+GBAOMCCE_00706	CDS	633	ssb2		COG0629	Single-stranded DNA-binding protein 2
+GBAOMCCE_00706	gene	633	ssb2			
+GBAOMCCE_00707	CDS	288	rpsF		COG0360	30S ribosomal protein S6
+GBAOMCCE_00707	gene	288	rpsF			
+GBAOMCCE_00708	CDS	1014	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GBAOMCCE_00708	gene	1014	prs_1			
+GBAOMCCE_00709	CDS	969	rbsK	2.7.1.15	COG0524	Ribokinase
+GBAOMCCE_00709	gene	969	rbsK			
+GBAOMCCE_00710	CDS	1479				hypothetical protein
+GBAOMCCE_00710	gene	1479				
+GBAOMCCE_00711	CDS	954	rihA_1	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+GBAOMCCE_00711	gene	954	rihA_1			
+GBAOMCCE_00712	CDS	1047	degA_1		COG1609	HTH-type transcriptional regulator DegA
+GBAOMCCE_00712	gene	1047	degA_1			
+GBAOMCCE_00713	rRNA	100				5S ribosomal RNA
+GBAOMCCE_00713	gene	100				
+GBAOMCCE_00714	rRNA	3069				23S ribosomal RNA
+GBAOMCCE_00714	gene	3069				
+GBAOMCCE_00715	rRNA	1538				16S ribosomal RNA
+GBAOMCCE_00715	gene	1538				
+GBAOMCCE_00716	CDS	1185	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+GBAOMCCE_00716	gene	1185	glf			
+GBAOMCCE_00717	CDS	1038	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+GBAOMCCE_00717	gene	1038	wbbD			
+GBAOMCCE_00718	CDS	1020	glfT1	2.4.1.287	COG1216	Galactofuranosyltransferase GlfT1
+GBAOMCCE_00718	gene	1020	glfT1			
+GBAOMCCE_00719	CDS	2517				hypothetical protein
+GBAOMCCE_00719	gene	2517				
+GBAOMCCE_00720	CDS	2106				hypothetical protein
+GBAOMCCE_00720	gene	2106				
+GBAOMCCE_00721	CDS	2088	glfT2_1	2.4.1.288	COG1216	Galactofuranosyltransferase GlfT2
+GBAOMCCE_00721	gene	2088	glfT2_1			
+GBAOMCCE_00722	CDS	837	acm	3.2.1.17		Lysozyme M1
+GBAOMCCE_00722	gene	837	acm			
+GBAOMCCE_00723	CDS	1362	tagH	3.6.3.40	COG1134	Teichoic acids export ATP-binding protein TagH
+GBAOMCCE_00723	gene	1362	tagH			
+GBAOMCCE_00724	CDS	855	tagG		COG1682	Teichoic acid translocation permease protein TagG
+GBAOMCCE_00724	gene	855	tagG			
+GBAOMCCE_00725	CDS	1872	glfT2_2	2.4.1.288	COG1216	Galactofuranosyltransferase GlfT2
+GBAOMCCE_00725	gene	1872	glfT2_2			
+GBAOMCCE_00726	tRNA	89				tRNA-Ser(gga)
+GBAOMCCE_00726	gene	89				
+GBAOMCCE_00727	CDS	2310				hypothetical protein
+GBAOMCCE_00727	gene	2310				
+GBAOMCCE_00728	CDS	1134				hypothetical protein
+GBAOMCCE_00728	gene	1134				
+GBAOMCCE_00729	CDS	1632				hypothetical protein
+GBAOMCCE_00729	gene	1632				
+GBAOMCCE_00730	CDS	1278				hypothetical protein
+GBAOMCCE_00730	gene	1278				
+GBAOMCCE_00731	CDS	1077			COG0664	putative ABC transporter ATP-binding protein
+GBAOMCCE_00731	gene	1077				
+GBAOMCCE_00732	CDS	789				hypothetical protein
+GBAOMCCE_00732	gene	789				
+GBAOMCCE_00733	CDS	903	egtC	3.5.1.118		Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase
+GBAOMCCE_00733	gene	903	egtC			
+GBAOMCCE_00734	CDS	2193	kup			Low affinity potassium transport system protein kup
+GBAOMCCE_00734	gene	2193	kup			
+GBAOMCCE_00735	CDS	957	tatD	3.1.-.-	COG0084	putative metal-dependent hydrolase TatD
+GBAOMCCE_00735	gene	957	tatD			
+GBAOMCCE_00736	CDS	2382	agaSK			Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+GBAOMCCE_00736	gene	2382	agaSK			
+GBAOMCCE_00737	CDS	726				hypothetical protein
+GBAOMCCE_00737	gene	726				
+GBAOMCCE_00738	CDS	1290			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00738	gene	1290				
+GBAOMCCE_00739	CDS	201		3.6.3.-		Putative multidrug export ATP-binding/permease protein
+GBAOMCCE_00739	gene	201				
+GBAOMCCE_00740	CDS	654	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+GBAOMCCE_00740	gene	654	hepA			
+GBAOMCCE_00741	CDS	618			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00741	gene	618				
+GBAOMCCE_00742	CDS	261				hypothetical protein
+GBAOMCCE_00742	gene	261				
+GBAOMCCE_00743	CDS	1860	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+GBAOMCCE_00743	gene	1860	metG			
+GBAOMCCE_00744	CDS	684				hypothetical protein
+GBAOMCCE_00744	gene	684				
+GBAOMCCE_00745	CDS	450				hypothetical protein
+GBAOMCCE_00745	gene	450				
+GBAOMCCE_00746	CDS	948	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+GBAOMCCE_00746	gene	948	rsmI			
+GBAOMCCE_00747	CDS	1614	pmt	2.4.1.109	COG1928	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+GBAOMCCE_00747	gene	1614	pmt			
+GBAOMCCE_00748	CDS	822	axeA1	3.1.1.72	COG0657	Acetylxylan esterase
+GBAOMCCE_00748	gene	822	axeA1			
+GBAOMCCE_00749	CDS	750	dedA		COG0586	Protein DedA
+GBAOMCCE_00749	gene	750	dedA			
+GBAOMCCE_00750	tRNA	74				tRNA-Ala(cgc)
+GBAOMCCE_00750	gene	74				
+GBAOMCCE_00751	CDS	699				hypothetical protein
+GBAOMCCE_00751	gene	699				
+GBAOMCCE_00752	CDS	2331		3.2.1.21	COG1472	Beta-glucosidase BoGH3B
+GBAOMCCE_00752	gene	2331				
+GBAOMCCE_00753	CDS	639	ttgR			HTH-type transcriptional regulator TtgR
+GBAOMCCE_00753	gene	639	ttgR			
+GBAOMCCE_00754	CDS	687	hxpB	3.1.3.68	COG0637	Hexitol phosphatase B
+GBAOMCCE_00754	gene	687	hxpB			
+GBAOMCCE_00755	CDS	336	yafQ_1	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+GBAOMCCE_00755	gene	336	yafQ_1			
+GBAOMCCE_00756	CDS	294				hypothetical protein
+GBAOMCCE_00756	gene	294				
+GBAOMCCE_00757	CDS	516	hspR		COG0789	Putative heat shock protein HspR
+GBAOMCCE_00757	gene	516	hspR			
+GBAOMCCE_00758	CDS	1053	dnaJ		COG0484	Chaperone protein DnaJ
+GBAOMCCE_00758	gene	1053	dnaJ			
+GBAOMCCE_00759	CDS	690	grpE		COG0576	Protein GrpE
+GBAOMCCE_00759	gene	690	grpE			
+GBAOMCCE_00760	CDS	1866	dnaK		COG0443	Chaperone protein DnaK
+GBAOMCCE_00760	gene	1866	dnaK			
+GBAOMCCE_00761	CDS	348				hypothetical protein
+GBAOMCCE_00761	gene	348				
+GBAOMCCE_00762	CDS	1026	cytR_2		COG1609	HTH-type transcriptional repressor CytR
+GBAOMCCE_00762	gene	1026	cytR_2			
+GBAOMCCE_00763	CDS	774				hypothetical protein
+GBAOMCCE_00763	gene	774				
+GBAOMCCE_00764	CDS	783	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+GBAOMCCE_00764	gene	783	yjjG			
+GBAOMCCE_00765	CDS	2100	pulA	3.2.1.41	COG1523	Pullulanase
+GBAOMCCE_00765	gene	2100	pulA			
+GBAOMCCE_00766	CDS	969	malG		COG3833	Maltose transport system permease protein MalG
+GBAOMCCE_00766	gene	969	malG			
+GBAOMCCE_00767	CDS	1410	malF		COG1175	Maltose transport system permease protein MalF
+GBAOMCCE_00767	gene	1410	malF			
+GBAOMCCE_00768	CDS	1260	malX_2		COG2182	Maltose/maltodextrin-binding protein
+GBAOMCCE_00768	gene	1260	malX_2			
+GBAOMCCE_00769	CDS	1605	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+GBAOMCCE_00769	gene	1605	malL_1			
+GBAOMCCE_00770	CDS	2199	malQ_2	2.4.1.25	COG1640	4-alpha-glucanotransferase
+GBAOMCCE_00770	gene	2199	malQ_2			
+GBAOMCCE_00771	CDS	573				hypothetical protein
+GBAOMCCE_00771	gene	573				
+GBAOMCCE_00772	CDS	837	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+GBAOMCCE_00772	gene	837	araQ_3			
+GBAOMCCE_00773	CDS	855	araP_2		COG1175	L-arabinose transport system permease protein AraP
+GBAOMCCE_00773	gene	855	araP_2			
+GBAOMCCE_00774	CDS	1011	cytR_3		COG1609	HTH-type transcriptional repressor CytR
+GBAOMCCE_00774	gene	1011	cytR_3			
+GBAOMCCE_00775	CDS	243				hypothetical protein
+GBAOMCCE_00775	gene	243				
+GBAOMCCE_00776	CDS	1332	malE		COG2182	Maltose-binding periplasmic protein
+GBAOMCCE_00776	gene	1332	malE			
+GBAOMCCE_00777	CDS	1776	treC	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+GBAOMCCE_00777	gene	1776	treC			
+GBAOMCCE_00778	CDS	180				hypothetical protein
+GBAOMCCE_00778	gene	180				
+GBAOMCCE_00779	CDS	624	gpm2	3.1.3.2	COG0406	Acid phosphatase
+GBAOMCCE_00779	gene	624	gpm2			
+GBAOMCCE_00780	CDS	417				hypothetical protein
+GBAOMCCE_00780	gene	417				
+GBAOMCCE_00781	CDS	777	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+GBAOMCCE_00781	gene	777	nfrA1			
+GBAOMCCE_00782	CDS	252				hypothetical protein
+GBAOMCCE_00782	gene	252				
+GBAOMCCE_00783	CDS	1578	hsrA			putative transport protein HsrA
+GBAOMCCE_00783	gene	1578	hsrA			
+GBAOMCCE_00784	rRNA	100				5S ribosomal RNA
+GBAOMCCE_00784	gene	100				
+GBAOMCCE_00785	rRNA	3069				23S ribosomal RNA
+GBAOMCCE_00785	gene	3069				
+GBAOMCCE_00786	rRNA	1538				16S ribosomal RNA
+GBAOMCCE_00786	gene	1538				
+GBAOMCCE_00787	CDS	1908	nadE_1	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+GBAOMCCE_00787	gene	1908	nadE_1			
+GBAOMCCE_00788	CDS	225	yafQ_2	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+GBAOMCCE_00788	gene	225	yafQ_2			
+GBAOMCCE_00789	CDS	270	dinJ			Antitoxin DinJ
+GBAOMCCE_00789	gene	270	dinJ			
+GBAOMCCE_00790	rRNA	100				5S ribosomal RNA
+GBAOMCCE_00790	gene	100				
+GBAOMCCE_00791	rRNA	3069				23S ribosomal RNA
+GBAOMCCE_00791	gene	3069				
+GBAOMCCE_00792	rRNA	1538				16S ribosomal RNA
+GBAOMCCE_00792	gene	1538				
+GBAOMCCE_00793	CDS	1446	xylP			Isoprimeverose transporter
+GBAOMCCE_00793	gene	1446	xylP			
+GBAOMCCE_00794	CDS	2010	hypBA1	3.2.1.185		Non-reducing end beta-L-arabinofuranosidase
+GBAOMCCE_00794	gene	2010	hypBA1			
+GBAOMCCE_00795	CDS	1050	cytR_4		COG1609	HTH-type transcriptional repressor CytR
+GBAOMCCE_00795	gene	1050	cytR_4			
+GBAOMCCE_00796	CDS	756	cobB	3.5.1.-	COG0846	NAD-dependent protein deacetylase
+GBAOMCCE_00796	gene	756	cobB			
+GBAOMCCE_00797	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+GBAOMCCE_00797	gene	1209	tdcB			
+GBAOMCCE_00798	CDS	207				hypothetical protein
+GBAOMCCE_00798	gene	207				
+GBAOMCCE_00799	CDS	1836	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+GBAOMCCE_00799	gene	1836	malL_2			
+GBAOMCCE_00800	CDS	1224				hypothetical protein
+GBAOMCCE_00800	gene	1224				
+GBAOMCCE_00801	CDS	1893				hypothetical protein
+GBAOMCCE_00801	gene	1893				
+GBAOMCCE_00802	CDS	906	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+GBAOMCCE_00802	gene	906	araQ_4			
+GBAOMCCE_00803	CDS	993	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+GBAOMCCE_00803	gene	993	ugpA			
+GBAOMCCE_00804	CDS	1263	msmE		COG1653	Multiple sugar-binding protein
+GBAOMCCE_00804	gene	1263	msmE			
+GBAOMCCE_00805	CDS	1209	mlc		COG1940	Protein mlc
+GBAOMCCE_00805	gene	1209	mlc			
+GBAOMCCE_00806	CDS	2223	rafA	3.2.1.22		Alpha-galactosidase
+GBAOMCCE_00806	gene	2223	rafA			
+GBAOMCCE_00807	CDS	468	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+GBAOMCCE_00807	gene	468	tadA			
+GBAOMCCE_00808	CDS	2073	nhaK		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+GBAOMCCE_00808	gene	2073	nhaK			
+GBAOMCCE_00809	CDS	921				hypothetical protein
+GBAOMCCE_00809	gene	921				
+GBAOMCCE_00810	CDS	1581				hypothetical protein
+GBAOMCCE_00810	gene	1581				
+GBAOMCCE_00811	CDS	582	dcd	3.5.4.13	COG0717	dCTP deaminase
+GBAOMCCE_00811	gene	582	dcd			
+GBAOMCCE_00812	CDS	2991	pacL	3.6.3.8	COG0474	Calcium-transporting ATPase
+GBAOMCCE_00812	gene	2991	pacL			
+GBAOMCCE_00813	CDS	996		2.1.1.-	COG0566	putative tRNA/rRNA methyltransferase
+GBAOMCCE_00813	gene	996				
+GBAOMCCE_00814	CDS	1386	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+GBAOMCCE_00814	gene	1386	rclA			
+GBAOMCCE_00815	CDS	1449				hypothetical protein
+GBAOMCCE_00815	gene	1449				
+GBAOMCCE_00816	CDS	1134	sugC	3.6.3.-	COG3839	Trehalose import ATP-binding protein SugC
+GBAOMCCE_00816	gene	1134	sugC			
+GBAOMCCE_00817	CDS	1059	kcsA		COG1226	pH-gated potassium channel KcsA
+GBAOMCCE_00817	gene	1059	kcsA			
+GBAOMCCE_00818	CDS	2097	afsK	2.7.11.1	COG0515	Serine/threonine-protein kinase AfsK
+GBAOMCCE_00818	gene	2097	afsK			
+GBAOMCCE_00819	CDS	1032	pknE	2.7.11.1	COG0515	Serine/threonine-protein kinase PknE
+GBAOMCCE_00819	gene	1032	pknE			
+GBAOMCCE_00820	tRNA	77				tRNA-Thr(tgt)
+GBAOMCCE_00820	gene	77				
+GBAOMCCE_00821	CDS	1548	rpf2	3.-.-.-	COG3583	Resuscitation-promoting factor Rpf2
+GBAOMCCE_00821	gene	1548	rpf2			
+GBAOMCCE_00822	CDS	894	ksgA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GBAOMCCE_00822	gene	894	ksgA			
+GBAOMCCE_00823	CDS	957	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GBAOMCCE_00823	gene	957	ispE			
+GBAOMCCE_00824	CDS	627				hypothetical protein
+GBAOMCCE_00824	gene	627				
+GBAOMCCE_00825	CDS	1509	cca	2.7.7.72		CCA-adding enzyme
+GBAOMCCE_00825	gene	1509	cca			
+GBAOMCCE_00826	CDS	1005	mutT4	3.6.1.-	COG0494	Putative mutator protein MutT4
+GBAOMCCE_00826	gene	1005	mutT4			
+GBAOMCCE_00827	CDS	2250				hypothetical protein
+GBAOMCCE_00827	gene	2250				
+GBAOMCCE_00828	CDS	4026	mviN		COG0728	putative peptidoglycan biosynthesis protein MviN
+GBAOMCCE_00828	gene	4026	mviN			
+GBAOMCCE_00829	CDS	963	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+GBAOMCCE_00829	gene	963	trxB_1			
+GBAOMCCE_00830	CDS	1389	parB		COG1475	putative chromosome-partitioning protein ParB
+GBAOMCCE_00830	gene	1389	parB			
+GBAOMCCE_00831	CDS	975	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GBAOMCCE_00831	gene	975	soj			
+GBAOMCCE_00832	CDS	744	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+GBAOMCCE_00832	gene	744	rsmG			
+GBAOMCCE_00833	CDS	543				hypothetical protein
+GBAOMCCE_00833	gene	543				
+GBAOMCCE_00834	CDS	1011	yidC		COG0706	Membrane protein insertase YidC
+GBAOMCCE_00834	gene	1011	yidC			
+GBAOMCCE_00835	CDS	687				hypothetical protein
+GBAOMCCE_00835	gene	687				
+GBAOMCCE_00836	CDS	1749	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+GBAOMCCE_00836	gene	1749	dnaA			
+GBAOMCCE_00837	CDS	1125	dnaN		COG0592	Beta sliding clamp
+GBAOMCCE_00837	gene	1125	dnaN			
+GBAOMCCE_00838	CDS	1428	recF		COG1195	DNA replication and repair protein RecF
+GBAOMCCE_00838	gene	1428	recF			
+GBAOMCCE_00839	CDS	504				hypothetical protein
+GBAOMCCE_00839	gene	504				
+GBAOMCCE_00840	CDS	2118	gyrB_1	5.99.1.3	COG0187	DNA gyrase subunit B
+GBAOMCCE_00840	gene	2118	gyrB_1			
+GBAOMCCE_00841	CDS	2763	gyrA_1	5.99.1.3	COG0188	DNA gyrase subunit A
+GBAOMCCE_00841	gene	2763	gyrA_1			
+GBAOMCCE_00842	CDS	537				putative protein
+GBAOMCCE_00842	gene	537				
+GBAOMCCE_00843	CDS	1122				hypothetical protein
+GBAOMCCE_00843	gene	1122				
+GBAOMCCE_00844	CDS	588				hypothetical protein
+GBAOMCCE_00844	gene	588				
+GBAOMCCE_00845	CDS	876				hypothetical protein
+GBAOMCCE_00845	gene	876				
+GBAOMCCE_00846	CDS	1347	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+GBAOMCCE_00846	gene	1347	gdh			
+GBAOMCCE_00847	CDS	1323				hypothetical protein
+GBAOMCCE_00847	gene	1323				
+GBAOMCCE_00848	CDS	735		3.2.1.78	COG4124	Mannan endo-1,4-beta-mannosidase
+GBAOMCCE_00848	gene	735				
+GBAOMCCE_00849	CDS	462				hypothetical protein
+GBAOMCCE_00849	gene	462				
+GBAOMCCE_00850	CDS	501	mscL		COG1970	Large-conductance mechanosensitive channel
+GBAOMCCE_00850	gene	501	mscL			
+GBAOMCCE_00851	CDS	297				hypothetical protein
+GBAOMCCE_00851	gene	297				
+GBAOMCCE_00852	tRNA	74				tRNA-Ala(tgc)
+GBAOMCCE_00852	gene	74				
+GBAOMCCE_00853	tRNA	75				tRNA-Ile(gat)
+GBAOMCCE_00853	gene	75				
+GBAOMCCE_00854	CDS	765				hypothetical protein
+GBAOMCCE_00854	gene	765				
+GBAOMCCE_00855	CDS	426				hypothetical protein
+GBAOMCCE_00855	gene	426				
+GBAOMCCE_00856	CDS	1197				hypothetical protein
+GBAOMCCE_00856	gene	1197				
+GBAOMCCE_00857	CDS	222				hypothetical protein
+GBAOMCCE_00857	gene	222				
+GBAOMCCE_00858	CDS	2502	uvrA_1		COG0178	UvrABC system protein A
+GBAOMCCE_00858	gene	2502	uvrA_1			
+GBAOMCCE_00859	CDS	819				putative protein
+GBAOMCCE_00859	gene	819				
+GBAOMCCE_00860	CDS	480				hypothetical protein
+GBAOMCCE_00860	gene	480				
+GBAOMCCE_00861	CDS	270				hypothetical protein
+GBAOMCCE_00861	gene	270				
+GBAOMCCE_00862	CDS	600		1.6.5.7		2-hydroxy-1,4-benzoquinone reductase
+GBAOMCCE_00862	gene	600				
+GBAOMCCE_00863	CDS	600				hypothetical protein
+GBAOMCCE_00863	gene	600				
+GBAOMCCE_00864	CDS	237				hypothetical protein
+GBAOMCCE_00864	gene	237				
+GBAOMCCE_00865	CDS	420				hypothetical protein
+GBAOMCCE_00865	gene	420				
+GBAOMCCE_00866	CDS	885				hypothetical protein
+GBAOMCCE_00866	gene	885				
+GBAOMCCE_00867	CDS	333				hypothetical protein
+GBAOMCCE_00867	gene	333				
+GBAOMCCE_00868	CDS	687				hypothetical protein
+GBAOMCCE_00868	gene	687				
+GBAOMCCE_00869	CDS	2145				hypothetical protein
+GBAOMCCE_00869	gene	2145				
+GBAOMCCE_00870	CDS	330				hypothetical protein
+GBAOMCCE_00870	gene	330				
+GBAOMCCE_00871	CDS	1020				hypothetical protein
+GBAOMCCE_00871	gene	1020				
+GBAOMCCE_00872	CDS	858				hypothetical protein
+GBAOMCCE_00872	gene	858				
+GBAOMCCE_00873	CDS	813				hypothetical protein
+GBAOMCCE_00873	gene	813				
+GBAOMCCE_00874	CDS	591				hypothetical protein
+GBAOMCCE_00874	gene	591				
+GBAOMCCE_00875	CDS	663				hypothetical protein
+GBAOMCCE_00875	gene	663				
+GBAOMCCE_00876	CDS	327				hypothetical protein
+GBAOMCCE_00876	gene	327				
+GBAOMCCE_00877	CDS	1098				hypothetical protein
+GBAOMCCE_00877	gene	1098				
+GBAOMCCE_00878	CDS	1170	fic_3	2.7.7.-	COG3177	Adenosine monophosphate-protein transferase SoFic
+GBAOMCCE_00878	gene	1170	fic_3			
+GBAOMCCE_00879	CDS	405				hypothetical protein
+GBAOMCCE_00879	gene	405				
+GBAOMCCE_00880	CDS	240	apy	3.2.1.-	COG1472	Exo-alpha-(1->6)-L-arabinopyranosidase
+GBAOMCCE_00880	gene	240	apy			
+GBAOMCCE_00881	CDS	813	aphA4	2.7.1.95		Aminoglycoside 3'-phosphotransferase
+GBAOMCCE_00881	gene	813	aphA4			
+GBAOMCCE_00882	CDS	483	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+GBAOMCCE_00882	gene	483	dps			
+GBAOMCCE_00883	CDS	1356				hypothetical protein
+GBAOMCCE_00883	gene	1356				
+GBAOMCCE_00884	CDS	678	mtcA2	4.2.1.1	COG0288	Carbonic anhydrase 2
+GBAOMCCE_00884	gene	678	mtcA2			
+GBAOMCCE_00885	CDS	1113	lacI_2		COG1609	Lactose operon repressor
+GBAOMCCE_00885	gene	1113	lacI_2			
+GBAOMCCE_00886	CDS	348				hypothetical protein
+GBAOMCCE_00886	gene	348				
+GBAOMCCE_00887	CDS	231				hypothetical protein
+GBAOMCCE_00887	gene	231				
+GBAOMCCE_00888	CDS	1242	xylH		COG4214	Xylose transport system permease protein XylH
+GBAOMCCE_00888	gene	1242	xylH			
+GBAOMCCE_00889	CDS	1557	xylG	3.6.3.17	COG1129	Xylose import ATP-binding protein XylG
+GBAOMCCE_00889	gene	1557	xylG			
+GBAOMCCE_00890	CDS	1176	sbpA			Multiple sugar-binding periplasmic protein SbpA
+GBAOMCCE_00890	gene	1176	sbpA			
+GBAOMCCE_00891	CDS	1212	nagC_3		COG1940	N-acetylglucosamine repressor
+GBAOMCCE_00891	gene	1212	nagC_3			
+GBAOMCCE_00892	CDS	852	frcA	3.6.3.17	COG1129	Fructose import ATP-binding protein FrcA
+GBAOMCCE_00892	gene	852	frcA			
+GBAOMCCE_00893	CDS	342				hypothetical protein
+GBAOMCCE_00893	gene	342				
+GBAOMCCE_00894	CDS	1035	ccpA_1		COG1609	Catabolite control protein A
+GBAOMCCE_00894	gene	1035	ccpA_1			
+GBAOMCCE_00895	CDS	1542	afuB	3.2.1.-	COG3534	Exo-alpha-(1->6)-L-arabinofuranosidase
+GBAOMCCE_00895	gene	1542	afuB			
+GBAOMCCE_00896	CDS	1614	araB	2.7.1.16		Ribulokinase
+GBAOMCCE_00896	gene	1614	araB			
+GBAOMCCE_00897	CDS	693	ulaF	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase UlaF
+GBAOMCCE_00897	gene	693	ulaF			
+GBAOMCCE_00898	CDS	1518	araA	5.3.1.4		L-arabinose isomerase
+GBAOMCCE_00898	gene	1518	araA			
+GBAOMCCE_00899	CDS	864		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+GBAOMCCE_00899	gene	864				
+GBAOMCCE_00900	CDS	2757	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+GBAOMCCE_00900	gene	2757	ppc			
+GBAOMCCE_00901	CDS	1707				hypothetical protein
+GBAOMCCE_00901	gene	1707				
+GBAOMCCE_00902	CDS	1104	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+GBAOMCCE_00902	gene	1104	trpS2			
+GBAOMCCE_00903	CDS	348				hypothetical protein
+GBAOMCCE_00903	gene	348				
+GBAOMCCE_00904	CDS	456				hypothetical protein
+GBAOMCCE_00904	gene	456				
+GBAOMCCE_00905	CDS	159				hypothetical protein
+GBAOMCCE_00905	gene	159				
+GBAOMCCE_00906	CDS	93				hypothetical protein
+GBAOMCCE_00906	gene	93				
+GBAOMCCE_00907	CDS	2457	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+GBAOMCCE_00907	gene	2457	malP			
+GBAOMCCE_00908	CDS	228				hypothetical protein
+GBAOMCCE_00908	gene	228				
+GBAOMCCE_00909	CDS	855	aarA	3.4.21.105	COG0705	Rhomboid protease AarA
+GBAOMCCE_00909	gene	855	aarA			
+GBAOMCCE_00910	CDS	1314				hypothetical protein
+GBAOMCCE_00910	gene	1314				
+GBAOMCCE_00911	CDS	576	crgA			Cell division protein CrgA
+GBAOMCCE_00911	gene	576	crgA			
+GBAOMCCE_00912	CDS	798				hypothetical protein
+GBAOMCCE_00912	gene	798				
+GBAOMCCE_00913	CDS	1155				hypothetical protein
+GBAOMCCE_00913	gene	1155				
+GBAOMCCE_00914	CDS	648	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+GBAOMCCE_00914	gene	648	trpG			
+GBAOMCCE_00915	CDS	2124	pknB	2.7.11.1	COG0515	Serine/threonine-protein kinase PknB
+GBAOMCCE_00915	gene	2124	pknB			
+GBAOMCCE_00916	CDS	1026	pknA	2.7.11.1	COG0515	Serine/threonine-protein kinase PknA
+GBAOMCCE_00916	gene	1026	pknA			
+GBAOMCCE_00917	CDS	1467	pbpA		COG0768	Penicillin-binding protein A
+GBAOMCCE_00917	gene	1467	pbpA			
+GBAOMCCE_00918	CDS	1743	rodA		COG0772	putative FtsW-like protein
+GBAOMCCE_00918	gene	1743	rodA			
+GBAOMCCE_00919	CDS	1557	pstP	3.1.3.16	COG0631	PP2C-family Ser/Thr phosphatase
+GBAOMCCE_00919	gene	1557	pstP			
+GBAOMCCE_00920	CDS	546	fhaB		COG1716	FHA domain-containing protein FhaB
+GBAOMCCE_00920	gene	546	fhaB			
+GBAOMCCE_00921	CDS	702	garA_1		COG1716	Glycogen accumulation regulator GarA
+GBAOMCCE_00921	gene	702	garA_1			
+GBAOMCCE_00922	CDS	2415	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+GBAOMCCE_00922	gene	2415	dap4			
+GBAOMCCE_00923	CDS	1053	yicL		COG0697	putative inner membrane transporter YicL
+GBAOMCCE_00923	gene	1053	yicL			
+GBAOMCCE_00924	CDS	1086	pldB	3.1.1.5	COG2267	Lysophospholipase L2
+GBAOMCCE_00924	gene	1086	pldB			
+GBAOMCCE_00925	CDS	339				hypothetical protein
+GBAOMCCE_00925	gene	339				
+GBAOMCCE_00926	CDS	954	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+GBAOMCCE_00926	gene	954	rlmA			
+GBAOMCCE_00927	CDS	1479				hypothetical protein
+GBAOMCCE_00927	gene	1479				
+GBAOMCCE_00928	CDS	255				hypothetical protein
+GBAOMCCE_00928	gene	255				
+GBAOMCCE_00929	CDS	249				hypothetical protein
+GBAOMCCE_00929	gene	249				
+GBAOMCCE_00930	tRNA	86				tRNA-Leu(cag)
+GBAOMCCE_00930	gene	86				
+GBAOMCCE_00931	CDS	1449	fprA	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+GBAOMCCE_00931	gene	1449	fprA			
+GBAOMCCE_00932	CDS	2217	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+GBAOMCCE_00932	gene	2217	zosA			
+GBAOMCCE_00933	CDS	1854	htrB	3.4.21.107	COG0265	Serine protease Do-like HtrB
+GBAOMCCE_00933	gene	1854	htrB			
+GBAOMCCE_00934	CDS	615				hypothetical protein
+GBAOMCCE_00934	gene	615				
+GBAOMCCE_00935	CDS	1338	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GBAOMCCE_00935	gene	1338	tgt			
+GBAOMCCE_00936	tRNA	74				tRNA-Gly(ccc)
+GBAOMCCE_00936	gene	74				
+GBAOMCCE_00937	CDS	972	htpX	3.4.24.-	COG0501	Protease HtpX 
+GBAOMCCE_00937	gene	972	htpX			
+GBAOMCCE_00938	CDS	1233				hypothetical protein
+GBAOMCCE_00938	gene	1233				
+GBAOMCCE_00939	CDS	594				hypothetical protein
+GBAOMCCE_00939	gene	594				
+GBAOMCCE_00940	CDS	1245	araJ		COG2814	Putative transporter AraJ
+GBAOMCCE_00940	gene	1245	araJ			
+GBAOMCCE_00941	CDS	447	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+GBAOMCCE_00941	gene	447	ywqN			
+GBAOMCCE_00942	CDS	864				hypothetical protein
+GBAOMCCE_00942	gene	864				
+GBAOMCCE_00943	CDS	927				hypothetical protein
+GBAOMCCE_00943	gene	927				
+GBAOMCCE_00944	CDS	1227	bspRIM	2.1.1.37		Modification methylase BspRI
+GBAOMCCE_00944	gene	1227	bspRIM			
+GBAOMCCE_00945	CDS	312				hypothetical protein
+GBAOMCCE_00945	gene	312				
+GBAOMCCE_00946	CDS	261				hypothetical protein
+GBAOMCCE_00946	gene	261				
+GBAOMCCE_00947	CDS	480	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+GBAOMCCE_00947	gene	480	ogt			
+GBAOMCCE_00948	CDS	204				hypothetical protein
+GBAOMCCE_00948	gene	204				
+GBAOMCCE_00949	CDS	822	cysB			HTH-type transcriptional regulator CysB
+GBAOMCCE_00949	gene	822	cysB			
+GBAOMCCE_00950	CDS	1311	pgdA_1	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+GBAOMCCE_00950	gene	1311	pgdA_1			
+GBAOMCCE_00951	CDS	1032	fba	4.1.2.13		Fructose-bisphosphate aldolase
+GBAOMCCE_00951	gene	1032	fba			
+GBAOMCCE_00952	CDS	1287	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GBAOMCCE_00952	gene	1287	purA			
+GBAOMCCE_00953	CDS	933	crcB_1			Putative fluoride ion transporter CrcB
+GBAOMCCE_00953	gene	933	crcB_1			
+GBAOMCCE_00954	CDS	375	crcB_2		COG0239	Putative fluoride ion transporter CrcB
+GBAOMCCE_00954	gene	375	crcB_2			
+GBAOMCCE_00955	CDS	1437	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+GBAOMCCE_00955	gene	1437	livH			
+GBAOMCCE_00956	CDS	984				hypothetical protein
+GBAOMCCE_00956	gene	984				
+GBAOMCCE_00957	CDS	813				hypothetical protein
+GBAOMCCE_00957	gene	813				
+GBAOMCCE_00958	CDS	1134			COG0683	Leu/Ile/Val-binding protein 
+GBAOMCCE_00958	gene	1134				
+GBAOMCCE_00959	CDS	1032	degA_2		COG1609	HTH-type transcriptional regulator DegA
+GBAOMCCE_00959	gene	1032	degA_2			
+GBAOMCCE_00960	CDS	645				hypothetical protein
+GBAOMCCE_00960	gene	645				
+GBAOMCCE_00961	CDS	1521	sucP	2.4.1.7	COG0366	Sucrose phosphorylase
+GBAOMCCE_00961	gene	1521	sucP			
+GBAOMCCE_00962	CDS	1614				hypothetical protein
+GBAOMCCE_00962	gene	1614				
+GBAOMCCE_00963	CDS	720	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+GBAOMCCE_00963	gene	720	braC			
+GBAOMCCE_00964	CDS	1776	accC	6.3.4.14	COG0439	Biotin carboxylase
+GBAOMCCE_00964	gene	1776	accC			
+GBAOMCCE_00965	CDS	960				hypothetical protein
+GBAOMCCE_00965	gene	960				
+GBAOMCCE_00966	CDS	1116				hypothetical protein
+GBAOMCCE_00966	gene	1116				
+GBAOMCCE_00967	CDS	672	liaR_3		COG2197	Transcriptional regulatory protein LiaR
+GBAOMCCE_00967	gene	672	liaR_3			
+GBAOMCCE_00968	CDS	324				hypothetical protein
+GBAOMCCE_00968	gene	324				
+GBAOMCCE_00969	CDS	885				hypothetical protein
+GBAOMCCE_00969	gene	885				
+GBAOMCCE_00970	CDS	1176				hypothetical protein
+GBAOMCCE_00970	gene	1176				
+GBAOMCCE_00971	CDS	717	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GBAOMCCE_00971	gene	717	lolD			
+GBAOMCCE_00972	CDS	1146	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+GBAOMCCE_00972	gene	1146	macB_1			
+GBAOMCCE_00973	CDS	1707				hypothetical protein
+GBAOMCCE_00973	gene	1707				
+GBAOMCCE_00974	CDS	138				hypothetical protein
+GBAOMCCE_00974	gene	138				
+GBAOMCCE_00975	CDS	1356	yhjE			Inner membrane metabolite transport protein YhjE
+GBAOMCCE_00975	gene	1356	yhjE			
+GBAOMCCE_00976	CDS	1062	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+GBAOMCCE_00976	gene	1062	ilvC			
+GBAOMCCE_00977	CDS	1263				hypothetical protein
+GBAOMCCE_00977	gene	1263				
+GBAOMCCE_00978	CDS	732				hypothetical protein
+GBAOMCCE_00978	gene	732				
+GBAOMCCE_00979	CDS	1659				hypothetical protein
+GBAOMCCE_00979	gene	1659				
+GBAOMCCE_00980	CDS	1098	celE		COG2730	Cellulase/esterase CelE
+GBAOMCCE_00980	gene	1098	celE			
+GBAOMCCE_00981	CDS	1383		3.2.1.21		Bifunctional beta-D-glucosidase/beta-D-fucosidase
+GBAOMCCE_00981	gene	1383				
+GBAOMCCE_00982	CDS	738				hypothetical protein
+GBAOMCCE_00982	gene	738				
+GBAOMCCE_00983	CDS	1029	ccpA_2		COG1609	Catabolite control protein A
+GBAOMCCE_00983	gene	1029	ccpA_2			
+GBAOMCCE_00984	CDS	429				hypothetical protein
+GBAOMCCE_00984	gene	429				
+GBAOMCCE_00985	CDS	741				hypothetical protein
+GBAOMCCE_00985	gene	741				
+GBAOMCCE_00986	CDS	303				hypothetical protein
+GBAOMCCE_00986	gene	303				
+GBAOMCCE_00987	CDS	1116	yihS	5.3.1.31	COG2942	Sulfoquinovose isomerase
+GBAOMCCE_00987	gene	1116	yihS			
+GBAOMCCE_00988	CDS	759	fetA	3.6.3.-	COG4619	putative iron export ATP-binding protein FetA
+GBAOMCCE_00988	gene	759	fetA			
+GBAOMCCE_00989	CDS	864	fetB		COG0390	putative iron export permease protein FetB
+GBAOMCCE_00989	gene	864	fetB			
+GBAOMCCE_00990	CDS	1497	aroP		COG1113	Aromatic amino acid transport protein AroP
+GBAOMCCE_00990	gene	1497	aroP			
+GBAOMCCE_00991	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+GBAOMCCE_00991	gene	702				
+GBAOMCCE_00992	CDS	2955				hypothetical protein
+GBAOMCCE_00992	gene	2955				
+GBAOMCCE_00993	CDS	1545	serP2		COG1113	DL-alanine permease SerP2
+GBAOMCCE_00993	gene	1545	serP2			
+GBAOMCCE_00994	CDS	246				hypothetical protein
+GBAOMCCE_00994	gene	246				
+GBAOMCCE_00995	CDS	408				hypothetical protein
+GBAOMCCE_00995	gene	408				
+GBAOMCCE_00996	CDS	1722				hypothetical protein
+GBAOMCCE_00996	gene	1722				
+GBAOMCCE_00997	CDS	558	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+GBAOMCCE_00997	gene	558	bceA_1			
+GBAOMCCE_00998	CDS	594				hypothetical protein
+GBAOMCCE_00998	gene	594				
+GBAOMCCE_00999	CDS	1920			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_00999	gene	1920				
+GBAOMCCE_01000	CDS	1848			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_01000	gene	1848				
+GBAOMCCE_01001	CDS	1515	pgdA_2	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+GBAOMCCE_01001	gene	1515	pgdA_2			
+GBAOMCCE_01002	CDS	1461	fadG		COG3409	putative protein FadG
+GBAOMCCE_01002	gene	1461	fadG			
+GBAOMCCE_01003	CDS	153				hypothetical protein
+GBAOMCCE_01003	gene	153				
+GBAOMCCE_01004	CDS	567				hypothetical protein
+GBAOMCCE_01004	gene	567				
+GBAOMCCE_01005	CDS	270				hypothetical protein
+GBAOMCCE_01005	gene	270				
+GBAOMCCE_01006	CDS	156				hypothetical protein
+GBAOMCCE_01006	gene	156				
+GBAOMCCE_01007	CDS	684	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+GBAOMCCE_01007	gene	684	macB_2			
+GBAOMCCE_01008	CDS	1230				hypothetical protein
+GBAOMCCE_01008	gene	1230				
+GBAOMCCE_01009	CDS	312				hypothetical protein
+GBAOMCCE_01009	gene	312				
+GBAOMCCE_01010	CDS	327				hypothetical protein
+GBAOMCCE_01010	gene	327				
+GBAOMCCE_01011	CDS	789				hypothetical protein
+GBAOMCCE_01011	gene	789				
+GBAOMCCE_01012	CDS	783	comA		COG2197	Transcriptional regulatory protein ComA
+GBAOMCCE_01012	gene	783	comA			
+GBAOMCCE_01013	CDS	1524	opuCB			Carnitine transport permease protein OpuCB
+GBAOMCCE_01013	gene	1524	opuCB			
+GBAOMCCE_01014	CDS	738	opuCA		COG1125	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+GBAOMCCE_01014	gene	738	opuCA			
+GBAOMCCE_01015	CDS	684	pgpB	3.1.3.27	COG0671	Phosphatidylglycerophosphatase B
+GBAOMCCE_01015	gene	684	pgpB			
+GBAOMCCE_01016	CDS	636	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+GBAOMCCE_01016	gene	636	lacA			
+GBAOMCCE_01017	CDS	420				hypothetical protein
+GBAOMCCE_01017	gene	420				
+GBAOMCCE_01018	CDS	648				hypothetical protein
+GBAOMCCE_01018	gene	648				
+GBAOMCCE_01019	CDS	2199	yueB		COG1511	ESX secretion system protein YueB
+GBAOMCCE_01019	gene	2199	yueB			
+GBAOMCCE_01020	CDS	2769				hypothetical protein
+GBAOMCCE_01020	gene	2769				
+GBAOMCCE_01021	CDS	642				hypothetical protein
+GBAOMCCE_01021	gene	642				
+GBAOMCCE_01022	CDS	741	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+GBAOMCCE_01022	gene	741	ecfT_1			
+GBAOMCCE_01023	CDS	1488	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GBAOMCCE_01023	gene	1488	ykoD_2			
+GBAOMCCE_01024	CDS	1596	zinT		COG3443	Metal-binding protein ZinT
+GBAOMCCE_01024	gene	1596	zinT			
+GBAOMCCE_01025	CDS	882				hypothetical protein
+GBAOMCCE_01025	gene	882				
+GBAOMCCE_01026	CDS	768				hypothetical protein
+GBAOMCCE_01026	gene	768				
+GBAOMCCE_01027	CDS	720				hypothetical protein
+GBAOMCCE_01027	gene	720				
+GBAOMCCE_01028	tRNA	74				tRNA-Lys(ttt)
+GBAOMCCE_01028	gene	74				
+GBAOMCCE_01029	CDS	1569	pepD_1	3.4.-.-	COG4690	Dipeptidase
+GBAOMCCE_01029	gene	1569	pepD_1			
+GBAOMCCE_01030	CDS	699	betI			HTH-type transcriptional regulator BetI
+GBAOMCCE_01030	gene	699	betI			
+GBAOMCCE_01031	CDS	1401	ftsY		COG0552	Signal recognition particle receptor FtsY
+GBAOMCCE_01031	gene	1401	ftsY			
+GBAOMCCE_01032	CDS	1296	amt			Ammonia channel
+GBAOMCCE_01032	gene	1296	amt			
+GBAOMCCE_01033	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+GBAOMCCE_01033	gene	339	glnB			
+GBAOMCCE_01034	CDS	1827	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+GBAOMCCE_01034	gene	1827	glnD			
+GBAOMCCE_01035	CDS	1380	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+GBAOMCCE_01035	gene	1380	dnaB			
+GBAOMCCE_01036	CDS	1503	murD_1	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GBAOMCCE_01036	gene	1503	murD_1			
+GBAOMCCE_01037	CDS	750	cobQ			Cobyric acid synthase
+GBAOMCCE_01037	gene	750	cobQ			
+GBAOMCCE_01038	CDS	348				hypothetical protein
+GBAOMCCE_01038	gene	348				
+GBAOMCCE_01039	CDS	2151	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+GBAOMCCE_01039	gene	2151	ubiB			
+GBAOMCCE_01040	CDS	1038				hypothetical protein
+GBAOMCCE_01040	gene	1038				
+GBAOMCCE_01041	CDS	642	upp	2.4.2.9		Uracil phosphoribosyltransferase
+GBAOMCCE_01041	gene	642	upp			
+GBAOMCCE_01042	CDS	720				hypothetical protein
+GBAOMCCE_01042	gene	720				
+GBAOMCCE_01043	CDS	1044	mutT1	3.6.1.55	COG0406	putative 8-oxo-dGTP diphosphatase 1
+GBAOMCCE_01043	gene	1044	mutT1			
+GBAOMCCE_01044	CDS	2235	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+GBAOMCCE_01044	gene	2235	ppk			
+GBAOMCCE_01045	CDS	855				hypothetical protein
+GBAOMCCE_01045	gene	855				
+GBAOMCCE_01046	CDS	1182			COG4962	Putative conjugal transfer protein
+GBAOMCCE_01046	gene	1182				
+GBAOMCCE_01047	CDS	732				hypothetical protein
+GBAOMCCE_01047	gene	732				
+GBAOMCCE_01048	CDS	630				hypothetical protein
+GBAOMCCE_01048	gene	630				
+GBAOMCCE_01049	CDS	276				hypothetical protein
+GBAOMCCE_01049	gene	276				
+GBAOMCCE_01050	CDS	390				hypothetical protein
+GBAOMCCE_01050	gene	390				
+GBAOMCCE_01051	CDS	417				hypothetical protein
+GBAOMCCE_01051	gene	417				
+GBAOMCCE_01052	CDS	2553	dnaX_1	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+GBAOMCCE_01052	gene	2553	dnaX_1			
+GBAOMCCE_01053	CDS	603	recR		COG0353	Recombination protein RecR
+GBAOMCCE_01053	gene	603	recR			
+GBAOMCCE_01054	CDS	765	ask	2.7.2.4	COG0527	Aspartokinase
+GBAOMCCE_01054	gene	765	ask			
+GBAOMCCE_01055	CDS	567	lysC	2.7.2.4	COG0527	Aspartokinase
+GBAOMCCE_01055	gene	567	lysC			
+GBAOMCCE_01056	CDS	1071	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+GBAOMCCE_01056	gene	1071	asd			
+GBAOMCCE_01057	CDS	654				hypothetical protein
+GBAOMCCE_01057	gene	654				
+GBAOMCCE_01058	CDS	1914	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+GBAOMCCE_01058	gene	1914	leuA			
+GBAOMCCE_01059	CDS	2397	ponA1		COG0744	Penicillin-binding protein 1A
+GBAOMCCE_01059	gene	2397	ponA1			
+GBAOMCCE_01060	CDS	1143	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+GBAOMCCE_01060	gene	1143	ino1			
+GBAOMCCE_01061	CDS	1167				hypothetical protein
+GBAOMCCE_01061	gene	1167				
+GBAOMCCE_01062	CDS	2973	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+GBAOMCCE_01062	gene	2973	topA			
+GBAOMCCE_01063	CDS	621	tmk_1	2.7.4.9		Thymidylate kinase
+GBAOMCCE_01063	gene	621	tmk_1			
+GBAOMCCE_01064	CDS	1293	dnaX_2	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+GBAOMCCE_01064	gene	1293	dnaX_2			
+GBAOMCCE_01065	CDS	615				hypothetical protein
+GBAOMCCE_01065	gene	615				
+GBAOMCCE_01066	CDS	1614	pepD_2	3.4.-.-	COG4690	Dipeptidase
+GBAOMCCE_01066	gene	1614	pepD_2			
+GBAOMCCE_01067	CDS	1626	pepD_3	3.4.-.-	COG4690	Dipeptidase
+GBAOMCCE_01067	gene	1626	pepD_3			
+GBAOMCCE_01068	CDS	1518	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+GBAOMCCE_01068	gene	1518	fhs			
+GBAOMCCE_01069	CDS	630				hypothetical protein
+GBAOMCCE_01069	gene	630				
+GBAOMCCE_01070	CDS	1149				hypothetical protein
+GBAOMCCE_01070	gene	1149				
+GBAOMCCE_01071	CDS	348				hypothetical protein
+GBAOMCCE_01071	gene	348				
+GBAOMCCE_01072	CDS	993				hypothetical protein
+GBAOMCCE_01072	gene	993				
+GBAOMCCE_01073	CDS	558				hypothetical protein
+GBAOMCCE_01073	gene	558				
+GBAOMCCE_01074	CDS	945				hypothetical protein
+GBAOMCCE_01074	gene	945				
+GBAOMCCE_01075	CDS	660			COG0406	putative protein
+GBAOMCCE_01075	gene	660				
+GBAOMCCE_01076	CDS	501				hypothetical protein
+GBAOMCCE_01076	gene	501				
+GBAOMCCE_01077	CDS	333				hypothetical protein
+GBAOMCCE_01077	gene	333				
+GBAOMCCE_01078	CDS	3840				hypothetical protein
+GBAOMCCE_01078	gene	3840				
+GBAOMCCE_01079	CDS	1425				hypothetical protein
+GBAOMCCE_01079	gene	1425				
+GBAOMCCE_01080	CDS	1632	gltX_2	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GBAOMCCE_01080	gene	1632	gltX_2			
+GBAOMCCE_01081	tRNA	74				tRNA-Glu(ctc)
+GBAOMCCE_01081	gene	74				
+GBAOMCCE_01082	tRNA	73				tRNA-Gln(ctg)
+GBAOMCCE_01082	gene	73				
+GBAOMCCE_01083	CDS	1278				hypothetical protein
+GBAOMCCE_01083	gene	1278				
+GBAOMCCE_01084	CDS	819	kipR		COG1414	HTH-type transcriptional regulator KipR
+GBAOMCCE_01084	gene	819	kipR			
+GBAOMCCE_01085	CDS	1404	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+GBAOMCCE_01085	gene	1404	leuC			
+GBAOMCCE_01086	CDS	681	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+GBAOMCCE_01086	gene	681	leuD			
+GBAOMCCE_01087	CDS	279				hypothetical protein
+GBAOMCCE_01087	gene	279				
+GBAOMCCE_01088	CDS	1347	nox	1.6.99.3	COG0446	NADH oxidase
+GBAOMCCE_01088	gene	1347	nox			
+GBAOMCCE_01089	CDS	1323	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+GBAOMCCE_01089	gene	1323	murAA			
+GBAOMCCE_01090	CDS	1029				hypothetical protein
+GBAOMCCE_01090	gene	1029				
+GBAOMCCE_01091	CDS	999	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GBAOMCCE_01091	gene	999	gpsA			
+GBAOMCCE_01092	CDS	1137	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+GBAOMCCE_01092	gene	1137	ddl			
+GBAOMCCE_01093	CDS	1125				hypothetical protein
+GBAOMCCE_01093	gene	1125				
+GBAOMCCE_01094	CDS	1170				hypothetical protein
+GBAOMCCE_01094	gene	1170				
+GBAOMCCE_01095	CDS	825	mscS		COG0668	Small-conductance mechanosensitive channel
+GBAOMCCE_01095	gene	825	mscS			
+GBAOMCCE_01096	CDS	618				hypothetical protein
+GBAOMCCE_01096	gene	618				
+GBAOMCCE_01097	CDS	1197				hypothetical protein
+GBAOMCCE_01097	gene	1197				
+GBAOMCCE_01098	CDS	867				hypothetical protein
+GBAOMCCE_01098	gene	867				
+GBAOMCCE_01099	CDS	1191	patA_1	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+GBAOMCCE_01099	gene	1191	patA_1			
+GBAOMCCE_01100	CDS	2841				hypothetical protein
+GBAOMCCE_01100	gene	2841				
+GBAOMCCE_01101	CDS	1140				hypothetical protein
+GBAOMCCE_01101	gene	1140				
+GBAOMCCE_01102	CDS	189				hypothetical protein
+GBAOMCCE_01102	gene	189				
+GBAOMCCE_01103	CDS	1056	hldE	2.7.7.70		Bifunctional protein HldE
+GBAOMCCE_01103	gene	1056	hldE			
+GBAOMCCE_01104	CDS	198	rpmB		COG0227	50S ribosomal protein L28
+GBAOMCCE_01104	gene	198	rpmB			
+GBAOMCCE_01105	CDS	2406	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+GBAOMCCE_01105	gene	2406	recG			
+GBAOMCCE_01106	CDS	1203				hypothetical protein
+GBAOMCCE_01106	gene	1203				
+GBAOMCCE_01107	CDS	10695	rplY_1			50S ribosomal protein L25
+GBAOMCCE_01107	gene	10695	rplY_1			
+GBAOMCCE_01108	CDS	576	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+GBAOMCCE_01108	gene	576	rsmD			
+GBAOMCCE_01109	CDS	828	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+GBAOMCCE_01109	gene	828	trmD			
+GBAOMCCE_01110	CDS	633	rimM		COG0806	Ribosome maturation factor RimM
+GBAOMCCE_01110	gene	633	rimM			
+GBAOMCCE_01111	CDS	294				hypothetical protein
+GBAOMCCE_01111	gene	294				
+GBAOMCCE_01112	CDS	471	rpsP		COG0228	30S ribosomal protein S16
+GBAOMCCE_01112	gene	471	rpsP			
+GBAOMCCE_01113	CDS	3459	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+GBAOMCCE_01113	gene	3459	ebgA			
+GBAOMCCE_01114	CDS	1170				hypothetical protein
+GBAOMCCE_01114	gene	1170				
+GBAOMCCE_01115	CDS	906				hypothetical protein
+GBAOMCCE_01115	gene	906				
+GBAOMCCE_01116	CDS	1644	ffh		COG0541	Signal recognition particle protein
+GBAOMCCE_01116	gene	1644	ffh			
+GBAOMCCE_01117	CDS	1638	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GBAOMCCE_01117	gene	1638	cysS			
+GBAOMCCE_01118	CDS	2202	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+GBAOMCCE_01118	gene	2202	ettA_2			
+GBAOMCCE_01119	CDS	738	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+GBAOMCCE_01119	gene	738	guaA_1			
+GBAOMCCE_01120	CDS	555	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+GBAOMCCE_01120	gene	555	ilvH			
+GBAOMCCE_01121	CDS	1983	ilvB1	2.2.1.6	COG0028	Acetolactate synthase large subunit IlvB1
+GBAOMCCE_01121	gene	1983	ilvB1			
+GBAOMCCE_01122	CDS	777	rnc	3.1.26.3	COG0571	Ribonuclease 3
+GBAOMCCE_01122	gene	777	rnc			
+GBAOMCCE_01123	CDS	195	rpmF			50S ribosomal protein L32
+GBAOMCCE_01123	gene	195	rpmF			
+GBAOMCCE_01124	CDS	597			COG1399	putative protein
+GBAOMCCE_01124	gene	597				
+GBAOMCCE_01125	CDS	702				hypothetical protein
+GBAOMCCE_01125	gene	702				
+GBAOMCCE_01126	CDS	480	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+GBAOMCCE_01126	gene	480	coaD			
+GBAOMCCE_01127	CDS	294				hypothetical protein
+GBAOMCCE_01127	gene	294				
+GBAOMCCE_01128	CDS	351	xfp_1	4.1.2.22		Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase
+GBAOMCCE_01128	gene	351	xfp_1			
+GBAOMCCE_01129	CDS	567	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GBAOMCCE_01129	gene	567	polC			
+GBAOMCCE_01130	CDS	669				hypothetical protein
+GBAOMCCE_01130	gene	669				
+GBAOMCCE_01131	CDS	981	panE	1.1.1.169	COG1893	putative 2-dehydropantoate 2-reductase
+GBAOMCCE_01131	gene	981	panE			
+GBAOMCCE_01132	CDS	897	metQ_1		COG1464	D-methionine-binding lipoprotein MetQ
+GBAOMCCE_01132	gene	897	metQ_1			
+GBAOMCCE_01133	CDS	1185	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+GBAOMCCE_01133	gene	1185	metN			
+GBAOMCCE_01134	CDS	660	metP		COG2011	Methionine import system permease protein MetP
+GBAOMCCE_01134	gene	660	metP			
+GBAOMCCE_01135	CDS	1185	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+GBAOMCCE_01135	gene	1185	dapL			
+GBAOMCCE_01136	CDS	657	yecS_2		COG0765	L-cystine transport system permease protein YecS
+GBAOMCCE_01136	gene	657	yecS_2			
+GBAOMCCE_01137	CDS	675	glnP_2		COG0765	putative glutamine ABC transporter permease protein GlnP
+GBAOMCCE_01137	gene	675	glnP_2			
+GBAOMCCE_01138	CDS	894	glnQ_3	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+GBAOMCCE_01138	gene	894	glnQ_3			
+GBAOMCCE_01139	CDS	909	glnH_3		COG0834	ABC transporter glutamine-binding protein GlnH
+GBAOMCCE_01139	gene	909	glnH_3			
+GBAOMCCE_01140	CDS	909	qmcA		COG0330	Protein QmcA
+GBAOMCCE_01140	gene	909	qmcA			
+GBAOMCCE_01141	CDS	858				hypothetical protein
+GBAOMCCE_01141	gene	858				
+GBAOMCCE_01142	CDS	777	yrpC	5.1.1.3	COG0796	Glutamate racemase 2
+GBAOMCCE_01142	gene	777	yrpC			
+GBAOMCCE_01143	CDS	903	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+GBAOMCCE_01143	gene	903	dapF			
+GBAOMCCE_01144	CDS	669				hypothetical protein
+GBAOMCCE_01144	gene	669				
+GBAOMCCE_01145	CDS	870	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+GBAOMCCE_01145	gene	870	yciV			
+GBAOMCCE_01146	CDS	228				hypothetical protein
+GBAOMCCE_01146	gene	228				
+GBAOMCCE_01147	CDS	1584				hypothetical protein
+GBAOMCCE_01147	gene	1584				
+GBAOMCCE_01148	CDS	1590	uvrD2	3.6.4.12	COG0210	ATP-dependent DNA helicase UvrD2
+GBAOMCCE_01148	gene	1590	uvrD2			
+GBAOMCCE_01149	CDS	1659				hypothetical protein
+GBAOMCCE_01149	gene	1659				
+GBAOMCCE_01150	CDS	987	ylbL		COG3480	putative protein YlbL
+GBAOMCCE_01150	gene	987	ylbL			
+GBAOMCCE_01151	CDS	417				putative protein
+GBAOMCCE_01151	gene	417				
+GBAOMCCE_01152	CDS	492				hypothetical protein
+GBAOMCCE_01152	gene	492				
+GBAOMCCE_01153	tRNA	75				tRNA-Val(tac)
+GBAOMCCE_01153	gene	75				
+GBAOMCCE_01154	CDS	1605				hypothetical protein
+GBAOMCCE_01154	gene	1605				
+GBAOMCCE_01155	CDS	1191	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GBAOMCCE_01155	gene	1191	dxr			
+GBAOMCCE_01156	CDS	1191	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GBAOMCCE_01156	gene	1191	ispG			
+GBAOMCCE_01157	CDS	1743				hypothetical protein
+GBAOMCCE_01157	gene	1743				
+GBAOMCCE_01158	CDS	720	recO		COG1381	DNA repair protein RecO
+GBAOMCCE_01158	gene	720	recO			
+GBAOMCCE_01159	CDS	792	uppS	2.5.1.86	COG0020	Decaprenyl diphosphate synthase
+GBAOMCCE_01159	gene	792	uppS			
+GBAOMCCE_01160	CDS	951				hypothetical protein
+GBAOMCCE_01160	gene	951				
+GBAOMCCE_01161	CDS	1242	rihA_2	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+GBAOMCCE_01161	gene	1242	rihA_2			
+GBAOMCCE_01162	CDS	1083	thiY		COG0715	Formylaminopyrimidine-binding protein
+GBAOMCCE_01162	gene	1083	thiY			
+GBAOMCCE_01163	CDS	813	ribX			Riboflavin transport system permease protein RibX
+GBAOMCCE_01163	gene	813	ribX			
+GBAOMCCE_01164	CDS	1599	sacA	3.2.1.26		Sucrose-6-phosphate hydrolase
+GBAOMCCE_01164	gene	1599	sacA			
+GBAOMCCE_01165	CDS	1326	cscB			Sucrose permease
+GBAOMCCE_01165	gene	1326	cscB			
+GBAOMCCE_01166	CDS	1059	degA_3		COG1609	HTH-type transcriptional regulator DegA
+GBAOMCCE_01166	gene	1059	degA_3			
+GBAOMCCE_01167	CDS	369				hypothetical protein
+GBAOMCCE_01167	gene	369				
+GBAOMCCE_01168	CDS	1551	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+GBAOMCCE_01168	gene	1551	thiD			
+GBAOMCCE_01169	CDS	912	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+GBAOMCCE_01169	gene	912	thiM			
+GBAOMCCE_01170	CDS	1476	glyQS	6.1.1.14	COG0423	Glycine--tRNA ligase
+GBAOMCCE_01170	gene	1476	glyQS			
+GBAOMCCE_01171	CDS	1254	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+GBAOMCCE_01171	gene	1254	dus			
+GBAOMCCE_01172	CDS	1257	ftsZ		COG0206	Cell division protein FtsZ
+GBAOMCCE_01172	gene	1257	ftsZ			
+GBAOMCCE_01173	CDS	471	sepF		COG1799	Cell division protein SepF
+GBAOMCCE_01173	gene	471	sepF			
+GBAOMCCE_01174	CDS	291				hypothetical protein
+GBAOMCCE_01174	gene	291				
+GBAOMCCE_01175	CDS	1515	smc_2			Chromosome partition protein Smc
+GBAOMCCE_01175	gene	1515	smc_2			
+GBAOMCCE_01176	CDS	543	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GBAOMCCE_01176	gene	543	lspA			
+GBAOMCCE_01177	CDS	954		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+GBAOMCCE_01177	gene	954				
+GBAOMCCE_01178	CDS	306				hypothetical protein
+GBAOMCCE_01178	gene	306				
+GBAOMCCE_01179	CDS	3567	dnaE1	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+GBAOMCCE_01179	gene	3567	dnaE1			
+GBAOMCCE_01180	CDS	1383	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+GBAOMCCE_01180	gene	1383	hisD			
+GBAOMCCE_01181	CDS	1167	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GBAOMCCE_01181	gene	1167	hisC			
+GBAOMCCE_01182	CDS	603	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GBAOMCCE_01182	gene	603	hisB			
+GBAOMCCE_01183	CDS	750				hypothetical protein
+GBAOMCCE_01183	gene	750				
+GBAOMCCE_01184	CDS	648	hisH	2.4.2.-		Imidazole glycerol phosphate synthase subunit HisH
+GBAOMCCE_01184	gene	648	hisH			
+GBAOMCCE_01185	CDS	729	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+GBAOMCCE_01185	gene	729	hisA			
+GBAOMCCE_01186	CDS	1404				hypothetical protein
+GBAOMCCE_01186	gene	1404				
+GBAOMCCE_01187	CDS	1338	glnA2	6.3.1.2	COG0174	Glutamine synthetase
+GBAOMCCE_01187	gene	1338	glnA2			
+GBAOMCCE_01188	CDS	4047				hypothetical protein
+GBAOMCCE_01188	gene	4047				
+GBAOMCCE_01189	CDS	630	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+GBAOMCCE_01189	gene	630	rsmC			
+GBAOMCCE_01190	CDS	1521	hflX		COG2262	GTPase HflX
+GBAOMCCE_01190	gene	1521	hflX			
+GBAOMCCE_01191	CDS	963	ldh2	1.1.1.27		L-lactate dehydrogenase 2
+GBAOMCCE_01191	gene	963	ldh2			
+GBAOMCCE_01192	CDS	933	czcD			Metal cation efflux system protein CzcD
+GBAOMCCE_01192	gene	933	czcD			
+GBAOMCCE_01193	CDS	696	lexA	3.4.21.88	COG1974	LexA repressor
+GBAOMCCE_01193	gene	696	lexA			
+GBAOMCCE_01194	CDS	351	yneA			Cell division suppressor protein YneA
+GBAOMCCE_01194	gene	351	yneA			
+GBAOMCCE_01195	CDS	315	nrdR		COG1327	Transcriptional repressor NrdR
+GBAOMCCE_01195	gene	315	nrdR			
+GBAOMCCE_01196	CDS	1203	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+GBAOMCCE_01196	gene	1203	serA			
+GBAOMCCE_01197	CDS	2262	helD	3.6.4.12	COG3973	DNA helicase IV
+GBAOMCCE_01197	gene	2262	helD			
+GBAOMCCE_01198	CDS	486	mraZ			Transcriptional regulator MraZ
+GBAOMCCE_01198	gene	486	mraZ			
+GBAOMCCE_01199	CDS	1062	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+GBAOMCCE_01199	gene	1062	rsmH			
+GBAOMCCE_01200	CDS	531				hypothetical protein
+GBAOMCCE_01200	gene	531				
+GBAOMCCE_01201	CDS	1797	pbpB		COG0768	Penicillin-binding protein PbpB
+GBAOMCCE_01201	gene	1797	pbpB			
+GBAOMCCE_01202	CDS	882	murE_1	6.3.2.-		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GBAOMCCE_01202	gene	882	murE_1			
+GBAOMCCE_01203	CDS	1491	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GBAOMCCE_01203	gene	1491	murF			
+GBAOMCCE_01204	CDS	1107	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GBAOMCCE_01204	gene	1107	mraY			
+GBAOMCCE_01205	CDS	1446	murD_2	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GBAOMCCE_01205	gene	1446	murD_2			
+GBAOMCCE_01206	CDS	1347	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+GBAOMCCE_01206	gene	1347	ftsW			
+GBAOMCCE_01207	CDS	1185	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GBAOMCCE_01207	gene	1185	murG			
+GBAOMCCE_01208	CDS	1536	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GBAOMCCE_01208	gene	1536	murC			
+GBAOMCCE_01209	CDS	1383	ftsQ		COG1589	Cell division protein FtsQ
+GBAOMCCE_01209	gene	1383	ftsQ			
+GBAOMCCE_01210	CDS	1626	oppA_1		COG4166	Oligopeptide-binding protein OppA
+GBAOMCCE_01210	gene	1626	oppA_1			
+GBAOMCCE_01211	CDS	1092	dppB		COG0601	Dipeptide transport system permease protein DppB
+GBAOMCCE_01211	gene	1092	dppB			
+GBAOMCCE_01212	CDS	1218	gsiD_1		COG1173	Glutathione transport system permease protein GsiD
+GBAOMCCE_01212	gene	1218	gsiD_1			
+GBAOMCCE_01213	CDS	1734	gsiA_2	3.6.3.-	COG1123	Glutathione import ATP-binding protein GsiA
+GBAOMCCE_01213	gene	1734	gsiA_2			
+GBAOMCCE_01214	tmRNA	402	ssrA			transfer-messenger RNA, SsrA
+GBAOMCCE_01214	gene	402	ssrA			
+GBAOMCCE_01215	CDS	480	dtd	3.1.1.96		D-aminoacyl-tRNA deacylase
+GBAOMCCE_01215	gene	480	dtd			
+GBAOMCCE_01216	CDS	897	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+GBAOMCCE_01216	gene	897	pfkB			
+GBAOMCCE_01217	CDS	1206	nagC_4		COG1940	N-acetylglucosamine repressor
+GBAOMCCE_01217	gene	1206	nagC_4			
+GBAOMCCE_01218	CDS	756				hypothetical protein
+GBAOMCCE_01218	gene	756				
+GBAOMCCE_01219	CDS	528	rppH_2	3.6.1.-		RNA pyrophosphohydrolase
+GBAOMCCE_01219	gene	528	rppH_2			
+GBAOMCCE_01220	CDS	1572	pepPI	3.4.11.9		Xaa-Pro aminopeptidase 1
+GBAOMCCE_01220	gene	1572	pepPI			
+GBAOMCCE_01221	CDS	363				hypothetical protein
+GBAOMCCE_01221	gene	363				
+GBAOMCCE_01222	CDS	561				hypothetical protein
+GBAOMCCE_01222	gene	561				
+GBAOMCCE_01223	CDS	543				hypothetical protein
+GBAOMCCE_01223	gene	543				
+GBAOMCCE_01224	CDS	279				hypothetical protein
+GBAOMCCE_01224	gene	279				
+GBAOMCCE_01225	CDS	1221				hypothetical protein
+GBAOMCCE_01225	gene	1221				
+GBAOMCCE_01226	CDS	531				hypothetical protein
+GBAOMCCE_01226	gene	531				
+GBAOMCCE_01227	CDS	309	higA2			Putative antitoxin HigA2
+GBAOMCCE_01227	gene	309	higA2			
+GBAOMCCE_01228	CDS	537				hypothetical protein
+GBAOMCCE_01228	gene	537				
+GBAOMCCE_01229	CDS	591				hypothetical protein
+GBAOMCCE_01229	gene	591				
+GBAOMCCE_01230	CDS	246				hypothetical protein
+GBAOMCCE_01230	gene	246				
+GBAOMCCE_01231	CDS	1116				hypothetical protein
+GBAOMCCE_01231	gene	1116				
+GBAOMCCE_01232	CDS	819	desR		COG2197	Transcriptional regulatory protein DesR
+GBAOMCCE_01232	gene	819	desR			
+GBAOMCCE_01233	CDS	1566	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+GBAOMCCE_01233	gene	1566	folC			
+GBAOMCCE_01234	CDS	1050				hypothetical protein
+GBAOMCCE_01234	gene	1050				
+GBAOMCCE_01235	CDS	1551	murE_2	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+GBAOMCCE_01235	gene	1551	murE_2			
+GBAOMCCE_01236	CDS	753	sigH			ECF RNA polymerase sigma factor SigH
+GBAOMCCE_01236	gene	753	sigH			
+GBAOMCCE_01237	CDS	312				hypothetical protein
+GBAOMCCE_01237	gene	312				
+GBAOMCCE_01238	CDS	993	yihR		COG2017	putative protein YihR
+GBAOMCCE_01238	gene	993	yihR			
+GBAOMCCE_01239	CDS	978	ispH2	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 2
+GBAOMCCE_01239	gene	978	ispH2			
+GBAOMCCE_01240	CDS	510	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+GBAOMCCE_01240	gene	510	ybaK			
+GBAOMCCE_01241	CDS	1059	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+GBAOMCCE_01241	gene	1059	gap			
+GBAOMCCE_01242	CDS	852				hypothetical protein
+GBAOMCCE_01242	gene	852				
+GBAOMCCE_01243	CDS	675	infC		COG0290	Translation initiation factor IF-3
+GBAOMCCE_01243	gene	675	infC			
+GBAOMCCE_01244	CDS	192	rpmI			50S ribosomal protein L35
+GBAOMCCE_01244	gene	192	rpmI			
+GBAOMCCE_01245	CDS	384	rplT		COG0292	50S ribosomal protein L20
+GBAOMCCE_01245	gene	384	rplT			
+GBAOMCCE_01246	CDS	924	xerD		COG4974	Tyrosine recombinase XerD
+GBAOMCCE_01246	gene	924	xerD			
+GBAOMCCE_01247	CDS	840			COG1192	putative protein
+GBAOMCCE_01247	gene	840				
+GBAOMCCE_01248	CDS	810				hypothetical protein
+GBAOMCCE_01248	gene	810				
+GBAOMCCE_01249	CDS	1410	naiP			Putative niacin/nicotinamide transporter NaiP
+GBAOMCCE_01249	gene	1410	naiP			
+GBAOMCCE_01250	CDS	1932	typA		COG1217	GTP-binding protein TypA/BipA
+GBAOMCCE_01250	gene	1932	typA			
+GBAOMCCE_01251	CDS	594				hypothetical protein
+GBAOMCCE_01251	gene	594				
+GBAOMCCE_01252	CDS	1116				hypothetical protein
+GBAOMCCE_01252	gene	1116				
+GBAOMCCE_01253	CDS	1095	tyrA	1.3.1.12	COG0287	Prephenate dehydrogenase
+GBAOMCCE_01253	gene	1095	tyrA			
+GBAOMCCE_01254	CDS	252				hypothetical protein
+GBAOMCCE_01254	gene	252				
+GBAOMCCE_01255	CDS	2835	ytrF		COG0577	ABC transporter permease YtrF
+GBAOMCCE_01255	gene	2835	ytrF			
+GBAOMCCE_01256	CDS	807	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+GBAOMCCE_01256	gene	807	bceA_2			
+GBAOMCCE_01257	CDS	936	xerC_2		COG0582	Tyrosine recombinase XerC
+GBAOMCCE_01257	gene	936	xerC_2			
+GBAOMCCE_01258	CDS	1641	oppA_2		COG4166	Oligopeptide-binding protein OppA
+GBAOMCCE_01258	gene	1641	oppA_2			
+GBAOMCCE_01259	CDS	927	oppB		COG0601	Oligopeptide transport system permease protein OppB
+GBAOMCCE_01259	gene	927	oppB			
+GBAOMCCE_01260	CDS	957	gsiD_2		COG1173	Glutathione transport system permease protein GsiD
+GBAOMCCE_01260	gene	957	gsiD_2			
+GBAOMCCE_01261	CDS	2043	gsiA_3	3.6.3.-	COG1123	Glutathione import ATP-binding protein GsiA
+GBAOMCCE_01261	gene	2043	gsiA_3			
+GBAOMCCE_01262	CDS	675				hypothetical protein
+GBAOMCCE_01262	gene	675				
+GBAOMCCE_01263	CDS	861	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+GBAOMCCE_01263	gene	861	exoA			
+GBAOMCCE_01264	CDS	858				hypothetical protein
+GBAOMCCE_01264	gene	858				
+GBAOMCCE_01265	CDS	771				hypothetical protein
+GBAOMCCE_01265	gene	771				
+GBAOMCCE_01266	CDS	1311		2.1.1.-	COG2265	putative RNA methyltransferase
+GBAOMCCE_01266	gene	1311				
+GBAOMCCE_01267	CDS	588				hypothetical protein
+GBAOMCCE_01267	gene	588				
+GBAOMCCE_01268	CDS	2571	ctpE	3.6.3.-	COG0474	putative cation-transporting ATPase E
+GBAOMCCE_01268	gene	2571	ctpE			
+GBAOMCCE_01269	CDS	2700	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+GBAOMCCE_01269	gene	2700	acnA			
+GBAOMCCE_01270	CDS	252				hypothetical protein
+GBAOMCCE_01270	gene	252				
+GBAOMCCE_01271	CDS	642	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+GBAOMCCE_01271	gene	642	maa			
+GBAOMCCE_01272	CDS	2085				hypothetical protein
+GBAOMCCE_01272	gene	2085				
+GBAOMCCE_01273	CDS	684	degU_1		COG2197	Transcriptional regulatory protein DegU
+GBAOMCCE_01273	gene	684	degU_1			
+GBAOMCCE_01274	CDS	1167	narX	2.7.13.3		Nitrate/nitrite sensor protein NarX
+GBAOMCCE_01274	gene	1167	narX			
+GBAOMCCE_01275	CDS	990	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+GBAOMCCE_01275	gene	990	drrA_2			
+GBAOMCCE_01276	CDS	1281				hypothetical protein
+GBAOMCCE_01276	gene	1281				
+GBAOMCCE_01277	CDS	1305				hypothetical protein
+GBAOMCCE_01277	gene	1305				
+GBAOMCCE_01278	CDS	1026	ord	1.4.1.26		2,4-diaminopentanoate dehydrogenase
+GBAOMCCE_01278	gene	1026	ord			
+GBAOMCCE_01279	tRNA	77				tRNA-Ser(gct)
+GBAOMCCE_01279	gene	77				
+GBAOMCCE_01280	CDS	765	ywaC	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+GBAOMCCE_01280	gene	765	ywaC			
+GBAOMCCE_01281	CDS	1500	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GBAOMCCE_01281	gene	1500	miaB			
+GBAOMCCE_01282	CDS	1035	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GBAOMCCE_01282	gene	1035	miaA			
+GBAOMCCE_01283	CDS	2859	ftsK		COG1674	DNA translocase FtsK
+GBAOMCCE_01283	gene	2859	ftsK			
+GBAOMCCE_01284	CDS	654	pgsA2	2.7.8.5	COG0558	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+GBAOMCCE_01284	gene	654	pgsA2			
+GBAOMCCE_01285	CDS	621	cinA		COG1058	Putative competence-damage inducible protein
+GBAOMCCE_01285	gene	621	cinA			
+GBAOMCCE_01286	CDS	549	clgR			Transcriptional regulator ClgR
+GBAOMCCE_01286	gene	549	clgR			
+GBAOMCCE_01287	CDS	252				hypothetical protein
+GBAOMCCE_01287	gene	252				
+GBAOMCCE_01288	CDS	1149	recA		COG0468	Protein RecA
+GBAOMCCE_01288	gene	1149	recA			
+GBAOMCCE_01289	CDS	630	recX			Regulatory protein RecX
+GBAOMCCE_01289	gene	630	recX			
+GBAOMCCE_01290	CDS	132				hypothetical protein
+GBAOMCCE_01290	gene	132				
+GBAOMCCE_01291	CDS	687	hpf		COG1544	Ribosome hibernation promotion factor
+GBAOMCCE_01291	gene	687	hpf			
+GBAOMCCE_01292	CDS	2925	secA			Protein translocase subunit SecA
+GBAOMCCE_01292	gene	2925	secA			
+GBAOMCCE_01293	CDS	1053	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GBAOMCCE_01293	gene	1053	trpD			
+GBAOMCCE_01294	CDS	567				hypothetical protein
+GBAOMCCE_01294	gene	567				
+GBAOMCCE_01295	CDS	741	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+GBAOMCCE_01295	gene	741	plsC			
+GBAOMCCE_01296	CDS	2226	spk1	2.7.11.1		Serine/threonine-protein kinase PK-1
+GBAOMCCE_01296	gene	2226	spk1			
+GBAOMCCE_01297	CDS	1101	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+GBAOMCCE_01297	gene	1101	ispB			
+GBAOMCCE_01298	CDS	705				hypothetical protein
+GBAOMCCE_01298	gene	705				
+GBAOMCCE_01299	CDS	1527	hrdB		COG0568	RNA polymerase principal sigma factor HrdB
+GBAOMCCE_01299	gene	1527	hrdB			
+GBAOMCCE_01300	CDS	2340	gyrB_2	5.99.1.3	COG0187	DNA gyrase subunit B
+GBAOMCCE_01300	gene	2340	gyrB_2			
+GBAOMCCE_01301	CDS	1191	pimA_1	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+GBAOMCCE_01301	gene	1191	pimA_1			
+GBAOMCCE_01302	CDS	1182	glcP		COG0738	Glucose/mannose transporter GlcP
+GBAOMCCE_01302	gene	1182	glcP			
+GBAOMCCE_01303	CDS	1215				hypothetical protein
+GBAOMCCE_01303	gene	1215				
+GBAOMCCE_01304	CDS	4674	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+GBAOMCCE_01304	gene	4674	dbpA			
+GBAOMCCE_01305	CDS	960	glcU		COG4975	putative glucose uptake protein GlcU
+GBAOMCCE_01305	gene	960	glcU			
+GBAOMCCE_01306	CDS	2676	gyrA_2	5.99.1.3	COG0188	DNA gyrase subunit A
+GBAOMCCE_01306	gene	2676	gyrA_2			
+GBAOMCCE_01307	CDS	1278				hypothetical protein
+GBAOMCCE_01307	gene	1278				
+GBAOMCCE_01308	CDS	1311				hypothetical protein
+GBAOMCCE_01308	gene	1311				
+GBAOMCCE_01309	CDS	294				hypothetical protein
+GBAOMCCE_01309	gene	294				
+GBAOMCCE_01310	CDS	468	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GBAOMCCE_01310	gene	468	dut			
+GBAOMCCE_01311	CDS	2337	relA		COG0317	Bifunctional (p)ppGpp synthase/hydrolase RelA
+GBAOMCCE_01311	gene	2337	relA			
+GBAOMCCE_01312	CDS	540	cypB	5.2.1.8		Peptidyl-prolyl cis-trans isomerase B
+GBAOMCCE_01312	gene	540	cypB			
+GBAOMCCE_01313	CDS	999	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+GBAOMCCE_01313	gene	999	metQ_2			
+GBAOMCCE_01314	CDS	1296	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+GBAOMCCE_01314	gene	1296	metN2			
+GBAOMCCE_01315	CDS	711	metI		COG2011	D-methionine transport system permease protein MetI
+GBAOMCCE_01315	gene	711	metI			
+GBAOMCCE_01316	CDS	1164	yxeP	3.-.-.-	COG1473	putative hydrolase YxeP
+GBAOMCCE_01316	gene	1164	yxeP			
+GBAOMCCE_01317	CDS	1701	nadE_2	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+GBAOMCCE_01317	gene	1701	nadE_2			
+GBAOMCCE_01318	CDS	201				hypothetical protein
+GBAOMCCE_01318	gene	201				
+GBAOMCCE_01319	CDS	2379	pflB	2.3.1.54	COG1882	Formate acetyltransferase 1
+GBAOMCCE_01319	gene	2379	pflB			
+GBAOMCCE_01320	CDS	903	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+GBAOMCCE_01320	gene	903	pflA			
+GBAOMCCE_01321	CDS	1302	rnd	3.1.13.5	COG0349	Ribonuclease D
+GBAOMCCE_01321	gene	1302	rnd			
+GBAOMCCE_01322	CDS	1386	tig	5.2.1.8	COG0544	Trigger factor
+GBAOMCCE_01322	gene	1386	tig			
+GBAOMCCE_01323	CDS	1398	eriC_2		COG0038	Chloride/fluoride channel protein
+GBAOMCCE_01323	gene	1398	eriC_2			
+GBAOMCCE_01324	CDS	615	clpP1	3.4.21.92		ATP-dependent Clp protease proteolytic subunit 1
+GBAOMCCE_01324	gene	615	clpP1			
+GBAOMCCE_01325	CDS	702	clpP2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit 2
+GBAOMCCE_01325	gene	702	clpP2			
+GBAOMCCE_01326	CDS	1329	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+GBAOMCCE_01326	gene	1329	clpX			
+GBAOMCCE_01327	tRNA	75				tRNA-Arg(acg)
+GBAOMCCE_01327	gene	75				
+GBAOMCCE_01328	tRNA	75				tRNA-Arg(acg)
+GBAOMCCE_01328	gene	75				
+GBAOMCCE_01329	CDS	1221	patB_1	4.4.1.8	COG1168	Cystathionine beta-lyase PatB
+GBAOMCCE_01329	gene	1221	patB_1			
+GBAOMCCE_01330	CDS	1401	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+GBAOMCCE_01330	gene	1401	nhaA			
+GBAOMCCE_01331	CDS	804	fas6	3.2.2.-		Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+GBAOMCCE_01331	gene	804	fas6			
+GBAOMCCE_01332	CDS	672		2.1.1.-	COG4122	Putative O-methyltransferase
+GBAOMCCE_01332	gene	672				
+GBAOMCCE_01333	CDS	957	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+GBAOMCCE_01333	gene	957	frdB			
+GBAOMCCE_01334	CDS	1836	sdhA	1.3.5.1	COG1053	Succinate dehydrogenase flavoprotein subunit
+GBAOMCCE_01334	gene	1836	sdhA			
+GBAOMCCE_01335	CDS	1146	dprA		COG0758	DNA processing protein DprA
+GBAOMCCE_01335	gene	1146	dprA			
+GBAOMCCE_01336	CDS	1533	comM		COG0606	Competence protein ComM
+GBAOMCCE_01336	gene	1533	comM			
+GBAOMCCE_01337	CDS	477				hypothetical protein
+GBAOMCCE_01337	gene	477				
+GBAOMCCE_01338	CDS	870	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+GBAOMCCE_01338	gene	870	pdxK			
+GBAOMCCE_01339	CDS	1323		4.4.1.11	COG0626	L-methionine gamma-lyase
+GBAOMCCE_01339	gene	1323				
+GBAOMCCE_01340	CDS	1548	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GBAOMCCE_01340	gene	1548	ykoD_3			
+GBAOMCCE_01341	CDS	804	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+GBAOMCCE_01341	gene	804	ecfT_2			
+GBAOMCCE_01342	CDS	939	bceA_3		COG1136	Bacitracin export ATP-binding protein BceA
+GBAOMCCE_01342	gene	939	bceA_3			
+GBAOMCCE_01343	CDS	2607	macB_3	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+GBAOMCCE_01343	gene	2607	macB_3			
+GBAOMCCE_01344	CDS	705	degU_2		COG2197	Transcriptional regulatory protein DegU
+GBAOMCCE_01344	gene	705	degU_2			
+GBAOMCCE_01345	CDS	2514	nreB	2.7.13.3		Oxygen sensor histidine kinase NreB
+GBAOMCCE_01345	gene	2514	nreB			
+GBAOMCCE_01346	CDS	1338	pip	3.4.11.5		Proline iminopeptidase
+GBAOMCCE_01346	gene	1338	pip			
+GBAOMCCE_01347	CDS	795	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+GBAOMCCE_01347	gene	795	proC			
+GBAOMCCE_01348	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+GBAOMCCE_01348	gene	1095	ychF			
+GBAOMCCE_01349	CDS	357				hypothetical protein
+GBAOMCCE_01349	gene	357				
+GBAOMCCE_01350	CDS	288				hypothetical protein
+GBAOMCCE_01350	gene	288				
+GBAOMCCE_01351	CDS	1074	lip2	3.1.1.3		Lipase 2
+GBAOMCCE_01351	gene	1074	lip2			
+GBAOMCCE_01352	CDS	1431	rutG		COG2233	Putative pyrimidine permease RutG
+GBAOMCCE_01352	gene	1431	rutG			
+GBAOMCCE_01353	CDS	1119				hypothetical protein
+GBAOMCCE_01353	gene	1119				
+GBAOMCCE_01354	CDS	1941	crhR	3.6.4.13		RNA helicase CrhR
+GBAOMCCE_01354	gene	1941	crhR			
+GBAOMCCE_01355	CDS	810	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+GBAOMCCE_01355	gene	810	ydfG			
+GBAOMCCE_01356	CDS	2826	silP	3.6.3.53		Silver exporting P-type ATPase
+GBAOMCCE_01356	gene	2826	silP			
+GBAOMCCE_01357	CDS	993	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+GBAOMCCE_01357	gene	993	msrAB			
+GBAOMCCE_01358	CDS	1365	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+GBAOMCCE_01358	gene	1365	brnQ			
+GBAOMCCE_01359	CDS	708		3.4.21.-	COG3340	putative peptidase
+GBAOMCCE_01359	gene	708				
+GBAOMCCE_01360	CDS	1458	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+GBAOMCCE_01360	gene	1458	gnd			
+GBAOMCCE_01361	CDS	792	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+GBAOMCCE_01361	gene	792	pgl			
+GBAOMCCE_01362	CDS	951				hypothetical protein
+GBAOMCCE_01362	gene	951				
+GBAOMCCE_01363	CDS	1569	zwf2	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase 2
+GBAOMCCE_01363	gene	1569	zwf2			
+GBAOMCCE_01364	CDS	369				hypothetical protein
+GBAOMCCE_01364	gene	369				
+GBAOMCCE_01365	CDS	2052	feoB		COG0370	Fe(2+) transporter FeoB
+GBAOMCCE_01365	gene	2052	feoB			
+GBAOMCCE_01366	CDS	267				hypothetical protein
+GBAOMCCE_01366	gene	267				
+GBAOMCCE_01367	CDS	1470	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+GBAOMCCE_01367	gene	1470	aspA			
+GBAOMCCE_01368	CDS	465				hypothetical protein
+GBAOMCCE_01368	gene	465				
+GBAOMCCE_01369	CDS	513				hypothetical protein
+GBAOMCCE_01369	gene	513				
+GBAOMCCE_01370	CDS	720	btuD	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+GBAOMCCE_01370	gene	720	btuD			
+GBAOMCCE_01371	CDS	507			COG1132	putative ABC transporter ATP-binding protein
+GBAOMCCE_01371	gene	507				
+GBAOMCCE_01372	CDS	2418	cstA		COG1966	Peptide transporter CstA
+GBAOMCCE_01372	gene	2418	cstA			
+GBAOMCCE_01373	CDS	228				hypothetical protein
+GBAOMCCE_01373	gene	228				
+GBAOMCCE_01374	CDS	1305	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+GBAOMCCE_01374	gene	1305	nagZ			
+GBAOMCCE_01375	CDS	3171				hypothetical protein
+GBAOMCCE_01375	gene	3171				
+GBAOMCCE_01376	CDS	642	ywnH	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+GBAOMCCE_01376	gene	642	ywnH			
+GBAOMCCE_01377	CDS	600	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+GBAOMCCE_01377	gene	600	pth			
+GBAOMCCE_01378	CDS	3585	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+GBAOMCCE_01378	gene	3585	mfd			
+GBAOMCCE_01379	CDS	201				hypothetical protein
+GBAOMCCE_01379	gene	201				
+GBAOMCCE_01380	CDS	699	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+GBAOMCCE_01380	gene	699	ssuB			
+GBAOMCCE_01381	CDS	966	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+GBAOMCCE_01381	gene	966	ssuA			
+GBAOMCCE_01382	CDS	909	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+GBAOMCCE_01382	gene	909	ssuC			
+GBAOMCCE_01383	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+GBAOMCCE_01383	gene	1293	eno			
+GBAOMCCE_01384	CDS	573	ftsL			Cell division protein FtsL
+GBAOMCCE_01384	gene	573	ftsL			
+GBAOMCCE_01385	CDS	609				hypothetical protein
+GBAOMCCE_01385	gene	609				
+GBAOMCCE_01386	CDS	1023	ppx2	3.6.1.11		Exopolyphosphatase 2
+GBAOMCCE_01386	gene	1023	ppx2			
+GBAOMCCE_01387	tRNA	80				tRNA-Leu(taa)
+GBAOMCCE_01387	gene	80				
+GBAOMCCE_01388	CDS	621				hypothetical protein
+GBAOMCCE_01388	gene	621				
+GBAOMCCE_01389	CDS	1491	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+GBAOMCCE_01389	gene	1491	sdaB			
+GBAOMCCE_01390	CDS	408	fkbP	5.2.1.8		FK506-binding protein
+GBAOMCCE_01390	gene	408	fkbP			
+GBAOMCCE_01391	CDS	495	greA		COG0782	Transcription elongation factor GreA
+GBAOMCCE_01391	gene	495	greA			
+GBAOMCCE_01392	CDS	885				hypothetical protein
+GBAOMCCE_01392	gene	885				
+GBAOMCCE_01393	CDS	1479	pdtaS	2.7.13.3	COG3920	putative sensor histidine kinase pdtaS
+GBAOMCCE_01393	gene	1479	pdtaS			
+GBAOMCCE_01394	CDS	279	whiB1			Transcriptional regulator WhiB1
+GBAOMCCE_01394	gene	279	whiB1			
+GBAOMCCE_01395	CDS	1650	essC		COG1674	ESAT-6 secretion machinery protein EssC
+GBAOMCCE_01395	gene	1650	essC			
+GBAOMCCE_01396	CDS	978	lcpB		COG1316	putative cell wall biosynthesis protein LcpB
+GBAOMCCE_01396	gene	978	lcpB			
+GBAOMCCE_01397	CDS	1455	lcpA		COG1316	Cell wall biosynthesis protein LcpA
+GBAOMCCE_01397	gene	1455	lcpA			
+GBAOMCCE_01398	CDS	3096				hypothetical protein
+GBAOMCCE_01398	gene	3096				
+GBAOMCCE_01399	CDS	1545				hypothetical protein
+GBAOMCCE_01399	gene	1545				
+GBAOMCCE_01400	CDS	429				hypothetical protein
+GBAOMCCE_01400	gene	429				
+GBAOMCCE_01401	CDS	825				hypothetical protein
+GBAOMCCE_01401	gene	825				
+GBAOMCCE_01402	CDS	768				hypothetical protein
+GBAOMCCE_01402	gene	768				
+GBAOMCCE_01403	CDS	1098	baeS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase BaeS
+GBAOMCCE_01403	gene	1098	baeS			
+GBAOMCCE_01404	CDS	720	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+GBAOMCCE_01404	gene	720	phoP			
+GBAOMCCE_01405	CDS	2352	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+GBAOMCCE_01405	gene	2352	glgB			
+GBAOMCCE_01406	CDS	597	carD		COG1329	RNA polymerase-binding transcription factor CarD
+GBAOMCCE_01406	gene	597	carD			
+GBAOMCCE_01407	CDS	504	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GBAOMCCE_01407	gene	504	ispF			
+GBAOMCCE_01408	CDS	846	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GBAOMCCE_01408	gene	846	znuB			
+GBAOMCCE_01409	CDS	915	fhuC	3.6.3.34	COG1120	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+GBAOMCCE_01409	gene	915	fhuC			
+GBAOMCCE_01410	CDS	1005	psaA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+GBAOMCCE_01410	gene	1005	psaA			
+GBAOMCCE_01411	CDS	894	folD		COG0190	Bifunctional protein FolD protein
+GBAOMCCE_01411	gene	894	folD			
+GBAOMCCE_01412	CDS	1482	rpsA		COG0539	30S ribosomal protein S1
+GBAOMCCE_01412	gene	1482	rpsA			
+GBAOMCCE_01413	CDS	621	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+GBAOMCCE_01413	gene	621	coaE			
+GBAOMCCE_01414	CDS	2112	uvrB		COG0556	UvrABC system protein B
+GBAOMCCE_01414	gene	2112	uvrB			
+GBAOMCCE_01415	CDS	1014			COG0861	putative membrane protein
+GBAOMCCE_01415	gene	1014				
+GBAOMCCE_01416	CDS	1443	pyk	2.7.1.40	COG0469	Pyruvate kinase
+GBAOMCCE_01416	gene	1443	pyk			
+GBAOMCCE_01417	tRNA	76				tRNA-Leu(caa)
+GBAOMCCE_01417	gene	76				
+GBAOMCCE_01418	CDS	630	nudF_1	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+GBAOMCCE_01418	gene	630	nudF_1			
+GBAOMCCE_01419	CDS	759	pdtaR		COG3707	putative transcriptional regulatory protein pdtaR
+GBAOMCCE_01419	gene	759	pdtaR			
+GBAOMCCE_01420	CDS	90				hypothetical protein
+GBAOMCCE_01420	gene	90				
+GBAOMCCE_01421	CDS	2883	polA	2.7.7.7	COG0258	DNA polymerase I
+GBAOMCCE_01421	gene	2883	polA			
+GBAOMCCE_01422	CDS	936			COG0327	GTP cyclohydrolase 1 type 2 
+GBAOMCCE_01422	gene	936				
+GBAOMCCE_01423	CDS	654	nudF_2	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+GBAOMCCE_01423	gene	654	nudF_2			
+GBAOMCCE_01424	CDS	2118	glgX_2	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+GBAOMCCE_01424	gene	2118	glgX_2			
+GBAOMCCE_01425	CDS	1230				hypothetical protein
+GBAOMCCE_01425	gene	1230				
+GBAOMCCE_01426	tRNA	75				tRNA-Pro(tgg)
+GBAOMCCE_01426	gene	75				
+GBAOMCCE_01427	CDS	1383	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+GBAOMCCE_01427	gene	1383	aroA			
+GBAOMCCE_01428	CDS	1233	ackA	2.7.2.1	COG0282	Acetate kinase
+GBAOMCCE_01428	gene	1233	ackA			
+GBAOMCCE_01429	CDS	1683	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+GBAOMCCE_01429	gene	1683	pta			
+GBAOMCCE_01430	CDS	2478	xfp_2	4.1.2.22		Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase
+GBAOMCCE_01430	gene	2478	xfp_2			
+GBAOMCCE_01431	CDS	1563	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+GBAOMCCE_01431	gene	1563	guaA_2			
+GBAOMCCE_01432	CDS	1071				hypothetical protein
+GBAOMCCE_01432	gene	1071				
+GBAOMCCE_01433	CDS	585				hypothetical protein
+GBAOMCCE_01433	gene	585				
+GBAOMCCE_01434	CDS	381				hypothetical protein
+GBAOMCCE_01434	gene	381				
+GBAOMCCE_01435	CDS	441				hypothetical protein
+GBAOMCCE_01435	gene	441				
+GBAOMCCE_01436	CDS	657	tmk_2	2.7.4.9		Thymidylate kinase
+GBAOMCCE_01436	gene	657	tmk_2			
+GBAOMCCE_01437	CDS	1194				hypothetical protein
+GBAOMCCE_01437	gene	1194				
+GBAOMCCE_01438	CDS	1059		3.5.4.2	COG1816	Adenine deaminase
+GBAOMCCE_01438	gene	1059				
+GBAOMCCE_01439	CDS	1008	xre		COG1396	HTH-type transcriptional regulator Xre
+GBAOMCCE_01439	gene	1008	xre			
+GBAOMCCE_01440	CDS	420	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+GBAOMCCE_01440	gene	420	ytrA			
+GBAOMCCE_01441	CDS	879	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+GBAOMCCE_01441	gene	879	ytrB			
+GBAOMCCE_01442	CDS	621				hypothetical protein
+GBAOMCCE_01442	gene	621				
+GBAOMCCE_01443	CDS	507	proX		COG3760	Prolyl-tRNA editing protein ProX
+GBAOMCCE_01443	gene	507	proX			
+GBAOMCCE_01444	CDS	705		2.4.2.-	COG2071	Putative glutamine amidotransferase
+GBAOMCCE_01444	gene	705				
+GBAOMCCE_01445	CDS	1503	amyS	3.2.1.1		Alpha-amylase
+GBAOMCCE_01445	gene	1503	amyS			
+GBAOMCCE_01446	CDS	708				hypothetical protein
+GBAOMCCE_01446	gene	708				
+GBAOMCCE_01447	CDS	333				hypothetical protein
+GBAOMCCE_01447	gene	333				
+GBAOMCCE_01448	CDS	1200	patB_2	4.4.1.8	COG1168	Cystathionine beta-lyase PatB
+GBAOMCCE_01448	gene	1200	patB_2			
+GBAOMCCE_01449	CDS	846				hypothetical protein
+GBAOMCCE_01449	gene	846				
+GBAOMCCE_01450	CDS	1473	xanQ		COG2233	Xanthine permease XanQ
+GBAOMCCE_01450	gene	1473	xanQ			
+GBAOMCCE_01451	CDS	624	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+GBAOMCCE_01451	gene	624	xpt			
+GBAOMCCE_01452	CDS	2727	uvrD1	3.6.4.12	COG0210	ATP-dependent DNA helicase UvrD1
+GBAOMCCE_01452	gene	2727	uvrD1			
+GBAOMCCE_01453	CDS	621	rpsD			30S ribosomal protein S4
+GBAOMCCE_01453	gene	621	rpsD			
+GBAOMCCE_01454	CDS	393				hypothetical protein
+GBAOMCCE_01454	gene	393				
+GBAOMCCE_01455	CDS	678	gpmA_2	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+GBAOMCCE_01455	gene	678	gpmA_2			
+GBAOMCCE_01456	CDS	402				hypothetical protein
+GBAOMCCE_01456	gene	402				
+GBAOMCCE_01457	CDS	237				hypothetical protein
+GBAOMCCE_01457	gene	237				
+GBAOMCCE_01458	CDS	2700	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GBAOMCCE_01458	gene	2700	alaS			
+GBAOMCCE_01459	CDS	492		3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+GBAOMCCE_01459	gene	492				
+GBAOMCCE_01460	CDS	1182	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+GBAOMCCE_01460	gene	1182	mltG			
+GBAOMCCE_01461	CDS	234				hypothetical protein
+GBAOMCCE_01461	gene	234				
+GBAOMCCE_01462	CDS	1191	aroC	4.2.3.5		Chorismate synthase
+GBAOMCCE_01462	gene	1191	aroC			
+GBAOMCCE_01463	CDS	1656	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+GBAOMCCE_01463	gene	1656	aroB			
+GBAOMCCE_01464	CDS	462	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+GBAOMCCE_01464	gene	462	aroQ			
+GBAOMCCE_01465	CDS	711	aml_1	3.2.1.1		Alpha-amylase
+GBAOMCCE_01465	gene	711	aml_1			
+GBAOMCCE_01466	CDS	1644	aml_2	3.2.1.1		Alpha-amylase
+GBAOMCCE_01466	gene	1644	aml_2			
+GBAOMCCE_01467	CDS	333				hypothetical protein
+GBAOMCCE_01467	gene	333				
+GBAOMCCE_01468	CDS	1710	amyX	3.2.1.41	COG1523	Pullulanase
+GBAOMCCE_01468	gene	1710	amyX			
+GBAOMCCE_01469	CDS	1686	pyrG	6.3.4.2	COG0504	CTP synthase
+GBAOMCCE_01469	gene	1686	pyrG			
+GBAOMCCE_01470	CDS	1668				hypothetical protein
+GBAOMCCE_01470	gene	1668				
+GBAOMCCE_01471	CDS	1497				hypothetical protein
+GBAOMCCE_01471	gene	1497				
+GBAOMCCE_01472	CDS	1227				hypothetical protein
+GBAOMCCE_01472	gene	1227				
+GBAOMCCE_01473	CDS	780	sufC		COG0396	Vegetative protein 296
+GBAOMCCE_01473	gene	780	sufC			
+GBAOMCCE_01474	CDS	1272	csd	2.8.1.7	COG0520	putative cysteine desulfurase
+GBAOMCCE_01474	gene	1272	csd			
+GBAOMCCE_01475	CDS	576	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+GBAOMCCE_01475	gene	576	iscU			
+GBAOMCCE_01476	CDS	573	sufT			Fe-S protein maturation auxiliary factor SufT
+GBAOMCCE_01476	gene	573	sufT			
+GBAOMCCE_01477	CDS	1248	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+GBAOMCCE_01477	gene	1248	glgC			
+GBAOMCCE_01478	CDS	873		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+GBAOMCCE_01478	gene	873				
+GBAOMCCE_01479	tRNA	91				tRNA-Leu(gag)
+GBAOMCCE_01479	gene	91				
+GBAOMCCE_01480	CDS	798	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+GBAOMCCE_01480	gene	798	rsmE			
+GBAOMCCE_01481	CDS	336		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GBAOMCCE_01481	gene	336				
+GBAOMCCE_01482	CDS	1161			COG1702	PhoH-like protein
+GBAOMCCE_01482	gene	1161				
+GBAOMCCE_01483	CDS	546	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+GBAOMCCE_01483	gene	546	ybeY			
+GBAOMCCE_01484	CDS	1389				hypothetical protein
+GBAOMCCE_01484	gene	1389				
+GBAOMCCE_01485	CDS	996	era_2		COG1159	GTPase Era
+GBAOMCCE_01485	gene	996	era_2			
+GBAOMCCE_01486	CDS	2061		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+GBAOMCCE_01486	gene	2061				
+GBAOMCCE_01487	CDS	1155	pntAA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+GBAOMCCE_01487	gene	1155	pntAA			
+GBAOMCCE_01488	CDS	312	pntA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+GBAOMCCE_01488	gene	312	pntA			
+GBAOMCCE_01489	CDS	1416	pntB	1.6.1.2	COG1282	NAD(P) transhydrogenase subunit beta
+GBAOMCCE_01489	gene	1416	pntB			
+GBAOMCCE_01490	CDS	1008		3.1.1.23		Thermostable monoacylglycerol lipase
+GBAOMCCE_01490	gene	1008				
+GBAOMCCE_01491	CDS	627	rplY_2		COG1825	50S ribosomal protein L25
+GBAOMCCE_01491	gene	627	rplY_2			
+GBAOMCCE_01492	CDS	1128	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBAOMCCE_01492	gene	1128	ilvE			
+GBAOMCCE_01493	CDS	786				hypothetical protein
+GBAOMCCE_01493	gene	786				
+GBAOMCCE_01494	CDS	261	rpsT		COG0268	30S ribosomal protein S20
+GBAOMCCE_01494	gene	261	rpsT			
+GBAOMCCE_01495	CDS	1881	lepA	3.6.5.-	COG0481	Elongation factor 4
+GBAOMCCE_01495	gene	1881	lepA			
+GBAOMCCE_01496	CDS	1314	hemN	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+GBAOMCCE_01496	gene	1314	hemN			
+GBAOMCCE_01497	CDS	4599	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+GBAOMCCE_01497	gene	4599	gltB			
+GBAOMCCE_01498	CDS	1536	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+GBAOMCCE_01498	gene	1536	gltD			
+GBAOMCCE_01499	CDS	459				hypothetical protein
+GBAOMCCE_01499	gene	459				
+GBAOMCCE_01500	CDS	486	bcp	1.11.1.15	COG1225	Putative peroxiredoxin
+GBAOMCCE_01500	gene	486	bcp			
+GBAOMCCE_01501	CDS	1245	glgM	2.4.1.342	COG0438	Alpha-maltose-1-phosphate synthase
+GBAOMCCE_01501	gene	1245	glgM			
+GBAOMCCE_01502	CDS	843	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+GBAOMCCE_01502	gene	843	ylmA			
+GBAOMCCE_01503	CDS	1059	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+GBAOMCCE_01503	gene	1059	trmI			
+GBAOMCCE_01504	CDS	555		3.1.3.-	COG2062	putative protein
+GBAOMCCE_01504	gene	555				
+GBAOMCCE_01505	CDS	2304	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GBAOMCCE_01505	gene	2304	metE			
+GBAOMCCE_01506	CDS	849	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+GBAOMCCE_01506	gene	849	metF			
+GBAOMCCE_01507	CDS	3135	glnE		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+GBAOMCCE_01507	gene	3135	glnE			
+GBAOMCCE_01508	CDS	435				hypothetical protein
+GBAOMCCE_01508	gene	435				
+GBAOMCCE_01509	CDS	1014	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GBAOMCCE_01509	gene	1014	pyrB			
+GBAOMCCE_01510	CDS	420	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+GBAOMCCE_01510	gene	420	pyrI			
+GBAOMCCE_01511	CDS	1425	pyrC	3.5.2.3	COG0044	Dihydroorotase
+GBAOMCCE_01511	gene	1425	pyrC			
+GBAOMCCE_01512	CDS	951	pyrF_2	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GBAOMCCE_01512	gene	951	pyrF_2			
+GBAOMCCE_01513	CDS	840	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+GBAOMCCE_01513	gene	840	pyrK			
+GBAOMCCE_01514	CDS	984	pyrD_2	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GBAOMCCE_01514	gene	984	pyrD_2			
+GBAOMCCE_01515	CDS	696	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GBAOMCCE_01515	gene	696	pyrE_2			
+GBAOMCCE_01516	CDS	438	ypeA	2.3.1.-	COG0456	Acetyltransferase YpeA
+GBAOMCCE_01516	gene	438	ypeA			
+GBAOMCCE_01517	CDS	537	nudI	3.6.1.23		Nucleoside triphosphatase NudI
+GBAOMCCE_01517	gene	537	nudI			
+GBAOMCCE_01518	CDS	345	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+GBAOMCCE_01518	gene	345	yybR			
+GBAOMCCE_01519	CDS	930				hypothetical protein
+GBAOMCCE_01519	gene	930				
+GBAOMCCE_01520	CDS	984				hypothetical protein
+GBAOMCCE_01520	gene	984				
+GBAOMCCE_01521	CDS	639	yihX_2	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+GBAOMCCE_01521	gene	639	yihX_2			
+GBAOMCCE_01522	CDS	927	hcaR			Hca operon transcriptional activator HcaR
+GBAOMCCE_01522	gene	927	hcaR			
+GBAOMCCE_01523	CDS	1773	trxB_2	1.8.1.9		Thioredoxin reductase
+GBAOMCCE_01523	gene	1773	trxB_2			
+GBAOMCCE_01524	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+GBAOMCCE_01524	gene	564	ahpC			
+GBAOMCCE_01525	CDS	1812	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GBAOMCCE_01525	gene	1812	nnr			
+GBAOMCCE_01526	CDS	945	cbh	3.5.1.24		Choloylglycine hydrolase
+GBAOMCCE_01526	gene	945	cbh			
+GBAOMCCE_01527	CDS	774				hypothetical protein
+GBAOMCCE_01527	gene	774				
+GBAOMCCE_01528	CDS	1071	zitB			Zinc transporter ZitB
+GBAOMCCE_01528	gene	1071	zitB			
+GBAOMCCE_01529	CDS	1602	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+GBAOMCCE_01529	gene	1602	ybiT			
+GBAOMCCE_01530	CDS	630				hypothetical protein
+GBAOMCCE_01530	gene	630				
+GBAOMCCE_01531	CDS	528				hypothetical protein
+GBAOMCCE_01531	gene	528				
+GBAOMCCE_01532	CDS	954				hypothetical protein
+GBAOMCCE_01532	gene	954				
+GBAOMCCE_01533	CDS	3033	uvrA_2		COG0178	UvrABC system protein A
+GBAOMCCE_01533	gene	3033	uvrA_2			
+GBAOMCCE_01534	CDS	2391	uvrC		COG0322	UvrABC system protein C
+GBAOMCCE_01534	gene	2391	uvrC			
+GBAOMCCE_01535	CDS	927	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GBAOMCCE_01535	gene	927	aroE			
+GBAOMCCE_01536	CDS	933			COG1660	Nucleotide-binding protein
+GBAOMCCE_01536	gene	933				
+GBAOMCCE_01537	CDS	963	whiA		COG1481	Putative sporulation transcription regulator WhiA
+GBAOMCCE_01537	gene	963	whiA			
+GBAOMCCE_01538	CDS	1206	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GBAOMCCE_01538	gene	1206	pgk			
+GBAOMCCE_01539	CDS	813	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+GBAOMCCE_01539	gene	813	tpiA			
+GBAOMCCE_01540	CDS	249	secG		COG1314	putative protein-export membrane protein SecG
+GBAOMCCE_01540	gene	249	secG			
+GBAOMCCE_01541	CDS	831		3.1.3.-	COG0561	Putative phosphatase
+GBAOMCCE_01541	gene	831				
+GBAOMCCE_01542	CDS	1680	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+GBAOMCCE_01542	gene	1680	alaA			
+GBAOMCCE_01543	CDS	519	lrp_2		COG1522	Leucine-responsive regulatory protein
+GBAOMCCE_01543	gene	519	lrp_2			
+GBAOMCCE_01544	CDS	1200	patA_2	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+GBAOMCCE_01544	gene	1200	patA_2			
+GBAOMCCE_01545	CDS	666				hypothetical protein
+GBAOMCCE_01545	gene	666				
+GBAOMCCE_01546	CDS	1107	tal	2.2.1.2	COG0176	Transaldolase
+GBAOMCCE_01546	gene	1107	tal			
+GBAOMCCE_01547	CDS	2097	tkt	2.2.1.1	COG0021	Transketolase
+GBAOMCCE_01547	gene	2097	tkt			
+GBAOMCCE_01548	CDS	1101	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+GBAOMCCE_01548	gene	1101	hrcA			
+GBAOMCCE_01549	CDS	1149	dnaJ2		COG0484	Chaperone protein DnaJ 2
+GBAOMCCE_01549	gene	1149	dnaJ2			
+GBAOMCCE_01550	CDS	795				hypothetical protein
+GBAOMCCE_01550	gene	795				
+GBAOMCCE_01551	CDS	888	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+GBAOMCCE_01551	gene	888	uppP			
+GBAOMCCE_01552	CDS	801				hypothetical protein
+GBAOMCCE_01552	gene	801				
+GBAOMCCE_01553	tRNA	74				tRNA-Gly(gcc)
+GBAOMCCE_01553	gene	74				
+GBAOMCCE_01554	tRNA	72				tRNA-Cys(gca)
+GBAOMCCE_01554	gene	72				
+GBAOMCCE_01555	tRNA	73				tRNA-Val(gac)
+GBAOMCCE_01555	gene	73				
+GBAOMCCE_01556	tRNA	76				tRNA-Val(cac)
+GBAOMCCE_01556	gene	76				
+GBAOMCCE_01557	CDS	1668	ettA_3		COG0488	Energy-dependent translational throttle protein EttA
+GBAOMCCE_01557	gene	1668	ettA_3			
+GBAOMCCE_01558	CDS	93				hypothetical protein
+GBAOMCCE_01558	gene	93				
+GBAOMCCE_01559	CDS	180				hypothetical protein
+GBAOMCCE_01559	gene	180				
+GBAOMCCE_01560	CDS	522	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+GBAOMCCE_01560	gene	522	paiA			
+GBAOMCCE_01561	tRNA	74				tRNA-Gly(gcc)
+GBAOMCCE_01561	gene	74				
+GBAOMCCE_01562	CDS	1605	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+GBAOMCCE_01562	gene	1605	yheS			
+GBAOMCCE_01563	CDS	2079	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+GBAOMCCE_01563	gene	2079	thrS			
+GBAOMCCE_01564	CDS	672	pgsA1_1	2.7.8.11	COG0558	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+GBAOMCCE_01564	gene	672	pgsA1_1			
+GBAOMCCE_01565	CDS	996		2.3.1.-	COG1560	Phosphatidylinositol mannoside acyltransferase
+GBAOMCCE_01565	gene	996				
+GBAOMCCE_01566	CDS	993	pimA_2	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+GBAOMCCE_01566	gene	993	pimA_2			
+GBAOMCCE_01567	CDS	756			COG0217	putative transcriptional regulatory protein
+GBAOMCCE_01567	gene	756				
+GBAOMCCE_01568	CDS	582	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+GBAOMCCE_01568	gene	582	ruvC			
+GBAOMCCE_01569	CDS	624	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+GBAOMCCE_01569	gene	624	ruvA			
+GBAOMCCE_01570	CDS	1092	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+GBAOMCCE_01570	gene	1092	ruvB			
+GBAOMCCE_01571	CDS	441				hypothetical protein
+GBAOMCCE_01571	gene	441				
+GBAOMCCE_01572	CDS	582	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+GBAOMCCE_01572	gene	582	apt			
+GBAOMCCE_01573	CDS	1194	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+GBAOMCCE_01573	gene	1194	sucC			
+GBAOMCCE_01574	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GBAOMCCE_01574	gene	918	sucD			
+GBAOMCCE_01575	CDS	1362				hypothetical protein
+GBAOMCCE_01575	gene	1362				
+GBAOMCCE_01576	CDS	1650	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+GBAOMCCE_01576	gene	1650	purH			
+GBAOMCCE_01577	CDS	291				hypothetical protein
+GBAOMCCE_01577	gene	291				
+GBAOMCCE_01578	CDS	1023	aqpZ		COG0580	Aquaporin Z
+GBAOMCCE_01578	gene	1023	aqpZ			
+GBAOMCCE_01579	CDS	774		5.4.99.-	COG1187	putative RNA pseudouridine synthase
+GBAOMCCE_01579	gene	774				
+GBAOMCCE_01580	CDS	2133	der		COG1160	GTPase Der
+GBAOMCCE_01580	gene	2133	der			
+GBAOMCCE_01581	tRNA	75				tRNA-Pro(ggg)
+GBAOMCCE_01581	gene	75				
+GBAOMCCE_01582	CDS	1428				hypothetical protein
+GBAOMCCE_01582	gene	1428				
+GBAOMCCE_01583	CDS	1938				hypothetical protein
+GBAOMCCE_01583	gene	1938				
+GBAOMCCE_01584	CDS	318				hypothetical protein
+GBAOMCCE_01584	gene	318				
+GBAOMCCE_01585	CDS	2604	helY_2	3.6.4.-	COG4581	putative helicase HelY
+GBAOMCCE_01585	gene	2604	helY_2			
+GBAOMCCE_01586	CDS	348	rbpA			RNA polymerase-binding protein RbpA
+GBAOMCCE_01586	gene	348	rbpA			
+GBAOMCCE_01587	CDS	720		3.1.3.5	COG0546	5'-nucleotidase
+GBAOMCCE_01587	gene	720				
+GBAOMCCE_01588	CDS	378	crcB_3		COG0239	Putative fluoride ion transporter CrcB
+GBAOMCCE_01588	gene	378	crcB_3			
+GBAOMCCE_01589	CDS	378	crcB_4		COG0239	Putative fluoride ion transporter CrcB
+GBAOMCCE_01589	gene	378	crcB_4			
+GBAOMCCE_01590	CDS	405				hypothetical protein
+GBAOMCCE_01590	gene	405				
+GBAOMCCE_01591	CDS	732			COG0789	putative HTH-type transcriptional regulator
+GBAOMCCE_01591	gene	732				
+GBAOMCCE_01592	CDS	441	garA_2		COG1716	Glycogen accumulation regulator GarA
+GBAOMCCE_01592	gene	441	garA_2			
+GBAOMCCE_01593	CDS	879				hypothetical protein
+GBAOMCCE_01593	gene	879				
+GBAOMCCE_01594	CDS	333				hypothetical protein
+GBAOMCCE_01594	gene	333				
+GBAOMCCE_01595	CDS	843				hypothetical protein
+GBAOMCCE_01595	gene	843				
+GBAOMCCE_01596	CDS	639	pgsA1_2	2.7.8.5	COG0558	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+GBAOMCCE_01596	gene	639	pgsA1_2			
+GBAOMCCE_01597	CDS	852	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GBAOMCCE_01597	gene	852	hisG			
+GBAOMCCE_01598	CDS	264	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+GBAOMCCE_01598	gene	264	hisE			
+GBAOMCCE_01599	CDS	666	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+GBAOMCCE_01599	gene	666	rpe			
+GBAOMCCE_01600	CDS	939	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+GBAOMCCE_01600	gene	939	lgt			
+GBAOMCCE_01601	CDS	870	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+GBAOMCCE_01601	gene	870	trpA			
+GBAOMCCE_01602	CDS	2085	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GBAOMCCE_01602	gene	2085	trpB			
+GBAOMCCE_01603	CDS	306				hypothetical protein
+GBAOMCCE_01603	gene	306				
+GBAOMCCE_01604	CDS	822	ulaE	5.1.3.22		L-ribulose-5-phosphate 3-epimerase UlaE
+GBAOMCCE_01604	gene	822	ulaE			
+GBAOMCCE_01605	CDS	699				hypothetical protein
+GBAOMCCE_01605	gene	699				
+GBAOMCCE_01606	CDS	150				hypothetical protein
+GBAOMCCE_01606	gene	150				
+GBAOMCCE_01607	CDS	591				hypothetical protein
+GBAOMCCE_01607	gene	591				
+GBAOMCCE_01608	CDS	1560	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+GBAOMCCE_01608	gene	1560	trpE			
+GBAOMCCE_01609	CDS	414	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+GBAOMCCE_01609	gene	414	hisI			
+GBAOMCCE_01610	CDS	771	hisF	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GBAOMCCE_01610	gene	771	hisF			
+GBAOMCCE_01611	CDS	357				hypothetical protein
+GBAOMCCE_01611	gene	357				
+GBAOMCCE_01612	CDS	660	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+GBAOMCCE_01612	gene	660	ybhF			
+GBAOMCCE_01613	CDS	570				hypothetical protein
+GBAOMCCE_01613	gene	570				
+GBAOMCCE_01614	CDS	1197	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GBAOMCCE_01614	gene	1197	rlmN			
+GBAOMCCE_01615	CDS	969	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+GBAOMCCE_01615	gene	969	cdsA			
+GBAOMCCE_01616	CDS	555	frr		COG0233	Ribosome-recycling factor
+GBAOMCCE_01616	gene	555	frr			
+GBAOMCCE_01617	CDS	747	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GBAOMCCE_01617	gene	747	pyrH			
+GBAOMCCE_01618	CDS	858	tsf		COG0264	Elongation factor Ts
+GBAOMCCE_01618	gene	858	tsf			
+GBAOMCCE_01619	CDS	912	rpsB		COG0052	30S ribosomal protein S2
+GBAOMCCE_01619	gene	912	rpsB			
+GBAOMCCE_01620	CDS	483	def_3	3.5.1.88	COG0242	Peptide deformylase
+GBAOMCCE_01620	gene	483	def_3			
+GBAOMCCE_01621	CDS	2076		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+GBAOMCCE_01621	gene	2076				
+GBAOMCCE_01622	CDS	582				hypothetical protein
+GBAOMCCE_01622	gene	582				
+GBAOMCCE_01623	CDS	1122		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+GBAOMCCE_01623	gene	1122				
+GBAOMCCE_01624	CDS	1224	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+GBAOMCCE_01624	gene	1224	icd			
+GBAOMCCE_01625	CDS	1515				hypothetical protein
+GBAOMCCE_01625	gene	1515				
+GBAOMCCE_01626	CDS	639				hypothetical protein
+GBAOMCCE_01626	gene	639				
+GBAOMCCE_01627	CDS	378				hypothetical protein
+GBAOMCCE_01627	gene	378				
+GBAOMCCE_01628	tRNA	76				tRNA-Asn(gtt)
+GBAOMCCE_01628	gene	76				
+GBAOMCCE_01629	CDS	507				hypothetical protein
+GBAOMCCE_01629	gene	507				
+GBAOMCCE_01630	tRNA	76				tRNA-Asn(gtt)
+GBAOMCCE_01630	gene	76				
+GBAOMCCE_01631	CDS	1044	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GBAOMCCE_01631	gene	1044	tsaD			
+GBAOMCCE_01632	CDS	498	rimI	2.3.1.255	COG0456	N-alpha-acetyltransferase RimI
+GBAOMCCE_01632	gene	498	rimI			
+GBAOMCCE_01633	CDS	843			COG1214	putative protein
+GBAOMCCE_01633	gene	843				
+GBAOMCCE_01634	CDS	630	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GBAOMCCE_01634	gene	630	tsaE			
+GBAOMCCE_01635	CDS	1020				hypothetical protein
+GBAOMCCE_01635	gene	1020				
+GBAOMCCE_01636	CDS	1761	comEC		COG0658	ComE operon protein 3
+GBAOMCCE_01636	gene	1761	comEC			
+GBAOMCCE_01637	CDS	777	comEA		COG1555	ComE operon protein 1
+GBAOMCCE_01637	gene	777	comEA			
+GBAOMCCE_01638	CDS	2967	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+GBAOMCCE_01638	gene	2967	leuS			
+GBAOMCCE_01639	CDS	891	glnH_4		COG0834	ABC transporter glutamine-binding protein GlnH
+GBAOMCCE_01639	gene	891	glnH_4			
+GBAOMCCE_01640	CDS	951	corA		COG0598	Cobalt/magnesium transport protein CorA
+GBAOMCCE_01640	gene	951	corA			
+GBAOMCCE_01641	CDS	825	gpgP_1	3.1.3.85	COG0406	Glucosyl-3-phosphoglycerate phosphatase
+GBAOMCCE_01641	gene	825	gpgP_1			
+GBAOMCCE_01642	CDS	405				hypothetical protein
+GBAOMCCE_01642	gene	405				
+GBAOMCCE_01643	tRNA	76				tRNA-Ala(ggc)
+GBAOMCCE_01643	gene	76				
+GBAOMCCE_01644	tRNA	74				tRNA-Ala(ggc)
+GBAOMCCE_01644	gene	74				
+GBAOMCCE_01645	CDS	948				hypothetical protein
+GBAOMCCE_01645	gene	948				
+GBAOMCCE_01646	CDS	705	gpgP_2	3.1.3.85	COG0406	Glucosyl-3-phosphoglycerate phosphatase
+GBAOMCCE_01646	gene	705	gpgP_2			
+GBAOMCCE_01647	CDS	414	rsfS			Ribosomal silencing factor RsfS
+GBAOMCCE_01647	gene	414	rsfS			
+GBAOMCCE_01648	CDS	1383	glmU		COG1207	Bifunctional protein GlmU
+GBAOMCCE_01648	gene	1383	glmU			
+GBAOMCCE_01649	tRNA	72				tRNA-Gln(ttg)
+GBAOMCCE_01649	gene	72				
+GBAOMCCE_01650	CDS	1020	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GBAOMCCE_01650	gene	1020	prs_2			
+GBAOMCCE_01651	CDS	705	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+GBAOMCCE_01651	gene	705	nadD			
+GBAOMCCE_01652	CDS	639				hypothetical protein
+GBAOMCCE_01652	gene	639				
+GBAOMCCE_01653	CDS	1314	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+GBAOMCCE_01653	gene	1314	proA			
+GBAOMCCE_01654	CDS	1488	thrC	4.2.3.1	COG0498	Threonine synthase
+GBAOMCCE_01654	gene	1488	thrC			
+GBAOMCCE_01655	CDS	684		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+GBAOMCCE_01655	gene	684				
+GBAOMCCE_01656	CDS	1722	recN		COG0497	DNA repair protein RecN
+GBAOMCCE_01656	gene	1722	recN			
+GBAOMCCE_01657	CDS	969	ppnK	2.7.1.23	COG0061	NAD kinase
+GBAOMCCE_01657	gene	969	ppnK			
+GBAOMCCE_01658	CDS	651	ktrA		COG0569	Ktr system potassium uptake protein A
+GBAOMCCE_01658	gene	651	ktrA			
+GBAOMCCE_01659	CDS	1464	ktrB		COG0168	Ktr system potassium uptake protein B
+GBAOMCCE_01659	gene	1464	ktrB			
+GBAOMCCE_01660	CDS	789	tlyA	2.1.1.226		16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GBAOMCCE_01660	gene	789	tlyA			
+GBAOMCCE_01661	CDS	1041		3.1.3.21	COG0647	D,L-glycerol 3-phosphate phosphatase
+GBAOMCCE_01661	gene	1041				
+GBAOMCCE_01662	CDS	1674				hypothetical protein
+GBAOMCCE_01662	gene	1674				
+GBAOMCCE_01663	CDS	1323	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+GBAOMCCE_01663	gene	1323	tyrS			
+GBAOMCCE_01664	CDS	486				hypothetical protein
+GBAOMCCE_01664	gene	486				
+GBAOMCCE_01665	CDS	786	budC	1.1.1.76		L-2,3-butanediol dehydrogenase
+GBAOMCCE_01665	gene	786	budC			
+GBAOMCCE_01666	CDS	1497	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GBAOMCCE_01666	gene	1497	argH			
+GBAOMCCE_01667	CDS	1239	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+GBAOMCCE_01667	gene	1239	argG			
+GBAOMCCE_01668	CDS	546	argR		COG1438	Arginine repressor
+GBAOMCCE_01668	gene	546	argR			
+GBAOMCCE_01669	CDS	963	argF	2.1.3.3		Ornithine carbamoyltransferase
+GBAOMCCE_01669	gene	963	argF			
+GBAOMCCE_01670	CDS	1254	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+GBAOMCCE_01670	gene	1254	argD			
+GBAOMCCE_01671	CDS	957	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+GBAOMCCE_01671	gene	957	argB			
+GBAOMCCE_01672	CDS	1173	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+GBAOMCCE_01672	gene	1173	argJ			
+GBAOMCCE_01673	CDS	1095	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+GBAOMCCE_01673	gene	1095	argC			
+GBAOMCCE_01674	CDS	789				hypothetical protein
+GBAOMCCE_01674	gene	789				
+GBAOMCCE_01675	CDS	2607	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GBAOMCCE_01675	gene	2607	pheT			
+GBAOMCCE_01676	CDS	1068	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+GBAOMCCE_01676	gene	1068	pheS			
+GBAOMCCE_01677	CDS	906	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+GBAOMCCE_01677	gene	906	aviRb			
+GBAOMCCE_01678	CDS	1641				hypothetical protein
+GBAOMCCE_01678	gene	1641				
+GBAOMCCE_01679	CDS	720			COG1136	putative ABC transporter ATP-binding protein
+GBAOMCCE_01679	gene	720				
+GBAOMCCE_01680	CDS	2556	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GBAOMCCE_01680	gene	2556	ykoD_4			
+GBAOMCCE_01681	CDS	621	ykoE_2		COG4721	Putative HMP/thiamine permease protein YkoE
+GBAOMCCE_01681	gene	621	ykoE_2			
+GBAOMCCE_01682	CDS	1479				hypothetical protein
+GBAOMCCE_01682	gene	1479				
+GBAOMCCE_01683	CDS	558				hypothetical protein
+GBAOMCCE_01683	gene	558				
+GBAOMCCE_01684	CDS	867				hypothetical protein
+GBAOMCCE_01684	gene	867				
+GBAOMCCE_01685	CDS	165				hypothetical protein
+GBAOMCCE_01685	gene	165				
+GBAOMCCE_01686	CDS	1368	ylmB	3.5.1.-	COG0624	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+GBAOMCCE_01686	gene	1368	ylmB			
+GBAOMCCE_01687	CDS	609				putative protein
+GBAOMCCE_01687	gene	609				
+GBAOMCCE_01688	CDS	1482	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+GBAOMCCE_01688	gene	1482	pdhD			
+GBAOMCCE_01689	CDS	789				putative protein
+GBAOMCCE_01689	gene	789				
+GBAOMCCE_01690	CDS	1437	glnA1	6.3.1.2		Glutamine synthetase
+GBAOMCCE_01690	gene	1437	glnA1			
+GBAOMCCE_01691	CDS	609	ykoE_3		COG4721	Putative HMP/thiamine permease protein YkoE
+GBAOMCCE_01691	gene	609	ykoE_3			
+GBAOMCCE_01692	CDS	1113	mrp		COG0489	Iron-sulfur cluster carrier protein
+GBAOMCCE_01692	gene	1113	mrp			
+GBAOMCCE_01693	CDS	2592	ligA	6.5.1.2	COG0272	DNA ligase A
+GBAOMCCE_01693	gene	2592	ligA			
+GBAOMCCE_01694	CDS	3330				hypothetical protein
+GBAOMCCE_01694	gene	3330				
+GBAOMCCE_01695	CDS	2217				hypothetical protein
+GBAOMCCE_01695	gene	2217				
+GBAOMCCE_01696	CDS	816	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+GBAOMCCE_01696	gene	816	ecfA2			
+GBAOMCCE_01697	CDS	417				hypothetical protein
+GBAOMCCE_01697	gene	417				

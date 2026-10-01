@@ -1,0 +1,2755 @@
+Protein_name,Localization,Cell_wall_surface,Extracellular,Cytoplasmic,Cytoplasmic_Membrane
+Alkaline_phosphatase_synthesis_transcriptional_regulatory_protein_PhoP,Cytoplasmic,0.0002,0.0024,0.9775,0.0199
+Sensor_histidine_kinase_RcsC,Cytoplasmic Membrane,0,0.0004,0.0001,0.9996
+Serine--tRNA_ligase,Cytoplasmic,0,0.0008,0.9992,0
+Inosine-5'-monophosphate_dehydrogenase,Cytoplasmic,0.0005,0.2407,0.7446,0.0142
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0.0005,0.9978
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0.001,0.9973
+Ribosome-binding_ATPase_YchF,Cytoplasmic,0,0.0061,0.993,0.0009
+hypothetical_protein,Cytoplasmic,0,0.0036,0.9962,0.0001
+Stage_0_sporulation_protein_J,Cytoplasmic,0.0011,0.0062,0.9886,0.0041
+Sporulation_initiation_inhibitor_protein_Soj,Cytoplasmic,0.0007,0.0158,0.907,0.0764
+Ribosomal_RNA_small_subunit_methyltransferase_G,Cytoplasmic,0.0003,0.0008,0.9979,0.001
+hypothetical_protein,Cytoplasmic,0.0013,0.1375,0.6676,0.1936
+Oleate_hydratase,Cytoplasmic,0.0006,0.0581,0.5372,0.4041
+Fructose-6-phosphate_aldolase_1,Cytoplasmic,0.0001,0.0011,0.9983,0.0005
+PTS_system_glucitol/sorbitol-specific_EIIA_component,Cytoplasmic,0,0.0008,0.9989,0.0002
+PTS_system_glucitol/sorbitol-specific_EIIB_component,Cytoplasmic Membrane,0.0003,0.0099,0.0029,0.9869
+PTS_system_glucitol/sorbitol-specific_EIIC_component,Cytoplasmic Membrane,0,0.0054,0.0006,0.994
+hypothetical_protein,Cytoplasmic Membrane,0.0012,0.0022,0.0332,0.9635
+putative_licABCH_operon_regulator,Cytoplasmic,0.0003,0.0004,0.9663,0.0329
+putative_oxidoreductase,Cytoplasmic,0.0004,0.104,0.8699,0.0257
+tRNA_uridine_5-carboxymethylaminomethyl_modification_enzyme_MnmG,Cytoplasmic,0.0001,0.0288,0.9624,0.0087
+tRNA_modification_GTPase_MnmE,Cytoplasmic,0.0001,0.0008,0.9983,0.0008
+hypothetical_protein,Cell wall & surface,0.9635,0.034,0,0.0025
+2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A_synthase,Cytoplasmic,0.0002,0.0012,0.9967,0.0019
+NAD-dependent_malic_enzyme,Cytoplasmic,0.0004,0.0159,0.9796,0.0041
+Oxaloacetate_decarboxylase_alpha_chain,Cytoplasmic,0.0009,0.0691,0.8537,0.0763
+Apo-citrate_lyase_phosphoribosyl-dephospho-CoA_transferase,Cytoplasmic,0.0002,0.0001,0.9995,0.0002
+Citrate_lyase_alpha_chain,Cytoplasmic,0.0001,0.0533,0.9398,0.0067
+Citrate_lyase_subunit_beta,Cytoplasmic,0,0.0021,0.9975,0.0004
+Citrate_lyase_acyl_carrier_protein,Cytoplasmic,0.0006,0.0181,0.97,0.0113
+[Citrate_[pro-3S]-lyase]_ligase,Cytoplasmic,0.0007,0.0007,0.9979,0.0007
+hypothetical_protein,Cytoplasmic Membrane,0,0.007,0,0.993
+Glutaconyl-CoA_decarboxylase_subunit_beta,Cytoplasmic Membrane,0,0.0015,0.0001,0.9983
+Glutaconyl-CoA_decarboxylase_subunit_gamma,Cytoplasmic,0,0.0165,0.6991,0.2844
+hypothetical_protein,Cytoplasmic Membrane,0.006,0.0242,0.2788,0.691
+Citrate_transporter,Cytoplasmic Membrane,0,0.0003,0,0.9996
+hypothetical_protein,Cytoplasmic,0.0001,0.0056,0.9641,0.0302
+Transcriptional_regulatory_protein_OmpR,Cytoplasmic,0.0001,0.0112,0.9811,0.0076
+hypothetical_protein,Cytoplasmic,0.0014,0.0006,0.9962,0.0018
+Membrane_protein_insertase_YidC_2,Cytoplasmic Membrane,0,0.0007,0,0.9992
+Ribonuclease_P_protein_component,Cytoplasmic,0.0024,0.0118,0.9792,0.0065
+50S_ribosomal_protein_L34,Extracellular,0,0.7473,0.2527,0
+Chromosomal_replication_initiator_protein_DnaA,Cytoplasmic,0.0015,0.0134,0.975,0.0101
+Beta_sliding_clamp,Cytoplasmic,0.0015,0.0033,0.9711,0.0241
+hypothetical_protein,Cytoplasmic,0,0.0005,0.9992,0.0002
+DNA_replication_and_repair_protein_RecF,Cytoplasmic,0.0004,0.0011,0.9903,0.0083
+DNA_gyrase_subunit_B,Cytoplasmic,0.0001,0.0439,0.953,0.003
+DNA_gyrase_subunit_A,Cytoplasmic,0.0002,0.0401,0.9587,0.001
+30S_ribosomal_protein_S6,Cytoplasmic,0,0.048,0.9519,0.0002
+Single-stranded_DNA-binding_protein,Cytoplasmic,0.0002,0.1931,0.8026,0.0041
+30S_ribosomal_protein_S18,Cytoplasmic,0.0001,0.4919,0.4995,0.0085
+Cyclic-di-AMP_phosphodiesterase_GdpP,Cytoplasmic Membrane,0.0001,0.0128,0.0004,0.9868
+50S_ribosomal_protein_L9,Cytoplasmic,0.0004,0.115,0.8833,0.0013
+Replicative_DNA_helicase,Cytoplasmic,0.0009,0.0562,0.8958,0.0471
+Adenylosuccinate_synthetase,Cytoplasmic,0.0003,0.0939,0.9044,0.0015
+DegV_domain-containing_protein,Cytoplasmic,0,0.0015,0.9938,0.0047
+putative_ABC_transporter_ATP-binding_protein_YbiT,Cytoplasmic,0.0004,0.0331,0.914,0.0524
+Transcriptional_regulatory_protein_DagR,Cytoplasmic,0.0014,0.0032,0.8813,0.1141
+PTS_system_mannose-specific_EIIAB_component,Cytoplasmic,0.0001,0.0332,0.9643,0.0024
+PTS_system_mannose-specific_EIIAB_component,Cytoplasmic,0.0001,0.0248,0.9742,0.001
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0006,0,0.9994
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0011,0,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0041,0.2242,0.7716
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0,0.1154,0,0.8845
+putative_HTH-type_transcriptional_regulator_YbbH,Cytoplasmic,0.0002,0.001,0.9874,0.0115
+PTS_system_maltose-specific_EIICB_component,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Protein_MalY,Cytoplasmic,0,0.0006,0.9993,0.0001
+2-iminobutanoate/2-iminopropanoate_deaminase,Cytoplasmic,0.0005,0.0088,0.9901,0.0006
+Phosphatidylglycerol_lysyltransferase,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0605,0.0001,0.9393
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.006,0,0.9938
+hypothetical_protein,Cytoplasmic,0.0005,0.0145,0.9803,0.0047
+hypothetical_protein,Cytoplasmic,0,0.0017,0.9981,0.0001
+hypothetical_protein,Cytoplasmic,0.002,0.0135,0.9663,0.0182
+Gamma-glutamyl_phosphate_reductase,Cytoplasmic,0.0001,0.0001,0.9997,0.0001
+Glutamate_5-kinase_1,Cytoplasmic,0.0002,0.0019,0.9973,0.0005
+Deoxyuridine_5'-triphosphate_nucleotidohydrolase,Cytoplasmic,0.0001,0.0406,0.9558,0.0035
+DNA_repair_protein_RadA,Cytoplasmic,0.0005,0.0409,0.9377,0.021
+putative_PIN_and_TRAM-domain_containing_protein_YacL,Cytoplasmic Membrane,0,0.0033,0.0003,0.9963
+"2-C-methyl-D-erythritol_2,4-cyclodiphosphate_synthase",Cytoplasmic,0.0002,0.0034,0.9961,0.0003
+Glutamate--tRNA_ligase,Cytoplasmic,0,0.0003,0.9996,0
+Serine_acetyltransferase,Cytoplasmic,0.0001,0.0347,0.5158,0.4495
+Cysteine--tRNA_ligase,Cytoplasmic,0,0.0007,0.9992,0.0001
+Mini-ribonuclease_3,Cytoplasmic,0.0004,0.0001,0.9994,0.0001
+Putative_TrmH_family_tRNA/rRNA_methyltransferase,Cytoplasmic,0.0001,0.0009,0.9984,0.0006
+hypothetical_protein,Cytoplasmic,0.0008,0.0075,0.9802,0.0114
+hypothetical_protein,Cytoplasmic,0.0019,0.0031,0.9624,0.0325
+Protein_Veg,Cytoplasmic,0.0006,0.0071,0.984,0.0084
+4-diphosphocytidyl-2-C-methyl-D-erythritol_kinase,Cytoplasmic,0.0009,0.0092,0.9825,0.0074
+High-affinity_zinc_uptake_system_binding-protein_ZnuA,Cytoplasmic Membrane,0.0139,0.0202,0.0006,0.9653
+High-affinity_zinc_uptake_system_ATP-binding_protein_ZnuC,Cytoplasmic Membrane,0.0001,0.0027,0.1922,0.805
+High-affinity_zinc_uptake_system_membrane_protein_ZnuB,Cytoplasmic Membrane,0,0,0,1
+Pur_operon_repressor,Cytoplasmic,0.0004,0.0057,0.8643,0.1296
+Bifunctional_protein_GlmU,Cytoplasmic,0,0.0004,0.9996,0
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.1573,0.0229,0.0004,0.8194
+hypothetical_protein,Cytoplasmic,0,0.0017,0.9954,0.0029
+"Flavin-dependent_trigonelline_monooxygenase,_oxygenase_component",Cytoplasmic,0.0008,0.0112,0.9822,0.0058
+Holliday_junction_ATP-dependent_DNA_helicase_RuvA,Cytoplasmic,0.0002,0.0004,0.9894,0.0101
+Holliday_junction_ATP-dependent_DNA_helicase_RuvB,Cytoplasmic,0.0001,0.0071,0.9898,0.0031
+Putative_N-acetylmannosamine-6-phosphate_2-epimerase,Cytoplasmic,0.0004,0.0042,0.9923,0.0031
+Glucosidase_YgjK,Extracellular,0.0497,0.9155,0.0013,0.0335
+hypothetical_protein,Cytoplasmic,0.0016,0.0633,0.8848,0.0503
+Lactate_racemization_regulatory_protein,Cytoplasmic,0,0.0138,0.9188,0.0673
+putative_oxidoreductase_YghA,Cytoplasmic,0.0001,0.0336,0.9428,0.0236
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0,0.9983
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Stress_response_regulator_gls24_,Cytoplasmic,0.0243,0.0098,0.6624,0.3035
+Stress_response_regulator_gls24_,Cytoplasmic,0.0308,0.0048,0.8672,0.0972
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0789,0.0008,0.9202
+putative_MFS-type_transporter_YfcJ,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0003,0.073,0.9154,0.0113
+hypothetical_protein,Cytoplasmic,0.0034,0.0435,0.5618,0.3913
+hypothetical_protein,Cytoplasmic,0.001,0.0459,0.7686,0.1844
+hypothetical_protein,Cell wall & surface,0.8821,0.0887,0.0139,0.0153
+Putative_lipid_kinase,Cytoplasmic Membrane,0.0001,0.001,0.4703,0.5286
+hypothetical_protein,Cytoplasmic,0.0014,0.017,0.7887,0.1929
+hypothetical_protein,Cytoplasmic,0.0009,0.0344,0.9221,0.0427
+hypothetical_protein,Cell wall & surface,0.4663,0.387,0.0355,0.1112
+putative_formate_transporter_1,Cytoplasmic Membrane,0,0.0005,0.0001,0.9995
+hypothetical_protein,Cytoplasmic Membrane,0.0352,0.0904,0.0008,0.8735
+hypothetical_protein,Cytoplasmic,0.0004,0.0087,0.9866,0.0043
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0048,0.0006,0.9945
+hypothetical_protein,Cytoplasmic,0.0005,0.0107,0.9862,0.0027
+"L-serine_dehydratase,_alpha_chain",Cytoplasmic,0.0005,0.1075,0.8774,0.0147
+Serine--tRNA_ligase,Cytoplasmic,0,0.0004,0.9996,0
+Monoacylglycerol_lipase,Cytoplasmic,0.0037,0.0136,0.9666,0.0161
+Arginine_repressor,Cytoplasmic,0.002,0.0266,0.9598,0.0115
+Arginine_repressor,Cytoplasmic,0.0016,0.0154,0.9763,0.0066
+Arginine_deiminase,Cytoplasmic,0.0002,0.0108,0.9817,0.0074
+"Ornithine_carbamoyltransferase,_catabolic",Cytoplasmic,0.0001,0.0604,0.939,0.0005
+Carbamate_kinase_1,Cytoplasmic,0.0002,0.008,0.9899,0.0018
+Global_nitrogen_regulator,Cytoplasmic,0,0.002,0.9675,0.0305
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+Protein/nucleic_acid_deglycase_HchA,Cytoplasmic,0.0015,0.263,0.5636,0.1719
+hypothetical_protein,Cytoplasmic,0.0003,0.0029,0.9966,0.0003
+Zinc-type_alcohol_dehydrogenase-like_protein,Cytoplasmic,0.0021,0.0053,0.7396,0.253
+hypothetical_protein,Extracellular,0.1176,0.8786,0.0003,0.0034
+Putative_aminoacrylate_peracid_reductase_RutC,Cytoplasmic,0.0376,0.3049,0.6524,0.0052
+hypothetical_protein,Cytoplasmic,0.0046,0.0193,0.9729,0.0032
+Histidinol-phosphate_aminotransferase,Cytoplasmic,0,0.0011,0.9958,0.0031
+Delta(1)-pyrroline-2-carboxylate_reductase,Cytoplasmic,0.0003,0.0086,0.9883,0.0029
+putative_isomerase_YddE,Cytoplasmic,0.0004,0.003,0.9793,0.0172
+hypothetical_protein,Cytoplasmic,0.0002,0.0074,0.9899,0.0025
+hypothetical_protein,Cytoplasmic,0.0004,0.2854,0.6619,0.0522
+hypothetical_protein,Cytoplasmic,0.0009,0.4349,0.5444,0.0198
+hypothetical_protein,Cytoplasmic,0.0001,0.3641,0.5922,0.0436
+hypothetical_protein,Cytoplasmic,0.0001,0.3784,0.616,0.0055
+hypothetical_protein,Extracellular,0.0043,0.8966,0.0724,0.0267
+hypothetical_protein,Cytoplasmic Membrane,0.0023,0.0927,0.4224,0.4826
+hypothetical_protein,Cytoplasmic,0.0012,0.3415,0.4284,0.2288
+hypothetical_protein,Cytoplasmic,0.0006,0.1945,0.5557,0.2492
+hypothetical_protein,Extracellular,0.0002,0.5694,0.4142,0.0162
+IS1182_family_transposase_ISEnfa2,Cytoplasmic,0.0048,0.0811,0.9013,0.0128
+hypothetical_protein,Cytoplasmic,0.0015,0.0897,0.7001,0.2087
+hypothetical_protein,Cytoplasmic Membrane,0,0.0056,0.0001,0.9943
+hypothetical_protein,Cytoplasmic,0.0028,0.372,0.6162,0.009
+hypothetical_protein,Cytoplasmic,0.0013,0.3776,0.5617,0.0595
+hypothetical_protein,Cytoplasmic,0.0004,0.004,0.9954,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0311,0.0006,0.9682
+hypothetical_protein,Cytoplasmic,0.0003,0.1017,0.7753,0.1227
+hypothetical_protein,Cytoplasmic,0.0054,0.0835,0.8752,0.0359
+hypothetical_protein,Cytoplasmic,0.0041,0.1667,0.8248,0.0044
+hypothetical_protein,Cytoplasmic,0.0007,0.292,0.602,0.1053
+hypothetical_protein,Cytoplasmic,0.0001,0.3391,0.654,0.0069
+hypothetical_protein,Cytoplasmic,0.0003,0.3348,0.4054,0.2595
+hypothetical_protein,Cytoplasmic,0.0001,0.0041,0.9865,0.0093
+hypothetical_protein,Cytoplasmic,0.0002,0.025,0.9685,0.0063
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0059,0.0011,0.9927
+hypothetical_protein,Cytoplasmic,0.0001,0.2184,0.6995,0.082
+hypothetical_protein,Cytoplasmic,0.0002,0.0994,0.8935,0.007
+hypothetical_protein,Cytoplasmic,0.0006,0.0078,0.9855,0.0061
+hypothetical_protein,Cytoplasmic,0.0061,0.0776,0.8051,0.1111
+hypothetical_protein,Cytoplasmic,0.0011,0.1574,0.7901,0.0514
+Putative_regulatory_protein_PrgT,Cytoplasmic,0.0004,0.0174,0.9771,0.0051
+hypothetical_protein,Cell wall & surface,0.8948,0.082,0.0002,0.023
+Aggregation_substance,Cell wall & surface,0.8358,0.1416,0.0013,0.0213
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.3261,0.0015,0.6722
+hypothetical_protein,Cytoplasmic,0.0003,0.1955,0.6672,0.137
+hypothetical_protein,Cytoplasmic,0.0001,0.1207,0.5233,0.3559
+hypothetical_protein,Cell wall & surface,0.9189,0.015,0,0.066
+hypothetical_protein,Cytoplasmic Membrane,0.0111,0.0574,0.0001,0.9313
+hypothetical_protein,Cytoplasmic Membrane,0,0.2009,0.0001,0.7989
+hypothetical_protein,Cytoplasmic Membrane,0,0.0097,0.0023,0.988
+hypothetical_protein,Extracellular,0.026,0.9634,0,0.0105
+hypothetical_protein,Cytoplasmic,0.0004,0.0077,0.6166,0.3753
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.1181,0.0003,0.8812
+hypothetical_protein,Extracellular,0.0018,0.6412,0.0011,0.3559
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.1728,0.3999,0.4272
+hypothetical_protein,Cytoplasmic,0.0072,0.1097,0.7983,0.0848
+hypothetical_protein,Cytoplasmic Membrane,0.041,0.1216,0.0011,0.8363
+hypothetical_protein,Extracellular,0.0015,0.5227,0.0012,0.4746
+hypothetical_protein,Cytoplasmic,0.0001,0.0432,0.955,0.0017
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0015,0.0186,0.9755,0.0044
+GMP_synthase_[glutamine-hydrolyzing],Cytoplasmic,0.0004,0.0857,0.9032,0.0106
+Pantothenate_kinase,Cytoplasmic,0.0005,0.0069,0.9515,0.0411
+hypothetical_protein,Cytoplasmic,0.0005,0.0072,0.9913,0.0009
+Ribosomal_RNA_large_subunit_methyltransferase_G,Cytoplasmic,0.0003,0.0026,0.9967,0.0004
+Adenosine_deaminase,Cytoplasmic,0.0005,0.0023,0.9968,0.0004
+HTH-type_transcriptional_regulator_DegA,Cytoplasmic,0.0001,0.0069,0.989,0.004
+Pyrimidine-nucleoside_phosphorylase,Cytoplasmic,0.0001,0.0005,0.9989,0.0004
+Deoxyribose-phosphate_aldolase,Cytoplasmic,0,0.0007,0.9992,0.0001
+Cytidine_deaminase,Cytoplasmic,0.0001,0.0785,0.9189,0.0026
+Membrane_lipoprotein_TmpC,Cytoplasmic Membrane,0.0041,0.0125,0,0.9835
+Membrane_lipoprotein_TmpC,Cytoplasmic Membrane,0.0097,0.0577,0.0001,0.9325
+Galactose/methyl_galactoside_import_ATP-binding_protein_MglA,Cytoplasmic Membrane,0.0001,0.0077,0.1109,0.8813
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Potassium_channel,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Phosphopentomutase,Cytoplasmic,0.0001,0.015,0.9839,0.001
+Purine_nucleoside_phosphorylase_1,Cytoplasmic,0,0.001,0.9987,0.0003
+Purine_nucleoside_phosphorylase_DeoD-type,Cytoplasmic,0.0001,0.0335,0.9634,0.003
+Iron(3+)-hydroxamate-binding_protein_FhuD,Cytoplasmic Membrane,0.0054,0.0135,0,0.9811
+Petrobactin_import_ATP-binding_protein_FpuD,Cytoplasmic Membrane,0.0001,0.0017,0.3018,0.6964
+Iron-uptake_system_permease_protein_FeuB,Cytoplasmic Membrane,0,0.0002,0.0001,0.9997
+Iron-uptake_system_permease_protein_FeuC,Cytoplasmic Membrane,0,0.0001,0.0002,0.9997
+NADH-dependent_butanol_dehydrogenase_A,Cytoplasmic,0,0.0258,0.9623,0.0118
+"2,3-bisphosphoglycerate-dependent_phosphoglycerate_mutase",Cytoplasmic,0.0002,0.0135,0.9845,0.0018
+DNA-invertase_hin,Cytoplasmic,0.0001,0.0021,0.9963,0.0015
+Ribose-5-phosphate_isomerase_A,Cytoplasmic,0,0,0.9997,0.0002
+30S_ribosomal_protein_S12,Cytoplasmic,0.0051,0.2625,0.6333,0.0991
+30S_ribosomal_protein_S7,Extracellular,0.0001,0.8519,0.1471,0.0009
+Elongation_factor_G,Cytoplasmic,0,0.0038,0.996,0.0002
+Elongation_factor_Tu,Cytoplasmic,0,0.0053,0.9943,0.0005
+Pyridoxine_kinase,Cytoplasmic,0.0005,0.001,0.997,0.0015
+Cyclopropane-fatty-acyl-phospholipid_synthase,Cytoplasmic,0.0004,0.0304,0.7213,0.2479
+30S_ribosomal_protein_S10,Cytoplasmic,0.0004,0.1099,0.8583,0.0314
+50S_ribosomal_protein_L3,Extracellular,0,0.8573,0.1427,0
+50S_ribosomal_protein_L4,Extracellular,0.0003,0.7188,0.2769,0.004
+50S_ribosomal_protein_L23,Cytoplasmic,0.0001,0.4709,0.5276,0.0014
+50S_ribosomal_protein_L2,Extracellular,0,0.958,0.0419,0
+30S_ribosomal_protein_S19,Cytoplasmic,0.0009,0.1251,0.7108,0.1632
+50S_ribosomal_protein_L22,Extracellular,0.0032,0.5171,0.4691,0.0106
+30S_ribosomal_protein_S3,Extracellular,0.0009,0.5933,0.4022,0.0036
+50S_ribosomal_protein_L16,Cytoplasmic,0.0001,0.2847,0.7151,0.0001
+50S_ribosomal_protein_L29,Cytoplasmic,0.0001,0.031,0.9681,0.0007
+30S_ribosomal_protein_S17,Cytoplasmic,0,0.3246,0.6753,0
+50S_ribosomal_protein_L14,Extracellular,0,0.9058,0.0939,0.0002
+50S_ribosomal_protein_L24,Cytoplasmic,0.0001,0.1345,0.8654,0
+50S_ribosomal_protein_L5,Extracellular,0.0001,0.8775,0.1221,0.0003
+30S_ribosomal_protein_S14_type_Z,Extracellular,0,0.5703,0.4273,0.0024
+30S_ribosomal_protein_S8,Cytoplasmic,0.0001,0.1751,0.8246,0.0003
+50S_ribosomal_protein_L6,Extracellular,0,0.8638,0.135,0.0011
+50S_ribosomal_protein_L18,Cytoplasmic,0,0.2527,0.7473,0
+30S_ribosomal_protein_S5,Cytoplasmic,0.0001,0.0083,0.9916,0.0001
+50S_ribosomal_protein_L30,Cytoplasmic,0.001,0.3716,0.6256,0.0018
+50S_ribosomal_protein_L15,Extracellular,0,0.9258,0.0741,0
+Protein_translocase_subunit_SecY,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Adenylate_kinase,Cytoplasmic,0,0.0021,0.9979,0
+Translation_initiation_factor_IF-1,Cytoplasmic,0.0001,0.0174,0.981,0.0015
+50S_ribosomal_protein_L36,Extracellular,0.0006,0.6994,0.2907,0.0092
+30S_ribosomal_protein_S13,Extracellular,0,0.6365,0.3631,0.0003
+30S_ribosomal_protein_S11,Cytoplasmic,0.0004,0.0461,0.9419,0.0115
+DNA-directed_RNA_polymerase_subunit_alpha,Cytoplasmic,0.0001,0.0379,0.9603,0.0017
+50S_ribosomal_protein_L17,Cytoplasmic,0.0041,0.4404,0.525,0.0305
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+N-acetylcysteine_deacetylase,Cytoplasmic,0.0001,0.0013,0.9983,0.0002
+Energy-coupling_factor_transporter_ATP-binding_protein_EcfA1,Cytoplasmic Membrane,0.0004,0.0059,0.3764,0.6172
+Energy-coupling_factor_transporter_ATP-binding_protein_EcfA2,Cytoplasmic,0.0021,0.0016,0.5663,0.43
+Energy-coupling_factor_transporter_transmembrane_protein_EcfT,Cytoplasmic Membrane,0,0.0001,0.0001,0.9998
+tRNA_pseudouridine_synthase_A,Cytoplasmic,0,0.0002,0.9992,0.0006
+hypothetical_protein,Cytoplasmic,0,0.0557,0.9351,0.0091
+Branched-chain_amino_acid_transport_system_2_carrier_protein,Cytoplasmic Membrane,0,0.0005,0,0.9995
+Spermidine_N(1)-acetyltransferase,Cytoplasmic,0.0006,0.0514,0.9478,0.0002
+Putative_cytokinin_riboside_5'-monophosphate_phosphoribohydrolase,Cytoplasmic,0,0.0021,0.9977,0.0001
+Glutamine_transport_ATP-binding_protein_GlnQ,Cytoplasmic Membrane,0.0002,0.0895,0.0725,0.8377
+Membrane-bound_lytic_murein_transglycosylase_F,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.023,0,0.9769
+NAD-dependent_protein_deacetylase,Cytoplasmic,0,0.0003,0.9995,0.0002
+"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate_N-acetyltransferase",Cytoplasmic,0.0001,0.0013,0.9984,0.0002
+putative_transcription_repressor_NiaR,Cytoplasmic,0,0.0007,0.9973,0.0019
+hypothetical_protein,Extracellular,0.1213,0.8758,0.0003,0.0026
+Putative_aldehyde_dehydrogenase_AldA,Cytoplasmic,0.0001,0.0064,0.9878,0.0057
+L-lactate_dehydrogenase,Cytoplasmic,0.0005,0.0236,0.9681,0.0078
+Peptidyl-tRNA_hydrolase,Cytoplasmic,0.0001,0.0009,0.999,0.0001
+Transcription-repair-coupling_factor,Cytoplasmic,0.0019,0.0027,0.9706,0.0248
+Lipid_II_flippase_MurJ,Cytoplasmic Membrane,0,0,0,0.9999
+hypothetical_protein,Cytoplasmic,0,0.0016,0.9981,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+Polyribonucleotide_nucleotidyltransferase,Cytoplasmic,0,0.0072,0.9928,0
+tRNA(Ile)-lysidine_synthase,Cytoplasmic,0.0019,0,0.9973,0.0007
+Hypoxanthine-guanine_phosphoribosyltransferase,Cytoplasmic,0,0.0084,0.9914,0.0002
+ATP-dependent_zinc_metalloprotease_FtsH,Cytoplasmic Membrane,0,0.0027,0,0.9973
+33_kDa_chaperonin,Cytoplasmic,0.0002,0.0073,0.9901,0.0024
+tRNA-dihydrouridine_synthase_B,Cytoplasmic,0.0003,0.0125,0.9858,0.0014
+Lysine--tRNA_ligase,Cytoplasmic,0,0.0023,0.9976,0.0001
+Transcription_antiterminator_LicT,Cytoplasmic,0.0018,0.0034,0.8519,0.1429
+PTS_system_beta-glucoside-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.001,0,0.999
+Aryl-phospho-beta-D-glucosidase_BglH,Cytoplasmic,0.0001,0.0243,0.975,0.0006
+Aryl-phospho-beta-D-glucosidase_BglA,Cytoplasmic,0.0001,0.0455,0.9534,0.001
+"2,3-bisphosphoglycerate-dependent_phosphoglycerate_mutase",Cytoplasmic Membrane,0.0065,0.0237,0,0.9698
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.088,0.0014,0.9104
+Bifunctional_transcriptional_activator/DNA_repair_enzyme_AdaA,Cytoplasmic,0.0023,0.0083,0.9847,0.0047
+"Methylated-DNA--protein-cysteine_methyltransferase,_inducible",Cytoplasmic,0.0005,0.0016,0.9924,0.0055
+DNA-3-methyladenine_glycosylase_1,Cytoplasmic,0.0021,0.0578,0.8967,0.0434
+putative_protein_YedJ,Cytoplasmic,0.0004,0.0001,0.999,0.0005
+Zinc_transporter_ZitB,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0013,0.2542,0.7113,0.0331
+Enoyl-[acyl-carrier-protein]_reductase_[NADH]_FabI,Cytoplasmic,0.0006,0.1728,0.5222,0.3043
+3-oxoacyl-[acyl-carrier-protein]_synthase_2,Cytoplasmic,0.0002,0.0169,0.9217,0.0612
+3-hydroxyacyl-[acyl-carrier-protein]_dehydratase_FabZ,Cytoplasmic,0,0.0168,0.9674,0.0158
+Dihydroorotate_dehydrogenase_A_(fumarate),Cytoplasmic,0.0003,0.0202,0.9743,0.0052
+hypothetical_protein,Cytoplasmic,0.0023,0.0015,0.9127,0.0836
+Elongation_factor_P,Cytoplasmic,0,0.0006,0.9994,0
+hypothetical_protein,Cytoplasmic,0.0002,0.3074,0.6806,0.0118
+Cysteine_synthase,Cytoplasmic,0.0001,0.005,0.9941,0.0008
+Cystathionine_beta-lyase,Cytoplasmic,0.0001,0.0042,0.9954,0.0003
+Aryl-phospho-beta-D-glucosidase_BglA,Cytoplasmic,0.0001,0.0359,0.9634,0.0007
+PTS_system_oligo-beta-mannoside-specific_EIIC_component,Cytoplasmic Membrane,0,0.0006,0,0.9993
+hypothetical_protein,Cytoplasmic,0.0022,0.4382,0.5061,0.0536
+hypothetical_protein,Cytoplasmic Membrane,0.0011,0.1996,0.3893,0.41
+hypothetical_protein,Cytoplasmic,0.0076,0.232,0.5515,0.209
+hypothetical_protein,Extracellular,0.0009,0.3673,0.294,0.3378
+HTH-type_transcriptional_regulator_MurR,Cytoplasmic,0.0003,0.0025,0.9767,0.0205
+putative_protein_YyaP,Cytoplasmic,0,0.0002,0.9997,0.0001
+Potassium/sodium_uptake_protein_NtpJ,Cytoplasmic Membrane,0,0,0,1
+Na(+)/H(+)_antiporter,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Transcriptional_repressor_CopY,Cytoplasmic,0.0002,0.0062,0.9908,0.0027
+Copper-exporting_P-type_ATPase,Cytoplasmic Membrane,0,0.001,0.0001,0.9989
+hypothetical_protein,Cytoplasmic,0.0002,0.018,0.9801,0.0016
+hypothetical_protein,Cytoplasmic Membrane,0,0.0041,0.0002,0.9956
+hypothetical_protein,Cytoplasmic,0.0001,0.0004,0.9988,0.0007
+Aminopeptidase_C,Cytoplasmic,0.0005,0.0343,0.9605,0.0048
+hypothetical_protein,Cytoplasmic,0,0.0051,0.9943,0.0006
+Putative_ring-cleaving_dioxygenase_MhqA,Cytoplasmic,0,0.0013,0.9974,0.0013
+putative_guanidinium_efflux_system_subunit_GdnC,Cytoplasmic Membrane,0,0.0001,0.0001,0.9999
+putative_guanidinium_efflux_system_subunit_GdnD,Cytoplasmic Membrane,0,0.0023,0.0001,0.9976
+Chitinase,Extracellular,0.0003,0.9997,0,0
+Lytic_chitin_monooxygenase,Extracellular,0.0002,0.9997,0,0.0002
+hypothetical_protein,Cytoplasmic,0,0.0015,0.9827,0.0158
+hypothetical_protein,Cytoplasmic,0.0001,0.0021,0.9952,0.0025
+hypothetical_protein,Cytoplasmic,0.0003,0.0118,0.9874,0.0005
+Aspartokinase_3,Cytoplasmic,0.0004,0.0015,0.9956,0.0026
+Phosphoglycolate_phosphatase,Cytoplasmic,0.0023,0.0008,0.9932,0.0037
+Septation_ring_formation_regulator_EzrA,Cytoplasmic Membrane,0,0.0035,0.0001,0.9964
+Cysteine_desulfurase_IscS,Cytoplasmic,0.0033,0.0004,0.9952,0.0011
+Transcriptional_regulatory_protein_SrrA,Cytoplasmic,0.0001,0.0024,0.9933,0.0043
+Sensor_histidine_kinase_RcsC,Cytoplasmic Membrane,0.0001,0.0048,0.0001,0.995
+hypothetical_protein,Cytoplasmic Membrane,0.0091,0.4913,0.0008,0.4988
+hypothetical_protein,Extracellular,0.0101,0.9874,0,0.0025
+hypothetical_protein,Extracellular,0.0548,0.6434,0.1802,0.1217
+hypothetical_protein,Extracellular,0.1396,0.6714,0.0041,0.1849
+hypothetical_protein,Cytoplasmic Membrane,0.0358,0.1299,0.0031,0.8312
+5'-deoxyadenosine_deaminase,Cytoplasmic,0,0.0009,0.9982,0.001
+hypothetical_protein,Cytoplasmic,0.0159,0.19,0.7592,0.0349
+hypothetical_protein,Cytoplasmic,0,0.005,0.9925,0.0025
+hypothetical_protein,Cytoplasmic,0.0181,0.0974,0.8375,0.047
+Purine_catabolism_regulatory_protein,Cytoplasmic,0.0025,0.0363,0.7534,0.2079
+hypothetical_protein,Cytoplasmic,0.0011,0.082,0.9132,0.0038
+hypothetical_protein,Cytoplasmic,0.0024,0.0076,0.9678,0.0222
+Hexuronate_transporter,Cytoplasmic Membrane,0,0.0007,0,0.9993
+Carbamate_kinase_1,Cytoplasmic,0.0002,0.0305,0.9684,0.0008
+Proton/glutamate-aspartate_symporter,Cytoplasmic Membrane,0,0.0004,0,0.9996
+Ureidoglycolate_dehydrogenase_(NAD(+)),Cytoplasmic,0,0.0012,0.9969,0.0019
+hypothetical_protein,Cytoplasmic Membrane,0,0.0037,0,0.9962
+N-isopropylammelide_isopropyl_amidohydrolase,Cytoplasmic,0.0002,0.0159,0.9784,0.0055
+hypothetical_protein,Extracellular,0.1014,0.5478,0.1512,0.1995
+hypothetical_protein,Extracellular,0.0785,0.9086,0.0001,0.0129
+hypothetical_protein,Cytoplasmic,0.0006,0.2338,0.5098,0.2559
+hypothetical_protein,Cytoplasmic,0.0008,0.0458,0.8686,0.0848
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic Membrane,0,0.0013,0,0.9987
+hypothetical_protein,Cytoplasmic Membrane,0,0.0032,0.0001,0.9967
+hypothetical_protein,Cytoplasmic Membrane,0,0.0008,0,0.9992
+Pyrrolidone-carboxylate_peptidase,Cytoplasmic,0.0001,0.0015,0.9982,0.0001
+Na(+)/H(+)_antiporter_NhaC,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0001,0.0021,0.9963,0.0015
+Putative_NAD(P)H_nitroreductase_YodC,Cytoplasmic,0,0.0009,0.9987,0.0004
+Sugar_phosphatase_YidA,Cytoplasmic,0,0.0003,0.9995,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0022,0.0015,0.9963
+Transcriptional_regulator_MtlR,Cytoplasmic,0.0002,0.0004,0.9865,0.0128
+Mannitol-specific_phosphotransferase_enzyme_IIA_component,Cytoplasmic,0,0.0063,0.9898,0.0039
+hypothetical_protein,Cytoplasmic Membrane,0,0.0029,0.0004,0.9967
+Mannitol-specific_phosphotransferase_enzyme_IIA_component,Cytoplasmic,0,0.0013,0.9979,0.0007
+Mannitol-1-phosphate_5-dehydrogenase,Cytoplasmic,0.0011,0.0015,0.9962,0.0013
+tRNA_5-methylaminomethyl-2-thiouridine_biosynthesis_bifunctional_protein_MnmC,Cytoplasmic,0.0003,0.0021,0.9874,0.0101
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.0068,0.2897,0.7031
+hypothetical_protein,Cytoplasmic Membrane,0.0266,0.2631,0.0012,0.709
+putative_ABC_transporter_ATP-binding_protein_YknY,Cytoplasmic Membrane,0.0001,0.0089,0.1244,0.8667
+Macrolide_export_ATP-binding/permease_protein_MacB,Cytoplasmic Membrane,0,0.0011,0,0.9989
+hypothetical_protein,Extracellular,0,1,0,0
+hypothetical_protein,Cytoplasmic Membrane,0.0042,0.1588,0.0006,0.8364
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0065,0.0001,0.9932
+Multidrug_export_protein_EmrB,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic,0.0021,0.053,0.8812,0.0638
+Transcriptional_regulator_KdgR,Cytoplasmic,0.0001,0.0007,0.9981,0.001
+KHG/KDPG_aldolase,Cytoplasmic,0.0002,0.0024,0.9962,0.0012
+2-dehydro-3-deoxygluconokinase,Cytoplasmic,0.0001,0.0014,0.997,0.0015
+4-deoxy-L-threo-5-hexosulose-uronate_ketol-isomerase_1,Cytoplasmic,0,0.0221,0.9771,0.0008
+2-dehydro-3-deoxy-D-gluconate_5-dehydrogenase,Cytoplasmic,0.0001,0.0183,0.9746,0.007
+Unsaturated_rhamnogalacturonyl_hydrolase_YesR,Cytoplasmic,0.0035,0.0595,0.9207,0.0164
+Solute-binding_protein,Cytoplasmic Membrane,0.0934,0.2243,0.0001,0.6822
+Sialic_acid_TRAP_transporter_permease_protein_SiaT,Cytoplasmic Membrane,0,0.0019,0.0004,0.9977
+C4-dicarboxylate_TRAP_transporter_large_permease_protein_DctM,Cytoplasmic Membrane,0,0.0003,0,0.9997
+HTH-type_transcriptional_activator_RhaR,Cytoplasmic,0.001,0.0071,0.9837,0.0082
+L-Rhamnulokinase,Cytoplasmic,0.0017,0.0047,0.9916,0.002
+L-rhamnose_isomerase,Cytoplasmic,0.0001,0.0169,0.9805,0.0025
+Rhamnulose-1-phosphate_aldolase,Cytoplasmic,0,0.0072,0.9908,0.002
+L-rhamnose_mutarotase,Cytoplasmic,0,0.0002,0.9997,0.0001
+HTH-type_transcriptional_activator_RhaR,Cytoplasmic,0.0026,0.0233,0.9279,0.0462
+hypothetical_protein,Cytoplasmic,0.0004,0.0025,0.995,0.0021
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+Di-/tripeptide_transporter,Cytoplasmic Membrane,0,0.0004,0,0.9996
+hypothetical_protein,Extracellular,0.4488,0.5431,0.0002,0.0079
+"1,4-dihydroxy-2-naphthoyl-CoA_synthase",Cytoplasmic,0,0.0076,0.9642,0.0282
+2-succinylbenzoate--CoA_ligase,Cytoplasmic,0.0003,0.002,0.9948,0.0029
+Salicylate_biosynthesis_isochorismate_synthase,Cytoplasmic,0.0004,0.0033,0.9924,0.0038
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate_synthase,Cytoplasmic,0.0005,0.0001,0.9984,0.001
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate_synthase",Cytoplasmic,0.0001,0.0032,0.9961,0.0006
+o-succinylbenzoate_synthase,Cytoplasmic,0.0001,0.0018,0.9966,0.0016
+Glucosamine-6-phosphate_deaminase,Cytoplasmic,0,0.0005,0.9994,0.0001
+2-succinylbenzoate--CoA_ligase,Cytoplasmic,0,0.0022,0.9918,0.006
+Organic_hydroperoxide_resistance_protein_OhrA,Cytoplasmic,0.0002,0.0101,0.9894,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0,0.9991
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0019,0,0.9981
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0006,0,0.9994
+PTS_system_sorbose-specific_EIIB_component,Cytoplasmic,0.0001,0.0198,0.9767,0.0034
+putative_HTH-type_transcriptional_regulator_YbbH,Cytoplasmic,0.0008,0.0398,0.9505,0.0089
+N-acetylmuramic_acid_6-phosphate_etherase,Cytoplasmic,0.0002,0.0011,0.9983,0.0004
+Putative_D-alanyl-D-alanine_carboxypeptidase,Cytoplasmic,0.0002,0.0006,0.9966,0.0026
+PTS_system_sorbose-specific_EIIA_component,Cytoplasmic,0,0.001,0.9989,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0024,0.0005,0.997
+Superoxide_dismutase_[Mn],Cytoplasmic,0.0001,0.044,0.9557,0.0002
+Diaminopimelate_epimerase,Cytoplasmic,0.0042,0.0008,0.9932,0.0018
+Polyisoprenyl-teichoic_acid--peptidoglycan_teichoic_acid_transferase_TagU,Cytoplasmic Membrane,0.0031,0.099,0.0002,0.8977
+Glucosamine-6-phosphate_deaminase,Cytoplasmic,0,0.0013,0.9987,0
+Protein_SapB,Cytoplasmic Membrane,0,0.0016,0.0005,0.9978
+Protein_LemA,Cytoplasmic Membrane,0,0.1234,0,0.8765
+hypothetical_protein,Cytoplasmic Membrane,0.0035,0.4675,0.0008,0.5282
+Ribonucleoside-diphosphate_reductase_subunit_beta_nrdF2,Cytoplasmic,0.0003,0.124,0.8653,0.0104
+Ribonucleoside-diphosphate_reductase_subunit_alpha_2,Extracellular,0.0008,0.6147,0.3787,0.0058
+Protein_NrdI,Cytoplasmic,0,0.011,0.9884,0.0005
+Glutaredoxin-like_protein_NrdH,Cytoplasmic,0,0.0027,0.9971,0.0001
+hypothetical_protein,Cytoplasmic,0.0001,0.0024,0.995,0.0025
+Fe(2+)_transporter_FeoB,Cytoplasmic Membrane,0,0.0007,0.0002,0.9991
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0201,0.0013,0.9784
+putative_oxidoreductase_YtbE,Cytoplasmic,0.0002,0.0017,0.9981,0
+2-epi-5-epi-valiolone_epimerase,Cytoplasmic,0,0.0065,0.9925,0.001
+Major_cardiolipin_synthase_ClsA,Cytoplasmic Membrane,0,0.0003,0.0002,0.9994
+Tyrosine--tRNA_ligase_1,Cytoplasmic,0,0.0021,0.9978,0.0001
+hypothetical_protein,Cytoplasmic,0.0005,0.0545,0.9419,0.003
+putative_glutamate/gamma-aminobutyrate_antiporter,Cytoplasmic Membrane,0,0.0014,0,0.9986
+Na(+)/H(+)_antiporter_NhaC,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic Membrane,0.0355,0.027,0.0004,0.9371
+putative_lipoprotein_YehR,Cytoplasmic Membrane,0.0006,0.166,0,0.8334
+putative_protein_YpjQ,Cytoplasmic,0.0006,0.2778,0.6881,0.0336
+L-lactate_dehydrogenase,Cytoplasmic,0.0016,0.0174,0.973,0.008
+hypothetical_protein,Extracellular,0.0017,0.5001,0.4392,0.059
+hypothetical_protein,Cytoplasmic,0.0045,0.0709,0.8029,0.1217
+HTH-type_transcriptional_regulator_CysL,Cytoplasmic,0.001,0.0055,0.9889,0.0046
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0,0.9991
+UDP-N-acetylglucosamine_4-epimerase,Cytoplasmic,0.0117,0.1691,0.7573,0.0619
+putative_HTH-type_transcriptional_regulator_YtcD,Cytoplasmic,0.0002,0.0052,0.9937,0.0008
+Putative_NAD(P)H_nitroreductase_YodC,Cytoplasmic,0,0.007,0.9902,0.0028
+Lipoate-protein_ligase_LplJ,Cytoplasmic,0.0002,0.0034,0.9948,0.0017
+hypothetical_protein,Cytoplasmic,0.0002,0.3488,0.6384,0.0126
+Protease_HtpX,Cytoplasmic Membrane,0.0008,0.0378,0.038,0.9234
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0.0001,0.9989
+hypothetical_protein,Cytoplasmic,0.0004,0.2277,0.6062,0.1658
+hypothetical_protein,Cytoplasmic,0.0001,0.0087,0.804,0.1873
+Catabolite_control_protein_B,Cytoplasmic,0.0001,0.0014,0.996,0.0025
+hypothetical_protein,Cytoplasmic,0.0001,0.0135,0.9856,0.0008
+"Catechol-2,3-dioxygenase",Cytoplasmic,0.0002,0.0014,0.9981,0.0003
+HTH-type_transcriptional_repressor_GlcR,Cytoplasmic,0,0.0006,0.9988,0.0006
+hypothetical_protein,Cytoplasmic,0.0009,0.0128,0.9852,0.001
+Type-4_uracil-DNA_glycosylase,Cytoplasmic,0.0005,0.002,0.9971,0.0004
+Multidrug_export_protein_MepA,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0014,0.0615,0.8988,0.0382
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0,0.9993
+putative_transcriptional_regulatory_protein,Cytoplasmic,0,0.0044,0.995,0.0005
+hypothetical_protein,Cytoplasmic,0.0001,0.0271,0.967,0.0059
+hypothetical_protein,Cytoplasmic,0.002,0.1107,0.8857,0.0015
+Putative_ring-cleaving_dioxygenase_MhqA,Cytoplasmic,0,0.0002,0.9993,0.0005
+Putative_hydrolase_MhqD,Cytoplasmic,0.0015,0.0062,0.9912,0.0011
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine_ligase,Cytoplasmic,0.0013,0.0015,0.9952,0.002
+Lipid_II_flippase_MurJ,Cytoplasmic Membrane,0,0,0,1
+Ribosomal_small_subunit_pseudouridine_synthase_A,Cytoplasmic,0.001,0.0002,0.9984,0.0004
+Beta-Ala-Xaa_dipeptidase,Cytoplasmic,0.0002,0.0043,0.9927,0.0028
+hypothetical_protein,Cytoplasmic,0.0098,0.2712,0.7026,0.0164
+Choloylglycine_hydrolase,Cytoplasmic,0.0012,0.0584,0.9337,0.0067
+hypothetical_protein,Extracellular,0.0056,0.9787,0.0011,0.0146
+IS6_family_transposase_IS1297,Cytoplasmic,0.0114,0.3384,0.6471,0.0031
+hypothetical_protein,Cytoplasmic Membrane,0,0.0107,0.001,0.9883
+hypothetical_protein,Cell wall & surface,0.7043,0.0347,0.001,0.26
+2-dehydropantoate_2-reductase,Cytoplasmic,0,0.0069,0.9923,0.0008
+hypothetical_protein,Cytoplasmic Membrane,0,0.0031,0.0002,0.9967
+IS256_family_transposase_ISEfm2,Cytoplasmic,0.0069,0.0219,0.9666,0.0046
+hypothetical_protein,Extracellular,0.0002,0.4335,0.3754,0.1909
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.0913,0.0003,0.9079
+Transcription_antiterminator_LicT,Cytoplasmic,0.0018,0.0057,0.8953,0.0972
+PTS_system_beta-glucoside-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.001,0.0001,0.9989
+Aryl-phospho-beta-D-glucosidase_BglH,Cytoplasmic,0.001,0.1813,0.8155,0.0022
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0,0.9985
+hypothetical_protein,Cell wall & surface,0.5293,0.3424,0.0006,0.1277
+hypothetical_protein,Cytoplasmic,0.0028,0.0524,0.9177,0.0271
+hypothetical_protein,Cytoplasmic Membrane,0,0.0005,0,0.9995
+putative_HTH-type_transcriptional_regulator_YbbH,Cytoplasmic,0.0007,0.0056,0.9482,0.0455
+Putative_N-acetylmannosamine-6-phosphate_2-epimerase,Cytoplasmic,0.0007,0.0078,0.9546,0.0369
+PTS_system_glucoside-specific_EIICBA_component,Cytoplasmic Membrane,0,0.0002,0,0.9998
+PTS_system_glucose-specific_EIIA_component,Cytoplasmic,0.0001,0.0024,0.9846,0.013
+Glycine_betaine/carnitine/choline_transport_ATP-binding_protein_OpuCA,Cytoplasmic Membrane,0.0012,0.0087,0.3261,0.664
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0035,0.001,0.9952
+Arginine_repressor,Cytoplasmic,0,0.0027,0.9937,0.0036
+Phosphomannomutase/phosphoglucomutase,Cytoplasmic,0.0002,0.0019,0.9972,0.0007
+hypothetical_protein,Cytoplasmic,0.0025,0.0775,0.9062,0.0138
+hypothetical_protein,Cytoplasmic,0.0006,0.0003,0.9403,0.0588
+Penicillin-binding_protein_1F,Cytoplasmic Membrane,0.0031,0.0251,0.0002,0.9717
+hypothetical_protein,Cytoplasmic,0,0.001,0.9987,0.0003
+hypothetical_protein,Cytoplasmic,0.0002,0.0002,0.9971,0.0025
+putative_protein_YhaN,Cytoplasmic Membrane,0.0356,0.0355,0.0291,0.8998
+3'-5'_exoribonuclease_YhaM,Cytoplasmic,0,0.0009,0.9975,0.0015
+Foldase_protein_PrsA,Cytoplasmic Membrane,0.0018,0.0263,0,0.9719
+hypothetical_protein,Cytoplasmic Membrane,0.0345,0.1214,0.0619,0.7821
+Protein_hit,Cytoplasmic,0.0001,0.0061,0.9908,0.003
+ABC-type_transporter_ATP-binding_protein_EcsA,Cytoplasmic Membrane,0.0003,0.0062,0.3547,0.6389
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0018,0.0006,0.9975
+hypothetical_protein,Cytoplasmic,0,0.0002,0.9267,0.0731
+tRNA_(guanine-N(7)-)-methyltransferase,Cytoplasmic,0.0002,0.0024,0.9971,0.0004
+HTH-type_transcriptional_regulator_MurR,Cytoplasmic,0.0002,0.0029,0.9305,0.0663
+ATP-dependent_6-phosphofructokinase_isozyme_2,Cytoplasmic,0.0032,0.0023,0.9822,0.0123
+PTS_system_fructose-specific_EIIABC_component,Cytoplasmic Membrane,0,0.0005,0.0001,0.9994
+PTS_system_2-O-alpha-mannosyl-D-glycerate-specific_EIIABC_component,Cytoplasmic,0,0.0001,0.9997,0.0002
+"Tagatose_1,6-diphosphate_aldolase",Cytoplasmic,0.0024,0.0384,0.9557,0.0034
+hypothetical_protein,Cytoplasmic,0.0013,0.0173,0.7802,0.2012
+Acetyltransferase,Cytoplasmic,0,0.0008,0.9992,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Peptide_chain_release_factor_3,Cytoplasmic,0,0.0142,0.9834,0.0024
+hypothetical_protein,Cytoplasmic Membrane,0,0.0035,0,0.9965
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic Membrane,0.2448,0.2856,0.0029,0.4666
+hypothetical_protein,Cytoplasmic,0.0005,0.1089,0.7958,0.0948
+ATP-dependent_Clp_protease_ATP-binding_subunit_ClpE,Cytoplasmic,0.0023,0.0064,0.9875,0.0038
+hypothetical_protein,Cytoplasmic,0.0002,0.0084,0.9895,0.0019
+Phosphocarrier_protein_HPr,Cytoplasmic,0,0.0011,0.9987,0.0002
+Phosphoenolpyruvate-protein_phosphotransferase,Cytoplasmic,0.0001,0.0103,0.9886,0.001
+hypothetical_protein,Cytoplasmic Membrane,0.0027,0.0231,0.0004,0.9738
+hypothetical_protein,Extracellular,0.0691,0.9067,0.0007,0.0234
+hypothetical_protein,Extracellular,0.0085,0.9527,0.0035,0.0353
+Trigger_factor,Cytoplasmic,0.0001,0.0006,0.9993,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0,0.999
+PTS_system_fructose-specific_EIIABC_component,Cytoplasmic Membrane,0,0.0013,0.0002,0.9985
+Tagatose-6-phosphate_kinase,Cytoplasmic,0.0007,0.0004,0.9939,0.005
+Glucitol_operon_repressor,Cytoplasmic,0.0001,0.0002,0.999,0.0008
+H(+)/Cl(-)_exchange_transporter_ClcA,Cytoplasmic Membrane,0,0,0.0001,0.9999
+ATP-dependent_DNA_helicase_PcrA,Cytoplasmic,0.0007,0.0187,0.9738,0.0067
+DNA_ligase,Cytoplasmic,0,0.0004,0.9994,0.0002
+Glutamyl-tRNA(Gln)_amidotransferase_subunit_C,Cytoplasmic,0,0.0015,0.9982,0.0003
+Glutamyl-tRNA(Gln)_amidotransferase_subunit_A,Cytoplasmic,0.0022,0.0508,0.9179,0.0291
+Aspartyl/glutamyl-tRNA(Asn/Gln)_amidotransferase_subunit_B,Cytoplasmic,0,0.0195,0.9804,0.0001
+Diacylglycerol_kinase,Cytoplasmic,0.0002,0.02,0.8728,0.107
+23S_rRNA_(uracil-C(5))-methyltransferase_RlmCD,Cytoplasmic,0.0005,0.0004,0.9986,0.0005
+hypothetical_protein,Cytoplasmic,0.0005,0.0004,0.995,0.0041
+hypothetical_protein,Cytoplasmic,0.0488,0.0392,0.7907,0.1213
+HTH-type_transcriptional_regulator_MalT,Cytoplasmic Membrane,0.0001,0.0092,0.0004,0.9903
+Putrescine_carbamoyltransferase,Cytoplasmic,0.0001,0.0672,0.9265,0.0062
+putative_glutamate/gamma-aminobutyrate_antiporter,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Putative_agmatine_deiminase,Cytoplasmic,0.0005,0.2169,0.766,0.0166
+Carbamate_kinase_1,Cytoplasmic,0.0002,0.0073,0.9903,0.0022
+"Glutamyl-tRNA(Gln)_amidotransferase_subunit_A,_chloroplastic/mitochondrial",Cytoplasmic Membrane,0.0044,0.0656,0.0001,0.9298
+Nicotinamide_riboside_transporter_PnuC,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Deoxyguanosine_kinase,Cytoplasmic,0,0.001,0.9984,0.0005
+hypothetical_protein,Cytoplasmic Membrane,0,0.0022,0.0001,0.9977
+hypothetical_protein,Cytoplasmic,0.0006,0.0147,0.9737,0.011
+hypothetical_protein,Cytoplasmic,0.0006,0.0187,0.8981,0.0826
+L-cystine_uptake_protein_TcyP,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0,0.0093,0.9906,0.0001
+D-aminopeptidase,Cytoplasmic Membrane,0.0094,0.1532,0.0013,0.836
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0113,0.0021,0.9864
+hypothetical_protein,Cytoplasmic,0.0001,0.0191,0.9805,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0.2483,0.0608,0.0001,0.6908
+hypothetical_protein,Extracellular,0.4748,0.521,0.0005,0.0037
+hypothetical_protein,Extracellular,0.4883,0.4977,0.0064,0.0076
+hypothetical_protein,Extracellular,0.0273,0.9723,0.0003,0.0002
+hypothetical_protein,Extracellular,0.4752,0.5185,0.0003,0.006
+hypothetical_protein,Cytoplasmic Membrane,0.0012,0.017,0,0.9818
+hypothetical_protein,Extracellular,0.0245,0.6045,0.0049,0.366
+hypothetical_protein,Cytoplasmic,0.0022,0.0258,0.7079,0.2642
+Zinc-transporting_ATPase,Cytoplasmic Membrane,0,0.0003,0,0.9996
+Protein_SapB,Cytoplasmic Membrane,0,0.0014,0.0006,0.998
+Glutamine_transport_ATP-binding_protein_GlnQ,Cytoplasmic Membrane,0.0002,0.0757,0.0813,0.8428
+Membrane-bound_lytic_murein_transglycosylase_F,Cytoplasmic Membrane,0,0.0001,0,0.9998
+UvrABC_system_protein_B,Cytoplasmic,0.0004,0.0066,0.97,0.0231
+UvrABC_system_protein_A,Cytoplasmic,0.0023,0.0292,0.8515,0.117
+hypothetical_protein,Extracellular,0.0751,0.914,0.0002,0.0107
+Nucleotide-binding_protein_YvcJ,Cytoplasmic,0,0.0055,0.9924,0.002
+Putative_gluconeogenesis_factor,Cytoplasmic,0.0001,0.0081,0.9883,0.0036
+putative_cell_division_protein_WhiA,Cytoplasmic,0.0005,0.011,0.9572,0.0314
+hypothetical_protein,Cytoplasmic,0.0008,0.1742,0.7714,0.0536
+hypothetical_protein,Cytoplasmic,0.0024,0.0144,0.9711,0.0121
+ATP-dependent_Clp_protease_proteolytic_subunit,Cytoplasmic,0.0011,0.0638,0.8848,0.0503
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0312,0.0002,0.9685
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0.0006,0.9979
+hypothetical_protein,Extracellular,0.1386,0.8514,0.0001,0.0099
+hypothetical_protein,Cell wall & surface,0.7878,0.0009,0,0.2113
+hypothetical_protein,Cytoplasmic Membrane,0.0018,0.1698,0.0002,0.8282
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0133,0.0002,0.9864
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0,0.9988
+hypothetical_protein,Cytoplasmic,0.0002,0.012,0.9834,0.0044
+Cold_shock_protein_2,Cytoplasmic,0,0.0002,0.9998,0
+RNA_polymerase_sigma-54_factor_1,Cytoplasmic,0.0101,0.0031,0.7597,0.2271
+O-acetyltransferase_OatA,Cytoplasmic Membrane,0.0001,0.0007,0,0.9992
+S-adenosylmethionine_synthase,Cytoplasmic,0.0006,0.0257,0.9703,0.0034
+Multidrug_resistance_protein_3,Cytoplasmic Membrane,0,0.0007,0,0.9993
+hypothetical_protein,Cytoplasmic,0.0002,0.0139,0.9837,0.0022
+hypothetical_protein,Cytoplasmic,0,0.0003,0.9993,0.0004
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0019,0.0002,0.9978
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+hypothetical_protein,Cytoplasmic,0.0003,0.0104,0.8831,0.1063
+putative_ABC_transporter_permease,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Putative_hemin_import_ATP-binding_protein_HrtA,Cytoplasmic Membrane,0.0002,0.0266,0.1579,0.8153
+hypothetical_protein,Cytoplasmic,0.0006,0.0008,0.9983,0.0003
+hypothetical_protein,Cytoplasmic,0.0001,0.0103,0.9864,0.0032
+hypothetical_protein,Cytoplasmic Membrane,0,0.002,0.0002,0.9978
+hypothetical_protein,Extracellular,0.0199,0.5152,0.001,0.4638
+hypothetical_protein,Cytoplasmic Membrane,0,0.0102,0.0002,0.9895
+Autolysin,Extracellular,0.1484,0.8511,0,0.0005
+Leucine--tRNA_ligase,Cytoplasmic,0,0.0007,0.9993,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.005,0,0.9949
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0.0005,0.9979
+L-cystine-binding_protein_FliY,Cytoplasmic Membrane,0.0001,0.0642,0,0.9358
+Glutamine_transport_ATP-binding_protein_GlnQ,Cytoplasmic Membrane,0.0003,0.0108,0.2462,0.7427
+L-cystine_transport_system_permease_protein_YecS,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.1857,0.0655,0.0006,0.7482
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0453,0.0005,0.9542
+hypothetical_protein,Cytoplasmic,0.0039,0.0285,0.9635,0.0041
+hypothetical_protein,Cytoplasmic Membrane,0.0137,0.1688,0.4048,0.4127
+Unsaturated_chondroitin_disaccharide_hydrolase,Cytoplasmic,0.0007,0.0514,0.9471,0.0009
+Beta-galactosidase,Cytoplasmic,0.0001,0.002,0.9976,0.0003
+HTH-type_transcriptional_repressor_DasR,Cytoplasmic,0.0004,0.0107,0.9849,0.004
+PTS_system_mannose-specific_EIIAB_component,Cytoplasmic,0.0001,0.0062,0.9929,0.0008
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0024,0.0001,0.9975
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Extracellular,0.1099,0.8825,0.0005,0.0071
+hypothetical_protein,Extracellular,0.0002,0.4091,0.2457,0.345
+50S_ribosomal_protein_L25,Cytoplasmic,0.0088,0.0117,0.9733,0.0062
+Ribosomal_small_subunit_pseudouridine_synthase_A,Cytoplasmic,0.0078,0.0023,0.9547,0.0352
+Putative_HAD-hydrolase_YfnB,Cytoplasmic,0,0.0001,0.9994,0.0005
+putative_N-acetyltransferase_YvbK,Cytoplasmic,0.0013,0.0018,0.9868,0.0101
+Uridine_kinase,Cytoplasmic,0.0001,0.0023,0.9958,0.0019
+Endoribonuclease_EndoA,Cytoplasmic,0.0009,0.0067,0.9877,0.0047
+Inositol_2-dehydrogenase/D-chiro-inositol_3-dehydrogenase,Cytoplasmic,0.0001,0.0018,0.9974,0.0006
+hypothetical_protein,Cytoplasmic,0.0026,0.0031,0.9124,0.0819
+hypothetical_protein,Cytoplasmic,0,0.0004,0.999,0.0006
+hypothetical_protein,Cytoplasmic,0,0.0027,0.9973,0
+hypothetical_protein,Cytoplasmic,0.0014,0.021,0.6377,0.3398
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0078,0.0019,0.9902
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0121,0.0019,0.9858
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0187,0.0011,0.98
+hypothetical_protein,Cytoplasmic,0.0004,0.0024,0.9947,0.0025
+Deacetylase,Cytoplasmic,0.0001,0.0007,0.9988,0.0004
+2-dehydro-3-deoxy-phosphogluconate_aldolase,Cytoplasmic,0.0007,0.1502,0.7472,0.1019
+5-dehydro-2-deoxygluconokinase,Cytoplasmic,0.0001,0.0007,0.9988,0.0005
+Type_2_topoisomerase_subunit_B,Cytoplasmic,0.0012,0.0109,0.7922,0.1958
+hypothetical_protein,Cytoplasmic,0.0001,0.0007,0.9955,0.0037
+D-alanine--D-alanine_ligase,Cytoplasmic,0.0003,0.0021,0.9935,0.004
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine_ligase,Cytoplasmic,0.0001,0.0001,0.9997,0.0001
+ATP-dependent_RNA_helicase_CshA,Cytoplasmic,0.0002,0.005,0.994,0.0008
+Holo-[acyl-carrier-protein]_synthase,Cytoplasmic,0.0013,0.0063,0.9904,0.002
+Alanine_racemase,Cytoplasmic,0.0001,0.0006,0.999,0.0004
+Endoribonuclease_EndoA,Cytoplasmic,0.0001,0.0069,0.99,0.003
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.031,0.0017,0.9673
+Chromosome_partition_protein_Smc,Cytoplasmic,0.0351,0.0025,0.9422,0.0203
+Signal_peptidase_IB,Cytoplasmic Membrane,0.0001,0.0065,0.0004,0.993
+hypothetical_protein,Cytoplasmic,0.0014,0.0203,0.8001,0.1783
+Tyrosine-protein_phosphatase,Cytoplasmic,0.0012,0.0026,0.9954,0.0008
+hypothetical_protein,Cytoplasmic,0.0039,0.0881,0.5046,0.4035
+hypothetical_protein,Cytoplasmic Membrane,0.0006,0.0007,0.0002,0.9986
+Ferrous-iron_efflux_pump_FieF,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Potassium_transporter_KimA,Cytoplasmic Membrane,0,0.0008,0,0.9992
+hypothetical_protein,Cytoplasmic,0,0.0014,0.9981,0.0005
+Glycine_betaine/carnitine/choline_transport_system_permease_protein_OpuCD,Cytoplasmic Membrane,0,0,0,1
+Glycine_betaine/carnitine/choline-binding_protein_OpuCC,Cytoplasmic Membrane,0.0016,0.0271,0.0001,0.9712
+Carnitine_transport_permease_protein_OpuCB,Cytoplasmic Membrane,0,0,0,1
+Carnitine_transport_ATP-binding_protein_OpuCA,Cytoplasmic Membrane,0.0004,0.039,0.0538,0.9067
+Putative_ring-cleaving_dioxygenase_MhqA,Cytoplasmic,0.0001,0.0033,0.9939,0.0027
+S-adenosylmethionine:tRNA_ribosyltransferase-isomerase,Cytoplasmic,0,0.0016,0.9982,0.0002
+hypothetical_protein,Cytoplasmic,0.0004,0.0093,0.9835,0.0067
+Calcium-transporting_ATPase_1,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Low_affinity_potassium_transport_system_protein_kup,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic,0.0017,0.1311,0.7897,0.0774
+Copper-exporting_P-type_ATPase_B,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0003,0.0407,0.8508,0.1082
+Oxidoreductase_YdhF,Cytoplasmic,0.0002,0.0076,0.985,0.0073
+DNA_polymerase_I,Cytoplasmic,0.0002,0.0021,0.9962,0.0015
+Formamidopyrimidine-DNA_glycosylase,Cytoplasmic,0.0001,0.001,0.9989,0.0001
+Dephospho-CoA_kinase,Cytoplasmic,0.0003,0.0004,0.9989,0.0004
+Transcriptional_repressor_NrdR,Cytoplasmic,0.0001,0.0199,0.9767,0.0033
+Replication_initiation_and_membrane_attachment_protein,Cytoplasmic,0.0068,0.0042,0.938,0.051
+Primosomal_protein_DnaI,Cytoplasmic,0.0005,0.0007,0.9568,0.042
+hypothetical_protein,Cytoplasmic Membrane,0.0076,0.0801,0.0006,0.9117
+hypothetical_protein,Cytoplasmic Membrane,0,0.0036,0.0001,0.9962
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0002,0.0002,0.9995
+Undecaprenyl-phosphate_4-deoxy-4-formamido-L-arabinose_transferase,Cytoplasmic Membrane,0,0.001,0.0001,0.9989
+hypothetical_protein,Cytoplasmic Membrane,0.0205,0.0288,0.0002,0.9506
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0.0001,0.9995
+hypothetical_protein,Cytoplasmic,0.0033,0.1421,0.7817,0.073
+Aspartate_aminotransferase,Cytoplasmic,0.0002,0.0025,0.9965,0.0008
+Arginine_transport_ATP-binding_protein_ArtM,Cytoplasmic Membrane,0.0001,0.0613,0.1082,0.8303
+Membrane-bound_lytic_murein_transglycosylase_F,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Hydroxycarboxylate_dehydrogenase_A,Cytoplasmic,0,0.0004,0.9991,0.0004
+Queuine_tRNA-ribosyltransferase,Cytoplasmic,0,0.0349,0.9647,0.0004
+hypothetical_protein,Cytoplasmic Membrane,0,0.0038,0.0002,0.996
+hypothetical_protein,Cytoplasmic,0.0002,0.1173,0.7985,0.0841
+Aldehyde-alcohol_dehydrogenase,Cytoplasmic,0.0005,0.0906,0.8763,0.0326
+Isopentenyl-diphosphate_delta-isomerase,Cytoplasmic,0.0004,0.0039,0.9667,0.029
+Phosphomevalonate_kinase,Cytoplasmic,0.0002,0.0005,0.9858,0.0134
+hypothetical_protein,Cytoplasmic,0.0002,0.0065,0.9877,0.0056
+Galactokinase,Cytoplasmic,0.0005,0.0009,0.998,0.0006
+hypothetical_protein,Cytoplasmic,0.0002,0.028,0.8864,0.0854
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.07,0.0725,0.0003,0.8572
+hypothetical_protein,Cytoplasmic Membrane,0,0.003,0.0001,0.9969
+Oligopeptide_transport_system_permease_protein_OppB,Cytoplasmic Membrane,0,0,0,1
+Dipeptide_transport_system_permease_protein_DppC,Cytoplasmic Membrane,0,0,0,1
+Oligopeptide_transport_ATP-binding_protein_OppD,Cytoplasmic Membrane,0.0004,0.0391,0.0909,0.8696
+Oligopeptide_transport_ATP-binding_protein_OppF,Cytoplasmic Membrane,0.0002,0.0344,0.1904,0.775
+IS200/IS605_family_transposase_ISEfa4,Cytoplasmic,0.0226,0.0726,0.9019,0.003
+Translation_initiation_factor_IF-3,Cytoplasmic,0,0.0043,0.9957,0
+50S_ribosomal_protein_L35,Extracellular,0,0.673,0.3251,0.0018
+50S_ribosomal_protein_L20,Extracellular,0,0.9969,0.003,0.0001
+hypothetical_protein,Cytoplasmic,0.0001,0.0015,0.9978,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0129,0.0004,0.9866
+Peptidyl-lysine_N-acetyltransferase_YjaB,Cytoplasmic,0,0.0004,0.9995,0
+hypothetical_protein,Cytoplasmic,0.0003,0.0019,0.997,0.0009
+Bicarbonate_transporter_BicA,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+HTH-type_transcriptional_regulator_CysL,Cytoplasmic,0.0001,0.0002,0.9988,0.0009
+hypothetical_protein,Cytoplasmic,0.0003,0.0017,0.9976,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0048,0.0002,0.995
+Response_regulator_protein_GraR,Cytoplasmic,0,0.0013,0.9836,0.0151
+Sensor_histidine_kinase_GraS,Cytoplasmic Membrane,0,0.0008,0.0016,0.9976
+putative_glucose_uptake_protein_GlcU,Cytoplasmic Membrane,0,0.0001,0,0.9999
+putative_amino_acid_permease_YhdG,Cytoplasmic Membrane,0,0.0009,0,0.9991
+Methionine--tRNA_ligase,Cytoplasmic,0,0.0008,0.9992,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.0027,0,0.9973
+hypothetical_protein,Cytoplasmic Membrane,0,0.0051,0.0033,0.9916
+DNA_helicase_IV,Cytoplasmic,0.0101,0.0098,0.8688,0.1113
+putative_metal-dependent_hydrolase_YcfH,Cytoplasmic,0,0.0005,0.9993,0.0002
+Ribonuclease_M5,Cytoplasmic,0.0004,0.0004,0.9989,0.0004
+Ribosomal_RNA_small_subunit_methyltransferase_A,Cytoplasmic,0.0003,0.0001,0.9994,0.0002
+Niacin_transporter_NiaX,Cytoplasmic Membrane,0,0.0046,0.0003,0.9951
+Oligosaccharides_import_ATP-binding_protein_MsmX,Cytoplasmic Membrane,0.0001,0.0913,0.3964,0.5122
+Methylglyoxal_synthase,Cytoplasmic,0.0001,0.0206,0.9731,0.0062
+Folate_transporter_FolT,Cytoplasmic Membrane,0,0.0013,0.0001,0.9986
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0007,0,0.9993
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0032,0.0007,0.9959
+hypothetical_protein,Extracellular,0.1261,0.8398,0.0015,0.0326
+hypothetical_protein,Cytoplasmic,0.0001,0.0025,0.9969,0.0005
+hypothetical_protein,Cytoplasmic,0,0.0035,0.7913,0.2052
+Phosphatase_YwpJ,Cytoplasmic,0.0001,0.0029,0.9963,0.0007
+Uracil-DNA_glycosylase,Cytoplasmic,0.0001,0.0011,0.9983,0.0005
+Phosphate_acetyltransferase,Cytoplasmic,0.0014,0.0526,0.8992,0.0467
+tRNA_threonylcarbamoyladenosine_biosynthesis_protein_TsaE,Cytoplasmic,0,0.0002,0.9998,0
+Mycothiol_acetyltransferase,Cytoplasmic,0.0004,0.0057,0.9789,0.015
+hypothetical_protein,Cytoplasmic,0.0004,0.1269,0.8383,0.0343
+Catabolite_control_protein_A,Cytoplasmic,0.0002,0.0012,0.9878,0.0108
+Maltose_epimerase,Cytoplasmic,0.0001,0.0112,0.9876,0.0011
+Beta-phosphoglucomutase,Cytoplasmic,0.0009,0.0005,0.9978,0.0008
+Maltose_phosphorylase,Cytoplasmic,0.0017,0.0255,0.9563,0.0164
+PTS_system_glucose-specific_EIICBA_component,Cytoplasmic Membrane,0,0.0039,0.0001,0.9959
+Maltose_6'-phosphate_phosphatase,Cytoplasmic,0.0062,0.0107,0.9799,0.0032
+Pyrroline-5-carboxylate_reductase,Cytoplasmic,0.0024,0.0136,0.9652,0.0188
+HTH-type_transcriptional_activator_RhaS,Cytoplasmic,0.0007,0.0161,0.9458,0.0374
+hypothetical_protein,Cytoplasmic,0.0001,0.0353,0.943,0.0215
+hypothetical_protein,Cytoplasmic,0,0.0047,0.9953,0
+putative_peptide_export_permease_protein_YydJ,Cytoplasmic Membrane,0,0.0028,0.0002,0.997
+putative_peptide_export_ATP-binding_protein_YydI,Cytoplasmic,0.0001,0.1168,0.7832,0.0999
+hypothetical_protein,Cytoplasmic,0.0001,0.0095,0.9895,0.0008
+50S_ribosomal_protein_L21,Extracellular,0,0.5698,0.4302,0
+hypothetical_protein,Cytoplasmic,0.0053,0.0285,0.9514,0.0148
+50S_ribosomal_protein_L27,Cytoplasmic,0.0024,0.3649,0.4357,0.1969
+Protein_PsiE,Cytoplasmic Membrane,0,0.0006,0.0001,0.9993
+"UDP-2,3-diacylglucosamine_pyrophosphatase_LpxG",Cytoplasmic Membrane,0.0001,0.046,0.0569,0.8971
+Aminopeptidase_YpdF,Cytoplasmic,0.0001,0.0006,0.9992,0.0001
+hypothetical_protein,Cytoplasmic,0,0.0018,0.998,0.0001
+putative_protein,Cytoplasmic,0.0006,0.0725,0.8059,0.121
+Transcription_antitermination_protein_NusB,Cytoplasmic,0.0003,0.0267,0.9701,0.0029
+Bifunctional_protein_FolD_protein,Cytoplasmic,0.0001,0.0012,0.9985,0.0002
+Exodeoxyribonuclease_7_large_subunit,Cytoplasmic,0.0026,0.001,0.8617,0.1347
+Exodeoxyribonuclease_7_small_subunit,Cytoplasmic,0,0.0003,0.9991,0.0006
+Farnesyl_diphosphate_synthase,Cytoplasmic,0.0002,0.0003,0.9988,0.0007
+Hemolysin_A,Cytoplasmic,0,0.0019,0.9977,0.0004
+hypothetical_protein,Extracellular,0,1,0,0
+hypothetical_protein,Cytoplasmic Membrane,0.0031,0.254,0.0001,0.7429
+Arginine_repressor,Cytoplasmic,0.0005,0.0119,0.9705,0.0172
+DNA_repair_protein_RecN,Cytoplasmic,0.0002,0.0004,0.9984,0.001
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0015,0.0001,0.9983
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0.0001,0.9997
+Transcriptional_regulator_MraZ,Cytoplasmic,0,0.0125,0.9854,0.002
+Ribosomal_RNA_small_subunit_methyltransferase_H,Cytoplasmic,0,0.0003,0.9995,0.0001
+Cell_division_protein_FtsL,Cytoplasmic Membrane,0.0277,0.0554,0.0001,0.9168
+Penicillin-binding_protein_2x,Cytoplasmic Membrane,0.0013,0.055,0,0.9437
+Phospho-N-acetylmuramoyl-pentapeptide-transferase,Cytoplasmic Membrane,0,0.0001,0,0.9998
+UDP-N-acetylmuramoylalanine--D-glutamate_ligase,Cytoplasmic,0.0009,0.0002,0.9987,0.0001
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)_pyrophosphoryl-undecaprenol_N-acetylglucosamine_transferase,Cytoplasmic Membrane,0.002,0.021,0.1619,0.8152
+Cell_division_protein_DivIB,Cytoplasmic Membrane,0.0007,0.0028,0.0005,0.996
+Cell_division_protein_FtsA,Cytoplasmic,0.0008,0.0301,0.8629,0.1062
+Cell_division_protein_FtsZ,Cytoplasmic,0.0001,0.0025,0.9858,0.0116
+Pyridoxal_phosphate_homeostasis_protein,Cytoplasmic,0,0.0002,0.9997,0
+Cell_division_protein_SepF,Cytoplasmic,0.0009,0.0152,0.9704,0.0135
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0.0004,0.9987
+hypothetical_protein,Cytoplasmic,0.0001,0.0001,0.9677,0.0321
+Cell_division_protein_DivIVA,Cytoplasmic,0.0003,0.0075,0.9858,0.0064
+Isoleucine--tRNA_ligase,Cytoplasmic,0,0.0012,0.9987,0.0001
+Glucose-6-phosphate_1-dehydrogenase,Cytoplasmic,0.0015,0.0155,0.9785,0.0046
+HTH-type_transcriptional_regulator_MntR,Cytoplasmic,0.0001,0.0005,0.9971,0.0022
+hypothetical_protein,Cytoplasmic Membrane,0.0062,0.2721,0.0593,0.6624
+Sugar_fermentation_stimulation_protein_A,Cytoplasmic,0.0003,0.0018,0.9975,0.0004
+scyllo-inositol_2-dehydrogenase_(NADP(+))_IolU,Cytoplasmic,0,0.0016,0.9977,0.0006
+putative_ATP-dependent_RNA_helicase_YfmL,Cytoplasmic,0.0013,0.0001,0.9956,0.003
+Transcriptional_regulatory_protein_DagR,Cytoplasmic,0.0006,0.0019,0.8987,0.0988
+PTS_system_cellobiose-specific_EIIB_component,Cytoplasmic,0,0.0022,0.9978,0
+PTS_system_cellobiose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0036,0.0001,0.9963
+hypothetical_protein,Cytoplasmic,0.0008,0.1177,0.7757,0.1058
+hypothetical_protein,Cytoplasmic Membrane,0,0.0413,0.0001,0.9586
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0.1726,0.8259
+PTS_system_cellobiose-specific_EIIB_component,Cytoplasmic,0,0.0021,0.9979,0.0001
+Lichenan-specific_phosphotransferase_enzyme_IIA_component,Cytoplasmic,0,0.0017,0.998,0.0002
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0003,0,0.9997
+6-phospho-beta-glucosidase_GmuD,Cytoplasmic,0.0001,0.0194,0.9804,0.0002
+N-acetyltransferase_Eis,Cytoplasmic,0.0008,0.0017,0.9959,0.0016
+hypothetical_protein,Cytoplasmic Membrane,0.0018,0.2877,0.0027,0.7078
+hypothetical_protein,Cytoplasmic,0,0.0048,0.9944,0.0008
+"Pyruvate,_phosphate_dikinase",Cytoplasmic,0.0004,0.0022,0.9927,0.0047
+Transcriptional_repressor_CcpN,Cytoplasmic,0.0001,0.0193,0.9249,0.0557
+"Putative_pyruvate,_phosphate_dikinase_regulatory_protein",Cytoplasmic,0.0002,0.008,0.9874,0.0044
+Phosphatidylglycerol_lysyltransferase,Cytoplasmic Membrane,0,0,0,1
+(E)-2-((N-methylformamido)methylene)succinate_hydrolase,Cytoplasmic Membrane,0.0003,0.008,0.1755,0.8162
+hypothetical_protein,Cytoplasmic,0.0006,0.0183,0.97,0.011
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0346,0.002,0.9631
+UvrABC_system_protein_A,Cytoplasmic,0.0048,0.0321,0.7449,0.2182
+"Glutamyl-tRNA(Gln)_amidotransferase_subunit_A,_chloroplastic/mitochondrial",Cell wall & surface,0.6562,0.1298,0.0177,0.1962
+hypothetical_protein,Cytoplasmic,0.0013,0.0053,0.8516,0.1418
+hypothetical_protein,Cytoplasmic Membrane,0.1084,0.2623,0.06,0.5693
+Nucleoside_diphosphate_kinase,Cytoplasmic,0.0001,0.0032,0.9947,0.002
+Bifunctional_aspartate_aminotransferase_and_L-aspartate_beta-decarboxylase,Cytoplasmic,0.0014,0.0663,0.9124,0.0199
+hypothetical_protein,Cytoplasmic Membrane,0.0793,0.293,0.0113,0.6164
+5-amino-6-(5-phospho-D-ribitylamino)uracil_phosphatase_YitU,Cytoplasmic,0,0.0004,0.9992,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0007,0.0026,0.9967
+Guanine/hypoxanthine_permease_PbuO,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Multidrug_resistance_protein_MdtG,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0,0.0135,0.0002,0.9863
+DNA_polymerase_III_subunit_alpha,Cytoplasmic,0.0019,0.0018,0.9887,0.0076
+ATP-dependent_6-phosphofructokinase,Cytoplasmic,0,0.019,0.9805,0.0005
+Pyruvate_kinase,Cytoplasmic,0.0009,0.018,0.969,0.0121
+hypothetical_protein,Cytoplasmic,0,0.0002,0.9986,0.0011
+50S_ribosomal_protein_L32,Extracellular,0,0.5134,0.4866,0
+"6-phosphogluconate_dehydrogenase,_decarboxylating",Cytoplasmic,0.0028,0.0966,0.8894,0.0111
+Response_regulator_ArlR,Cytoplasmic,0.0002,0.0091,0.9859,0.0048
+Adaptive-response_sensory-kinase_SasA,Cytoplasmic Membrane,0,0.0001,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.1151,0.0985,0.7862
+Aliphatic_sulfonates_import_ATP-binding_protein_SsuB,Cytoplasmic Membrane,0.0001,0.0173,0.188,0.7946
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Uridine_kinase,Cytoplasmic,0.0001,0.0488,0.9435,0.0076
+Tunicamycin_resistance_protein,Cytoplasmic,0,0.007,0.9863,0.0067
+Divalent_metal_cation_transporter_MntH,Cytoplasmic Membrane,0,0.0017,0,0.9982
+Putative_universal_stress_protein,Cytoplasmic,0.0003,0.009,0.9583,0.0324
+Purine_catabolism_regulatory_protein,Cytoplasmic,0.0018,0.0237,0.9705,0.004
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.173,0.1442,0.0008,0.6821
+N-isopropylammelide_isopropyl_amidohydrolase,Cytoplasmic,0,0.0006,0.997,0.0024
+hypothetical_protein,Cytoplasmic,0,0.0018,0.9929,0.0053
+Free_methionine-R-sulfoxide_reductase,Cytoplasmic,0.0002,0.0216,0.977,0.0013
+hypothetical_protein,Cytoplasmic,0,0.0004,0.9996,0
+Maltose_O-acetyltransferase,Cytoplasmic,0,0.0014,0.9985,0.0001
+hypothetical_protein,Cytoplasmic,0.0097,0.095,0.8577,0.0376
+Aldose_1-epimerase,Cytoplasmic,0.0001,0.008,0.9917,0.0002
+Galactokinase,Cytoplasmic,0.0001,0.0005,0.9988,0.0005
+UDP-glucose_4-epimerase,Cytoplasmic,0.0007,0.0427,0.9296,0.027
+Galactose-1-phosphate_uridylyltransferase,Cytoplasmic,0.0015,0.0232,0.9669,0.0084
+HTH-type_transcriptional_repressor_MelR,Cytoplasmic,0.0003,0.0025,0.9919,0.0054
+hypothetical_protein,Cytoplasmic,0.0001,0.0026,0.9971,0.0003
+hypothetical_protein,Cytoplasmic,0,0.0208,0.847,0.1321
+hypothetical_protein,Cytoplasmic,0.0001,0.0059,0.9917,0.0023
+Streptomycin_3''-adenylyltransferase,Cytoplasmic,0.001,0.0199,0.6829,0.2962
+hypothetical_protein,Cytoplasmic,0.0014,0.0021,0.9954,0.0012
+"Tetracycline_resistance_protein,_class_B",Cytoplasmic Membrane,0,0.0013,0,0.9987
+DNA_polymerase_IV,Cytoplasmic,0.0001,0.0041,0.9922,0.0036
+hypothetical_protein,Cytoplasmic,0.0004,0.0019,0.9337,0.0639
+hypothetical_protein,Extracellular,0.0091,0.8028,0.0248,0.1634
+hypothetical_protein,Cytoplasmic,0.0005,0.2369,0.4988,0.2638
+Putative_universal_stress_protein,Cytoplasmic,0.0003,0.0022,0.9918,0.0057
+hypothetical_protein,Cytoplasmic Membrane,0.0111,0.492,0.0002,0.4967
+Spermine/spermidine_acetyltransferase,Cytoplasmic,0.0001,0.0089,0.99,0.0011
+hypothetical_protein,Cytoplasmic,0.0002,0.0035,0.9957,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0,0.0049,0,0.9951
+hypothetical_protein,Cytoplasmic,0.0013,0.0729,0.5987,0.3271
+hypothetical_protein,Cell wall & surface,0.6575,0.1749,0.0003,0.1673
+hypothetical_protein,Cell wall & surface,0.5073,0.0591,0.0167,0.4168
+hypothetical_protein,Cell wall & surface,0.8194,0.0169,0,0.1637
+hypothetical_protein,Cytoplasmic Membrane,0,0.0437,0.0001,0.9561
+hypothetical_protein,Cytoplasmic Membrane,0,0.0007,0,0.9992
+hypothetical_protein,Cytoplasmic Membrane,0,0.0067,0,0.9933
+hypothetical_protein,Extracellular,0.0006,0.9932,0,0.0062
+hypothetical_protein,Cytoplasmic,0.0001,0.0839,0.9158,0.0002
+hypothetical_protein,Cytoplasmic,0.0029,0.402,0.4694,0.1257
+hypothetical_protein,Cytoplasmic Membrane,0,0.0291,0.0043,0.9665
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic Membrane,0,0.0077,0.0001,0.9922
+"2-methoxy-6-polyprenyl-1,4-benzoquinol_methylase,_mitochondrial",Cytoplasmic,0.0009,0.0031,0.995,0.001
+hypothetical_protein,Cytoplasmic Membrane,0.0008,0.1782,0.0001,0.8209
+putative_amino_acid_permease_YvbW,Cytoplasmic Membrane,0,0.0011,0.0001,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0123,0.0001,0.9876
+hypothetical_protein,Cytoplasmic Membrane,0,0.0085,0,0.9915
+Lactate_utilization_protein_A,Cytoplasmic,0.0002,0.1003,0.7479,0.1516
+Lactate_utilization_protein_B,Cytoplasmic Membrane,0.0001,0.1662,0.1372,0.6964
+Lactate_utilization_protein_C,Cytoplasmic,0,0.0053,0.9894,0.0054
+Signal_peptidase_IB,Cytoplasmic Membrane,0.0002,0.01,0.0029,0.9869
+ATP-dependent_helicase/deoxyribonuclease_subunit_B,Cytoplasmic,0.006,0.0007,0.9171,0.0763
+ATP-dependent_helicase/nuclease_subunit_A,Cytoplasmic,0.0073,0.0109,0.9426,0.0392
+HTH-type_transcriptional_regulator_YodB,Cytoplasmic,0.001,0.0071,0.9908,0.0012
+Phenylalanine--tRNA_ligase_alpha_subunit,Cytoplasmic,0,0.0014,0.9986,0
+Phenylalanine--tRNA_ligase_beta_subunit,Cytoplasmic,0.0003,0.0002,0.9994,0.0002
+putative_glutamine_ABC_transporter_permease_protein_GlnP,Cytoplasmic Membrane,0,0.0001,0,0.9999
+putative_glutamine_ABC_transporter_permease_protein_GlnM,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Major_cell-binding_factor,Cytoplasmic Membrane,0.0018,0.1152,0,0.883
+Glutamine_transport_ATP-binding_protein_GlnQ,Cytoplasmic Membrane,0.0001,0.0649,0.0915,0.8435
+Glutamate_racemase,Cytoplasmic,0.002,0.0083,0.9882,0.0016
+Ribonuclease_PH,Cytoplasmic,0.0001,0.0038,0.9958,0.0002
+hypothetical_protein,Cytoplasmic,0,0.0004,0.9992,0.0004
+HTH-type_transcriptional_repressor_GlcR,Cytoplasmic,0.0001,0.004,0.9947,0.0013
+putative_L-ascorbate-6-phosphate_lactonase_UlaG,Cytoplasmic,0,0.0148,0.9115,0.0737
+hypothetical_protein,Cytoplasmic,0,0.0009,0.9989,0.0002
+Ascorbate-specific_PTS_system_EIIC_component,Cytoplasmic Membrane,0,0.001,0,0.9989
+hypothetical_protein,Cytoplasmic,0.0002,0.014,0.9804,0.0054
+3-keto-L-gulonate-6-phosphate_decarboxylase_SgbH,Cytoplasmic,0,0.0014,0.9828,0.0157
+L-ribulose-5-phosphate_3-epimerase_UlaE,Cytoplasmic,0.0004,0.0009,0.9983,0.0003
+L-ribulose-5-phosphate_4-epimerase_UlaF,Cytoplasmic,0.0003,0.0143,0.985,0.0005
+CBS_domain-containing_protein_YkuL,Cytoplasmic,0.0007,0.0153,0.8316,0.1525
+"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate_N-acetyltransferase",Cytoplasmic,0.0001,0.0224,0.9765,0.0011
+N-acetyldiaminopimelate_deacetylase,Cytoplasmic,0.0002,0.0009,0.9986,0.0003
+putative_MscS_family_protein_YkuT,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.015,0.0035,0.9815
+Glyoxal_reductase,Cytoplasmic,0.0001,0.002,0.9979,0
+Putative_glutamine_amidotransferase,Cytoplasmic,0.0002,0.0102,0.9893,0.0003
+Lactoylglutathione_lyase,Cytoplasmic,0,0.0088,0.9891,0.002
+hypothetical_protein,Cytoplasmic,0.0001,0.0046,0.9934,0.0019
+Putative_phosphatase,Cytoplasmic,0,0.0002,0.9996,0.0002
+hypothetical_protein,Cytoplasmic,0.0005,0.0143,0.9414,0.0439
+hypothetical_protein,Cytoplasmic,0,0.0001,0.9994,0.0005
+hypothetical_protein,Cytoplasmic,0,0.001,0.9919,0.007
+DNA-directed_RNA_polymerase_subunit_delta,Cytoplasmic,0.0142,0.0062,0.9736,0.006
+CTP_synthase,Cytoplasmic,0.0002,0.154,0.8423,0.0034
+Penicillin-binding_protein_1A,Cytoplasmic Membrane,0.0007,0.0961,0,0.9031
+Holliday_junction_resolvase_RecU,Cytoplasmic,0.0006,0.005,0.9789,0.0156
+hypothetical_protein,Cytoplasmic,0.0002,0.0007,0.9948,0.0043
+Cell_cycle_protein_GpsB,Cytoplasmic,0.0027,0.0041,0.9774,0.0159
+Ribosomal_RNA_large_subunit_methyltransferase_L,Cytoplasmic,0.0002,0.0109,0.9869,0.002
+Carboxypeptidase_1,Cytoplasmic,0.0006,0.0075,0.9892,0.0026
+DNA_replication_protein_DnaD,Cytoplasmic,0.0016,0.0031,0.9864,0.009
+Endonuclease_III,Cytoplasmic,0.0034,0.0509,0.9339,0.0118
+HTH-type_transcriptional_repressor_NagR,Cytoplasmic,0,0.0008,0.9988,0.0004
+Beta-Ala-Xaa_dipeptidase,Cytoplasmic,0.0008,0.0011,0.997,0.001
+N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase,Cytoplasmic,0.0005,0.0154,0.9792,0.0049
+"PTS_system_N,N'-diacetylchitobiose-specific_EIIB_component",Cytoplasmic,0,0.0005,0.9994,0.0001
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Glycine_reductase_complex_component_B_subunit_gamma,Cytoplasmic,0.0003,0.0848,0.9123,0.0026
+3'-5'_exonuclease_DinG,Cytoplasmic,0.0028,0.0027,0.9656,0.0288
+putative_L-asparaginase,Cytoplasmic,0.0003,0.0141,0.979,0.0065
+hypothetical_protein,Cytoplasmic,0.0002,0.0082,0.9891,0.0025
+hypothetical_protein,Cytoplasmic,0,0.323,0.6769,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Fructose-bisphosphate_aldolase,Cytoplasmic,0,0.0092,0.9907,0.0001
+UDP-N-acetylglucosamine_1-carboxyvinyltransferase,Cytoplasmic,0.0003,0.0012,0.9943,0.0042
+Transcription_termination_factor_Rho,Cytoplasmic,0.0003,0.1037,0.8122,0.0839
+50S_ribosomal_protein_L31_type_B,Cytoplasmic,0.0003,0.0354,0.8349,0.1294
+Teichoic_acid_glycerol-phosphate_primase,Cytoplasmic Membrane,0.0027,0.011,0.1499,0.8364
+N-acetylglucosaminyldiphosphoundecaprenol_N-acetyl-beta-D-mannosaminyltransferase,Cytoplasmic Membrane,0.0001,0.0007,0.0349,0.9644
+hypothetical_protein,Cytoplasmic Membrane,0.004,0.1762,0.1643,0.6555
+Glycerol-3-phosphate_cytidylyltransferase,Cytoplasmic,0.0001,0.0027,0.9949,0.0023
+hypothetical_protein,Cytoplasmic Membrane,0.0098,0.0878,0.0011,0.9013
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+Putative_fructokinase,Cytoplasmic,0.0001,0.0025,0.9954,0.002
+hypothetical_protein,Cytoplasmic,0.0559,0.4591,0.4809,0.0041
+FMN_reductase_(NADPH),Cytoplasmic,0.0008,0.0187,0.9613,0.0191
+S-ribosylhomocysteine_lyase,Cytoplasmic,0,0.0148,0.985,0.0001
+Aspartate-semialdehyde_dehydrogenase,Cytoplasmic,0.0004,0.0087,0.9903,0.0006
+4-hydroxy-tetrahydrodipicolinate_synthase,Cytoplasmic,0.0002,0.0084,0.991,0.0004
+Ribonuclease_J_2,Cytoplasmic,0.0006,0.0233,0.822,0.1542
+hypothetical_protein,Cytoplasmic,0.0002,0.0003,0.9979,0.0016
+hypothetical_protein,Cytoplasmic,0.0008,0.0002,0.996,0.0029
+Acid_sugar_phosphatase,Cytoplasmic,0.0003,0.0001,0.999,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0034,0.0001,0.9965
+hypothetical_protein,Cytoplasmic,0.0023,0.0169,0.9724,0.0084
+Protein_DegV,Cytoplasmic,0.0001,0.0062,0.9683,0.0254
+Aquaporin_Z,Cytoplasmic Membrane,0.0008,0.0034,0.0015,0.9943
+Transcriptional_regulatory_protein_WalR,Cytoplasmic,0.0002,0.0031,0.9944,0.0023
+Sensor_histidine_kinase_WalK,Cytoplasmic Membrane,0.0002,0.001,0,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0,0.9984
+Two-component_system_WalR/WalK_regulatory_protein_YycI,Cytoplasmic Membrane,0.0001,0.0026,0,0.9973
+Putative_metallo-hydrolase_YycJ,Cytoplasmic,0,0.0043,0.9954,0.0003
+Putative_two-component_membrane_permease_complex_subunit_SMU_747c,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Putative_two-component_membrane_permease_complex_subunit_SMU_746c,Cytoplasmic Membrane,0,0.0005,0.0005,0.999
+hypothetical_protein,Cytoplasmic Membrane,0,0.0013,0.0001,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0,0.0033,0.0011,0.9956
+hypothetical_protein,Cytoplasmic,0.0002,0.1385,0.7527,0.1086
+Putative_pre-16S_rRNA_nuclease,Cytoplasmic,0,0.0021,0.9977,0.0002
+hypothetical_protein,Cytoplasmic,0,0.0008,0.9987,0.0004
+hypothetical_protein,Cytoplasmic,0.0051,0.0671,0.8497,0.0781
+NAD-dependent_malic_enzyme,Cytoplasmic,0.0004,0.0306,0.9673,0.0018
+Citrate/malate_transporter,Cytoplasmic Membrane,0,0.0012,0.0001,0.9987
+Sensor_histidine_kinase_DcuS,Cytoplasmic Membrane,0.0004,0.001,0.0007,0.9978
+Transcriptional_regulatory_protein_DcuR,Cytoplasmic,0.001,0.0011,0.9961,0.0019
+NADH_peroxidase,Cytoplasmic,0,0.0061,0.985,0.0088
+Polyisoprenyl-teichoic_acid--peptidoglycan_teichoic_acid_transferase_TagU,Cytoplasmic Membrane,0.0003,0.0961,0,0.9036
+Acetolactate_synthase,Cytoplasmic,0.0003,0.0066,0.9483,0.0448
+Alpha-acetolactate_decarboxylase,Cytoplasmic,0,0.001,0.999,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.0095,0.0001,0.9903
+hypothetical_protein,Extracellular,0.0936,0.8453,0.0118,0.0493
+hypothetical_protein,Cytoplasmic Membrane,0.0081,0.0826,0.005,0.9043
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+Inner_membrane_ABC_transporter_permease_protein_YdcV,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Sulfate/thiosulfate_import_ATP-binding_protein_CysA,Cytoplasmic Membrane,0.0003,0.0035,0.2507,0.7455
+Putrescine-binding_periplasmic_protein_SpuD,Cytoplasmic Membrane,0.0501,0.1417,0.0001,0.8081
+Adenine_deaminase,Cytoplasmic,0,0.0003,0.9993,0.0004
+5-methylthioadenosine/S-adenosylhomocysteine_deaminase,Cytoplasmic,0.0003,0.0017,0.9952,0.0027
+hypothetical_protein,Cytoplasmic,0.0105,0.0232,0.9279,0.0384
+FAD:protein_FMN_transferase,Cytoplasmic,0.0101,0.009,0.9724,0.0085
+Urocanate_reductase,Cytoplasmic,0.0003,0.0281,0.9696,0.002
+hypothetical_protein,Cytoplasmic,0.0013,0.0831,0.8977,0.0179
+hypothetical_protein,Cytoplasmic,0.0014,0.0243,0.6908,0.2835
+hypothetical_protein,Cytoplasmic,0.0116,0.0318,0.9498,0.0067
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0001,0.9988
+"UDP-2,3-diacylglucosamine_pyrophosphatase_LpxG",Cytoplasmic Membrane,0.0002,0.0593,0.003,0.9375
+putative_multiple-sugar_transport_system_permease_YteP,Cytoplasmic Membrane,0,0.0001,0,0.9999
+L-arabinose_transport_system_permease_protein_AraQ,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0.006,0.4258,0.0001,0.5681
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0.0001,0.999
+Cephalosporin-C_deacetylase,Cytoplasmic,0.0004,0.006,0.968,0.0256
+hypothetical_protein,Cytoplasmic,0.0001,0.0018,0.9979,0.0001
+Beta-xylosidase,Cytoplasmic,0.0004,0.005,0.9929,0.0017
+"1,2-beta-oligoglucan_phosphorylase",Cytoplasmic,0.0094,0.0183,0.9684,0.0039
+putative_HTH-type_transcriptional_repressor_ExuR,Cytoplasmic,0.0001,0.0004,0.9972,0.0023
+hypothetical_protein,Extracellular,0.0075,0.4945,0.009,0.489
+HTH-type_transcriptional_regulator_GmuR,Cytoplasmic,0,0.0022,0.9918,0.0059
+Aryl-phospho-beta-D-glucosidase_BglC,Cytoplasmic,0.0002,0.0282,0.9713,0.0003
+putative_oxidoreductase_YhhX,Cytoplasmic,0.0002,0.0075,0.983,0.0093
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0158,0.0011,0.9829
+hypothetical_protein,Cytoplasmic,0.0002,0.0019,0.9866,0.0112
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0538,0.0002,0.9457
+Rqc2_RqcH,Cytoplasmic,0.0259,0.0178,0.9513,0.0051
+hypothetical_protein,Cytoplasmic Membrane,0.0012,0.019,0.0001,0.9797
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0181,0.0012,0.9806
+hypothetical_protein,Cytoplasmic Membrane,0.0034,0.0408,0.0001,0.9557
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic Membrane,0.0001,0.0027,0.212,0.7852
+hypothetical_protein,Cytoplasmic Membrane,0,0.0017,0.0008,0.9976
+hypothetical_protein,Cytoplasmic Membrane,0,0.0025,0.0017,0.9958
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.1028,0.0004,0.8966
+Putative_bifunctional_phosphatase/peptidyl-prolyl_cis-trans_isomerase,Cytoplasmic,0,0.0008,0.9986,0.0006
+Transcriptional_regulatory_protein_SrrA,Cytoplasmic,0,0.0045,0.9934,0.0021
+Sensor_histidine_kinase_RcsC,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Cytoplasmic,0.0007,0.0203,0.6763,0.3027
+hypothetical_protein,Cytoplasmic Membrane,0,0.0189,0.0004,0.9806
+Lipoteichoic_acid_synthase_1,Cytoplasmic Membrane,0,0.0008,0,0.9992
+Ribosomal_RNA_large_subunit_methyltransferase_I,Cytoplasmic,0.0016,0.0025,0.9907,0.0051
+Ribonuclease_HIII,Cytoplasmic,0.019,0.0401,0.9303,0.0107
+Calcium-transporting_ATPase_CtpE,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Cell wall & surface,0.747,0.1289,0.0009,0.1233
+Ribosome_maturation_factor_RimP,Cytoplasmic,0,0.0002,0.9997,0.0001
+Transcription_termination/antitermination_protein_NusA,Cytoplasmic,0.0002,0.0178,0.9811,0.0009
+hypothetical_protein,Cytoplasmic,0,0.0008,0.9989,0.0003
+putative_ribosomal_protein_YlxQ,Cytoplasmic,0,0.0212,0.9766,0.0022
+Translation_initiation_factor_IF-2,Cytoplasmic,0,0.0108,0.9887,0.0005
+Ribosome-binding_factor_A,Cytoplasmic,0,0.0021,0.9976,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0,0.0864,0.2349,0.6787
+hypothetical_protein,Cytoplasmic,0.0005,0.3529,0.6431,0.0035
+hypothetical_protein,Cytoplasmic,0.0005,0.0044,0.9933,0.0017
+hypothetical_protein,Cytoplasmic Membrane,0,0.0892,0.0001,0.9106
+hypothetical_protein,Cytoplasmic,0.0027,0.0108,0.9789,0.0076
+hypothetical_protein,Cytoplasmic,0.0001,0.0022,0.9691,0.0286
+hypothetical_protein,Cytoplasmic Membrane,0,0.0076,0.0002,0.9922
+hypothetical_protein,Cytoplasmic,0.0004,0.1342,0.7537,0.1117
+hypothetical_protein,Cytoplasmic,0.0001,0.0055,0.9568,0.0375
+hypothetical_protein,Cytoplasmic,0.0003,0.0399,0.9338,0.0259
+hypothetical_protein,Cytoplasmic,0.0002,0.4419,0.5518,0.006
+hypothetical_protein,Cytoplasmic,0.0007,0.0878,0.8879,0.0236
+hypothetical_protein,Cytoplasmic,0.0002,0.0146,0.9299,0.0554
+hypothetical_protein,Extracellular,0.0021,0.7595,0.0002,0.2383
+hypothetical_protein,Extracellular,0.0011,0.7273,0.0177,0.2539
+hypothetical_protein,Extracellular,0.0088,0.4451,0.2399,0.3062
+hypothetical_protein,Extracellular,0.1638,0.7571,0.0672,0.0119
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0.0001,0.9988
+hypothetical_protein,Extracellular,0.0008,0.9991,0.0001,0
+tRNA_pseudouridine_synthase_B,Cytoplasmic,0.0002,0.0007,0.9978,0.0012
+Bifunctional_riboflavin_kinase/FMN_adenylyltransferase,Cytoplasmic,0,0,0.9999,0.0001
+hypothetical_protein,Cytoplasmic,0.0002,0.0043,0.9942,0.0013
+hypothetical_protein,Cytoplasmic,0.0008,0.002,0.9926,0.0046
+hypothetical_protein,Cytoplasmic,0.0001,0.007,0.8205,0.1724
+hypothetical_protein,Cytoplasmic,0.0001,0.0007,0.9968,0.0023
+putative_peptidoglycan_glycosyltransferase_FtsW,Cytoplasmic Membrane,0,0.0011,0,0.9989
+Peptidoglycan_glycosyltransferase_MrdB,Cytoplasmic Membrane,0,0.0005,0,0.9995
+HTH-type_transcriptional_regulator_CynR,Cytoplasmic,0.0006,0.0134,0.9832,0.0028
+HTH-type_transcriptional_regulator_CynR,Cytoplasmic,0.0004,0.015,0.9543,0.0303
+"Magnesium-transporting_ATPase,_P-type_1",Cytoplasmic Membrane,0,0.0001,0,0.9999
+Heme_chaperone_HemW,Cytoplasmic,0.0004,0.0001,0.9987,0.0009
+Heat-inducible_transcription_repressor_HrcA,Cytoplasmic,0,0.0002,0.9938,0.006
+Protein_GrpE,Cytoplasmic,0,0.0049,0.9941,0.001
+Chaperone_protein_DnaK,Cytoplasmic,0.0007,0.0351,0.9624,0.0017
+Chaperone_protein_DnaJ,Cytoplasmic,0.0001,0.0066,0.9931,0.0002
+Serine/threonine-protein_phosphatase_1,Cytoplasmic,0,0.0014,0.9965,0.0021
+Protein_YhgF,Cytoplasmic,0.0119,0.0086,0.963,0.0165
+Protein_SprT-like_protein,Cytoplasmic,0.0018,0.002,0.9946,0.0016
+Glutamate-pyruvate_aminotransferase_AlaA,Cytoplasmic,0,0.0311,0.9638,0.005
+hypothetical_protein,Cytoplasmic,0.0007,0.0066,0.9448,0.0479
+hypothetical_protein,Cytoplasmic,0.0074,0.046,0.8644,0.0822
+N-acetylgalactosamine-6-phosphate_deacetylase,Cytoplasmic,0,0.0009,0.999,0.0001
+hypothetical_protein,Cytoplasmic,0.0005,0.0381,0.8102,0.1511
+hypothetical_protein,Extracellular,0.0007,0.7033,0.0005,0.2955
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0.0002,0.0046,0.2872,0.708
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+putative_membrane_protein_YuaF,Cytoplasmic Membrane,0,0.0032,0.0001,0.9967
+Inner_membrane_protein_YqiK,Cytoplasmic Membrane,0.0001,0.0367,0.0003,0.9629
+hypothetical_protein,Cytoplasmic,0.0073,0.0462,0.9307,0.0157
+hypothetical_protein,Cytoplasmic,0.0004,0.2027,0.7947,0.0023
+hypothetical_protein,Cytoplasmic,0.0005,0.0059,0.9235,0.0702
+hypothetical_protein,Cytoplasmic,0.0016,0.0174,0.7454,0.2356
+HTH-type_transcriptional_repressor_NagR,Cytoplasmic,0,0.0047,0.9943,0.0011
+hypothetical_protein,Cytoplasmic,0.0003,0.0076,0.9915,0.0005
+Thioredoxin_reductase,Cytoplasmic,0.0003,0.0217,0.9731,0.0049
+hypothetical_protein,Cytoplasmic,0.0004,0.1911,0.5501,0.2583
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0211,0,0.9787
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic Membrane,0,0.002,0,0.998
+hypothetical_protein,Cytoplasmic,0.0035,0.0663,0.8558,0.0743
+Maltose/maltodextrin_transport_system_permease_protein_MalG,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+Cyclodextrin-binding_protein,Cytoplasmic Membrane,0.0517,0.138,0.0001,0.8102
+Intracellular_maltogenic_amylase,Cytoplasmic,0.0001,0.0004,0.998,0.0015
+"Glucan_1,6-alpha-glucosidase",Cytoplasmic,0,0.0009,0.9988,0.0003
+"Oligo-1,6-glucosidase",Cytoplasmic,0.0002,0.005,0.9944,0.0005
+Potassium_channel,Cytoplasmic Membrane,0,0.0001,0,0.9999
+"Magnesium-transporting_ATPase,_P-type_1",Cytoplasmic Membrane,0,0.0002,0,0.9998
+Pyruvate_dehydrogenase_E1_component_subunit_alpha,Cytoplasmic,0.0011,0.0989,0.8742,0.0258
+Pyruvate_dehydrogenase_E1_component_subunit_beta,Cytoplasmic,0.0002,0.019,0.9752,0.0057
+hypothetical_protein,Cytoplasmic,0.0002,0.0409,0.945,0.0138
+Dihydrolipoyl_dehydrogenase,Cytoplasmic,0.0002,0.0221,0.9747,0.0031
+HTH-type_transcriptional_activator_RhaR,Cytoplasmic,0.0012,0.0275,0.966,0.0053
+Glycerol_dehydrogenase,Cytoplasmic,0.0009,0.0078,0.9845,0.0069
+"PEP-dependent_dihydroxyacetone_kinase_2,_phosphoryl_donor_subunit_DhaM",Cytoplasmic,0.0001,0.0051,0.9941,0.0007
+"PTS-dependent_dihydroxyacetone_kinase,_dihydroxyacetone-binding_subunit_DhaK",Cytoplasmic,0,0.0003,0.9996,0.0001
+"PTS-dependent_dihydroxyacetone_kinase,_ADP-binding_subunit_DhaL",Cytoplasmic,0.0001,0.0077,0.9904,0.0019
+hypothetical_protein,Cytoplasmic Membrane,0.0236,0.3073,0.0009,0.6682
+Hydroxymethylglutaryl-CoA_synthase,Cytoplasmic,0.0004,0.0066,0.989,0.004
+3-ketoacyl-CoA_thiolase,Cytoplasmic,0.0008,0.0068,0.9889,0.0036
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0.0002,0.9994
+Cold_shock-like_protein_CspLA,Cytoplasmic,0,0.0002,0.9998,0
+hypothetical_protein,Cytoplasmic,0.0056,0.0224,0.9485,0.0235
+hypothetical_protein,Cytoplasmic,0.0002,0.004,0.9957,0.0001
+Riboflavin_transporter_RibZ,Cytoplasmic Membrane,0,0.0012,0,0.9988
+hypothetical_protein,Cytoplasmic,0.0004,0.0067,0.9868,0.0061
+Inosine-5'-monophosphate_dehydrogenase,Cytoplasmic,0.0004,0.0324,0.7771,0.1901
+putative_bifunctional_oligoribonuclease_and_PAP_phosphatase_NrnA,Cytoplasmic,0,0.0006,0.9991,0.0003
+hypothetical_protein,Cytoplasmic,0.0011,0.0449,0.927,0.027
+hypothetical_protein,Cytoplasmic Membrane,0,0.0008,0.0004,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9998
+DEAD-box_ATP-dependent_RNA_helicase_CshB,Cytoplasmic,0.0008,0.0014,0.9938,0.0039
+hypothetical_protein,Cytoplasmic,0.0001,0.0008,0.9677,0.0314
+Alanine--tRNA_ligase,Cytoplasmic,0,0.0014,0.9985,0
+tRNA_(adenine(22)-N(1))-methyltransferase,Cytoplasmic,0.0002,0.0001,0.999,0.0006
+GTP_cyclohydrolase_1_type_2_,Cytoplasmic,0,0,0.9998,0.0002
+Peptidase_T,Cytoplasmic,0.0007,0.0121,0.9858,0.0015
+hypothetical_protein,Cytoplasmic Membrane,0,0.0018,0.0011,0.9971
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+putative_molybdenum_cofactor_guanylyltransferase,Cytoplasmic,0.0033,0.0065,0.9727,0.0175
+hypothetical_protein,Cytoplasmic Membrane,0,0.0007,0.0001,0.9991
+hypothetical_protein,Cytoplasmic,0.0004,0.0005,0.997,0.0021
+NADP-reducing_hydrogenase_subunit_HndA,Cytoplasmic,0,0.0039,0.9956,0.0005
+NADP-reducing_hydrogenase_subunit_HndC,Cytoplasmic,0.0007,0.0133,0.958,0.0279
+Periplasmic_nitrate_reductase,Cytoplasmic,0.0007,0.0969,0.8617,0.0407
+Molybdopterin_molybdenumtransferase_2,Cytoplasmic,0.0001,0.0019,0.9963,0.0016
+Cyclic_pyranopterin_monophosphate_synthase,Cytoplasmic,0.0002,0.0135,0.9848,0.0016
+"GTP_3',8-cyclase",Cytoplasmic,0.0003,0.0018,0.9971,0.0008
+hypothetical_protein,Cytoplasmic,0,0.0014,0.9985,0.0001
+Molybdopterin_adenylyltransferase,Cytoplasmic,0.0006,0.0044,0.9946,0.0005
+hypothetical_protein,Cytoplasmic,0.0006,0.0047,0.99,0.0047
+Molybdate-binding_protein_ModA,Cytoplasmic Membrane,0.0065,0.0417,0.0008,0.951
+Molybdenum_transport_system_permease_protein_ModB,Cytoplasmic Membrane,0,0,0,0.9999
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic,0,0.0015,0.6815,0.317
+"Cadmium,_zinc_and_cobalt-transporting_ATPase",Cytoplasmic Membrane,0,0.0003,0,0.9997
+Cell_division_protein_ZapA,Cytoplasmic,0.0005,0.0027,0.9946,0.0022
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0.0004,0.9987
+Endonuclease_MutS2,Cytoplasmic,0.0019,0.0014,0.9659,0.0308
+Thioredoxin,Cytoplasmic,0.0001,0.0446,0.9548,0.0005
+UvrABC_system_protein_C,Cytoplasmic,0.0008,0.0215,0.9751,0.0026
+hypothetical_protein,Cytoplasmic,0.0002,0.0281,0.8232,0.1485
+Multidrug_efflux_system_ATP-binding_protein,Cytoplasmic,0.0005,0.0021,0.7111,0.2863
+putative_protein_YhaP,Cytoplasmic Membrane,0,0.0028,0,0.9972
+Catabolite_control_protein_A,Cytoplasmic,0.0001,0.0028,0.9853,0.0118
+putative_6-phospho-beta-glucosidase,Cytoplasmic,0,0.0385,0.9498,0.0116
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0066,0.0007,0.9927
+Nucleotide-binding_protein_ExpZ,Cytoplasmic,0.002,0.0023,0.9804,0.0153
+putative_protein,Cytoplasmic,0.0004,0.0023,0.9283,0.069
+NADP-specific_glutamate_dehydrogenase,Cytoplasmic,0.0009,0.1089,0.8765,0.0137
+Glucose-6-phosphate_isomerase,Cytoplasmic,0.0003,0.0201,0.9759,0.0037
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0026,0.0246,0.97,0.0028
+hypothetical_protein,Cytoplasmic,0.0001,0.101,0.6892,0.2097
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.2309,0.0003,0.7686
+hypothetical_protein,Extracellular,0.0267,0.4902,0.0089,0.4742
+hypothetical_protein,Cytoplasmic,0.0003,0.0661,0.9314,0.0022
+HTH-type_transcriptional_regulator_Xre,Cytoplasmic,0.0008,0.0245,0.9737,0.001
+hypothetical_protein,Cytoplasmic,0.0004,0.0224,0.9731,0.0041
+hypothetical_protein,Cytoplasmic,0.0001,0.1254,0.8736,0.0008
+hypothetical_protein,Cytoplasmic,0.0014,0.1419,0.8414,0.0154
+hypothetical_protein,Cytoplasmic,0,0.0041,0.9958,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0,0.0061,0,0.9939
+hypothetical_protein,Cytoplasmic Membrane,0,0.0079,0.0002,0.9918
+hypothetical_protein,Cytoplasmic,0.0002,0.3555,0.6298,0.0145
+hypothetical_protein,Cytoplasmic,0.0038,0.0497,0.9459,0.0006
+hypothetical_protein,Cytoplasmic,0.0029,0.1006,0.8924,0.0041
+Putative_metallo-hydrolase_YycJ,Cytoplasmic,0.0007,0.0517,0.9442,0.0034
+hypothetical_protein,Cytoplasmic,0.0014,0.0055,0.992,0.0012
+Holliday_junction_resolvase_RecU,Cytoplasmic,0.001,0.0242,0.9296,0.0451
+hypothetical_protein,Cytoplasmic,0.0011,0.0945,0.9019,0.0025
+hypothetical_protein,Cytoplasmic,0.0029,0.0421,0.9276,0.0275
+hypothetical_protein,Cytoplasmic,0.0007,0.3966,0.5925,0.0102
+hypothetical_protein,Cytoplasmic,0.0001,0.2633,0.708,0.0287
+Modification_methylase_DpnIIA,Cytoplasmic,0.0001,0.1351,0.8645,0.0002
+hypothetical_protein,Cytoplasmic,0.0009,0.3483,0.63,0.0208
+hypothetical_protein,Cytoplasmic,0.0008,0.0723,0.7854,0.1415
+hypothetical_protein,Cytoplasmic,0.0018,0.1278,0.7263,0.1441
+hypothetical_protein,Cytoplasmic,0.0001,0.1495,0.8286,0.0218
+hypothetical_protein,Cytoplasmic,0.0003,0.4028,0.5842,0.0127
+hypothetical_protein,Cytoplasmic,0.0043,0.4206,0.5622,0.0129
+hypothetical_protein,Cytoplasmic,0.001,0.3059,0.5202,0.1728
+hypothetical_protein,Cytoplasmic,0.0005,0.2266,0.7688,0.0042
+hypothetical_protein,Cytoplasmic,0.001,0.1697,0.807,0.0223
+hypothetical_protein,Cytoplasmic Membrane,0.0011,0.3575,0.0048,0.6366
+hypothetical_protein,Cytoplasmic,0.0002,0.3612,0.6375,0.0011
+hypothetical_protein,Cytoplasmic,0.0014,0.0292,0.9693,0.0001
+hypothetical_protein,Cytoplasmic,0.0011,0.0323,0.9647,0.0018
+hypothetical_protein,Cytoplasmic,0.0054,0.0171,0.9357,0.0418
+hypothetical_protein,Cytoplasmic,0.0008,0.2577,0.7367,0.0049
+hypothetical_protein,Cytoplasmic,0.0003,0.0835,0.8999,0.0163
+hypothetical_protein,Cytoplasmic,0.0004,0.0731,0.9063,0.0202
+hypothetical_protein,Cytoplasmic,0.0003,0.0629,0.9346,0.0023
+hypothetical_protein,Cytoplasmic,0.0008,0.0617,0.8747,0.0628
+hypothetical_protein,Cytoplasmic,0.0001,0.3677,0.6046,0.0276
+hypothetical_protein,Extracellular,0.0012,0.8629,0.0196,0.1164
+hypothetical_protein,Cytoplasmic,0.0009,0.0294,0.9467,0.0231
+hypothetical_protein,Cytoplasmic,0.0001,0.2487,0.7423,0.0088
+hypothetical_protein,Cytoplasmic,0.1112,0.1285,0.5539,0.2064
+hypothetical_protein,Cytoplasmic,0.0035,0.3862,0.6102,0.0001
+hypothetical_protein,Extracellular,0.008,0.7659,0.2236,0.0024
+hypothetical_protein,Cytoplasmic,0.0002,0.1937,0.8044,0.0017
+hypothetical_protein,Cytoplasmic,0.0007,0.0274,0.9708,0.0011
+hypothetical_protein,Cytoplasmic,0.0032,0.3249,0.6181,0.0538
+hypothetical_protein,Extracellular,0.001,0.6339,0.3115,0.0536
+hypothetical_protein,Cytoplasmic,0.0004,0.0308,0.8971,0.0718
+hypothetical_protein,Cytoplasmic,0.0007,0.1601,0.6302,0.209
+hypothetical_protein,Extracellular,0.007,0.9173,0.0629,0.0128
+hypothetical_protein,Extracellular,0.0002,0.6913,0.305,0.0035
+hypothetical_protein,Cytoplasmic,0,0.0483,0.9428,0.0089
+hypothetical_protein,Extracellular,0.0281,0.9508,0.0002,0.0209
+hypothetical_protein,Extracellular,0.0024,0.6996,0.1682,0.1298
+hypothetical_protein,Cytoplasmic,0.0002,0.0555,0.8176,0.1267
+hypothetical_protein,Extracellular,0.0034,0.8587,0.066,0.0719
+hypothetical_protein,Cytoplasmic,0.0005,0.3742,0.4548,0.1705
+hypothetical_protein,Cytoplasmic,0.0017,0.2467,0.7141,0.0376
+hypothetical_protein,Cytoplasmic Membrane,0.0102,0.3124,0.2367,0.4407
+hypothetical_protein,Extracellular,0.0122,0.5358,0.2793,0.1727
+hypothetical_protein,Extracellular,0.1921,0.5718,0.2313,0.0048
+hypothetical_protein,Cytoplasmic,0.1562,0.2841,0.5538,0.0059
+hypothetical_protein,Cytoplasmic,0.0032,0.2476,0.7264,0.0228
+hypothetical_protein,Cytoplasmic Membrane,0.0009,0.2265,0.012,0.7605
+hypothetical_protein,Cytoplasmic Membrane,0.0013,0.2869,0.0046,0.7073
+hypothetical_protein,Extracellular,0.0026,0.9974,0,0
+hypothetical_protein,Cytoplasmic,0.0008,0.0133,0.8533,0.1325
+hypothetical_protein,Cytoplasmic,0.0005,0.0138,0.9458,0.0399
+hypothetical_protein,Cytoplasmic,0.0019,0.2765,0.7199,0.0017
+Putative_NrdI-like_protein,Cytoplasmic,0,0.0037,0.996,0.0003
+hypothetical_protein,Cytoplasmic,0.0025,0.0053,0.9378,0.0544
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0.0001,0.9989
+V-type_sodium_ATPase_subunit_K,Cytoplasmic Membrane,0,0.0066,0.0002,0.9932
+V-type_proton_ATPase_subunit_E,Cytoplasmic,0.0072,0.0003,0.96,0.0326
+V-type_sodium_ATPase_subunit_C,Cytoplasmic,0.0075,0.0174,0.702,0.273
+V-type_sodium_ATPase_subunit_G,Cytoplasmic,0.0004,0.0128,0.9709,0.0159
+V-type_sodium_ATPase_catalytic_subunit_A,Cytoplasmic,0.001,0.1277,0.458,0.4132
+V-type_sodium_ATPase_subunit_B,Cytoplasmic Membrane,0.0006,0.1515,0.3527,0.4951
+V-type_sodium_ATPase_subunit_D,Cytoplasmic,0.0032,0.024,0.807,0.1658
+hypothetical_protein,Cytoplasmic,0.0015,0.2842,0.6874,0.0269
+ECF_RNA_polymerase_sigma_factor_SigW,Cytoplasmic,0.0038,0.0067,0.762,0.2275
+hypothetical_protein,Cytoplasmic Membrane,0.0074,0.2024,0,0.7902
+hypothetical_protein,Cytoplasmic Membrane,0.0104,0.3386,0.0007,0.6503
+"Fructose-1,6-bisphosphatase_class_3",Cytoplasmic,0.039,0.1709,0.6803,0.1098
+Diaminopimelate_decarboxylase,Cytoplasmic,0.0001,0.0056,0.9938,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0432,0.0196,0.9371
+hypothetical_protein,Cytoplasmic Membrane,0,0.0083,0.0001,0.9916
+hypothetical_protein,Cytoplasmic,0.0009,0.2641,0.4278,0.3072
+hypothetical_protein,Cytoplasmic,0.0002,0.0077,0.9899,0.0022
+hypothetical_protein,Cytoplasmic,0,0.0071,0.9829,0.01
+Hydrophobic_dipeptide_epimerase,Cytoplasmic,0.0001,0.0018,0.9975,0.0006
+hypothetical_protein,Cytoplasmic,0.0007,0.0582,0.899,0.042
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.3275,0.0987,0.0009,0.5729
+Levansucrase_and_sucrase_synthesis_operon_antiterminator,Cytoplasmic,0.0023,0.0089,0.9328,0.056
+PTS_system_glucose-specific_EIICBA_component,Cytoplasmic Membrane,0,0.0006,0,0.9993
+Transcriptional_regulator_ManR,Cytoplasmic,0.0014,0.0046,0.8989,0.0951
+Multiphosphoryl_transfer_protein_1,Cytoplasmic,0.0002,0.0009,0.9982,0.0007
+PTS_system_mannose-specific_EIIBCA_component,Cytoplasmic,0.0001,0.0108,0.9887,0.0004
+PTS_system_mannose-specific_EIIBCA_component,Cytoplasmic,0,0.0175,0.9721,0.0103
+PTS_system_fructose-specific_EIIB'BC_component,Cytoplasmic Membrane,0,0.0013,0.0001,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.046,0.0175,0.9363
+D-allulose-6-phosphate_3-epimerase,Cytoplasmic,0,0.0468,0.9137,0.0395
+D-allulose-6-phosphate_3-epimerase,Cytoplasmic,0,0.0215,0.9606,0.0178
+hypothetical_protein,Cytoplasmic Membrane,0.0042,0.1543,0.0035,0.838
+Calcium-transporting_ATPase_CtpE,Cytoplasmic Membrane,0,0.0012,0,0.9987
+DNA_primase,Cytoplasmic,0.003,0.0023,0.9883,0.0063
+RNA_polymerase_sigma_factor_SigA,Cytoplasmic,0.0001,0.0069,0.9897,0.0033
+Mid-cell-anchored_protein_Z,Cytoplasmic Membrane,0.2239,0.0617,0.0008,0.7136
+Conserved_virulence_factor_B,Cytoplasmic,0.0002,0.0004,0.9956,0.0038
+Ferric_uptake_regulation_protein,Cytoplasmic,0.0019,0.1401,0.8564,0.0016
+Glyceraldehyde-3-phosphate_dehydrogenase,Cytoplasmic,0.0001,0.0775,0.921,0.0014
+GTPase_Obg,Cytoplasmic,0,0.0046,0.9945,0.0009
+hypothetical_protein,Cytoplasmic Membrane,0,0.0029,0.0003,0.9967
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0006,0,0.9993
+hypothetical_protein,Cytoplasmic,0.0005,0.0217,0.8987,0.0792
+hypothetical_protein,Cytoplasmic Membrane,0.0055,0.1882,0.0005,0.8058
+hypothetical_protein,Cytoplasmic Membrane,0.0032,0.4273,0.0014,0.5681
+hypothetical_protein,Cytoplasmic,0,0.0049,0.9946,0.0005
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate_synthase",Cytoplasmic Membrane,0.0002,0.0325,0.0005,0.9668
+Tyrosine_recombinase_XerD,Cytoplasmic,0.0001,0.0002,0.9983,0.0015
+Segregation_and_condensation_protein_A,Cytoplasmic,0.001,0.0033,0.9376,0.0581
+Segregation_and_condensation_protein_B,Cytoplasmic,0.0012,0.0019,0.9821,0.0148
+Ribosomal_large_subunit_pseudouridine_synthase_B,Cytoplasmic,0.0179,0.0021,0.9699,0.0101
+Riboflavin_transporter_FmnP,Cytoplasmic Membrane,0,0.0006,0.0001,0.9993
+hypothetical_protein,Cytoplasmic Membrane,0.0024,0.0482,0.0014,0.948
+hypothetical_protein,Cytoplasmic,0.0045,0.0149,0.9376,0.043
+hypothetical_protein,Cytoplasmic,0.0123,0.0075,0.7866,0.1936
+ATP-dependent_DNA_helicase_RecQ,Cytoplasmic,0.0018,0.0169,0.9724,0.0089
+hypothetical_protein,Cytoplasmic Membrane,0,0.0081,0,0.9918
+Cytidylate_kinase,Cytoplasmic,0.0002,0.0004,0.9994,0
+30S_ribosomal_protein_S1_,Cytoplasmic,0.0002,0.0101,0.9856,0.0041
+GTPase_Der,Cytoplasmic,0,0.0074,0.9833,0.0092
+DNA-binding_protein_HU,Cytoplasmic,0.0001,0.0274,0.9721,0.0004
+hypothetical_protein,Cytoplasmic,0.0001,0.0032,0.928,0.0687
+Beta-barrel_assembly-enhancing_protease,Cytoplasmic,0.0057,0.0019,0.9684,0.024
+hypothetical_protein,Cytoplasmic,0.0016,0.0047,0.8248,0.1689
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9998
+putative_protein_YpjD,Cytoplasmic,0.0001,0.0043,0.9948,0.0008
+4-hydroxy-tetrahydrodipicolinate_reductase,Cytoplasmic,0.0001,0.001,0.9988,0.0002
+CCA-adding_enzyme,Cytoplasmic,0.0001,0,0.9965,0.0034
+hypothetical_protein,Cytoplasmic,0,0.0011,0.9972,0.0017
+hypothetical_protein,Cytoplasmic,0.0002,0.0369,0.8006,0.1623
+Shikimate_dehydrogenase_(NADP(+)),Cytoplasmic,0.0001,0.0018,0.9979,0.0003
+Phospho-2-dehydro-3-deoxyheptonate_aldolase,Cytoplasmic,0.0002,0.0777,0.8967,0.0255
+3-dehydroquinate_synthase,Cytoplasmic,0.0001,0.0003,0.9996,0.0001
+Chorismate_synthase,Cytoplasmic,0,0.0029,0.9969,0.0001
+hypothetical_protein,Cytoplasmic,0.0014,0.0042,0.9903,0.0041
+3-phosphoshikimate_1-carboxyvinyltransferase,Cytoplasmic,0.0002,0.0005,0.9987,0.0005
+Shikimate_kinase,Cytoplasmic,0,0.0001,0.9998,0.0001
+Bifunctional_chorismate_mutase/prephenate_dehydratase,Cytoplasmic,0,0.0009,0.999,0.0001
+Polyisoprenyl-teichoic_acid--peptidoglycan_teichoic_acid_transferase_TagU,Cytoplasmic Membrane,0.0003,0.0546,0.0001,0.9451
+Protein_DegV,Cytoplasmic,0.0001,0.0015,0.9969,0.0015
+hypothetical_protein,Cytoplasmic,0.0009,0.2368,0.7578,0.0045
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0001,0.9987
+hypothetical_protein,Cytoplasmic,0.0002,0.0445,0.9539,0.0014
+"Sodium,_potassium,_lithium_and_rubidium/H(+)_antiporter",Cytoplasmic Membrane,0,0,0,0.9999
+Energy-dependent_translational_throttle_protein_EttA,Cytoplasmic,0.0016,0.0023,0.9848,0.0113
+Thymidylate_synthase,Cytoplasmic,0.0001,0.0416,0.9575,0.0008
+Dihydrofolate_reductase,Cytoplasmic,0,0.0004,0.9996,0
+Epoxyqueuosine_reductase,Cytoplasmic,0.0002,0.0018,0.9942,0.0039
+LexA_repressor,Cytoplasmic,0.0001,0.0063,0.9934,0.0003
+hypothetical_protein,Cytoplasmic,0,0.003,0.9961,0.0009
+Transketolase,Cytoplasmic,0.0006,0.073,0.919,0.0075
+putative_transporter,Cytoplasmic Membrane,0,0.0005,0,0.9995
+Autolysin,Extracellular,0.0045,0.9954,0,0.0001
+Cysteine_synthase,Cytoplasmic,0,0.0017,0.9979,0.0003
+Peroxide_operon_regulator,Cytoplasmic,0.0002,0.0706,0.928,0.0011
+NADH_oxidase,Cytoplasmic,0.0002,0.0037,0.9784,0.0177
+hypothetical_protein,Cytoplasmic,0.0009,0.0055,0.9851,0.0085
+hypothetical_protein,Cytoplasmic,0.0003,0.0491,0.9426,0.008
+Spermidine/spermine_N(1)-acetyltransferase,Cytoplasmic,0,0.0002,0.9997,0.0001
+HTH-type_transcriptional_activator_RhaS,Cytoplasmic,0.0009,0.0041,0.993,0.0021
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0008,0,0.9991
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0005,0,0.9995
+RNA_pyrophosphohydrolase,Cytoplasmic,0.0001,0.0051,0.9842,0.0106
+hypothetical_protein,Cytoplasmic Membrane,0.0616,0.0727,0.0009,0.8648
+Vegetative_catalase,Cytoplasmic,0.0008,0.3352,0.6625,0.0015
+Deoxyribodipyrimidine_photo-lyase,Cytoplasmic,0.0011,0.0008,0.9909,0.0072
+hypothetical_protein,Cytoplasmic,0.0096,0.0688,0.834,0.0876
+PTS_system_beta-glucoside-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.0005,0,0.9995
+"Oligo-1,6-glucosidase",Cytoplasmic,0.0009,0.0201,0.9759,0.0031
+Sucrose-6-phosphate_hydrolase,Cytoplasmic,0.0006,0.0087,0.99,0.0007
+HTH-type_transcriptional_regulator_DegA,Cytoplasmic,0,0.0007,0.9977,0.0015
+hypothetical_protein,Cytoplasmic Membrane,0,0.0008,0,0.9992
+Aryl-phospho-beta-D-glucosidase_BglC,Cytoplasmic,0.0002,0.0567,0.9427,0.0004
+PTS_system_beta-glucoside-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.0005,0.0001,0.9995
+"3',5'-cyclic_adenosine_monophosphate_phosphodiesterase_CpdA",Cytoplasmic,0.0007,0.0618,0.9222,0.0153
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Phosphate-import_permease_protein_PhnE,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Glutamine_transport_ATP-binding_protein_GlnQ,Cytoplasmic Membrane,0.0001,0.0014,0.0074,0.9911
+Phosphate-import_protein_PhnD,Cytoplasmic Membrane,0.0202,0.1485,0.0007,0.8307
+Regulatory_protein_YeiL,Cytoplasmic,0.0004,0.0113,0.9406,0.0477
+Major_cardiolipin_synthase_ClsA,Cytoplasmic Membrane,0,0.0003,0.0001,0.9995
+hypothetical_protein,Cytoplasmic Membrane,0,0.0014,0.0001,0.9984
+hypothetical_protein,Cytoplasmic,0.0005,0.0142,0.9357,0.0496
+putative_manganese-dependent_inorganic_pyrophosphatase,Cytoplasmic,0.0001,0.0024,0.9974,0.0001
+Pyruvate_formate-lyase-activating_enzyme,Cytoplasmic,0,0.003,0.9941,0.0028
+Formate_acetyltransferase,Cytoplasmic,0.0002,0.0371,0.9602,0.0025
+DNA_topoisomerase_4_subunit_A,Cytoplasmic,0.0017,0.0493,0.941,0.008
+DNA_topoisomerase_4_subunit_B,Cytoplasmic,0.0003,0.0596,0.9338,0.0062
+putative_protein_YccU,Cytoplasmic,0,0.0035,0.9964,0.0001
+Ethanolamine_utilization_protein_EutQ,Cytoplasmic,0,0.0207,0.9733,0.006
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Carbon_dioxide_concentrating_mechanism_protein_CcmL,Cytoplasmic,0.0001,0.024,0.9459,0.03
+hypothetical_protein,Cytoplasmic,0.0015,0.0039,0.9124,0.0822
+Phosphate_propanoyltransferase,Cytoplasmic,0.0001,0.0734,0.9245,0.002
+hypothetical_protein,Cytoplasmic,0.0023,0.0076,0.906,0.0841
+Propanediol_utilization_protein_PduA,Cytoplasmic,0.0006,0.1445,0.8469,0.008
+Aldehyde-alcohol_dehydrogenase,Cytoplasmic,0.0008,0.085,0.9049,0.0093
+hypothetical_protein,Cytoplasmic,0.0037,0.0129,0.9742,0.0092
+Ethanolamine_utilization_protein_EutL,Cytoplasmic,0.0034,0.075,0.8294,0.0922
+Ethanolamine_ammonia-lyase_light_chain,Cytoplasmic,0.0003,0.3663,0.6236,0.0099
+Ethanolamine_ammonia-lyase_heavy_chain,Cytoplasmic,0.0002,0.0131,0.9801,0.0066
+hypothetical_protein,Cytoplasmic,0.0009,0.0029,0.9857,0.0105
+hypothetical_protein,Cytoplasmic,0.0007,0.0022,0.8152,0.1819
+putative_transcriptional_regulatory_protein_pdtaR,Cytoplasmic,0,0.0039,0.9953,0.0008
+Propanediol_utilization_protein_PduU,Cytoplasmic,0.0095,0.0581,0.8367,0.0957
+Aldehyde-alcohol_dehydrogenase,Cytoplasmic,0.0001,0.0012,0.9962,0.0025
+Corrinoid_adenosyltransferase,Cytoplasmic,0.0006,0.0089,0.9891,0.0015
+Propanediol_utilization_protein_PduV,Cytoplasmic,0.0001,0.0014,0.9862,0.0123
+Ferric_enterobactin_transport_ATP-binding_protein_FepC,Cytoplasmic Membrane,0.0003,0.006,0.3775,0.6162
+Hemin_transport_system_permease_protein_HmuU,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Vitamin_B12-binding_protein,Cytoplasmic Membrane,0.0397,0.0218,0.0003,0.9382
+Glycerol-3-phosphate_acyltransferase,Cytoplasmic Membrane,0,0.0005,0.0001,0.9994
+"Protein_LacX,_plasmid",Cytoplasmic,0.0003,0.0018,0.9974,0.0005
+GTP-sensing_transcriptional_pleiotropic_repressor_CodY,Cytoplasmic,0.0002,0.0075,0.959,0.0333
+ATP-dependent_protease_ATPase_subunit_ClpY,Cytoplasmic,0.0003,0.0019,0.9873,0.0105
+ATP-dependent_protease_subunit_HslV,Cytoplasmic,0.0002,0.0756,0.9123,0.0119
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0003,0.001,0.9966,0.0021
+Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase_TrmFO,Cytoplasmic,0,0.0124,0.9863,0.0013
+DNA_topoisomerase_1,Cytoplasmic,0.0009,0.0749,0.922,0.0021
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0037,0.0004,0.9957
+hypothetical_protein,Cytoplasmic,0.0015,0.0045,0.9392,0.0547
+Ribonuclease_HII,Cytoplasmic,0.0011,0.0002,0.9985,0.0002
+Ribosome_biogenesis_GTPase_A,Cytoplasmic,0,0.0008,0.9912,0.0079
+2-dehydropantoate_2-reductase,Cytoplasmic,0.0001,0.0029,0.9959,0.0012
+HTH-type_transcriptional_regulator_CynR,Cytoplasmic,0.0005,0.0036,0.9857,0.0102
+hypothetical_protein,Cytoplasmic Membrane,0,0.008,0.0003,0.9917
+Dihydrolipoyllysine-residue_acetyltransferase_component_of_pyruvate_dehydrogenase_complex,Cytoplasmic,0.0002,0.0037,0.9919,0.0042
+2-oxoisovalerate_dehydrogenase_subunit_beta,Cytoplasmic,0.0001,0.0248,0.9728,0.0022
+2-oxoisovalerate_dehydrogenase_subunit_alpha,Cytoplasmic,0.0001,0.0622,0.9293,0.0084
+Dihydrolipoyl_dehydrogenase,Cytoplasmic,0.0008,0.0047,0.9879,0.0067
+putative_butyrate_kinase_2,Cytoplasmic,0.0006,0.0058,0.9907,0.0029
+Phosphate_acetyltransferase,Cytoplasmic,0.0002,0.0023,0.9963,0.0012
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0006,0.9981
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0.0003,0.9986
+hypothetical_protein,Cytoplasmic,0.0001,0.1682,0.7744,0.0573
+D-beta-hydroxybutyrate_dehydrogenase,Cytoplasmic,0,0.0227,0.9752,0.0021
+HTH-type_transcriptional_regulator_MhqR,Cytoplasmic,0.0003,0.0023,0.9888,0.0085
+Putative_ring-cleaving_dioxygenase_MhqA,Cytoplasmic,0,0.001,0.9981,0.0009
+Putative_hydrolase_MhqD,Cytoplasmic,0.0019,0.004,0.9934,0.0007
+Zinc-type_alcohol_dehydrogenase-like_protein,Cytoplasmic,0.0002,0.0014,0.9967,0.0017
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+putative_ABC_transporter_ATP-binding_protein_YknY,Cytoplasmic Membrane,0.0002,0.1029,0.0868,0.8101
+hypothetical_protein,Cytoplasmic Membrane,0,0.004,0.0003,0.9957
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic,0.0003,0.001,0.8084,0.1903
+hypothetical_protein,Cytoplasmic,0.0001,0.002,0.9881,0.0098
+hypothetical_protein,Cytoplasmic Membrane,0.033,0.1753,0.0017,0.79
+Signal_peptidase_I_V,Cytoplasmic Membrane,0,0.0024,0.0026,0.9949
+Carboxy-terminal_processing_protease_CtpA,Cytoplasmic Membrane,0.0098,0.0061,0.001,0.9831
+hypothetical_protein,Cytoplasmic,0.0001,0.1323,0.8326,0.035
+Peptide_methionine_sulfoxide_reductase_MsrA,Cytoplasmic,0.0003,0.02,0.9782,0.0015
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0021,0,0.9976
+hypothetical_protein,Cytoplasmic Membrane,0.0035,0.0292,0.0022,0.9651
+DegV_domain-containing_protein,Cytoplasmic,0,0.0024,0.9942,0.0033
+hypothetical_protein,Cytoplasmic Membrane,0,0.0014,0,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0,0.0097,0,0.9903
+Adenine_phosphoribosyltransferase,Cytoplasmic,0,0.0084,0.9909,0.0007
+hypothetical_protein,Cytoplasmic,0.0013,0.0001,0.9969,0.0017
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+putative_oxidoreductase,Cytoplasmic Membrane,0.0003,0.0401,0.3233,0.6362
+Ribonuclease_Z,Cytoplasmic,0.0001,0.0028,0.995,0.0021
+hypothetical_protein,Cytoplasmic Membrane,0,0.0117,0.283,0.7053
+hypothetical_protein,Cytoplasmic,0.0005,0.0773,0.9041,0.0181
+30S_ribosomal_protein_S16,Cytoplasmic,0,0.2797,0.7201,0.0002
+Mycothiol_acetyltransferase,Cytoplasmic,0.0014,0.0048,0.9918,0.0021
+Quinone_reductase,Cytoplasmic,0.0003,0.0957,0.9021,0.0019
+HTH-type_transcriptional_activator_mta,Cytoplasmic,0.0015,0.0054,0.9898,0.0032
+Signal_recognition_particle_protein,Cytoplasmic,0.0001,0.0319,0.9024,0.0655
+hypothetical_protein,Cytoplasmic,0,0.0073,0.9836,0.0091
+hypothetical_protein,Cytoplasmic,0.0001,0.0006,0.9986,0.0008
+Alkaline_phosphatase_synthesis_transcriptional_regulatory_protein_PhoP,Cytoplasmic,0.0002,0.0032,0.9941,0.0025
+Alkaline_phosphatase_synthesis_sensor_protein_PhoR,Cytoplasmic Membrane,0,0.0033,0.0003,0.9964
+Phosphate-binding_protein_PstS_1,Cytoplasmic Membrane,0.0243,0.112,0.0004,0.8634
+putative_N-acetyl-LL-diaminopimelate_aminotransferase,Cytoplasmic,0.0002,0.0005,0.9991,0.0002
+Mannosylglycerate_hydrolase,Cytoplasmic,0.001,0.0006,0.9957,0.0028
+hypothetical_protein,Cytoplasmic,0.008,0.1087,0.8822,0.0011
+Arabinose_metabolism_transcriptional_repressor,Cytoplasmic,0.0002,0.0082,0.9868,0.0048
+hypothetical_protein,Cytoplasmic,0.0002,0.003,0.985,0.0118
+Carbonic_anhydrase,Cytoplasmic,0,0.0022,0.9975,0.0002
+Orotate_phosphoribosyltransferase,Cytoplasmic,0.0001,0.0137,0.9832,0.003
+Orotidine_5'-phosphate_decarboxylase,Cytoplasmic,0.0001,0.0001,0.999,0.0007
+"Dihydroorotate_dehydrogenase_B_(NAD(+)),_catalytic_subunit",Cytoplasmic,0.0005,0.0085,0.9868,0.0041
+"Dihydroorotate_dehydrogenase_B_(NAD(+)),_electron_transfer_subunit",Cytoplasmic,0.0001,0.0012,0.9976,0.0011
+Carbamoyl-phosphate_synthase_large_chain,Cytoplasmic,0.0035,0.0083,0.8832,0.105
+Carbamoyl-phosphate_synthase_small_chain,Cytoplasmic,0.0002,0.0239,0.9716,0.0044
+Dihydroorotase,Cytoplasmic,0.0002,0.0014,0.9981,0.0002
+Aspartate_carbamoyltransferase,Cytoplasmic,0.0001,0.0077,0.9912,0.001
+Uracil_permease,Cytoplasmic Membrane,0,0.0017,0,0.9982
+Bifunctional_protein_pyrR,Cytoplasmic,0.0001,0.0759,0.921,0.0031
+Ribosomal_large_subunit_pseudouridine_synthase_D,Cytoplasmic,0,0.0001,0.9981,0.0017
+Lipoprotein_signal_peptidase,Cytoplasmic Membrane,0,0.0015,0,0.9985
+hypothetical_protein,Cytoplasmic,0.0011,0.0023,0.9145,0.082
+Formate--tetrahydrofolate_ligase_1,Cytoplasmic,0.0005,0.0294,0.9645,0.0057
+Cold_shock_protein_CspD,Cytoplasmic,0,0.0013,0.9987,0
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0336,0.0002,0.9661
+14.7_kDa_ribonuclease_H-like_protein,Cytoplasmic,0.463,0.0091,0.5267,0.0013
+Cys-tRNA(Pro)/Cys-tRNA(Cys)_deacylase_YbaK,Cytoplasmic,0,0.0018,0.9977,0.0005
+3-dehydroquinate_dehydratase,Cytoplasmic,0,0.0004,0.9993,0.0002
+putative_multidrug_resistance_ABC_transporter_ATP-binding/permease_protein_YheH,Cytoplasmic Membrane,0,0.0003,0,0.9997
+putative_multidrug_resistance_ABC_transporter_ATP-binding/permease_protein_YheI,Cytoplasmic Membrane,0,0.0002,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0074,0.0001,0.9924
+putative_endonuclease_4,Cytoplasmic,0,0.0013,0.9985,0.0001
+hypothetical_protein,Cytoplasmic,0.0001,0.0019,0.9978,0.0002
+hypothetical_protein,Cytoplasmic,0.0041,0.0052,0.9881,0.0025
+Tyrosine--tRNA_ligase_1,Cytoplasmic,0,0.0022,0.9975,0.0003
+Biosynthetic_peptidoglycan_transglycosylase,Cytoplasmic Membrane,0.0018,0.2205,0.0002,0.7775
+Catabolite_control_protein_A,Cytoplasmic,0.0001,0.0189,0.9773,0.0036
+Xaa-Pro_dipeptidase,Cytoplasmic,0.0001,0.0007,0.9984,0.0009
+hypothetical_protein,Cytoplasmic Membrane,0.2983,0.0706,0.2088,0.4223
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.002,0.0001,0.9978
+UTP--glucose-1-phosphate_uridylyltransferase,Cytoplasmic,0.0003,0.0063,0.9628,0.0305
+Glycerol-3-phosphate_dehydrogenase_[NAD(P)+],Cytoplasmic,0.0002,0.0075,0.9892,0.0031
+Phosphatidylglycerol--prolipoprotein_diacylglyceryl_transferase,Cytoplasmic Membrane,0,0.0002,0,0.9998
+HPr_kinase/phosphorylase,Cytoplasmic,0.0001,0.0461,0.9411,0.0127
+UvrABC_system_protein_C,Cytoplasmic,0.0041,0.0026,0.9696,0.0238
+hypothetical_protein,Cytoplasmic Membrane,0,0.0018,0.0001,0.9981
+hypothetical_protein,Cytoplasmic Membrane,0,0.0064,0.0003,0.9932
+hypothetical_protein,Cytoplasmic,0.0243,0.0022,0.9292,0.0442
+Phosphate-specific_transport_system_accessory_protein_PhoU_,Cytoplasmic,0.0001,0.006,0.9842,0.0098
+Phosphate_import_ATP-binding_protein_PstB_3,Cytoplasmic Membrane,0.0001,0.0293,0.0744,0.8963
+Phosphate_import_ATP-binding_protein_PstB_3,Cytoplasmic Membrane,0.0001,0.0162,0.0587,0.925
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Phosphate_transport_system_permease_protein_PstC_1,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Phosphate-binding_protein_PstS_1,Cytoplasmic Membrane,0.0073,0.2737,0.0011,0.7179
+Cell_division_protein_FtsX,Cytoplasmic Membrane,0,0.001,0,0.999
+Cell_division_ATP-binding_protein_FtsE,Cytoplasmic Membrane,0,0.0066,0.1664,0.827
+Peptide_chain_release_factor_2,Cytoplasmic,0,0.0039,0.9945,0.0016
+Protein_translocase_subunit_SecA,Cytoplasmic,0.0022,0.0185,0.6062,0.3732
+Ribosome_hibernation_promotion_factor,Cytoplasmic,0.0008,0.1343,0.8414,0.0234
+hypothetical_protein,Cytoplasmic,0.0008,0.0005,0.7177,0.281
+ComF_operon_protein_1,Cytoplasmic,0.001,0.0007,0.9323,0.0659
+PTS_system_cellobiose-specific_EIIB_component,Cytoplasmic,0,0.0025,0.9974,0.0001
+hypothetical_protein,Extracellular,0.0034,0.5041,0.4839,0.0087
+IMPACT_family_member_YigZ,Cytoplasmic,0.0003,0.0003,0.9992,0.0003
+hypothetical_protein,Cytoplasmic,0.0021,0.1378,0.7928,0.0672
+3-beta-hydroxycholanate_3-dehydrogenase_(NAD(+))_2,Cytoplasmic,0,0.0781,0.9192,0.0026
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0.0016,0.9974
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.104,0.0013,0.8947
+hypothetical_protein,Cytoplasmic Membrane,0,0.0028,0.0001,0.9971
+Phosphoribosylamine--glycine_ligase,Cytoplasmic,0.0008,0.0014,0.9976,0.0003
+Bifunctional_purine_biosynthesis_protein_PurH,Cytoplasmic,0.0001,0.0072,0.9902,0.0024
+Bifunctional_purine_biosynthesis_protein_PurH,Cytoplasmic,0.0016,0.0106,0.9829,0.005
+Phosphoribosylglycinamide_formyltransferase,Cytoplasmic,0,0.0001,0.9998,0
+Phosphoribosylformylglycinamidine_cyclo-ligase,Cytoplasmic,0.0005,0.0051,0.9921,0.0023
+Amidophosphoribosyltransferase,Cytoplasmic,0.0016,0.0259,0.955,0.0175
+Phosphoribosylformylglycinamidine_synthase_subunit_PurL,Cytoplasmic,0.0026,0.0191,0.9529,0.0255
+Phosphoribosylformylglycinamidine_synthase_subunit_PurQ,Cytoplasmic,0.0003,0.0652,0.9337,0.0008
+Phosphoribosylformylglycinamidine_synthase_subunit_PurS,Cytoplasmic,0.0008,0.0006,0.9972,0.0014
+Phosphoribosylaminoimidazole-succinocarboxamide_synthase,Cytoplasmic,0,0.0005,0.9994,0
+N5-carboxyaminoimidazole_ribonucleotide_synthase,Cytoplasmic,0.0004,0.0049,0.9897,0.0051
+N5-carboxyaminoimidazole_ribonucleotide_mutase,Cytoplasmic,0.0002,0.2033,0.7954,0.0011
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0269,0.0001,0.9729
+ADP-dependent_(S)-NAD(P)H-hydrate_dehydratase,Cytoplasmic,0.0001,0.0006,0.9989,0.0004
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.0698,0.1342,0.0009,0.7951
+hypothetical_protein,Cytoplasmic,0,0.017,0.9809,0.0021
+Branched-chain-amino-acid_aminotransferase,Cytoplasmic,0.0002,0.2248,0.7712,0.0039
+hypothetical_protein,Cytoplasmic,0.002,0.0309,0.9595,0.0077
+hypothetical_protein,Extracellular,0.005,0.6854,0.0001,0.3096
+hypothetical_protein,Cytoplasmic Membrane,0,0.0072,0.0005,0.9923
+hypothetical_protein,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Extracellular,0.031,0.9683,0.0002,0.0005
+PTS_system_mannose-specific_EIIAB_component,Cytoplasmic,0,0.0057,0.9941,0.0002
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0024,0,0.9975
+hypothetical_protein,Cytoplasmic Membrane,0,0.0028,0.0001,0.9972
+PTS_system_fructose-specific_EIIB_component,Cytoplasmic,0.0001,0.0405,0.958,0.0013
+Beta-galactosidase,Cytoplasmic,0.0002,0.0035,0.9958,0.0005
+Tagatose-6-phosphate_kinase,Cytoplasmic,0.0004,0.0005,0.9989,0.0002
+"Tagatose_1,6-diphosphate_aldolase",Cytoplasmic,0.0028,0.0364,0.958,0.0027
+D-galactosamine-6-phosphate_deaminase_AgaS,Cytoplasmic,0.0003,0.0021,0.9963,0.0013
+HTH-type_transcriptional_repressor_NagR,Cytoplasmic,0,0.0026,0.9965,0.0009
+General_stress_protein_A,Cytoplasmic,0.0028,0.1198,0.7906,0.0869
+General_stress_protein_A,Cytoplasmic,0.0007,0.059,0.9374,0.0028
+Lipoteichoic_acid_synthase_1,Cytoplasmic Membrane,0.0001,0.0019,0,0.998
+Multidrug_resistance_protein_Stp,Cytoplasmic Membrane,0,0.0008,0,0.9991
+hypothetical_protein,Cytoplasmic,0.0017,0.2132,0.7536,0.0315
+hypothetical_protein,Cytoplasmic,0.0001,0.0421,0.9489,0.0089
+Glutamyl_endopeptidase,Extracellular,0.0095,0.9877,0.0001,0.0028
+Gelatinase,Extracellular,0.0089,0.991,0,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.0005,0.0291,0.0048,0.9656
+Accessory_gene_regulator_protein_B,Cytoplasmic Membrane,0,0.0026,0.0004,0.997
+Accessory_gene_regulator_protein_A,Cytoplasmic,0.0004,0.0113,0.981,0.0073
+hypothetical_protein,Extracellular,0.2195,0.722,0.0238,0.0347
+hypothetical_protein,Cell wall & surface,0.8985,0.0733,0.0003,0.0279
+hypothetical_protein,Cytoplasmic Membrane,0,0.0038,0.0003,0.9959
+Alcohol_dehydrogenase_1,Cytoplasmic,0.0001,0.0368,0.9495,0.0137
+hypothetical_protein,Cytoplasmic Membrane,0.002,0.0172,0.0001,0.9807
+hypothetical_protein,Extracellular,0.0135,0.9833,0.0001,0.0032
+hypothetical_protein,Cytoplasmic Membrane,0.2344,0.168,0.0004,0.5971
+hypothetical_protein,Extracellular,0.0074,0.601,0.0056,0.3861
+hypothetical_protein,Cytoplasmic,0.0008,0.0198,0.8651,0.1143
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0114,0.0013,0.9872
+"Pyridinium-3,5-bisthiocarboxylic_acid_mononucleotide_synthase",Cytoplasmic,0.0002,0.0182,0.9814,0.0002
+Nickel_import_ATP-binding_protein_LarO,Cytoplasmic,0.0004,0.002,0.5792,0.4184
+Nickel_permease_LarQ,Cytoplasmic Membrane,0,0.0006,0.0002,0.9992
+putative_fused_nickel_transport_protein_LarMN,Cytoplasmic Membrane,0.0001,0.0025,0.0002,0.9972
+Lactate_racemization_regulatory_protein,Cytoplasmic,0,0.0035,0.9395,0.057
+Lactate_racemase,Cytoplasmic,0,0.0149,0.9841,0.001
+"Pyridinium-3,5-biscarboxylic_acid_mononucleotide_synthase",Cytoplasmic,0.0004,0.0222,0.9728,0.0045
+"Pyridinium-3,5-bisthiocarboxylic_acid_mononucleotide_nickel_insertion_protein",Cytoplasmic,0.0006,0.0001,0.9984,0.001
+D/L-lactic_acid_transporter,Cytoplasmic Membrane,0.0001,0.004,0.0005,0.9955
+hypothetical_protein,Cytoplasmic Membrane,0,0.002,0,0.998
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0018,0.004,0.9941
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0021,0.0001,0.9978
+PTS_system_sorbose-specific_EIIB_component,Cytoplasmic,0,0.0782,0.9207,0.0011
+hypothetical_protein,Cytoplasmic,0,0.0023,0.9976,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0,0.0245,0.0003,0.9752
+Galactose-6-phosphate_isomerase_subunit_LacB,Cytoplasmic,0,0.0058,0.994,0.0002
+Galactose-6-phosphate_isomerase_subunit_LacA,Cytoplasmic,0,0.004,0.996,0
+hypothetical_protein,Cytoplasmic,0,0.0036,0.9945,0.0018
+hypothetical_protein,Cytoplasmic,0.0021,0.0114,0.9797,0.0068
+PTS_system_galactitol-specific_EIIC_component,Cytoplasmic Membrane,0,0.0027,0,0.9973
+Lactose_phosphotransferase_system_repressor,Cytoplasmic,0.0002,0.0041,0.9943,0.0014
+hypothetical_protein,Cytoplasmic Membrane,0.0167,0.1795,0.0046,0.7992
+hypothetical_protein,Cytoplasmic,0.0004,0.0319,0.9635,0.0042
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0559,0.0003,0.9436
+hypothetical_protein,Cytoplasmic Membrane,0,0.0173,0.0014,0.9812
+hypothetical_protein,Cytoplasmic,0.0002,0.0822,0.8394,0.0782
+50S_ribosomal_protein_L32,Extracellular,0,0.6407,0.3593,0
+hypothetical_protein,Cytoplasmic,0.0011,0.0908,0.9015,0.0066
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0,0.9985
+hypothetical_protein,Extracellular,0.0004,0.9995,0.0001,0
+hypothetical_protein,Extracellular,0.0011,0.9983,0,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0736,0.0002,0.926
+hypothetical_protein,Extracellular,0.0001,0.9902,0,0.0096
+hypothetical_protein,Extracellular,0.02,0.6705,0,0.3095
+hypothetical_protein,Extracellular,0.0034,0.9945,0,0.0021
+hypothetical_protein,Extracellular,0.0015,0.9984,0,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0562,0.0002,0.9435
+hypothetical_protein,Cytoplasmic Membrane,0,0.1081,0.0002,0.8917
+hypothetical_protein,Extracellular,0.0001,0.9995,0,0.0004
+50S_ribosomal_protein_L19,Cytoplasmic,0.0001,0.18,0.8183,0.0016
+tRNA_(guanine-N(1)-)-methyltransferase,Cytoplasmic,0,0.0013,0.9986,0.0001
+Ribosome_maturation_factor_RimM,Cytoplasmic,0,0.0005,0.9988,0.0006
+Divalent_metal_cation_transporter_MntH,Cytoplasmic Membrane,0,0.0007,0,0.9993
+hypothetical_protein,Cytoplasmic,0,0.0007,0.9992,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0,0.9984
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Inner_membrane_protein_YbhL,Cytoplasmic Membrane,0,0.0273,0,0.9726
+hypothetical_protein,Cytoplasmic,0.0001,0.0015,0.9677,0.0307
+UDP-N-acetylmuramate--L-alanine_ligase,Cytoplasmic,0.0001,0.002,0.9973,0.0006
+hypothetical_protein,Extracellular,0.0089,0.3685,0.34,0.2827
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Beta-glucoside_kinase,Cytoplasmic,0,0.0006,0.9983,0.001
+Putative_membrane_protein_insertion_efficiency_factor,Extracellular,0.001,0.4833,0.3561,0.1597
+hypothetical_protein,Cytoplasmic,0.0022,0.0311,0.9009,0.0657
+putative_GTP-binding_protein_EngB,Cytoplasmic,0,0.0057,0.9924,0.0019
+ATP-dependent_Clp_protease_ATP-binding_subunit_ClpX,Cytoplasmic,0.0004,0.0204,0.9662,0.013
+6-phosphogluconolactonase,Cytoplasmic,0.0003,0.0001,0.9994,0.0002
+hypothetical_protein,Cytoplasmic,0.0002,0.005,0.976,0.0187
+Putative_cryptic_C4-dicarboxylate_transporter_DcuD,Cytoplasmic Membrane,0,0.0015,0,0.9985
+Non-specific_ribonucleoside_hydrolase_RihC,Cytoplasmic,0.0001,0.0149,0.9844,0.0006
+Ribokinase,Cytoplasmic,0.0023,0.0227,0.9699,0.0051
+hypothetical_protein,Cytoplasmic,0.001,0.1154,0.5805,0.3032
+hypothetical_protein,Cytoplasmic Membrane,0.0006,0.4081,0.0009,0.5905
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.052,0.0066,0.9411
+Glycerol_uptake_facilitator_protein,Cytoplasmic Membrane,0.0001,0.0038,0.0009,0.9952
+Alpha-glycerophosphate_oxidase,Cytoplasmic,0.0002,0.0052,0.9004,0.0942
+Glycerol_kinase,Cytoplasmic,0.0012,0.0083,0.9876,0.0029
+hypothetical_protein,Cytoplasmic,0.0007,0.0064,0.9142,0.0788
+NADH_peroxidase,Cytoplasmic,0.0027,0.0044,0.9733,0.0196
+hypothetical_protein,Cytoplasmic,0.0019,0.1584,0.4392,0.4006
+hypothetical_protein,Cytoplasmic,0.0001,0.0829,0.9024,0.0147
+hypothetical_protein,Cytoplasmic Membrane,0.0143,0.1746,0.4012,0.4098
+hypothetical_protein,Cytoplasmic,0.0004,0.0005,0.9983,0.0009
+Calcium-transporting_ATPase_1,Cytoplasmic Membrane,0,0.0002,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Regulatory_protein_YeiL,Cytoplasmic,0.0002,0.0014,0.9934,0.005
+hypothetical_protein,Cytoplasmic,0.0002,0.0067,0.9915,0.0016
+Multidrug_resistance_protein_MdtL,Cytoplasmic Membrane,0,0.0013,0.0001,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0.0012,0.0244,0.0004,0.9739
+hypothetical_protein,Cytoplasmic,0.0002,0.0269,0.9701,0.0028
+hypothetical_protein,Cytoplasmic,0.0002,0.0017,0.9981,0
+hypothetical_protein,Cytoplasmic,0.0005,0.0862,0.7668,0.1465
+Fructosamine_deglycase_FrlB,Cytoplasmic,0.0001,0.0171,0.9737,0.0091
+Glutamine--fructose-6-phosphate_aminotransferase_[isomerizing],Cytoplasmic,0.0003,0.0014,0.9977,0.0006
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0005,0,0.9995
+N-acetylgalactosamine_permease_IIC_component_1,Cytoplasmic Membrane,0,0.0016,0,0.9984
+putative_phosphotransferase_enzyme_IIB_component,Cytoplasmic,0,0.069,0.9302,0.0008
+hypothetical_protein,Cytoplasmic,0.0001,0.0043,0.9942,0.0014
+Transcriptional_regulatory_protein_DagR,Cytoplasmic,0.0029,0.0051,0.8368,0.1552
+Deoxyguanosinetriphosphate_triphosphohydrolase,Cytoplasmic,0.0008,0.132,0.8447,0.0225
+hypothetical_protein,Cytoplasmic,0.0003,0.0695,0.9086,0.0217
+Enolase,Cytoplasmic,0.0002,0.0175,0.9821,0.0002
+Triosephosphate_isomerase,Cytoplasmic,0.0001,0.0786,0.9209,0.0003
+Phosphoglycerate_kinase,Cytoplasmic,0.0002,0.0202,0.9794,0.0002
+Glyceraldehyde-3-phosphate_dehydrogenase,Cytoplasmic,0,0.0629,0.9367,0.0003
+Central_glycolytic_genes_regulator,Cytoplasmic,0.0001,0.0016,0.968,0.0303
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+hypothetical_protein,Cytoplasmic,0.0001,0.0142,0.985,0.0008
+Thiamine_precursor_transporter_HmpT,Cytoplasmic Membrane,0.0001,0.0018,0.0018,0.9963
+Pyridoxine_kinase,Cytoplasmic,0.0007,0.0015,0.9935,0.0043
+Aspartate--tRNA_ligase,Cytoplasmic,0,0.0005,0.9995,0
+Histidine--tRNA_ligase,Cytoplasmic,0,0.0004,0.9996,0
+D-aminoacyl-tRNA_deacylase,Cytoplasmic,0.0004,0.0284,0.7994,0.1718
+GTP_pyrophosphokinase,Cytoplasmic,0.0003,0.088,0.8744,0.0373
+Ribosomal_RNA_small_subunit_methyltransferase_E,Cytoplasmic,0.0002,0.0018,0.9939,0.0041
+Ribosomal_protein_L11_methyltransferase,Cytoplasmic,0.0003,0.0015,0.9978,0.0005
+hypothetical_protein,Cytoplasmic,0.0008,0.0302,0.9204,0.0485
+Putative_3-methyladenine_DNA_glycosylase,Cytoplasmic,0.0001,0.0052,0.9945,0.0003
+putative_AAA_domain-containing_protein,Cytoplasmic,0.0002,0.0094,0.9865,0.0039
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0002,0.9986
+Putative_universal_stress_protein,Cytoplasmic,0,0.0015,0.9943,0.0042
+Acetate_kinase,Cytoplasmic,0,0.0163,0.9829,0.0008
+hypothetical_protein,Cytoplasmic,0.0033,0.0018,0.9893,0.0056
+hypothetical_protein,Cytoplasmic Membrane,0.0037,0.0934,0.0011,0.9018
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0347,0.0009,0.9642
+hypothetical_protein,Cytoplasmic Membrane,0.0015,0.0878,0.0004,0.9104
+hypothetical_protein,Cytoplasmic Membrane,0,0.1512,0.0003,0.8485
+Ferrochelatase,Cytoplasmic,0.0005,0.0385,0.805,0.1561
+hypothetical_protein,Cytoplasmic,0.0046,0.0335,0.9059,0.056
+Cold_shock_protein_1,Cytoplasmic,0,0.0002,0.9998,0
+hypothetical_protein,Extracellular,0.0781,0.9208,0,0.0011
+hypothetical_protein,Cytoplasmic Membrane,0.001,0.0644,0.0104,0.9242
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0469,0.0008,0.9523
+hypothetical_protein,Extracellular,0.0007,0.5494,0.1624,0.2876
+hypothetical_protein,Extracellular,0.0417,0.8473,0,0.1109
+hypothetical_protein,Cytoplasmic,0.0006,0.055,0.9354,0.0089
+hypothetical_protein,Extracellular,0.0424,0.5531,0.3374,0.0672
+hypothetical_protein,Cytoplasmic,0.001,0.0817,0.6841,0.2332
+hypothetical_protein,Extracellular,0.003,0.7038,0.2738,0.0194
+hypothetical_protein,Cytoplasmic,0.0008,0.0834,0.8544,0.0614
+hypothetical_protein,Cytoplasmic,0.001,0.2329,0.7275,0.0387
+hypothetical_protein,Cytoplasmic,0.0011,0.173,0.8209,0.005
+hypothetical_protein,Extracellular,0.0004,0.8269,0.1723,0.0004
+hypothetical_protein,Cytoplasmic,0.023,0.2766,0.6997,0.0007
+hypothetical_protein,Cytoplasmic,0.0015,0.1425,0.7998,0.0562
+hypothetical_protein,Extracellular,0.0001,0.55,0.4133,0.0367
+hypothetical_protein,Extracellular,0.0219,0.9301,0.0397,0.0083
+hypothetical_protein,Cytoplasmic,0.0007,0.1803,0.5492,0.2698
+hypothetical_protein,Cytoplasmic,0.0003,0.2119,0.7458,0.042
+hypothetical_protein,Cytoplasmic,0.0001,0.0114,0.9876,0.0009
+hypothetical_protein,Cytoplasmic,0.0003,0.419,0.5719,0.0087
+hypothetical_protein,Cytoplasmic Membrane,0,0.0102,0,0.9897
+hypothetical_protein,Cytoplasmic,0.0015,0.3824,0.5987,0.0174
+hypothetical_protein,Cytoplasmic,0.0007,0.0085,0.9427,0.048
+hypothetical_protein,Cytoplasmic,0.0002,0.0389,0.9591,0.0018
+hypothetical_protein,Cytoplasmic,0.0003,0.0094,0.9898,0.0005
+hypothetical_protein,Cytoplasmic,0.0017,0.0821,0.8786,0.0376
+hypothetical_protein,Cytoplasmic,0.0007,0.0089,0.9896,0.0008
+Protein_RecT,Cytoplasmic,0.0044,0.045,0.9435,0.0071
+hypothetical_protein,Cytoplasmic,0.0002,0.0113,0.988,0.0005
+hypothetical_protein,Cytoplasmic,0.0004,0.231,0.5875,0.1811
+hypothetical_protein,Cytoplasmic,0.0001,0.0979,0.8254,0.0767
+hypothetical_protein,Cytoplasmic,0.0008,0.0571,0.9282,0.014
+hypothetical_protein,Cytoplasmic,0.0005,0.0381,0.9052,0.0562
+hypothetical_protein,Cytoplasmic Membrane,0,0.0091,0.0002,0.9906
+hypothetical_protein,Cytoplasmic,0.0039,0.1564,0.8233,0.0164
+hypothetical_protein,Cytoplasmic,0.0129,0.054,0.9306,0.0025
+hypothetical_protein,Cytoplasmic,0,0.0034,0.9949,0.0016
+hypothetical_protein,Cytoplasmic,0.0008,0.0618,0.9218,0.0156
+hypothetical_protein,Cytoplasmic,0.0001,0.005,0.9946,0.0003
+hypothetical_protein,Extracellular,0.0006,0.4978,0.4472,0.0544
+hypothetical_protein,Extracellular,0.2096,0.4428,0.0028,0.3448
+hypothetical_protein,Extracellular,0.0003,0.7569,0,0.2427
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0166,0.0517,0.922,0.0097
+hypothetical_protein,Cytoplasmic Membrane,0,0.0461,0.0248,0.9291
+ComG_operon_protein_3,Cytoplasmic Membrane,0.0447,0.1958,0.0148,0.7447
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0.0039,0.9958
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+ComG_operon_protein_1,Cytoplasmic,0,0.0004,0.9179,0.0817
+Serine/threonine_exchanger_SteT,Cytoplasmic Membrane,0,0.0005,0,0.9995
+putative_dual-specificity_RNA_methyltransferase_RlmN,Cytoplasmic,0.0002,0.0173,0.9741,0.0084
+ABC_transporter_permease_protein_YxdM,Cytoplasmic Membrane,0,0.0001,0,0.9999
+ABC_transporter_ATP-binding_protein_YxdL,Cytoplasmic Membrane,0.0004,0.0026,0.1801,0.8169
+hypothetical_protein,Cytoplasmic,0,0.0002,0.9993,0.0004
+DNA_translocase_SpoIIIE,Cytoplasmic Membrane,0,0.0013,0.0004,0.9983
+NADH_dehydrogenase-like_protein,Cytoplasmic Membrane,0.0009,0.0277,0.4353,0.5361
+"1,4-dihydroxy-2-naphthoate_octaprenyltransferase",Cytoplasmic Membrane,0,0.0006,0.0003,0.9991
+"Hexaprenyl-diphosphate_synthase_large_subunit_((2E,6E)-farnesyl-diphosphate_specific)",Cytoplasmic,0.0002,0.0003,0.9822,0.0173
+putative_ABC_transporter_ATP-binding/permease_protein,Cytoplasmic Membrane,0,0,0,1
+ATP-binding/permease_protein_CydD,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Cytochrome_bd-I_ubiquinol_oxidase_subunit_2,Cytoplasmic Membrane,0,0.0006,0,0.9993
+Cytochrome_bd_ubiquinol_oxidase_subunit_1,Cytoplasmic Membrane,0,0.0005,0,0.9995
+HTH-type_transcriptional_activator_RhaS,Cytoplasmic,0.0002,0.0009,0.9977,0.0012
+DNA_topoisomerase_3,Cytoplasmic,0.0083,0.0089,0.9615,0.0212
+hypothetical_protein,Cytoplasmic,0.0002,0.1161,0.8679,0.0158
+hypothetical_protein,Cytoplasmic,0.0001,0.0028,0.9916,0.0055
+hypothetical_protein,Cytoplasmic,0.0012,0.0221,0.9538,0.0229
+Staphyloferrin_B_transporter,Cytoplasmic Membrane,0,0,0,1
+tRNA-specific_2-thiouridylase_MnmA,Cytoplasmic,0,0.006,0.9934,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.1354,0.3355,0.5287
+Cysteine_desulfurase_IscS,Cytoplasmic,0.0007,0.0001,0.9974,0.0018
+Putative_ribose-phosphate_pyrophosphokinase_2,Cytoplasmic,0.0006,0.0849,0.8451,0.0694
+Manganese_import_ATP-binding_protein_ScaC,Cytoplasmic Membrane,0.0001,0.0034,0.3891,0.6074
+Manganese_transport_system_membrane_protein_MntB,Cytoplasmic Membrane,0,0,0,1
+Manganese_ABC_transporter_substrate-binding_lipoprotein,Cytoplasmic Membrane,0.0052,0.0258,0.0001,0.9689
+putative_ABC_transporter_ATP-binding_protein_YbiT,Cytoplasmic,0.0008,0.0028,0.9942,0.0022
+N-acetylcysteine_deacetylase,Cytoplasmic,0.0006,0.0029,0.9961,0.0004
+D-methionine-binding_lipoprotein_MetQ,Cytoplasmic Membrane,0.004,0.0208,0,0.9752
+Methionine_import_system_permease_protein_MetP,Cytoplasmic Membrane,0,0,0,1
+Methionine_import_ATP-binding_protein_MetN,Cytoplasmic Membrane,0.0013,0.0321,0.2366,0.7301
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0119,0.0002,0.9877
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+hypothetical_protein,Cytoplasmic,0.0009,0.0036,0.9923,0.0032
+hypothetical_protein,Cytoplasmic,0.0022,0.2906,0.6845,0.0227
+Aminoacyltransferase_FemA,Cytoplasmic,0.0042,0.0137,0.8416,0.1405
+Glutamine--fructose-6-phosphate_aminotransferase_[isomerizing],Cytoplasmic,0.0007,0.0059,0.991,0.0025
+Energy-coupling_factor_transporter_transmembrane_protein_EcfT,Cytoplasmic Membrane,0,0,0,0.9999
+Putative_HMP/thiamine_import_ATP-binding_protein_YkoD,Cytoplasmic Membrane,0.0001,0.0005,0.2751,0.7244
+hypothetical_protein,Cytoplasmic Membrane,0,0.004,0.0006,0.9954
+Phosphoglucosamine_mutase,Cytoplasmic,0.0003,0.0122,0.9864,0.0011
+hypothetical_protein,Cytoplasmic Membrane,0.014,0.0021,0.0003,0.9836
+Cyclic_di-AMP_synthase_CdaA,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Pyruvate:ferredoxin_oxidoreductase,Cytoplasmic,0.002,0.1977,0.7735,0.0268
+Glutamine_synthetase,Cytoplasmic,0,0.0098,0.9891,0.0011
+HTH-type_transcriptional_regulator_GlnR,Cytoplasmic,0.0001,0.0208,0.9737,0.0054
+GTPase_HflX,Cytoplasmic,0.0002,0.0002,0.9749,0.0247
+tRNA_dimethylallyltransferase,Cytoplasmic,0.0002,0.0003,0.9991,0.0004
+Glycerophosphodiester_phosphodiesterase,Cytoplasmic,0.0001,0.0002,0.9995,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0088,0.0001,0.9909
+UDP-N-acetylglucosamine_4-epimerase,Cytoplasmic,0.0042,0.0323,0.9411,0.0223
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Teichoic_acid_poly(glycerol_phosphate)_polymerase,Cytoplasmic Membrane,0.0002,0.0344,0.0125,0.9529
+hypothetical_protein,Cytoplasmic Membrane,0,0.0014,0,0.9986
+Undecaprenyl-phosphate_4-deoxy-4-formamido-L-arabinose_transferase,Cytoplasmic Membrane,0.0008,0.0836,0.0982,0.8173
+"dTDP-glucose_4,6-dehydratase",Cytoplasmic,0.0007,0.0807,0.8962,0.0224
+Ribitol-5-phosphate_cytidylyltransferase,Cytoplasmic,0.0005,0.0033,0.9547,0.0415
+hypothetical_protein,Extracellular,0.031,0.9684,0,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0006,0.094,0.1701,0.7353
+"UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol_beta-1,3-glucosyltransferase_WfgD",Cytoplasmic Membrane,0,0.0034,0.0059,0.9907
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0001,0.9987
+hypothetical_protein,Cytoplasmic Membrane,0,0.0014,0,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0,0.0007,0,0.9993
+Undecaprenyl-phosphate_4-deoxy-4-formamido-L-arabinose_transferase,Cytoplasmic Membrane,0.005,0.014,0.3589,0.6221
+hypothetical_protein,Cytoplasmic,0.0059,0.0175,0.7072,0.2694
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic Membrane,0.0004,0.0238,0.2214,0.7544
+Teichoic_acid_translocation_permease_protein_TagG,Cytoplasmic Membrane,0,0.0005,0,0.9995
+hypothetical_protein,Cytoplasmic Membrane,0,0.0096,0,0.9903
+hypothetical_protein,Cytoplasmic Membrane,0,0.0048,0.0001,0.9951
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+Polyprenol_monophosphomannose_synthase,Cytoplasmic Membrane,0,0.0474,0.0493,0.9033
+dTDP-4-dehydrorhamnose_reductase,Cytoplasmic,0.0003,0.0002,0.992,0.0075
+"dTDP-glucose_4,6-dehydratase",Cytoplasmic,0.0004,0.027,0.9682,0.0044
+"dTDP-4-dehydrorhamnose_3,5-epimerase",Cytoplasmic,0,0.0006,0.9994,0
+Glucose-1-phosphate_thymidylyltransferase,Cytoplasmic,0.0008,0.028,0.8552,0.116
+putative_protein,Cytoplasmic,0.0014,0.0093,0.5532,0.4361
+hypothetical_protein,Cytoplasmic Membrane,0.0005,0.0112,0.3113,0.6769
+N-acetylglucosaminyl-diphospho-decaprenol_L-rhamnosyltransferase,Cytoplasmic Membrane,0,0.0121,0.0345,0.9534
+putative_undecaprenyl-phosphate_N-acetylglucosaminyl_1-phosphate_transferase,Cytoplasmic Membrane,0,0.0001,0,0.9998
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Methionine_aminopeptidase_1,Cytoplasmic,0,0.0014,0.9978,0.0008
+Protein_MioC,Cytoplasmic,0,0.0202,0.9797,0.0001
+Tryptophan-rich_protein_TspO,Cytoplasmic Membrane,0,0.0025,0.0002,0.9972
+hypothetical_protein,Cytoplasmic,0.0001,0.0092,0.9875,0.0032
+Aminopeptidase_PepS,Cytoplasmic,0.0003,0.0057,0.9924,0.0016
+hypothetical_protein,Cytoplasmic,0.0002,0.0511,0.8934,0.0552
+tRNA-specific_adenosine_deaminase,Cytoplasmic,0.0002,0.0019,0.9976,0.0002
+Leucine-rich_protein,Cytoplasmic,0.0002,0.0009,0.9767,0.0221
+putative_isomerase_YddE,Cytoplasmic,0.0017,0.0025,0.9902,0.0057
+hypothetical_protein,Cytoplasmic Membrane,0.0186,0.335,0.0127,0.6338
+hypothetical_protein,Cytoplasmic Membrane,0,0.0065,0.0002,0.9933
+hypothetical_protein,Cytoplasmic Membrane,0.0013,0.1936,0.0001,0.805
+hypothetical_protein,Cytoplasmic,0.0005,0.0052,0.9787,0.0156
+PTS_system_trehalose-specific_EIIBC_component,Cytoplasmic Membrane,0,0.0002,0.0001,0.9998
+hypothetical_protein,Cytoplasmic,0.0001,0.0013,0.9978,0.0009
+hypothetical_protein,Cytoplasmic,0,0.0001,0.9994,0.0005
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0.0004,0.9985
+hypothetical_protein,Cytoplasmic,0.001,0.1496,0.8465,0.0029
+HTH-type_transcriptional_activator_RhaR,Cytoplasmic,0.0047,0.0026,0.976,0.0166
+hypothetical_protein,Cytoplasmic Membrane,0,0.0016,0,0.9984
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic Membrane,0.0048,0.2548,0,0.7404
+Trehalose_transport_system_permease_protein_SugB,Cytoplasmic Membrane,0,0.0002,0,0.9998
+putative_multiple-sugar_transport_system_permease_YteP,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cell wall & surface,0.7978,0.1485,0.0003,0.0534
+hypothetical_protein,Cytoplasmic,0.0003,0.0681,0.9026,0.0289
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Tryptophan--tRNA_ligase_2,Cytoplasmic,0,0.0003,0.9997,0
+hypothetical_protein,Extracellular,0.0977,0.8957,0.0007,0.0058
+hypothetical_protein,Cytoplasmic Membrane,0.0036,0.1151,0.0002,0.8812
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0.0001,0.9998
+L-arabinose_transport_system_permease_protein_AraQ,Cytoplasmic Membrane,0,0,0,0.9999
+Diacetylchitobiose_uptake_system_permease_protein_NgcF,Cytoplasmic Membrane,0,0,0,1
+hypothetical_protein,Cytoplasmic Membrane,0.0326,0.0835,0.0001,0.8838
+Unsaturated_chondroitin_disaccharide_hydrolase,Cytoplasmic,0.0017,0.1017,0.8953,0.0013
+hypothetical_protein,Cytoplasmic,0.0012,0.0149,0.9809,0.003
+hypothetical_protein,Cytoplasmic Membrane,0.0083,0.1259,0.0005,0.8653
+HTH-type_transcriptional_repressor_MelR,Cytoplasmic,0.0001,0.0056,0.9903,0.004
+hypothetical_protein,Extracellular,0.0029,0.4187,0.3298,0.2487
+Elongation_factor_4,Cytoplasmic,0.0002,0.0439,0.7275,0.2284
+N-acetyltransferase_Eis,Cytoplasmic,0.0002,0.0096,0.9841,0.0061
+hypothetical_protein,Cytoplasmic,0.0002,0.0175,0.9811,0.0012
+Chaperone_protein_ClpB,Cytoplasmic,0.0005,0.0147,0.9784,0.0065
+Putative_oxidoreductase_CatD,Cytoplasmic Membrane,0.0001,0.0056,0.0002,0.9941
+Adenylosuccinate_lyase,Cytoplasmic,0.0002,0.0586,0.9386,0.0026
+N5-carboxyaminoimidazole_ribonucleotide_synthase,Cytoplasmic,0.0001,0.0026,0.9601,0.0372
+Nucleobase_transporter_PlUacP,Cytoplasmic Membrane,0,0.0004,0,0.9996
+Xanthine_phosphoribosyltransferase,Cytoplasmic,0.0002,0.0108,0.9864,0.0027
+hypothetical_protein,Cytoplasmic,0.0001,0.033,0.7633,0.2035
+hypothetical_protein,Cytoplasmic Membrane,0.0032,0.3164,0.0011,0.6794
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.1111,0,0.8887
+hypothetical_protein,Cytoplasmic,0,0.0092,0.9556,0.0351
+scyllo-inositol_2-dehydrogenase_(NADP(+))_IolU,Cytoplasmic,0,0.0004,0.9994,0.0002
+Asparagine--tRNA_ligase,Cytoplasmic,0,0.0022,0.9978,0
+Asparagine--oxo-acid_transaminase,Cytoplasmic,0.0004,0.0008,0.9986,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0021,0,0.9979
+3'-5'_exonuclease_DinG,Cytoplasmic,0.0043,0.0012,0.9488,0.0456
+hypothetical_protein,Cytoplasmic,0.0008,0.115,0.656,0.2281
+Inner_membrane_transporter_YcaM,Cytoplasmic Membrane,0,0.0004,0,0.9996
+DNA_polymerase_III_PolC-type,Cytoplasmic,0.0002,0.0039,0.9931,0.0027
+Proline--tRNA_ligase,Cytoplasmic,0,0.0002,0.9998,0
+Regulator_of_sigma-W_protease_RasP,Cytoplasmic Membrane,0,0.0007,0,0.9993
+Glucose_1-dehydrogenase,Cytoplasmic,0.0003,0.1041,0.8862,0.0093
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9997
+hypothetical_protein,Extracellular,0.0015,0.4434,0.3118,0.2433
+hypothetical_protein,Cytoplasmic,0.0001,0.34,0.572,0.0879
+hypothetical_protein,Cytoplasmic,0.0025,0.117,0.6215,0.2591
+hypothetical_protein,Extracellular,0.0013,0.9433,0.0508,0.0046
+hypothetical_protein,Cytoplasmic,0.0017,0.0957,0.7836,0.119
+hypothetical_protein,Extracellular,0.001,0.7559,0.219,0.0241
+hypothetical_protein,Cytoplasmic,0.0028,0.0369,0.9489,0.0114
+hypothetical_protein,Cytoplasmic Membrane,0.0066,0.4334,0.0016,0.5584
+hypothetical_protein,Cytoplasmic,0.0005,0.1443,0.7902,0.065
+Triosephosphate_isomerase_2,Cytoplasmic,0.0018,0.0157,0.9747,0.0077
+Transaldolase,Cytoplasmic,0.0001,0.0167,0.9825,0.0007
+hypothetical_protein,Cytoplasmic,0.0003,0.0118,0.9869,0.0011
+PTS_system_mannose-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.0007,0,0.9992
+PTS_system_mannose-specific_EIIBCA_component,Cytoplasmic,0.0002,0.0022,0.9972,0.0003
+hypothetical_protein,Cytoplasmic,0.0001,0.0032,0.9564,0.0403
+Transcriptional_regulator_ManR,Cytoplasmic,0.0026,0.0143,0.7446,0.2386
+IS3_family_transposase_ISLca1,Cytoplasmic,0.0162,0.0905,0.8645,0.0288
+hypothetical_protein,Cytoplasmic,0.0001,0.0126,0.9696,0.0176
+Putative_phosphoserine_phosphatase_2,Cytoplasmic,0.0002,0.0052,0.9933,0.0013
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0159,0.002,0.9819
+D-galactonate_dehydratase,Cytoplasmic,0,0.0471,0.9253,0.0276
+PTS_system_galactitol-specific_EIIC_component,Cytoplasmic Membrane,0,0.0016,0,0.9984
+PTS_system_galactitol-specific_EIIB_component,Cytoplasmic,0.0003,0.0443,0.9531,0.0023
+hypothetical_protein,Cytoplasmic,0,0.0004,0.9993,0.0003
+2-dehydro-3-deoxy-6-phosphogalactonate_aldolase,Cytoplasmic,0,0.0017,0.9982,0.0001
+hypothetical_protein,Cytoplasmic,0.0006,0.0169,0.8755,0.107
+hypothetical_protein,Cytoplasmic,0.0001,0.0026,0.9968,0.0005
+IS110_family_transposase_ISSpn10,Cytoplasmic,0.0022,0.0079,0.9672,0.0227
+hypothetical_protein,Cytoplasmic,0.0008,0.33,0.5723,0.0968
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0102,0.0209,0.954,0.0149
+hypothetical_protein,Cytoplasmic,0.0012,0.1742,0.7755,0.0491
+Iron-sulfur_cluster_assembly_scaffold_protein_IscU,Cytoplasmic,0.0001,0.0064,0.9919,0.0016
+Cysteine_desulfurase_SufS,Cytoplasmic,0,0,0.9999,0.0001
+hypothetical_protein,Cytoplasmic,0.0068,0.0154,0.9213,0.0566
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic,0.0001,0.0272,0.7269,0.2459
+Ribosome-recycling_factor,Cytoplasmic,0,0.0037,0.996,0.0003
+Uridylate_kinase,Cytoplasmic,0.0001,0.0211,0.9628,0.016
+Elongation_factor_Ts,Cytoplasmic,0,0.0327,0.9673,0
+30S_ribosomal_protein_S2,Cytoplasmic,0.0008,0.2182,0.7575,0.0234
+hypothetical_protein,Cytoplasmic,0.0001,0.0004,0.9995,0
+Putative_TrmH_family_tRNA/rRNA_methyltransferase,Cytoplasmic,0.0004,0.0002,0.9925,0.0069
+Acylphosphatase,Cytoplasmic,0,0.0002,0.9955,0.0042
+Membrane_protein_insertase_YidC,Cytoplasmic Membrane,0,0.0012,0,0.9988
+hypothetical_protein,Cytoplasmic,0.0001,0.0035,0.9888,0.0075
+Glycine--tRNA_ligase_beta_subunit,Cytoplasmic,0.0004,0.0006,0.9988,0.0002
+Glycine--tRNA_ligase_alpha_subunit,Cytoplasmic,0,0.0018,0.9981,0
+DNA_repair_protein_RecO,Cytoplasmic,0.0001,0.0001,0.9945,0.0053
+GTPase_Era,Cytoplasmic,0,0.0047,0.9694,0.0259
+Undecaprenol_kinase,Cytoplasmic Membrane,0,0.0002,0.0001,0.9997
+Endoribonuclease_YbeY,Cytoplasmic,0,0.0001,0.9998,0.0001
+Cyclic-di-AMP_phosphodiesterase_PgpH,Cytoplasmic Membrane,0.0001,0.0008,0.0003,0.9989
+PhoH-like_protein,Cytoplasmic,0.0003,0.0154,0.9701,0.0143
+putative_protein_YqeY,Cytoplasmic,0,0.0007,0.9993,0
+30S_ribosomal_protein_S21,Cytoplasmic,0,0.3966,0.603,0.0004
+Zinc-specific_metallo-regulatory_protein,Cytoplasmic,0.0003,0.1783,0.821,0.0004
+"Putative_pyruvate,_phosphate_dikinase_regulatory_protein",Cytoplasmic,0,0.0088,0.9895,0.0017
+Homoserine_kinase,Cytoplasmic,0.001,0.0002,0.9936,0.0053
+Threonine_synthase,Cytoplasmic,0.0002,0.0038,0.9921,0.0039
+Homoserine_dehydrogenase,Cytoplasmic,0.0003,0.002,0.9956,0.0021
+HTH-type_transcriptional_repressor_CzrA,Cytoplasmic,0.0001,0.0069,0.9926,0.0004
+Pyrroline-5-carboxylate_reductase,Cytoplasmic,0.0063,0.0035,0.9691,0.021
+Phosphoglucomutase,Cytoplasmic,0.0003,0.0006,0.9988,0.0003
+HTH-type_transcriptional_regulator_NorG,Cytoplasmic,0.0001,0.0001,0.9912,0.0086
+hypothetical_protein,Cytoplasmic Membrane,0,0.0083,0.0002,0.9915
+hypothetical_protein,Cytoplasmic,0.0008,0.001,0.9967,0.0015
+GMP_reductase,Cytoplasmic,0.0004,0.2218,0.7548,0.023
+Uric_acid_permease_PucK,Cytoplasmic Membrane,0,0.001,0,0.999
+Guanine_deaminase,Cytoplasmic,0.0003,0.0171,0.9757,0.0069
+putative_metallo-hydrolase,Cytoplasmic,0.0001,0.0014,0.9982,0.0003
+"2,3-bisphosphoglycerate-dependent_phosphoglycerate_mutase",Cytoplasmic,0.0001,0.0085,0.9865,0.0049
+putative_HTH-type_transcriptional_regulator_YbbH,Cytoplasmic,0.0001,0.0011,0.9793,0.0195
+PTS_system_EIIBC_component,Cytoplasmic Membrane,0,0.0006,0,0.9994
+N-acetylmuramic_acid_6-phosphate_etherase,Cytoplasmic,0.0001,0.0004,0.9995,0.0001
+hypothetical_protein,Cytoplasmic,0.0002,0.0002,0.9987,0.0009
+PTS_system_glucose-specific_EIIA_component,Cytoplasmic,0,0.0025,0.9955,0.002
+Undecaprenyl-diphosphatase,Cytoplasmic Membrane,0,0.001,0,0.999
+Carbohydrate_deacetylase,Cytoplasmic,0,0.0009,0.9985,0.0005
+hypothetical_protein,Cytoplasmic,0.0003,0.0303,0.9605,0.0088
+hypothetical_protein,Cytoplasmic Membrane,0,0.0008,0,0.9992
+30S_ribosomal_protein_S20,Cytoplasmic,0.0081,0.4754,0.5164,0
+hypothetical_protein,Cytoplasmic,0.0001,0.0236,0.926,0.0503
+2-dehydropantoate_2-reductase,Cytoplasmic,0.0001,0.0052,0.9931,0.0016
+putative_protein_YqeN,Cytoplasmic,0.002,0.0011,0.9837,0.0132
+ComE_operon_protein_3,Cytoplasmic Membrane,0.0001,0.0051,0.1151,0.8797
+tRNA-specific_adenosine_deaminase,Cytoplasmic,0.0003,0.0377,0.9523,0.0097
+ComE_operon_protein_1,Cytoplasmic,0.0199,0.0378,0.9292,0.0132
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0312,0.0002,0.9685
+putative_protein_YlbL,Cytoplasmic Membrane,0.0001,0.0028,0.0003,0.9969
+Phosphopantetheine_adenylyltransferase,Cytoplasmic,0.0001,0.0063,0.9923,0.0013
+Ribosomal_RNA_small_subunit_methyltransferase_D,Cytoplasmic,0.0002,0.0005,0.9992,0.0001
+hypothetical_protein,Cytoplasmic,0.0006,0.0026,0.9604,0.0364
+hypothetical_protein,Cytoplasmic,0.0022,0.0036,0.985,0.0092
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.0099,0.0011,0.9888
+Pyruvate_carboxylase,Cytoplasmic,0.0014,0.0601,0.8969,0.0415
+putative_peptidoglycan_glycosyltransferase_FtsW,Cytoplasmic Membrane,0,0.0004,0,0.9996
+hypothetical_protein,Cytoplasmic,0.0009,0.1615,0.793,0.0445
+ATP-dependent_DNA_helicase_RecQ,Cytoplasmic,0.0004,0.0007,0.993,0.0059
+GTP-binding_protein_TypA/BipA_,Cytoplasmic,0,0.0055,0.9941,0.0004
+"3'(2'),5'-bisphosphate_nucleotidase_CysQ",Cytoplasmic,0,0.0002,0.997,0.0027
+hypothetical_protein,Cytoplasmic,0.0001,0.0488,0.7605,0.1905
+Chloride/fluoride_channel_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Beta-monoglucosyldiacylglycerol_synthase,Cytoplasmic Membrane,0,0.0015,0.0001,0.9984
+hypothetical_protein,Cytoplasmic Membrane,0,0.0007,0,0.9992
+hypothetical_protein,Cell wall & surface,0.6785,0.3175,0.0009,0.0031
+hypothetical_protein,Extracellular,0.0014,0.9949,0,0.0037
+hypothetical_protein,Cytoplasmic,0.0071,0.2274,0.7544,0.011
+hypothetical_protein,Cytoplasmic,0.0003,0.0143,0.9815,0.0039
+hypothetical_protein,Cytoplasmic Membrane,0.001,0.0429,0.1684,0.7878
+Arginine--tRNA_ligase,Cytoplasmic,0,0.0008,0.9992,0
+tRNA_N6-adenosine_threonylcarbamoyltransferase,Cytoplasmic,0.0024,0.018,0.9766,0.003
+hypothetical_protein,Cytoplasmic,0.0001,0.0017,0.9981,0.0001
+N-alpha-acetyltransferase_RimI,Cytoplasmic,0.0009,0.0088,0.9813,0.0091
+tRNA_threonylcarbamoyladenosine_biosynthesis_protein_TsaB,Cytoplasmic,0.0006,0.0014,0.9977,0.0003
+"Peptidoglycan_D,D-transpeptidase_MrdA",Cytoplasmic Membrane,0.0094,0.0781,0.0001,0.9124
+hypothetical_protein,Cytoplasmic,0.0001,0.0151,0.9809,0.0039
+hypothetical_protein,Cytoplasmic Membrane,0.0009,0.182,0.0047,0.8125
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.1157,0.0003,0.8836
+hypothetical_protein,Cytoplasmic Membrane,0.0089,0.2946,0.002,0.6944
+Phosphoglycolate_phosphatase,Cytoplasmic,0.0005,0.0042,0.951,0.0443
+hypothetical_protein,Cytoplasmic,0.0003,0.034,0.9307,0.0349
+hypothetical_protein,Cytoplasmic,0,0.0035,0.9953,0.0011
+Teichoic_acid_translocation_permease_protein_TagG,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Vitamin_B12_import_ATP-binding_protein_BtuD,Cytoplasmic Membrane,0.0006,0.0037,0.0004,0.9953
+UDP-galactopyranose_mutase,Cytoplasmic,0.0002,0.0765,0.9199,0.0034
+hypothetical_protein,Extracellular,0.0057,0.5788,0.0003,0.4152
+UDP-N-acetylenolpyruvoylglucosamine_reductase,Cytoplasmic,0.0012,0.0278,0.9337,0.0372
+hypothetical_protein,Extracellular,0.001,0.5386,0.2603,0.2001
+Undecaprenyl-phosphate_4-deoxy-4-formamido-L-arabinose_transferase,Cytoplasmic Membrane,0.0083,0.1261,0.3339,0.5318
+hypothetical_protein,Cytoplasmic Membrane,0.0022,0.0816,0.2615,0.6547
+Teichoic_acid_glycerol-phosphate_transferase,Cytoplasmic Membrane,0.0009,0.0191,0.2914,0.6886
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.004,0.0003,0.9957
+"Ditrans,polycis-undecaprenyl-diphosphate_synthase_((2E,6E)-farnesyl-diphosphate_specific)",Cytoplasmic,0.0002,0.0029,0.9843,0.0127
+Methionine-binding_lipoprotein_MetQ,Cytoplasmic Membrane,0.009,0.0282,0,0.9628
+Methionine_import_system_permease_protein_MetP,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Methionine_import_ATP-binding_protein_MetN_2,Cytoplasmic Membrane,0.0009,0.0196,0.2371,0.7423
+Glycine_cleavage_system_H-like_protein,Cytoplasmic,0,0.0132,0.9846,0.0021
+Regulatory_protein_Spx,Cytoplasmic,0.0006,0.027,0.9375,0.0349
+Peptidoglycan_glycosyltransferase_RodA,Cytoplasmic Membrane,0,0.0001,0,0.9998
+hypothetical_protein,Cytoplasmic,0.0021,0.0412,0.7364,0.2202
+hypothetical_protein,Extracellular,0.243,0.6324,0.0028,0.1218
+hypothetical_protein,Cell wall & surface,0.7564,0.1312,0.0006,0.1118
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.003,0.0003,0.9966
+HTH-type_transcriptional_regulator_SutR,Cytoplasmic,0,0.0105,0.9868,0.0027
+Inner_membrane_protein_YgaZ,Cytoplasmic Membrane,0,0.0007,0.0003,0.999
+hypothetical_protein,Cytoplasmic Membrane,0,0.0063,0.0001,0.9936
+hypothetical_protein,Cytoplasmic,0.0005,0.0421,0.9393,0.018
+hypothetical_protein,Cytoplasmic Membrane,0,0.0019,0.0001,0.998
+Uracil_phosphoribosyltransferase,Cytoplasmic,0.0002,0.0222,0.967,0.0106
+Serine_hydroxymethyltransferase,Cytoplasmic,0.0001,0.025,0.9739,0.001
+Threonylcarbamoyl-AMP_synthase,Cytoplasmic,0.0003,0.0004,0.9991,0.0003
+Release_factor_glutamine_methyltransferase,Cytoplasmic,0.0015,0.0013,0.9949,0.0023
+Peptide_chain_release_factor_1,Cytoplasmic,0,0.0027,0.9972,0.0001
+Thymidine_kinase,Cytoplasmic,0,0.0211,0.9779,0.001
+Fumarate_reductase_flavoprotein_subunit,Cytoplasmic Membrane,0.1262,0.0346,0.0017,0.8375
+Potassium/sodium_uptake_protein_NtpJ,Cytoplasmic Membrane,0,0,0,1
+Pyruvate:ferredoxin_oxidoreductase,Cytoplasmic,0.0027,0.1431,0.8259,0.0284
+Glutamate_synthase_[NADPH]_small_chain,Cytoplasmic,0.0004,0.0284,0.9319,0.0393
+"Dihydroorotate_dehydrogenase_B_(NAD(+)),_electron_transfer_subunit_",Cytoplasmic,0.0002,0.005,0.9746,0.0202
+Flavodoxin,Cytoplasmic,0,0.0566,0.9423,0.0011
+hypothetical_protein,Cytoplasmic,0,0.0034,0.9964,0.0002
+hypothetical_protein,Cytoplasmic,0.0002,0.0005,0.9941,0.0052
+hypothetical_protein,Cytoplasmic,0.0003,0.032,0.826,0.1418
+hypothetical_protein,Cytoplasmic,0.0006,0.0129,0.9848,0.0017
+"Selenide,_water_dikinase",Cytoplasmic,0.0007,0.0072,0.9861,0.006
+Cysteine_desulfurase_SufS,Cytoplasmic,0.0001,0.001,0.9984,0.0005
+Purine_catabolism_protein_PucB,Cytoplasmic,0,0.0005,0.9994,0
+hypothetical_protein,Cytoplasmic,0.0007,0.0194,0.9692,0.0107
+putative_xanthine_dehydrogenase_subunit_A,Cytoplasmic,0.0002,0.0014,0.9981,0.0004
+hypothetical_protein,Cytoplasmic,0.0019,0.0193,0.9735,0.0052
+Nucleobase_transporter_PlUacP,Cytoplasmic Membrane,0,0.0003,0,0.9997
+2-iminobutanoate/2-iminopropanoate_deaminase,Cytoplasmic,0.0001,0.0043,0.9955,0.0001
+Carbamate_kinase_1,Cytoplasmic,0.0004,0.044,0.9529,0.0027
+Putative_carbamoyltransferase_YgeW,Cytoplasmic,0.0001,0.1838,0.7953,0.0208
+putative_succinyl-diaminopimelate_desuccinylase,Cytoplasmic,0.0001,0.0422,0.9492,0.0086
+Diaminopropionate_ammonia-lyase,Cytoplasmic,0.0005,0.0195,0.9688,0.0113
+D-hydantoinase,Cytoplasmic,0.0001,0.0054,0.9923,0.0022
+Putative_oxidoreductase_YgfK,Cytoplasmic,0.0024,0.1702,0.7208,0.1065
+Putative_aminohydrolase_SsnA,Cytoplasmic,0,0.0036,0.9909,0.0055
+Transcriptional_regulator_DauR,Cytoplasmic,0.0002,0.0071,0.988,0.0047
+Lipid_II_isoglutaminyl_synthase_(glutamine-hydrolyzing)_subunit_MurT,Cytoplasmic,0.0004,0.0111,0.649,0.3395
+Lipid_II_isoglutaminyl_synthase_(glutamine-hydrolyzing)_subunit_GatD,Cytoplasmic,0.0001,0.1149,0.8843,0.0008
+Pyrimidine-specific_ribonucleoside_hydrolase_RihA,Cytoplasmic,0.0001,0.0053,0.994,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0019,0.0014,0.9966
+Putative_mannose-6-phosphate_isomerase_YvyI,Cytoplasmic,0.0001,0.0006,0.9981,0.0013
+Putative_D-alanyl-D-alanine_carboxypeptidase,Cytoplasmic,0.0008,0.0008,0.9927,0.0057
+hypothetical_protein,Cytoplasmic,0.0018,0.0036,0.9759,0.0187
+Fatty_acid_ABC_transporter_ATP-binding/permease_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.001,0,0.999
+hypothetical_protein,Cytoplasmic,0,0.0001,0.9969,0.003
+Guanylate_kinase,Cytoplasmic,0.0001,0.0011,0.9986,0.0002
+Aryl-phospho-beta-D-glucosidase_BglH,Cytoplasmic,0.0007,0.0754,0.9224,0.0015
+PTS_system_beta-glucoside-specific_EIIBCA_component,Cytoplasmic Membrane,0,0.0016,0.0001,0.9982
+Transcription_antiterminator_LicT,Cytoplasmic,0.0023,0.0038,0.8982,0.0956
+FMN-dependent_NADH-azoreductase,Cytoplasmic,0.0002,0.0149,0.9843,0.0006
+Putative_transport_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0001,0.0012,0.9981,0.0006
+hypothetical_protein,Cytoplasmic Membrane,0,0.0013,0,0.9987
+UDP-N-acetylglucosamine_1-carboxyvinyltransferase_1,Cytoplasmic,0.002,0.006,0.9757,0.0163
+hypothetical_protein,Cytoplasmic Membrane,0,0.0005,0,0.9994
+ATP_synthase_epsilon_chain,Cytoplasmic,0.0002,0.0595,0.6932,0.2471
+ATP_synthase_subunit_beta,Cytoplasmic,0.0013,0.0974,0.4514,0.45
+ATP_synthase_gamma_chain,Cytoplasmic Membrane,0.0049,0.0558,0.4001,0.5391
+ATP_synthase_subunit_alpha,Cytoplasmic,0.0013,0.1989,0.4822,0.3176
+ATP_synthase_subunit_delta,Cytoplasmic,0.0094,0.0027,0.7129,0.2751
+ATP_synthase_subunit_b,Cytoplasmic Membrane,0,0.001,0,0.9989
+ATP_synthase_subunit_c,Cytoplasmic Membrane,0,0.0212,0.0002,0.9786
+ATP_synthase_subunit_a,Cytoplasmic Membrane,0,0.0002,0,0.9997
+SsrA-binding_protein,Cytoplasmic,0,0.2751,0.7248,0.0001
+Ribonuclease_R,Cytoplasmic,0.0001,0.0002,0.999,0.0007
+Carboxylesterase,Cytoplasmic,0.0002,0.0018,0.9968,0.0012
+putative_protein-export_membrane_protein_SecG,Cytoplasmic Membrane,0,0.0012,0,0.9988
+putative_protein_YjdJ,Cytoplasmic,0.0003,0.0004,0.9992,0.0002
+hypothetical_protein,Cytoplasmic,0.0001,0.0247,0.9681,0.0071
+Zinc-transporting_ATPase,Cytoplasmic Membrane,0,0.0001,0,0.9999
+NH(3)-dependent_NAD(+)_synthetase,Cytoplasmic,0.0006,0.0028,0.9959,0.0007
+Nicotinate_phosphoribosyltransferase_pncB2,Cytoplasmic,0.0004,0.0331,0.897,0.0696
+hypothetical_protein,Cytoplasmic Membrane,0,0.0004,0,0.9996
+hypothetical_protein,Extracellular,0.247,0.7133,0.001,0.0386
+hypothetical_protein,Cytoplasmic,0.0198,0.0014,0.6654,0.3134
+hypothetical_protein,Cytoplasmic,0.0003,0.0013,0.8943,0.1041
+60_kDa_chaperonin,Cytoplasmic,0.001,0.0522,0.9458,0.001
+10_kDa_chaperonin,Cytoplasmic,0,0.0024,0.9976,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0,0.0005,0,0.9995
+Membrane-embedded_CAAX_protease_MroQ,Cytoplasmic Membrane,0.0001,0.0031,0,0.9968
+hypothetical_protein,Cytoplasmic Membrane,0,0.0503,0.0006,0.949
+hypothetical_protein,Extracellular,0,0.9998,0,0.0001
+Redox-sensing_transcriptional_repressor_Rex,Cytoplasmic,0,0.0012,0.9983,0.0004
+putative_ABC_transporter_ATP-binding_protein_YheS,Cytoplasmic,0.0014,0.0018,0.9854,0.0114
+hypothetical_protein,Cytoplasmic,0.0003,0.0038,0.8771,0.1188
+hypothetical_protein,Cytoplasmic,0.0007,0.0051,0.9649,0.0292
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0172,0.0003,0.9824
+Glycine_betaine/carnitine_transport_ATP-binding_protein_GbuA,Cytoplasmic Membrane,0.001,0.0219,0.1084,0.8686
+hypothetical_protein,Cytoplasmic Membrane,0,0.0013,0,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0.0007,0.2065,0.0342,0.7586
+Putative_lipid_kinase,Cytoplasmic,0.0004,0.0021,0.9571,0.0404
+hypothetical_protein,Cytoplasmic,0.0049,0.0225,0.8908,0.0817
+Glycerate_2-kinase,Cytoplasmic,0.0004,0.0004,0.9983,0.0008
+High-affinity_gluconate_transporter,Cytoplasmic Membrane,0,0.0024,0.0001,0.9974
+hypothetical_protein,Cytoplasmic Membrane,0,0.0026,0.0002,0.9972
+Spermidine/putrescine-binding_periplasmic_protein,Cytoplasmic Membrane,0.002,0.0328,0.0002,0.965
+Inner_membrane_ABC_transporter_permease_protein_YdcV,Cytoplasmic Membrane,0,0,0,1
+Spermidine/putrescine_transport_system_permease_protein_PotB,Cytoplasmic Membrane,0,0,0,1
+Spermidine/putrescine_import_ATP-binding_protein_PotA,Cytoplasmic Membrane,0.0002,0.0134,0.223,0.7634
+HTH-type_transcriptional_regulator_PuuR,Cytoplasmic,0.0002,0.0178,0.9778,0.0042
+putative_acrylyl-CoA_reductase_AcuI,Cytoplasmic,0,0.0152,0.9779,0.0068
+Coenzyme_A_biosynthesis_bifunctional_protein_CoaBC,Cytoplasmic,0.001,0.0003,0.9978,0.0008
+Coenzyme_A_biosynthesis_bifunctional_protein_CoaBC,Cytoplasmic,0.0003,0.0057,0.9933,0.0007
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0051,0.0002,0.9946
+Aminoacyltransferase_FemB,Cytoplasmic,0.0004,0.0048,0.9449,0.0499
+hypothetical_protein,Cytoplasmic Membrane,0,0.0012,0.0006,0.9982
+Putative_lipid_kinase_YtlR,Cytoplasmic Membrane,0,0.0001,0.1445,0.8554
+ATP-dependent_RecD-like_DNA_helicase,Cytoplasmic,0.0011,0.0001,0.9706,0.0282
+Phosphoserine_phosphatase_1,Cytoplasmic,0,0.0001,0.9997,0.0001
+tRNA_(cytidine(34)-2'-O)-methyltransferase,Cytoplasmic,0,0.0038,0.9958,0.0004
+23S_rRNA_(guanine(745)-N(1))-methyltransferase,Cytoplasmic,0.0003,0.0026,0.9907,0.0064
+Copper_homeostasis_protein_CutC,Cytoplasmic,0,0.0001,0.9998,0.0001
+Magnesium_transporter_MgtE,Cytoplasmic Membrane,0,0.0005,0,0.9995
+Ribosomal_large_subunit_pseudouridine_synthase_C,Cytoplasmic,0.0011,0.0003,0.9363,0.0622
+NAD_kinase,Cytoplasmic,0,0.0003,0.9959,0.0037
+GTP_pyrophosphokinase_YjbM,Cytoplasmic,0.0003,0.0131,0.9707,0.0158
+Putative_triphosphatase_YjbK,Cytoplasmic,0,0.0001,0.9998,0.0001
+hypothetical_protein,Cytoplasmic,0.0002,0.0043,0.9871,0.0084
+hypothetical_protein,Cytoplasmic Membrane,0.0023,0.3497,0.0075,0.6405
+"Oligoendopeptidase_F,_plasmid",Cytoplasmic,0.0032,0.015,0.9781,0.0038
+hypothetical_protein,Cytoplasmic,0.0016,0.0056,0.9257,0.0672
+Adapter_protein_MecA,Cytoplasmic,0.0038,0.0019,0.9795,0.0148
+Regulatory_protein_Spx,Cytoplasmic,0.0003,0.025,0.9662,0.0085
+Tryptophan--tRNA_ligase,Cytoplasmic,0,0.0023,0.9976,0.0001
+Putative_multidrug_export_ATP-binding/permease_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Putative_HAD-hydrolase_YfnB,Cytoplasmic,0,0.0007,0.9991,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.1037,0.3786,0.0028,0.5149
+hypothetical_protein,Cell wall & surface,0.5088,0.489,0.0004,0.0018
+hypothetical_protein,Cell wall & surface,0.8714,0.0642,0.0001,0.0643
+hypothetical_protein,Extracellular,0.2868,0.6602,0.0318,0.0212
+hypothetical_protein,Cytoplasmic,0.0011,0.0393,0.8081,0.1515
+RNA_polymerase-associated_protein_RapA,Cytoplasmic,0.0062,0.0253,0.8744,0.0941
+Chromosome_partition_protein_Smc,Cytoplasmic,0.0052,0.0005,0.9918,0.0024
+Nuclease_SbcCD_subunit_D,Cytoplasmic,0.0001,0.0002,0.9996,0.0002
+1-acyl-sn-glycerol-3-phosphate_acyltransferase,Cytoplasmic Membrane,0,0.0007,0.0017,0.9976
+tRNA1(Val)_(adenine(37)-N6)-methyltransferase,Cytoplasmic,0.0017,0.0047,0.9871,0.0064
+hypothetical_protein,Cytoplasmic,0.0001,0.0332,0.9654,0.0012
+5'-methylthioadenosine/S-adenosylhomocysteine_nucleosidase,Cytoplasmic,0,0.0028,0.9969,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0051,0,0.9949
+ADP-ribose_pyrophosphatase,Cytoplasmic,0.0003,0.0014,0.9981,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.1919,0.0001,0.808
+TelA-like_protein,Cytoplasmic,0.0017,0.0153,0.8621,0.121
+hypothetical_protein,Cytoplasmic,0.0016,0.0292,0.9543,0.0149
+hypothetical_protein,Cytoplasmic,0.0001,0.0023,0.9975,0.0001
+hypothetical_protein,Extracellular,0.0022,0.4602,0.4,0.1375
+Polyisoprenyl-teichoic_acid--peptidoglycan_teichoic_acid_transferase_TagU,Cytoplasmic Membrane,0.001,0.27,0.0001,0.7289
+Adenine_DNA_glycosylase,Cytoplasmic,0.0018,0.0019,0.9926,0.0037
+Regulatory_protein_RecX,Cytoplasmic,0.0013,0.0002,0.9958,0.0028
+23S_rRNA_(uracil-C(5))-methyltransferase_RlmCD,Cytoplasmic,0.0008,0.001,0.9977,0.0005
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0456,0.0005,0.9537
+Evolved_beta-galactosidase_subunit_alpha,Cytoplasmic,0.0014,0.0232,0.9718,0.0037
+Inner_membrane_transporter_YgjI,Cytoplasmic Membrane,0,0.0006,0,0.9994
+HTH-type_transcriptional_activator_RhaR,Cytoplasmic,0.001,0.0477,0.935,0.0162
+hypothetical_protein,Cytoplasmic,0.0001,0.1986,0.746,0.0553
+50S_ribosomal_protein_L7/L12,Cytoplasmic,0.0005,0.0542,0.9194,0.0259
+50S_ribosomal_protein_L10,Extracellular,0.002,0.6812,0.3026,0.0142
+50S_ribosomal_protein_L1,Extracellular,0,0.7586,0.2409,0.0005
+50S_ribosomal_protein_L11,Extracellular,0.0001,0.5385,0.4611,0.0003
+ABC-F_type_ribosomal_protection_protein_Lsa(A),Cytoplasmic,0.0008,0.0015,0.9856,0.012
+"L-serine_dehydratase,_beta_chain",Cytoplasmic,0.0001,0.0314,0.9676,0.0009
+"L-serine_dehydratase,_alpha_chain",Cytoplasmic,0.0006,0.0545,0.9224,0.0225
+D-aminopeptidase,Cytoplasmic,0.0001,0.0066,0.9871,0.0063
+Putative_aminopeptidase_YsdC,Cytoplasmic,0.0002,0.0011,0.9954,0.0033
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.114,0.0665,0.0003,0.8192
+hypothetical_protein,Cytoplasmic,0.0004,0.009,0.9879,0.0027
+hypothetical_protein,Cytoplasmic Membrane,0.0163,0.1111,0.0505,0.8221
+Transcription_termination/antitermination_protein_NusG,Cytoplasmic,0,0.0062,0.9931,0.0007
+Protein_translocase_subunit_SecE,Cytoplasmic Membrane,0,0.0006,0,0.9994
+50S_ribosomal_protein_L33_3,Extracellular,0,0.7179,0.2819,0.0001
+hypothetical_protein,Cytoplasmic,0.0003,0.039,0.6924,0.2683
+UDP-N-acetylenolpyruvoylglucosamine_reductase,Cytoplasmic,0.0002,0.0023,0.9959,0.0016
+Putative_oxidoreductase_YceM,Cytoplasmic,0.0008,0.0001,0.995,0.0041
+Exodeoxyribonuclease,Cytoplasmic,0,0.0007,0.9992,0
+DNA_polymerase_III_PolC-type,Cytoplasmic,0.0012,0.009,0.9846,0.0052
+hypothetical_protein,Cytoplasmic Membrane,0,0.0336,0.0023,0.9641
+Ferredoxin--NADP_reductase,Cytoplasmic,0.0002,0.0044,0.9908,0.0047
+Alkyl_hydroperoxide_reductase_C,Cytoplasmic,0.0001,0.1034,0.8957,0.0008
+tRNA_5-hydroxyuridine_methyltransferase,Cytoplasmic,0,0.0001,0.9996,0.0002
+Transposase_from_transposon_Tn916,Cytoplasmic,0.0001,0.0113,0.9865,0.0021
+hypothetical_protein,Cytoplasmic,0,0.0098,0.9895,0.0006
+hypothetical_protein,Cytoplasmic,0.0001,0.0061,0.9682,0.0256
+hypothetical_protein,Cytoplasmic,0.0018,0.0178,0.9153,0.0651
+hypothetical_protein,Cytoplasmic,0.0001,0.0289,0.9632,0.0078
+hypothetical_protein,Cytoplasmic,0.0814,0.0891,0.7106,0.1189
+hypothetical_protein,Cytoplasmic Membrane,0,0.0031,0.0003,0.9966
+tetracycline_resistance_ribosomal_protection_protein_Tet(M),Cytoplasmic,0.0001,0.0048,0.9903,0.0049
+hypothetical_protein,Cytoplasmic Membrane,0.003,0.0231,0.0004,0.9735
+hypothetical_protein,Cytoplasmic Membrane,0.0025,0.2824,0.0015,0.7136
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.044,0.0001,0.9558
+hypothetical_protein,Cytoplasmic Membrane,0.0007,0.0038,0.4775,0.518
+hypothetical_protein,Cytoplasmic,0.0002,0.1169,0.8809,0.002
+hypothetical_protein,Cytoplasmic,0.0195,0.1531,0.7284,0.0991
+hypothetical_protein,Cytoplasmic,0.0036,0.0427,0.9012,0.0524
+hypothetical_protein,Cytoplasmic Membrane,0.0002,0.004,0.0005,0.9953
+hypothetical_protein,Cytoplasmic,0.0069,0.1168,0.8325,0.0439
+hypothetical_protein,Cytoplasmic,0.0007,0.0554,0.9311,0.0127
+Lipoate-protein_ligase_LplJ,Cytoplasmic,0,0.0035,0.9953,0.0012
+putative_protein,Cytoplasmic,0.0001,0.0014,0.994,0.0045
+hypothetical_protein,Cytoplasmic Membrane,0,0.0052,0.0001,0.9946
+Putative_aminopeptidase_YsdC,Cytoplasmic,0,0.0101,0.9702,0.0197
+Protein_DltD,Cytoplasmic Membrane,0.0023,0.0974,0.0092,0.8912
+D-alanyl_carrier_protein,Cytoplasmic,0,0.0036,0.9961,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0,0.9998
+D-alanine--D-alanyl_carrier_protein_ligase,Cytoplasmic,0.0003,0.0003,0.9986,0.0008
+hypothetical_protein,Cytoplasmic Membrane,0,0.0056,0.0006,0.9938
+Bacitracin_export_permease_protein_BceB,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Bacitracin_export_ATP-binding_protein_BceA,Cytoplasmic Membrane,0.0001,0.0065,0.0629,0.9304
+Anaerobic_ribonucleoside-triphosphate_reductase,Cytoplasmic,0.001,0.1039,0.8922,0.0029
+hypothetical_protein,Cytoplasmic,0.0006,0.0294,0.9643,0.0057
+DNA_polymerase_IV,Cytoplasmic,0.0005,0.0006,0.9957,0.0033
+putative_iron_export_permease_protein_FetB,Cytoplasmic Membrane,0,0.0007,0,0.9993
+putative_iron_export_ATP-binding_protein_FetA,Cytoplasmic,0.0009,0.0048,0.5943,0.4
+Ribosomal_RNA_small_subunit_methyltransferase_I,Cytoplasmic,0.0002,0.0003,0.9983,0.0012
+Initiation-control_protein_YabA,Cytoplasmic,0.0001,0.0004,0.998,0.0015
+hypothetical_protein,Cytoplasmic,0.0001,0.0141,0.9839,0.0019
+hypothetical_protein,Cytoplasmic,0.0022,0.0008,0.8675,0.1294
+Cyclic_di-AMP_receptor_A,Cytoplasmic,0.0001,0.0076,0.9827,0.0097
+Thymidylate_kinase,Cytoplasmic,0.0001,0.0037,0.9961,0.0002
+Recombination_protein_RecR,Cytoplasmic,0,0.0077,0.9897,0.0026
+hypothetical_protein,Cytoplasmic Membrane,0,0.0321,0.0022,0.9657
+Aminopyrimidine_aminohydrolase,Cytoplasmic,0.0002,0.0032,0.9962,0.0004
+hypothetical_protein,Cytoplasmic Membrane,0,0.0009,0.0008,0.9983
+Putative_HMP/thiamine_import_ATP-binding_protein_YkoD,Cytoplasmic,0.0009,0.0025,0.7876,0.209
+Putative_HMP/thiamine_permease_protein_YkoE,Cytoplasmic Membrane,0,0.0039,0.0003,0.9957
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0036,0.0014,0.9949
+Colistin_resistance_protein_EmrB,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Inner_membrane_transport_protein_YdhP,Cytoplasmic Membrane,0,0.0003,0,0.9997
+putative_HTH-type_transcriptional_regulator_YtcD,Cytoplasmic,0.0003,0.0024,0.9966,0.0008
+Hydroxymethylpyrimidine/phosphomethylpyrimidine_kinase,Cytoplasmic,0.0002,0.002,0.9971,0.0007
+Thiamine-phosphate_synthase,Cytoplasmic,0.0006,0.001,0.9976,0.0009
+Hydroxyethylthiazole_kinase,Cytoplasmic,0.0004,0.003,0.9958,0.0008
+hypothetical_protein,Cytoplasmic Membrane,0,0.0005,0.0002,0.9993
+Nucleoid-associated_protein,Cytoplasmic,0,0.0011,0.9985,0.0004
+hypothetical_protein,Cytoplasmic,0.0006,0.006,0.987,0.0064
+Galactose-1-phosphate_uridylyltransferase,Cytoplasmic,0.0004,0.0056,0.9785,0.0155
+UDP-glucose_4-epimerase,Cytoplasmic,0.0008,0.039,0.9386,0.0217
+hypothetical_protein,Cytoplasmic Membrane,0.0109,0.2523,0.017,0.7198
+hypothetical_protein,Cytoplasmic,0.001,0.0041,0.9832,0.0117
+hypothetical_protein,Cytoplasmic,0.0011,0.0018,0.9967,0.0004
+putative_protein_YibN,Cytoplasmic Membrane,0,0.0001,0.0001,0.9998
+Glucokinase,Cytoplasmic,0.0001,0.0013,0.9976,0.001
+putative_protein_YqgQ,Cytoplasmic,0.0008,0.0351,0.8771,0.087
+Rhomboid_protease_GluP,Cytoplasmic Membrane,0,0.0002,0,0.9997
+putative_protein_YqgN,Cytoplasmic,0,0,0.9999,0
+hypothetical_protein,Cytoplasmic,0.0005,0.0072,0.9442,0.048
+hypothetical_protein,Cytoplasmic Membrane,0,0.0423,0.0002,0.9576
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0075,0.0002,0.9923
+hypothetical_protein,Cytoplasmic Membrane,0.0069,0.1508,0.0017,0.8406
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0.0001,0.9988
+hypothetical_protein,Cytoplasmic,0.0008,0.1661,0.8311,0.0021
+hypothetical_protein,Cytoplasmic,0.0007,0.0275,0.8455,0.1263
+hypothetical_protein,Cytoplasmic Membrane,0.0014,0.202,0.0014,0.7952
+hypothetical_protein,Cytoplasmic,0.0163,0.3294,0.6294,0.0249
+hypothetical_protein,Extracellular,0.063,0.9358,0.0001,0.0011
+hypothetical_protein,Cytoplasmic Membrane,0.0034,0.133,0.0128,0.8508
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.0901,0.0023,0.9072
+hypothetical_protein,Extracellular,0.0009,0.5791,0.2961,0.1239
+hypothetical_protein,Cytoplasmic Membrane,0.0027,0.3253,0.0004,0.6716
+hypothetical_protein,Cytoplasmic,0.0009,0.0289,0.95,0.0202
+hypothetical_protein,Extracellular,0.0002,0.714,0.2787,0.0072
+hypothetical_protein,Extracellular,0.0059,0.5983,0.3494,0.0463
+hypothetical_protein,Cytoplasmic,0.0004,0.1208,0.4792,0.3996
+hypothetical_protein,Cytoplasmic,0.0005,0.4579,0.5183,0.0232
+hypothetical_protein,Cytoplasmic,0.0003,0.1906,0.7912,0.0179
+hypothetical_protein,Extracellular,0.0091,0.5505,0.4394,0.0009
+hypothetical_protein,Extracellular,0.0088,0.6946,0.2595,0.0371
+hypothetical_protein,Cytoplasmic,0.0034,0.2426,0.4278,0.3261
+hypothetical_protein,Cytoplasmic,0.0007,0.065,0.911,0.0233
+hypothetical_protein,Cytoplasmic,0.0002,0.0254,0.9704,0.0039
+hypothetical_protein,Cytoplasmic,0.0046,0.0927,0.8763,0.0264
+hypothetical_protein,Cytoplasmic,0.0011,0.0201,0.9684,0.0104
+hypothetical_protein,Cytoplasmic,0.002,0.0385,0.7651,0.1944
+hypothetical_protein,Cytoplasmic,0.0014,0.0619,0.9253,0.0114
+hypothetical_protein,Extracellular,0.0002,0.4968,0.4665,0.0365
+hypothetical_protein,Cytoplasmic,0.0008,0.0219,0.9594,0.0179
+hypothetical_protein,Cytoplasmic,0.0013,0.0763,0.8949,0.0275
+hypothetical_protein,Cytoplasmic,0.0006,0.0308,0.9644,0.0042
+hypothetical_protein,Cytoplasmic,0.0001,0.0193,0.9674,0.0132
+hypothetical_protein,Cytoplasmic,0.0007,0.0033,0.9932,0.0028
+hypothetical_protein,Cytoplasmic,0.0005,0.0146,0.9776,0.0073
+hypothetical_protein,Cytoplasmic,0.0062,0.0468,0.9454,0.0016
+hypothetical_protein,Cytoplasmic,0.0022,0.1853,0.7989,0.0137
+hypothetical_protein,Cytoplasmic,0.0009,0.0264,0.9684,0.0042
+hypothetical_protein,Cytoplasmic,0.0017,0.1193,0.8743,0.0047
+hypothetical_protein,Cytoplasmic Membrane,0,0.0082,0.0001,0.9918
+hypothetical_protein,Cytoplasmic,0,0.0115,0.9875,0.0009
+hypothetical_protein,Cytoplasmic,0.0002,0.0082,0.9888,0.0029
+hypothetical_protein,Cytoplasmic,0.0162,0.3905,0.5624,0.0309
+hypothetical_protein,Cytoplasmic,0.0001,0.2771,0.7202,0.0027
+hypothetical_protein,Cytoplasmic,0.0013,0.1767,0.8164,0.0056
+hypothetical_protein,Cytoplasmic,0.0001,0.0283,0.9306,0.0409
+hypothetical_protein,Cytoplasmic,0.0011,0.0079,0.9901,0.001
+hypothetical_protein,Cytoplasmic,0.0006,0.1188,0.864,0.0165
+hypothetical_protein,Cytoplasmic,0.0021,0.1002,0.8939,0.0037
+hypothetical_protein,Cytoplasmic Membrane,0.0004,0.0268,0.0048,0.968
+Tyrosine_recombinase_XerC,Cytoplasmic,0.0256,0.0843,0.8693,0.0208
+50S_ribosomal_protein_L33_1,Cytoplasmic,0.0006,0.3534,0.646,0
+Penicillin-binding_protein_2B,Cytoplasmic Membrane,0.0021,0.0684,0.0004,0.9291
+Threonine--tRNA_ligase,Cytoplasmic,0,0.001,0.999,0
+putative_tautomerase,Cytoplasmic,0.0001,0.0213,0.9782,0.0003
+hypothetical_protein,Cytoplasmic Membrane,0.1104,0.1785,0.001,0.7101
+Aminoglycoside_6-adenylyltransferase,Cytoplasmic,0.0001,0.0015,0.9975,0.0009
+hypothetical_protein,Cytoplasmic Membrane,0,0.0192,0.0042,0.9765
+Endo-beta-N-acetylglucosaminidase_H,Extracellular,0.0007,0.999,0,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0379,0.1552,0.004,0.8029
+putative_transcriptional_regulatory_protein,Cytoplasmic,0,0.0655,0.9338,0.0007
+tRNA(Met)_cytidine_acetate_ligase,Cytoplasmic,0.0004,0.0002,0.9977,0.0017
+Glycine/sarcosine_N-methyltransferase,Cytoplasmic,0,0.0012,0.9978,0.0009
+hypothetical_protein,Cytoplasmic,0,0.0002,0.9997,0.0001
+Nicotinate-nucleotide_adenylyltransferase,Cytoplasmic,0,0.0003,0.9995,0.0002
+RNA-binding_protein_YhbY,Cytoplasmic,0.0002,0.0046,0.993,0.0023
+putative_protein_YqeH,Cytoplasmic,0,0,0.9925,0.0074
+Phosphoglycolate_phosphatase,Cytoplasmic Membrane,0.0004,0.0297,0.3487,0.6212
+Acetyl-coenzyme_A_carboxylase_carboxyl_transferase_subunit_alpha,Cytoplasmic,0.0014,0.028,0.8621,0.1085
+Acetyl-coenzyme_A_carboxylase_carboxyl_transferase_subunit_beta,Cytoplasmic,0.0001,0.0189,0.7594,0.2216
+Biotin_carboxylase,Cytoplasmic,0,0.0023,0.995,0.0027
+3-hydroxyacyl-[acyl-carrier-protein]_dehydratase_FabZ,Cytoplasmic,0,0.0108,0.9835,0.0056
+Biotin_carboxyl_carrier_protein_of_acetyl-CoA_carboxylase,Cytoplasmic,0.0002,0.0033,0.9796,0.017
+3-oxoacyl-[acyl-carrier-protein]_synthase_2,Cytoplasmic,0.0002,0.0149,0.944,0.0409
+3-oxoacyl-[acyl-carrier-protein]_reductase_FabG,Cytoplasmic,0.0008,0.05,0.9257,0.0234
+Malonyl_CoA-acyl_carrier_protein_transacylase,Cytoplasmic,0.0011,0.0007,0.9981,0.0001
+NADH:quinone_reductase,Cytoplasmic,0,0.0163,0.9655,0.0182
+Acyl_carrier_protein,Cytoplasmic,0.0003,0.0076,0.989,0.0031
+3-oxoacyl-[acyl-carrier-protein]_synthase_3,Cytoplasmic,0.0005,0.0065,0.9848,0.0083
+hypothetical_protein,Cytoplasmic,0.0017,0.0191,0.9631,0.0161
+putative_protein_YkuJ,Cytoplasmic,0.0012,0.1449,0.8086,0.0453
+2-hydroxy-3-oxopropionate_reductase,Cytoplasmic,0.0009,0.0349,0.8105,0.1537
+Alpha-monoglucosyldiacylglycerol_synthase,Cytoplasmic Membrane,0.0016,0.015,0.3335,0.6499
+Processive_diacylglycerol_alpha-glucosyltransferase,Cytoplasmic Membrane,0.0006,0.0209,0.2323,0.7462
+hypothetical_protein,Cytoplasmic,0.0013,0.027,0.861,0.1107
+General_stress_protein_13,Cytoplasmic,0.0003,0.0027,0.9575,0.0395
+Cystathionine_beta-lyase_PatB,Cytoplasmic,0,0.0002,0.9997,0
+hypothetical_protein,Cytoplasmic Membrane,0,0.001,0,0.999
+Putative_bifunctional_phosphatase/peptidyl-prolyl_cis-trans_isomerase,Cytoplasmic,0.0001,0.0839,0.915,0.001
+Ferredoxin--NADP_reductase_2,Cytoplasmic,0.0001,0.0016,0.9022,0.0962
+Glyoxylate/hydroxypyruvate_reductase_B,Cytoplasmic,0,0.0021,0.9975,0.0004
+Trifunctional_nucleotide_phosphoesterase_protein_YfkN,Cytoplasmic,0.001,0.0031,0.9949,0.001
+hypothetical_protein,Cytoplasmic Membrane,0.0694,0.1178,0.0002,0.8126
+Ribonuclease_J,Cytoplasmic,0.0008,0.0143,0.9735,0.0115
+L-arabinose_transport_system_permease_protein_AraQ,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Lactose_transport_system_permease_protein_LacF,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Oligosaccharides_import_ATP-binding_protein_MsmX,Cytoplasmic Membrane,0.0001,0.0247,0.1347,0.8405
+Putative_glycosyltransferase_CsbB,Cytoplasmic Membrane,0,0.0031,0.0001,0.9968
+hypothetical_protein,Cytoplasmic,0.0002,0.0012,0.9574,0.0412
+Ktr_system_potassium_uptake_protein_A,Cytoplasmic,0,0.0311,0.743,0.2258
+Response_regulator_protein_VraR,Cytoplasmic,0,0.0035,0.9953,0.0012
+Sensor_histidine_kinase_LiaS,Cytoplasmic Membrane,0,0.0008,0.0055,0.9936
+hypothetical_protein,Cytoplasmic Membrane,0,0.0003,0.0006,0.999
+Transcription_elongation_factor_GreA,Cytoplasmic,0,0.001,0.9989,0.0001
+Endolytic_murein_transglycosylase,Cytoplasmic Membrane,0,0.0004,0,0.9996
+5'-nucleotidase,Cytoplasmic,0.0003,0.0031,0.9945,0.0021
+UDP-N-acetylglucosamine_2-epimerase,Cytoplasmic,0.0001,0.0003,0.9993,0.0002
+Protein_YrdA,Cytoplasmic,0,0.001,0.9988,0.0002
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0006,0,0.9994
+putative_ABC_transporter_ATP-binding_protein,Cytoplasmic Membrane,0,0.0006,0.0001,0.9993
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0.0001,0.9988
+hypothetical_protein,Cytoplasmic,0.0023,0.067,0.8855,0.0451
+Ribonuclease_J_1,Cytoplasmic,0.0002,0.0189,0.9702,0.0107
+Cold_shock-like_protein_CspLA,Cytoplasmic,0,0.0002,0.9998,0
+hypothetical_protein,Cytoplasmic,0.0001,0.0008,0.9984,0.0007
+Phosphorylated_carbohydrates_phosphatase,Cytoplasmic,0.0003,0.0098,0.9888,0.0011
+Folylpolyglutamate_synthase,Cytoplasmic,0.0005,0,0.9982,0.0013
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.013,0.0008,0.9861
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0.0001,0.9985
+Valine--tRNA_ligase,Cytoplasmic,0,0.0006,0.9994,0
+Thiol_peroxidase,Cytoplasmic,0.0001,0.0453,0.9537,0.0009
+Redox-sensing_transcriptional_repressor_Rex,Cytoplasmic,0.0002,0.0126,0.9853,0.0019
+putative_tRNA_sulfurtransferase,Cytoplasmic,0,0.0012,0.9981,0.0007
+Guanine/hypoxanthine_permease_PbuG,Cytoplasmic Membrane,0,0.0001,0,0.9999
+putative_oxidoreductase,Cytoplasmic,0.001,0.0273,0.9064,0.0653
+Putative_acetyltransferase,Cytoplasmic,0,0.0046,0.9952,0.0002
+Hydrogen_peroxide-inducible_genes_activator,Cytoplasmic,0.0001,0.0007,0.9953,0.0039
+putative_glucose_uptake_protein_GlcU,Cytoplasmic Membrane,0,0.0003,0,0.9997
+D-ribose_pyranase,Cytoplasmic,0,0.0016,0.9982,0.0002
+Ribokinase,Cytoplasmic,0.0007,0.0013,0.998,0.0001
+HTH-type_transcriptional_regulator_DegA,Cytoplasmic,0.0002,0.0015,0.997,0.0013
+hypothetical_protein,Cytoplasmic Membrane,0.0048,0.1076,0.3211,0.5664
+Ascorbate-specific_PTS_system_EIIC_component,Cytoplasmic Membrane,0,0.0029,0.0001,0.997
+hypothetical_protein,Cytoplasmic,0.0003,0.0102,0.9855,0.004
+hypothetical_protein,Cytoplasmic,0.0006,0.0004,0.9322,0.0667
+hypothetical_protein,Cytoplasmic Membrane,0,0.0013,0.0001,0.9986
+hypothetical_protein,Cytoplasmic Membrane,0.2392,0.0562,0.0001,0.7045
+hypothetical_protein,Cytoplasmic Membrane,0.0035,0.0126,0.0001,0.9838
+hypothetical_protein,Extracellular,0.311,0.6868,0.0001,0.0022
+Inosamine-phosphate_amidinotransferase_1,Cytoplasmic,0,0.0046,0.9938,0.0016
+Alkaline_phosphatase_3,Cytoplasmic Membrane,0.3234,0.2473,0.0044,0.425
+Endonuclease_MutS2,Cytoplasmic,0.001,0.0001,0.994,0.0049
+2-dehydro-3-deoxy-phosphogluconate_aldolase,Cytoplasmic,0.0007,0.173,0.7208,0.1055
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0017,0,0.9983
+N-acetylgalactosamine_permease_IIC_component_1,Cytoplasmic Membrane,0,0.0059,0.0003,0.9938
+PTS_system_fructose-specific_EIIB_component,Cytoplasmic,0,0.0007,0.9986,0.0006
+hypothetical_protein,Cytoplasmic,0,0.0015,0.9983,0.0002
+Transcriptional_regulatory_protein_DagR,Cytoplasmic,0.0053,0.0138,0.8095,0.1713
+Phosphoserine_phosphatase_1,Cytoplasmic,0.0001,0.0014,0.9982,0.0003
+6-aminohexanoate-cyclic-dimer_hydrolase,Cytoplasmic,0.0002,0.0221,0.9748,0.003
+hypothetical_protein,Cytoplasmic,0.0004,0.0057,0.8867,0.1072
+Macrolide_export_ATP-binding/permease_protein_MacB,Cytoplasmic Membrane,0,0.0014,0,0.9985
+putative_ABC_transporter_ATP-binding_protein_YknY,Cytoplasmic Membrane,0.0002,0.0018,0.0969,0.9011
+Putative_efflux_system_component_YknX,Cytoplasmic Membrane,0.0244,0.0964,0.0004,0.8789
+Sulfurtransferase,Cytoplasmic,0.0001,0.0047,0.9946,0.0006
+Coenzyme_A_disulfide_reductase,Cytoplasmic,0.0005,0.0049,0.9926,0.002
+Sulfurtransferase,Cytoplasmic,0.0028,0.1129,0.8396,0.0447
+Copper-sensing_transcriptional_repressor_RicR,Cytoplasmic,0.0048,0.0187,0.9751,0.0014
+putative_sulfoacetate_transporter_SauU,Cytoplasmic Membrane,0,0.0009,0,0.9991
+(S)-ureidoglycine--glyoxylate_transaminase,Cytoplasmic,0,0.016,0.9793,0.0047
+Purine_catabolism_regulatory_protein,Cytoplasmic,0.0006,0.0032,0.9937,0.0025
+(S)-ureidoglycine_aminohydrolase,Cytoplasmic,0.0001,0.0329,0.9638,0.0032
+Allantoate_amidohydrolase,Cytoplasmic,0.0003,0.0001,0.9977,0.0019
+Allantoinase,Cytoplasmic,0,0.0074,0.9903,0.0023
+Putative_allantoin_permease,Cytoplasmic Membrane,0,0.0037,0.0002,0.9961
+Spermidine/spermine_N(1)-acetyltransferase,Cytoplasmic,0,0.0001,0.9998,0
+Transcriptional_regulator_SlyA,Cytoplasmic,0.0002,0.0045,0.994,0.0013
+hypothetical_protein,Cytoplasmic Membrane,0.0027,0.3945,0.0021,0.6007
+C4-dicarboxylic_acid_transporter_DauA,Cytoplasmic Membrane,0,0.0002,0,0.9998
+putative_protein_YxeI,Cytoplasmic,0.0017,0.1464,0.8445,0.0075
+hypothetical_protein,Cytoplasmic,0.0003,0.0034,0.9929,0.0034
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0.0007,0.9992
+hypothetical_protein,Cytoplasmic,0.0014,0.0148,0.9621,0.0217
+hypothetical_protein,Cytoplasmic,0,0.2728,0.5217,0.2055
+hypothetical_protein,Cytoplasmic,0.0055,0.0406,0.943,0.0109
+Protein_FdrA,Cytoplasmic,0.0005,0.0033,0.9917,0.0045
+hypothetical_protein,Cytoplasmic,0,0.0286,0.9707,0.0007
+hypothetical_protein,Cytoplasmic Membrane,0,0.0006,0.0003,0.9991
+hypothetical_protein,Extracellular,0.0003,0.5335,0.2697,0.1965
+hypothetical_protein,Cytoplasmic,0.001,0.0405,0.8119,0.1466
+Calcium-transporting_ATPase_1,Cytoplasmic Membrane,0,0.0002,0,0.9998
+Serine/threonine_transporter_SstT,Cytoplasmic Membrane,0,0.0008,0,0.9992
+hypothetical_protein,Cytoplasmic Membrane,0,0.0011,0.0002,0.9987
+tRNA_pseudouridine_synthase_A,Cytoplasmic,0.0005,0.0006,0.9908,0.0082
+hypothetical_protein,Cytoplasmic Membrane,0.0005,0.0518,0.0004,0.9473
+hypothetical_protein,Cytoplasmic Membrane,0.0006,0.0307,0.0001,0.9686
+RNA_polymerase_sigma_factor_YlaC,Cytoplasmic,0.0103,0.0275,0.6751,0.2871
+hypothetical_protein,Cytoplasmic,0.0002,0.0691,0.927,0.0036
+Proton/sodium-glutamate_symport_protein,Cytoplasmic Membrane,0,0.0006,0,0.9993
+"Glucan_1,6-alpha-glucosidase",Cytoplasmic,0.0001,0.0059,0.9935,0.0005
+hypothetical_protein,Cytoplasmic,0.0528,0.1964,0.6561,0.0947
+hypothetical_protein,Cytoplasmic Membrane,0.0024,0.029,0,0.9686
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0.0001,0.9998
+Lactose_transport_system_permease_protein_LacF,Cytoplasmic Membrane,0,0.0001,0,0.9999
+hypothetical_protein,Cytoplasmic,0.0015,0.0187,0.9498,0.03
+HTH-type_transcriptional_regulator_GalR,Cytoplasmic,0.0009,0.0176,0.9569,0.0246
+Ribosomal_RNA_large_subunit_methyltransferase_H,Cytoplasmic,0.0005,0.0085,0.9899,0.0012
+Serine_protease_Do-like_HtrA,Cytoplasmic Membrane,0.0198,0.0653,0.0006,0.9144
+hypothetical_protein,Cytoplasmic,0.0001,0.0165,0.9831,0.0003
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0005,0,0.9995
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0007,0,0.9993
+putative_phosphotransferase_enzyme_IIB_component,Cytoplasmic,0,0.0103,0.9886,0.0011
+hypothetical_protein,Cytoplasmic,0.001,0.0132,0.9527,0.0331
+hypothetical_protein,Cytoplasmic,0,0.0005,0.9993,0.0001
+putative_HTH-type_transcriptional_regulator_YurK,Cytoplasmic,0,0.0032,0.9962,0.0005
+Putative_universal_stress_protein,Cytoplasmic,0.0001,0.0036,0.9765,0.0198
+Thioredoxin-like_protein_YtpP,Cytoplasmic,0.0006,0.0039,0.9953,0.0002
+Glutamyl_aminopeptidase,Cytoplasmic,0,0.0042,0.9826,0.0131
+hypothetical_protein,Cytoplasmic Membrane,0.005,0.0811,0.0543,0.8596
+Oligopeptide-binding_protein_OppA,Cytoplasmic Membrane,0.0972,0.0243,0.0002,0.8783
+DNA-3-methyladenine_glycosylase_1,Cytoplasmic,0.0017,0.0047,0.9905,0.0031
+hypothetical_protein,Cytoplasmic Membrane,0.0031,0.2229,0.0166,0.7574
+hypothetical_protein,Cytoplasmic,0.0004,0.0256,0.6664,0.3076
+Thiamine_transporter_ThiT,Cytoplasmic Membrane,0,0.0009,0.0003,0.9988
+hypothetical_protein,Cytoplasmic Membrane,0.1079,0.0484,0.0023,0.8414
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.0314,0.3708,0.5975
+Sortase_A,Cytoplasmic Membrane,0.0001,0.0091,0.0001,0.9907
+hypothetical_protein,Cytoplasmic Membrane,0,0.0031,0.0002,0.9967
+Low_molecular_weight_protein-tyrosine-phosphatase_YfkJ,Cytoplasmic,0.0001,0.058,0.9419,0
+hypothetical_protein,Cytoplasmic,0.0007,0.0194,0.932,0.0479
+hypothetical_protein,Extracellular,0.0015,0.9983,0,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0,0,0,1
+Cell_shape-determining_protein_MreC,Cytoplasmic Membrane,0.0011,0.0292,0.0009,0.9687
+Polyribonucleotide_nucleotidyltransferase,Cytoplasmic,0.0002,0.0288,0.969,0.002
+30S_ribosomal_protein_S15,Cytoplasmic,0.0003,0.0549,0.9439,0.0009
+Peptide_deformylase,Cytoplasmic,0.0001,0.0052,0.9796,0.0152
+Putative_bifunctional_phosphatase/peptidyl-prolyl_cis-trans_isomerase,Cytoplasmic,0,0.0001,0.9996,0.0002
+hypothetical_protein,Cytoplasmic,0.0002,0.0017,0.9901,0.0081
+hypothetical_protein,Cytoplasmic Membrane,0,0.0015,0.0001,0.9984
+30S_ribosomal_protein_S4,Extracellular,0,0.7107,0.2849,0.0043
+Biotin_transporter_BioY2,Cytoplasmic Membrane,0,0.0003,0.0002,0.9995
+Signal_peptidase_I_T,Cytoplasmic Membrane,0.0001,0.0146,0.0093,0.976
+hypothetical_protein,Extracellular,0.0935,0.6709,0.0025,0.2331
+hypothetical_protein,Extracellular,0.024,0.8754,0.0039,0.0966
+hypothetical_protein,Cell wall & surface,0.3892,0.2521,0.0005,0.3582
+hypothetical_protein,Cytoplasmic,0.0001,0.0002,0.9996,0.0001
+hypothetical_protein,Cytoplasmic,0.0001,0.0017,0.9981,0.0001
+Peptidase_T,Cytoplasmic,0.0008,0.0043,0.9942,0.0007
+Dipeptide-binding_protein_DppE,Cytoplasmic Membrane,0.2509,0.1971,0.0039,0.5481
+Petrobactin-binding_protein_YclQ,Cytoplasmic Membrane,0.0063,0.0034,0,0.9902
+Petrobactin_import_ATP-binding_protein_YclP,Cytoplasmic Membrane,0.0001,0.003,0.3881,0.6088
+Petrobactin_import_system_permease_protein_YclO,Cytoplasmic Membrane,0,0,0,0.9999
+Petrobactin_import_system_permease_protein_YclN,Cytoplasmic Membrane,0,0,0,1
+putative_protein_YueI,Cytoplasmic,0.0015,0.008,0.96,0.0306
+Glutathione_biosynthesis_bifunctional_protein_GshAB,Cytoplasmic,0.0008,0.0081,0.9743,0.0168
+Peroxyureidoacrylate/ureidoacrylate_amidohydrolase_RutB,Cytoplasmic,0,0.0017,0.9962,0.0021
+hypothetical_protein,Cytoplasmic Membrane,0,0.0008,0,0.9992
+hypothetical_protein,Cytoplasmic,0,0.0217,0.9779,0.0004
+hypothetical_protein,Cytoplasmic,0,0.0016,0.9979,0.0005
+Signal_recognition_particle_receptor_FtsY,Cytoplasmic Membrane,0.0017,0.0788,0.4563,0.4632
+Sugar_phosphatase_YidA,Cytoplasmic,0.0005,0.0012,0.9977,0.0006
+Chromosome_partition_protein_Smc,Cytoplasmic,0.0019,0.0022,0.9914,0.0044
+Ribonuclease_3,Cytoplasmic,0.0004,0.0045,0.9949,0.0002
+hypothetical_protein,Cytoplasmic Membrane,0.0199,0.0542,0.0001,0.9259
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Glutathione_transport_system_permease_protein_GsiC,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Oligopeptide_transport_ATP-binding_protein_OppF,Cytoplasmic Membrane,0.0003,0.0174,0.1535,0.8289
+Oligopeptide_transport_ATP-binding_protein_OppD,Cytoplasmic Membrane,0.0003,0.0065,0.0901,0.903
+Acyl_carrier_protein,Cytoplasmic,0.0001,0.0223,0.977,0.0006
+Phosphate_acyltransferase,Cytoplasmic,0.0006,0.0486,0.8599,0.0909
+ATP-dependent_DNA_helicase_RecG,Cytoplasmic,0.0009,0.0031,0.9802,0.0158
+putative_protein,Cytoplasmic,0.0002,0.0058,0.9909,0.0031
+putative_protein,Cytoplasmic,0.0008,0.092,0.7618,0.1455
+50S_ribosomal_protein_L28,Extracellular,0,0.7436,0.2564,0
+Thiamine_pyrophosphokinase,Cytoplasmic,0,0.0001,0.9998,0.0001
+Ribulose-phosphate_3-epimerase,Cytoplasmic,0.0001,0.0036,0.9961,0.0003
+Small_ribosomal_subunit_biogenesis_GTPase_RsgA,Cytoplasmic,0.0001,0.0002,0.997,0.0027
+Serine/threonine-protein_kinase_PknD,Cytoplasmic Membrane,0.0007,0.1355,0.0001,0.8638
+Serine/threonine_phosphatase_stp,Cytoplasmic,0.0002,0.0005,0.9991,0.0002
+Ribosomal_RNA_small_subunit_methyltransferase_B,Cytoplasmic,0.0016,0.0005,0.9961,0.0018
+Methionyl-tRNA_formyltransferase,Cytoplasmic,0.0001,0.0004,0.9993,0.0002
+Peptide_deformylase_1,Cytoplasmic,0,0.0004,0.9996,0.0001
+Primosomal_protein_N',Cytoplasmic,0.0016,0.0002,0.9971,0.0011
+DNA-directed_RNA_polymerase_subunit_omega,Cytoplasmic,0.0001,0.0095,0.9751,0.0153
+Guanylate_kinase,Cytoplasmic,0,0.0033,0.9966,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.0026,0.0505,0.0002,0.9467
+hypothetical_protein,Cytoplasmic,0.0002,0.027,0.9722,0.0006
+hypothetical_protein,Cytoplasmic,0.0004,0.0015,0.9949,0.0031
+hypothetical_protein,Cytoplasmic,0,0.0009,0.999,0.0001
+hypothetical_protein,Cytoplasmic,0,0.0007,0.9989,0.0005
+Putative_KHG/KDPG_aldolase,Cytoplasmic,0.0001,0.0018,0.9964,0.0016
+Mannonate_dehydratase,Cytoplasmic,0,0.0107,0.988,0.0013
+PTS_system_mannose-specific_EIIAB_component,Cytoplasmic,0,0.0027,0.9971,0.0002
+PTS_system_sorbose-specific_EIIB_component,Cytoplasmic,0,0.0791,0.9189,0.0019
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0016,0.0001,0.9983
+PTS_system_sorbose-specific_EIIC_component,Cytoplasmic Membrane,0,0.0022,0.0001,0.9977
+Hydroxycarboxylate_dehydrogenase_A,Cytoplasmic,0.0001,0.0006,0.9983,0.0011
+Glyoxylate/hydroxypyruvate_reductase_B,Cytoplasmic,0.0002,0.0084,0.9892,0.0022
+"6-phosphogluconate_dehydrogenase,_NAD(+)-dependent,_decarboxylating",Cytoplasmic,0.0005,0.0384,0.9472,0.0139
+HTH-type_transcriptional_regulator_HexR,Cytoplasmic,0.0004,0.029,0.9515,0.019
+Multidrug_resistance_ABC_transporter_ATP-binding_and_permease_protein,Cytoplasmic Membrane,0,0.0031,0,0.9968
+hypothetical_protein,Cytoplasmic,0.0007,0.0024,0.9968,0
+CDP-diacylglycerol--glycerol-3-phosphate_3-phosphatidyltransferase,Cytoplasmic Membrane,0,0.0006,0,0.9994
+hypothetical_protein,Cytoplasmic Membrane,0,0.0102,0.0002,0.9896
+hypothetical_protein,Cytoplasmic Membrane,0,0.0021,0,0.9979
+hypothetical_protein,Cytoplasmic,0.0002,0.0265,0.9659,0.0074
+hypothetical_protein,Cytoplasmic,0.0004,0.0101,0.9825,0.007
+Large-conductance_mechanosensitive_channel,Cytoplasmic Membrane,0.0001,0.0267,0.0001,0.9731
+hypothetical_protein,Extracellular,0.1516,0.8465,0.0006,0.0014
+hypothetical_protein,Extracellular,0.0738,0.9247,0.0002,0.0012
+HTH-type_transcriptional_regulator_TreR,Cytoplasmic,0,0.0004,0.9992,0.0004
+Trehalose_6-phosphate_phosphorylase,Cytoplasmic,0.0012,0.0072,0.9901,0.0015
+Beta-phosphoglucomutase,Cytoplasmic,0.0001,0.0005,0.9993,0.0002
+Ribose-phosphate_pyrophosphokinase,Cytoplasmic,0.0003,0.3167,0.675,0.0081
+Peptide_methionine_sulfoxide_reductase_MsrB,Cytoplasmic,0.0001,0.0098,0.9899,0.0003
+dTTP/UTP_pyrophosphatase,Cytoplasmic,0.0001,0.0026,0.997,0.0003
+DNA_mismatch_repair_protein_MutL,Cytoplasmic,0.0001,0.0003,0.9973,0.0023
+DNA_mismatch_repair_protein_MutS,Cytoplasmic,0.0016,0.0024,0.9866,0.0094
+putative_protein_YmcA,Cytoplasmic,0.0025,0.0005,0.9632,0.0338
+"2',3'-cyclic-nucleotide_2'-phosphodiesterase",Cytoplasmic,0.0001,0.0044,0.995,0.0004
+Ribonuclease_Y,Cytoplasmic Membrane,0.0035,0.1938,0.0319,0.7707
+putative_licABCH_operon_regulator,Cytoplasmic,0.0009,0.0027,0.968,0.0284
+Aryl-phospho-beta-D-glucosidase_BglH,Cytoplasmic,0.0005,0.174,0.8247,0.0007
+Lichenan-specific_phosphotransferase_enzyme_IIA_component,Cytoplasmic,0.0017,0.0044,0.9873,0.0067
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0032,0.0001,0.9967
+hypothetical_protein,Cytoplasmic Membrane,0,0.0238,0.0017,0.9744
+PTS_system_cellobiose-specific_EIIB_component,Cytoplasmic,0,0.0001,0.9999,0
+Protein_RecA,Cytoplasmic,0,0.0317,0.9588,0.0095
+Putative_competence-damage_inducible_protein,Cytoplasmic,0.0001,0.0004,0.9995,0.0001
+hypothetical_protein,Cytoplasmic Membrane,0.0189,0.1632,0.0011,0.8168
+hypothetical_protein,Cytoplasmic,0.0005,0.0085,0.9905,0.0004
+Putative_HTH-type_transcriptional_regulator_YwnA,Cytoplasmic,0.0008,0.014,0.9784,0.0068
+Inner_membrane_protein_YccF,Cytoplasmic Membrane,0,0.0023,0.0009,0.9967
+hypothetical_protein,Cytoplasmic,0.0493,0.0194,0.8821,0.0492
+putative_succinyl-diaminopimelate_desuccinylase,Cytoplasmic,0.0005,0.001,0.9981,0.0004
+Anti-sigma-V_factor_RsiV,Cytoplasmic Membrane,0.0104,0.0523,0.0006,0.9367
+RNA_polymerase_sigma_factor_SigV,Cytoplasmic Membrane,0.0152,0.0131,0.3806,0.5911
+hypothetical_protein,Cytoplasmic,0.0007,0.0036,0.9424,0.0532
+hypothetical_protein,Extracellular,0.0544,0.7431,0.0048,0.1978
+hypothetical_protein,Cytoplasmic Membrane,0.0006,0.0193,0,0.9801
+hypothetical_protein,Extracellular,0.1985,0.7968,0.0002,0.0046
+hypothetical_protein,Extracellular,0.3119,0.6751,0.0041,0.0088
+hypothetical_protein,Extracellular,0.3999,0.597,0.0004,0.0027
+hypothetical_protein,Cytoplasmic Membrane,0.3143,0.1096,0.0001,0.576
+hypothetical_protein,Extracellular,0.0333,0.9649,0.0001,0.0017
+Acetyl_esterase,Cytoplasmic Membrane,0.0009,0.1209,0.0008,0.8773
+Peroxyureidoacrylate/ureidoacrylate_amidohydrolase_RutB,Cytoplasmic,0,0.003,0.9969,0.0001
+Antiholin-like_protein_LrgB,Cytoplasmic Membrane,0,0.0008,0,0.9991
+Antiholin-like_protein_LrgA,Cytoplasmic Membrane,0,0.0003,0,0.9997
+Sensory_transduction_protein_LytR,Cytoplasmic,0.0001,0.0002,0.9975,0.0022
+Sensor_histidine_kinase_YpdA,Cytoplasmic Membrane,0,0.0004,0.0055,0.9941
+D-methionine-binding_lipoprotein_MetQ,Cytoplasmic Membrane,0.006,0.2072,0.0001,0.7866
+D-methionine_transport_system_permease_protein_MetI,Cytoplasmic Membrane,0,0,0,1
+Methionine_import_ATP-binding_protein_MetN,Cytoplasmic Membrane,0.0003,0.0027,0.2654,0.7316
+hypothetical_protein,Cytoplasmic,0.0053,0.034,0.8556,0.1051
+Alternate_30S_ribosomal_protein_S14,Cytoplasmic,0.0001,0.2692,0.7306,0.0001
+50S_ribosomal_protein_L33_1,Extracellular,0.0022,0.5938,0.4037,0.0003
+P-loop_guanosine_triphosphatase_YjiA,Cytoplasmic,0.0001,0.0003,0.9956,0.004
+hypothetical_protein,Cytoplasmic,0.0067,0.0546,0.9316,0.0071
+hypothetical_protein,Cytoplasmic Membrane,0.0121,0.008,0.0005,0.9793
+putative_tRNA-dihydrouridine_synthase,Cytoplasmic,0,0.0031,0.9964,0.0005
+Inner_membrane_transport_permease_YadH,Cytoplasmic Membrane,0,0,0,1
+putative_ABC_transporter_ATP-binding_protein_YadG,Cytoplasmic Membrane,0.0003,0.0035,0.1559,0.8403
+hypothetical_protein,Cytoplasmic,0.0002,0.0025,0.9968,0.0006
+putative_phosphotransferase_enzyme_IIB_component,Cytoplasmic,0.0002,0.0552,0.9401,0.0045
+N-acetylgalactosamine_permease_IIC_component_1,Cytoplasmic Membrane,0,0.0015,0,0.9985
+PTS_system_mannose-specific_EIID_component,Cytoplasmic Membrane,0,0.0006,0,0.9994
+Transcriptional_regulatory_protein_DagR,Cytoplasmic,0.0036,0.0099,0.9165,0.0699
+hypothetical_protein,Cytoplasmic Membrane,0,0.0144,0.0007,0.9849
+30S_ribosomal_protein_S9,Extracellular,0.0013,0.5716,0.4224,0.0048
+50S_ribosomal_protein_L13,Extracellular,0,0.8092,0.1904,0.0003
+DNA_protection_during_starvation_protein,Cytoplasmic,0.0001,0.085,0.9131,0.0018
+hypothetical_protein,Cytoplasmic Membrane,0.0196,0.1293,0.0273,0.8238
+Xylulose_kinase,Cytoplasmic,0.0027,0.0036,0.9894,0.0042
+Type_4_prepilin-like_proteins_leader_peptide-processing_enzyme,Cytoplasmic Membrane,0,0.0134,0.093,0.8936
+DNA-directed_RNA_polymerase_subunit_beta',Cytoplasmic,0.0023,0.084,0.8664,0.0473
+DNA-directed_RNA_polymerase_subunit_beta,Cytoplasmic,0.0006,0.2438,0.7397,0.0159
+hypothetical_protein,Cytoplasmic,0.0001,0.0084,0.9833,0.0083
+hypothetical_protein,Cytoplasmic,0,0.004,0.9941,0.0019
+hypothetical_protein,Cytoplasmic,0.0001,0.0791,0.8101,0.1108
+Bifunctional_ligase/repressor_BirA,Cytoplasmic,0.0001,0.0004,0.9993,0.0002
+hypothetical_protein,Cytoplasmic,0.002,0.3907,0.6063,0.0009
+hypothetical_protein,Cytoplasmic,0.0028,0.0617,0.8532,0.0823
+Polyisoprenyl-teichoic_acid--peptidoglycan_teichoic_acid_transferase_TagU,Cytoplasmic Membrane,0.0005,0.0075,0.0004,0.9916
+hypothetical_protein,Cytoplasmic Membrane,0.0021,0.0609,0.039,0.8981
+hypothetical_protein,Cytoplasmic Membrane,0.0023,0.0164,0.0009,0.9804
+hypothetical_protein,Extracellular,0.2524,0.6134,0.0058,0.1283
+hypothetical_protein,Extracellular,0.0274,0.9061,0.001,0.0655
+hypothetical_protein,Cytoplasmic Membrane,0.3525,0.2365,0.0008,0.4102
+"1,4-dihydroxy-2-naphthoate_octaprenyltransferase",Cytoplasmic Membrane,0,0.0012,0.0005,0.9983
+FAD:protein_FMN_transferase,Cytoplasmic Membrane,0.0009,0.1133,0.0001,0.8857
+hypothetical_protein,Cytoplasmic Membrane,0.0781,0.2666,0.0001,0.6551
+Nitric_oxide_reductase_FlRd-NAD(+)_reductase,Cytoplasmic Membrane,0.0002,0.0039,0.001,0.995
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0034,0.0002,0.9963
+hypothetical_protein,Cytoplasmic Membrane,0,0.0002,0.0026,0.9972
+Heptaprenyl_diphosphate_synthase_component_2,Cytoplasmic,0.0002,0.0002,0.9972,0.0023
+hypothetical_protein,Cytoplasmic,0.0003,0.0798,0.9122,0.0077
+D-alanyl-D-alanine_carboxypeptidase,Cytoplasmic,0.0027,0.132,0.8389,0.0264
+Dihydropteroate_synthase,Cytoplasmic,0,0.0002,0.9996,0.0002
+dITP/XTP_pyrophosphatase,Cytoplasmic,0,0.0003,0.9996,0
+GTP_cyclohydrolase_1,Cytoplasmic,0.0002,0.0328,0.9651,0.0018
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine_pyrophosphokinase,Cytoplasmic,0.0003,0.0024,0.9965,0.0008
+Dihydroneopterin_aldolase,Cytoplasmic,0.0001,0.0025,0.9973,0.0002
+Glutathione_reductase,Cytoplasmic,0.0001,0.005,0.9428,0.052
+hypothetical_protein,Cytoplasmic,0.0001,0.0372,0.9496,0.013
+hypothetical_protein,Cytoplasmic,0.0007,0.014,0.8351,0.1502
+hypothetical_protein,Cytoplasmic,0.0003,0.0359,0.8318,0.132
+Acetophenone_carboxylase_gamma_subunit,Cytoplasmic,0.0014,0.0209,0.9642,0.0135
+hypothetical_protein,Cytoplasmic,0.0001,0.0074,0.9889,0.0036
+Cytosine_permease,Cytoplasmic Membrane,0,0.0034,0.0001,0.9964
+hypothetical_protein,Cytoplasmic,0.0017,0.0137,0.9384,0.0463
+hypothetical_protein,Cytoplasmic,0.0001,0.0073,0.943,0.0496
+23S_rRNA_5-hydroxycytidine_synthase,Cytoplasmic,0.0001,0.0029,0.9798,0.0172
+hypothetical_protein,Cytoplasmic Membrane,0,0.0001,0,0.9999
+Negative_regulator_of_genetic_competence_ClpC/MecB,Cytoplasmic,0.0027,0.0279,0.9484,0.0211
+Transcriptional_regulator_CtsR,Cytoplasmic,0.0015,0.0191,0.9476,0.0317
+L-alanine/L-glutamate_racemase,Cytoplasmic,0.0001,0.0052,0.9923,0.0024
+Lichenan_permease_IIC_component,Cytoplasmic Membrane,0,0.0007,0,0.9993
+putative_HTH-type_transcriptional_regulator_YbbH,Cytoplasmic,0.0005,0.01,0.98,0.0095
+hypothetical_protein,Cytoplasmic,0.0307,0.1085,0.855,0.0058
+Sporulation_initiation_inhibitor_protein_Soj,Cytoplasmic,0.0001,0.0399,0.8353,0.1246
+hypothetical_protein,Cytoplasmic,0.0012,0.0481,0.8597,0.091
+hypothetical_protein,Cytoplasmic,0.0004,0.0429,0.8241,0.1326
+rRNA_adenine_N-6-methyltransferase,Cytoplasmic,0.0033,0.0073,0.9818,0.0076
+hypothetical_protein,Cytoplasmic Membrane,0.0003,0.3603,0.201,0.4384
+hypothetical_protein,Cytoplasmic,0.0002,0.0063,0.9935,0.0001
+Tn3_family_transposase,Cytoplasmic,0.0047,0.0784,0.8073,0.1096
+hypothetical_protein,Cytoplasmic,0,0.1152,0.8779,0.0069
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.007,0.0001,0.9928
+hypothetical_protein,Cytoplasmic Membrane,0.0001,0.0045,0.0001,0.9953
+hypothetical_protein,Cytoplasmic,0.0163,0.1513,0.8032,0.0292
+hypothetical_protein,Cytoplasmic,0.0001,0.0491,0.7373,0.2135
+hypothetical_protein,Cytoplasmic,0.0001,0.0028,0.9971,0
+hypothetical_protein,Cytoplasmic,0,0.004,0.9949,0.0011
+hypothetical_protein,Cytoplasmic,0.0001,0.0101,0.9837,0.0061
+hypothetical_protein,Cytoplasmic,0.0003,0.0727,0.9244,0.0026
+IS6_family_transposase_ISEnfa1,Cytoplasmic,0.0142,0.3137,0.6689,0.0032
+Undecaprenyl-diphosphatase,Cytoplasmic Membrane,0,0.0005,0,0.9995
+Bacitracin_transport_permease_protein_BcrB,Cytoplasmic Membrane,0,0.0022,0.0007,0.9971
+Bacitracin_transport_ATP-binding_protein_BcrA,Cytoplasmic Membrane,0.0003,0.0098,0.2505,0.7395
+HTH-type_transcriptional_activator_BcrR,Cytoplasmic Membrane,0.0003,0.041,0.0012,0.9575
+hypothetical_protein,Cytoplasmic,0.0003,0.3107,0.6733,0.0157
+hypothetical_protein,Cytoplasmic,0.0001,0.2584,0.7301,0.0114
+chloramphenicol/florfenicol_efflux_MFS_transporter_FexA,Cytoplasmic Membrane,0,0.0047,0.0001,0.9952
+hypothetical_protein,Cytoplasmic,0,0.3904,0.5086,0.101
+ABC-F_type_ribosomal_protection_protein_OptrA,Cytoplasmic,0.0002,0.0423,0.9405,0.017
+hypothetical_protein,Cytoplasmic,0.0072,0.2324,0.6578,0.1027
+rRNA_adenine_N-6-methyltransferase,Cytoplasmic,0.0004,0.0548,0.9425,0.0022
+hypothetical_protein,Extracellular,0.0004,0.4203,0.2801,0.2992
+tetracycline_resistance_ribosomal_protection_protein_Tet(W),Cytoplasmic,0,0.0019,0.9955,0.0026
+hypothetical_protein,Cytoplasmic,0.0003,0.0688,0.8204,0.1106
+Protein_adenylyltransferase_NmFic,Cytoplasmic,0.0014,0.3828,0.6148,0.001
+hypothetical_protein,Cytoplasmic,0.0004,0.0132,0.9848,0.0015
+hypothetical_protein,Cytoplasmic,0.0031,0.1968,0.7472,0.0529
+hypothetical_protein,Cytoplasmic,0,0.0011,0.9988,0

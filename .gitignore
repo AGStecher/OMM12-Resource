@@ -1,0 +1,43 @@
+# ---- R / RStudio / editors -------------------------------------------------
+.Rhistory
+.RData
+.Rproj.user/
+~$*
+*.bak
+__pycache__/
+
+# ---- Local secrets ----------------------------------------------------------
+# The real ShinyProxy config holds the admin password. Copy
+# omm12_docker/shinyproxy/application.example.yml to application.yml
+# and set your own password there; never commit it.
+omm12_docker/shinyproxy/application.yml
+omm12_docker/logs/
+*.log
+
+# ---- Work folders and backups (not part of the app) ------------------------
+_backup_*/
+Dwonstream_analysis/
+to_run/
+conda_commands.docx
+
+# ---- Large raw inputs (the app uses the per-strain data/*_model.xml + .rds) -
+OMM_munich-csm-aam_20241205.xml
+OMM_munich-csm-aam_20241205.xml.zip
+OMM_munich-aam_20241205.RDS
+
+# ---- Raw tool output the app never reads (same list as .dockerignore) ------
+data/*_prokka/
+data/*_cog/
+data/*_deeploc/
+data/*_eggnog/
+data/*.zip
+data/escherichia_coli_strain_*
+www/data/
+
+# ---- Publication data (Dimensions free version + Scopus: not redistributable) -
+# The app reads only the aggregated data/omm12_pubstats_*.tsv; the
+# per-publication list and raw exports stay local.
+data/omm12_publications.tsv
+data/omm12_publications_info.tsv
+data/statistics_OMM12/
+data/Dimensions-Publication-*.csv

@@ -1,0 +1,2 @@
+Sequence	CRISPR_Id	Start	End	Length	Orientation	DR_Consensus	DR_Length	Spacers_Nb	Evidence_Level	Conservation_DRs_pct	Conservation_Spacers_pct
+NZ_CP065318_1	NZ_CP065318_1_1	1886736	1887167	432	+	GTTTTAGATGTACTTCAAATCAATAATGTTTAGAAC	36	6	4	98.356464503938	0

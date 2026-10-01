@@ -1,0 +1,8 @@
+Sequence Title,Query Title,Pident,Bitscore,Subject Sequence Length,e-value,Query Sequence Length,Start of Alignment in Subject,End of Alignment in Query,Start of Alignment in Query,End of Alignment in Query,mobileOG ID,Gene Name,Best Hit Accession ID,Major mobileOG Category,Minor mobileOG Category,Source Database,Evidence Type
+mobileOG_000138602|clpP|D9Y5Y2|phage|replication/recombination/repair|GPD|Homology,ECEGEIHF_00236,91.2,341,193,6.77e-120,-,11,203,14,206,mobileOG_000138602,clpP,D9Y5Y2,phage,replication/recombination/repair,GPD,Homology
+mobileOG_000175864|clpP|A0A3D4GDM6|phage|replication/recombination/repair|GPD|Homology,ECEGEIHF_00236,91.2,341,193,6.77e-120,-,11,203,14,206,mobileOG_000175864,clpP,A0A3D4GDM6,phage,replication/recombination/repair,GPD,Homology
+mobileOG_000218777|hup|A0A1C7HH89|integration/excision|replication|GPD|Homology,ECEGEIHF_00340,97.7,162,87,4.13e-53,-,1,87,1,87,mobileOG_000218777,hup,A0A1C7HH89,integration/excision,replication,GPD,Homology
+mobileOG_000218779|hsdM|D9Y7T4|stability/transfer/defense|NA|GPD|Homology,ECEGEIHF_00343,90.8,611,336,1.18e-220,-,121,453,1,336,mobileOG_000218779,hsdM,D9Y7T4,stability/transfer/defense,NA,GPD,Homology
+mobileOG_000082099|hsdM|D9Y7T4|stability/transfer/defense|NA|GPD|Homology,ECEGEIHF_00343,90.2,607,336,6.01e-219,-,121,456,1,336,mobileOG_000082099,hsdM,D9Y7T4,stability/transfer/defense,NA,GPD,Homology
+mobileOG_000009225|ihfA|A0A1C7HIJ4|phage|integration/excision|GPD|Manual,ECEGEIHF_01875,100,244,124,1.39e-84,-,1,124,1,124,mobileOG_000009225,ihfA,A0A1C7HIJ4,phage,integration/excision,GPD,Manual
+mobileOG_000139178|rrrD|A0A1C7HE45|phage|lysis|GPD|Homology,ECEGEIHF_01921,93.5,313,168,2.55e-110,-,6,173,4,171,mobileOG_000139178,rrrD,A0A1C7HE45,phage,lysis,GPD,Homology

@@ -1,0 +1,31 @@
+OMM12 16S rRNA gene phylogeny -- pipeline report
+============================================================
+
+Method: one representative 16S rRNA gene copy per genome (longest
+annotated copy), aligned with a custom Gotoh affine-gap-penalty
+center-star multiple alignment (medoid-sequence-anchored), pairwise
+distances corrected with the Jukes-Cantor (1969) substitution model,
+tree built by Neighbor-Joining (Saitou & Nei 1987), support from
+200 bootstrap replicates (column resampling with replacement,
+RNG seed 20260909 for reproducibility).
+
+Alignment: 12 taxa x 1710 columns.
+No external alignment/tree tools were available in this environment
+(no internet access to install MAFFT/IQ-TREE/etc.) -- this is a from-
+scratch pure-Python/numpy implementation. Each component (pairwise
+aligner, JC correction, Neighbor-Joining) was unit-tested against
+known-correct reference cases before being run on real data; see
+nw_align.py, jc_distance.py and test_nj.py in build_omm12_16s_tree/
+at the repo root (alongside extract_16s.py, build_msa.py, run_tree.py
+and bootstrap.py, which run the full pipeline end to end).
+
+This is a real single-locus (16S) molecular phylogeny with alignment,
+a substitution model, and bootstrap support -- a genuine improvement
+over a k-mer/UPGMA similarity sketch. It is NOT a whole-genome GBDP
+tree (which would need many more loci / whole-genome distances) and,
+like any single-gene tree, has limited power to resolve the deepest,
+most ancient splits between very different phyla -- treat weakly
+supported deep branches (~<70% bootstrap) with appropriate caution.
+
+Final Newick (with bootstrap support as internal node labels):
+((bacteroides_caecimuris_I48:0.099202,muribaculum_intestinales_YL27:0.097706)100:0.094196,(turicimonas_muris_YL45:0.163143,(((blautia_coccoides_YL58:0.028694,enterocloster_clostridioformis_YL32:0.036921)100:0.056889,(acutalibacter_muris_kb18:0.083495,flavonifractor_plautii_YL31:0.075451)98:0.016877)100:0.017177,(clostridium_innocuum_I46:0.108419,(enterococcus_faecalis_KB1:0.053522,limosilactobacillus_reuteri_I49:0.072484)100:0.045140)97:0.016067)80:0.010788)44:0.005775,(akkermansia_muciniphila_YL44:0.163152,bifidobacterium_animalis_YL2:0.145479)42:0.002599);

@@ -1,0 +1,15 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	CP065314.1	328124	399592	71468	NRPS;cyclic-lactone-autoinducer	NRPS;RiPP			
+region002	CP065314.1	600896	660098	59202	NRPS-like;NRPS;cyclic-lactone-autoinducer	NRPS;RiPP			
+region003	CP065314.1	1359602	1380330	20728	cyclic-lactone-autoinducer	RiPP			
+region004	CP065314.1	1715201	1742093	26892	cyclic-lactone-autoinducer	RiPP			
+region005	CP065314.1	2403625	2424408	20783	cyclic-lactone-autoinducer	RiPP			
+region006	CP065314.1	2554390	2576063	21673	ranthipeptide;darobactin	RiPP			
+region007	CP065314.1	2768612	2789143	20531	cyclic-lactone-autoinducer	RiPP			
+region008	CP065314.1	4055042	4075822	20780	cyclic-lactone-autoinducer	RiPP	BGC0000433.5	surfactin	8
+region009	CP065314.1	4710152	4762515	52363	NRPS-like;NRPS	NRPS	BGC0002472.2	ulbactin F/ulbactin G	42
+region010	CP065314.1	5288548	5309460	20912	terpene-precursor	terpene			
+region011	CP065314.1	6291897	6323107	31210	RRE-containing;cyclic-lactone-autoinducer	RiPP			
+region012	CP065314.1	6390644	6417597	26953	cyclic-lactone-autoinducer;ranthipeptide	RiPP			
+region013	CP065314.1	6746304	6850338	104034	transAT-PKS;PKS-like	PKS	BGC0002118.3	palmerolide A/palmerolide B/palmerolide C/palmerolide F/palmerolide G	12
+region014	CP065314.1	7027373	7047913	20540	cyclic-lactone-autoinducer	RiPP			

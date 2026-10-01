@@ -1,0 +1,15 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065311.1	GBAOMCCE_01290	GBAOMCCE_01290_gene	hypothetical protein	1556843	1556975	-	other	
+region001	NZ_CP065311.1	GBAOMCCE_01291	hpf	Ribosome hibernation promotion factor	1557447	1558134	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01292	secA	Protein translocase subunit SecA	1558338	1561263	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01293	trpD	Anthranilate phosphoribosyltransferase	1561397	1562450	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01294	GBAOMCCE_01294_gene	hypothetical protein	1562541	1563108	-	other	
+region001	NZ_CP065311.1	GBAOMCCE_01295	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	1563157	1563898	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1141: acyltransferase
+region001	NZ_CP065311.1	GBAOMCCE_01296	spk1	Serine/threonine-protein kinase PK-1	1563995	1566221	-	regulatory	biosynthetic-additional (rule-based-clusters) Pkinase; regulatory (smcogs) SMCOG1030: serine/threonine protein kinase
+region001	NZ_CP065311.1	GBAOMCCE_01297	ispB	Octaprenyl diphosphate synthase	1566281	1567382	-	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region001	NZ_CP065311.1	GBAOMCCE_01298	GBAOMCCE_01298_gene	hypothetical protein	1567562	1568267	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01299	hrdB	RNA polymerase principal sigma factor HrdB	1568338	1569865	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01300	gyrB_2	DNA gyrase subunit B	1569997	1572337	+	other	
+region001	NZ_CP065311.1	GBAOMCCE_01301	pimA_1	Phosphatidyl-myo-inositol mannosyltransferase	1572470	1573661	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Glycos_transf_1; biosynthetic-additional (smcogs) SMCOG1045: glycosyl transferase group 1
+region001	NZ_CP065311.1	GBAOMCCE_01302	glcP	Glucose/mannose transporter GlcP	1573755	1574937	+	transport	transport (smcogs) SMCOG1106: major facilitator transporter
+region001	NZ_CP065311.1	GBAOMCCE_01303	GBAOMCCE_01303_gene	hypothetical protein	1575070	1576285	+	other	

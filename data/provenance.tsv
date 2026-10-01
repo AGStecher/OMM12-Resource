@@ -1,0 +1,13 @@
+bacterium_name_clean	genome_annotation_tool	genome_annotation_version	cog_annotation_tool	cog_annotation_version	localization_tool	localization_version	mobileog_tool	mobileog_db_version	metabolic_model_tool	metabolic_model_version	notes
+acutalibacter_muris_kb18	Prokka	1.13	eggNOG-mapper	2.1.12	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	Reference strain; used as the template for all other members' pipelines.
+akkermansia_muciniphila_YL44	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+bacteroides_caecimuris_I48	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+bifidobacterium_animalis_YL2	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+blautia_coccoides_YL58	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+clostridium_innocuum_I46	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+enterocloster_clostridioformis_YL32	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+enterococcus_faecalis_KB1	Prokka	1.13	COGclassifier	2.0.0			mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	DeepLocPro not yet run for this strain
+flavonifractor_plautii_YL31	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+limosilactobacillus_reuteri_I49	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+muribaculum_intestinales_YL27	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	
+turicimonas_muris_YL45	Prokka	1.13	COGclassifier	2.0.0	DeepLocPro		mobileOG-db (DIAMOND homology + keyword search)		gapseq (Zenodo 10.5281/zenodo.17358311)	1.4.0	

@@ -1,0 +1,77 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065316.1	ctg1_313			342912	343527	-	other	
+region001	NZ_CP065316.1	ctg1_314			343530	344730	-	other	
+region001	NZ_CP065316.1	ctg1_315			345279	345390	+	other	
+region001	NZ_CP065316.1	ctg1_316			345575	345791	+	other	
+region001	NZ_CP065316.1	ctg1_317			345804	346260	+	other	
+region001	NZ_CP065316.1	ctg1_318			346271	347534	+	other	
+region001	NZ_CP065316.1	ctg1_319			347967	348243	+	other	other (smcogs) SMCOG1132: DNA-binding protein HU 1
+region001	NZ_CP065316.1	ctg1_320			348404	348980	+	other	
+region001	NZ_CP065316.1	ctg1_321			349015	349405	+	other	
+region001	NZ_CP065316.1	ctg1_322			349408	350134	+	other	
+region001	NZ_CP065316.1	ctg1_323			350447	351764	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region001	NZ_CP065316.1	ctg1_324			351771	351996	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region001	NZ_CP065316.1	ctg1_325			352008	353355	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1104: putative esterase
+region001	NZ_CP065316.1	ctg1_326			353338	356911	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1035: MMPL domain-containing transport protein
+region001	NZ_CP065316.1	ctg1_327			356926	357766	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_S9; biosynthetic-additional (smcogs) SMCOG1066: alpha/beta hydrolase domain-containing protein
+region001	NZ_CP065316.1	ctg1_328			357771	359256	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1222: dehydrogenase
+region001	NZ_CP065316.1	ctg1_329			359248	360760	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Glycos_transf_2; biosynthetic-additional (smcogs) SMCOG1123: polyprenol-monophosphomannose synthase ppm1
+region001	NZ_CP065316.1	ctg1_330			360710	361079	-	other	
+region001	NZ_CP065316.1	ctg1_331			361065	361497	-	other	
+region001	NZ_CP065316.1	ctg1_332			361471	361972	-	other	
+region001	NZ_CP065316.1	ctg1_333			362096	362483	-	other	
+region001	NZ_CP065316.1	ctg1_334			362475	364266	-	biosynthetic	biosynthetic (rule-based-clusters) arylpolyene: APE_KS2; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (rule-based-clusters) Ketoacyl-synt_2; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region001	NZ_CP065316.1	ctg1_335			364273	364534	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region001	NZ_CP065316.1	ctg1_336			364536	366231	-	biosynthetic	biosynthetic (rule-based-clusters) arylpolyene: APE_KS2; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region001	NZ_CP065316.1	ctg1_337			366218	366632	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) 4HBT_2
+region001	NZ_CP065316.1	ctg1_338			366631	367090	-	other	
+region001	NZ_CP065316.1	ctg1_339			367079	367964	-	other	
+region001	NZ_CP065316.1	ctg1_340			367964	368207	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) PP-binding_2
+region001	NZ_CP065316.1	ctg1_341			368212	369322	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1042: O-methyltransferase
+region001	NZ_CP065316.1	ctg1_342			369382	369892	-	other	
+region001	NZ_CP065316.1	ctg1_343			369904	371128	-	biosynthetic	biosynthetic (rule-based-clusters) arylpolyene: APE_KS1; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region001	NZ_CP065316.1	ctg1_344			371148	371880	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (smcogs) SMCOG1001: short-chain dehydrogenase/reductase SDR
+region001	NZ_CP065316.1	ctg1_345			372305	373142	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_S9
+region001	NZ_CP065316.1	ctg1_346			373281	373812	-	other	
+region001	NZ_CP065316.1	ctg1_347			373808	374375	-	other	
+region001	NZ_CP065316.1	ctg1_348			374378	375251	-	other	
+region001	NZ_CP065316.1	ctg1_349			375247	375934	-	other	
+region001	NZ_CP065316.1	ctg1_350			375938	376520	-	other	
+region001	NZ_CP065316.1	ctg1_351			376523	377531	-	other	
+region001	NZ_CP065316.1	ctg1_352			377554	378754	-	other	
+region001	NZ_CP065316.1	ctg1_353			378743	379046	-	other	
+region001	NZ_CP065316.1	ctg1_354			379046	379670	-	other	
+region001	NZ_CP065316.1	ctg1_355			379688	380699	-	other	
+region001	NZ_CP065316.1	ctg1_356			380701	381340	-	other	
+region001	NZ_CP065316.1	ctg1_357			381336	382059	-	other	
+region001	NZ_CP065316.1	ctg1_358			382062	384552	-	other	
+region001	NZ_CP065316.1	ctg1_359			384548	384869	-	other	
+region001	NZ_CP065316.1	ctg1_360			384868	385177	-	other	
+region001	NZ_CP065316.1	ctg1_361			385260	386046	-	other	
+region001	NZ_CP065316.1	ctg1_362			386042	386354	-	other	
+region001	NZ_CP065316.1	ctg1_363			386354	386744	-	other	
+region001	NZ_CP065316.1	ctg1_364			386754	387510	-	other	other (smcogs) SMCOG1157: hypothetical protein
+region001	NZ_CP065316.1	ctg1_365			388552	389746	-	other	
+region001	NZ_CP065316.1	ctg1_366			390003	390177	+	other	
+region001	NZ_CP065316.1	ctg1_367			390309	390828	+	other	
+region002	NZ_CP065316.1	ctg1_784			851040	851232	+	other	
+region002	NZ_CP065316.1	ctg1_785			851392	851584	+	other	
+region002	NZ_CP065316.1	ctg1_786			852366	854049	-	other	
+region002	NZ_CP065316.1	ctg1_787			854112	855303	-	other	
+region002	NZ_CP065316.1	ctg1_788			855510	856800	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_M16_C
+region002	NZ_CP065316.1	ctg1_789			856807	857566	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) NTP_transf_3
+region002	NZ_CP065316.1	ctg1_790			857579	858704	-	other	
+region002	NZ_CP065316.1	ctg1_791			858726	859917	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Glycos_transf_1; biosynthetic-additional (smcogs) SMCOG1045: glycosyl transferase group 1
+region002	NZ_CP065316.1	ctg1_792			859980	860805	-	other	
+region002	NZ_CP065316.1	ctg1_793			860804	861773	-	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region002	NZ_CP065316.1	ctg1_794			861814	862345	-	other	
+region002	NZ_CP065316.1	ctg1_795			862341	862866	-	other	
+region002	NZ_CP065316.1	ctg1_796			862858	863725	-	other	
+region002	NZ_CP065316.1	ctg1_797			863721	864426	-	other	
+region002	NZ_CP065316.1	ctg1_798			865378	866692	-	regulatory	regulatory (smcogs) SMCOG1112: sigma-54 dependent trancsriptional regulator
+region002	NZ_CP065316.1	ctg1_799			867054	867732	+	other	
+region002	NZ_CP065316.1	ctg1_800			867796	868108	-	other	
+region002	NZ_CP065316.1	ctg1_801			868180	871135	-	other	
+region002	NZ_CP065316.1	ctg1_802			871179	871296	+	other	
+region002	NZ_CP065316.1	ctg1_803			871247	871415	+	other	
+region002	NZ_CP065316.1	ctg1_804			871455	871572	+	other	

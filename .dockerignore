@@ -1,0 +1,24 @@
+# Docker build context for omm12_docker/ is this folder (OMM12_website).
+# Only app.R, data/ and www/ go into the image; everything else is left out.
+*
+!app.R
+!data
+!www
+
+# Raw per-tool output the running app never reads (~570 MB)
+data/*_prokka
+data/*_cog
+data/*_deeploc
+data/*.zip
+data/escherichia_coli_strain_*
+
+# Unused: the app maps the /data URL to data/, so www/data is never served
+www/data
+data/*_eggnog
+
+# Publication statistics: the app reads only the aggregated data/omm12_pubstats_*.tsv
+# (per-publication Dimensions/Scopus data is not redistributable)
+data/omm12_publications.tsv
+data/omm12_publications_info.tsv
+data/statistics_OMM12
+data/Dimensions-Publication-*.csv

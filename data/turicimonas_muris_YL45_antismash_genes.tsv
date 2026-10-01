@@ -1,0 +1,21 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065313.1	ECEGEIHF_00285	ECEGEIHF_00285_gene	hypothetical protein	316153	316447	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00286	pitA	L-methionine sulfoximine/L-methionine sulfone acetyltransferase	316489	317038	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00287	aroC	Chorismate synthase	317300	318371	+	other	
+region001	NZ_CP065313.1	ECEGEIHF_00288	ECEGEIHF_00288_gene	hypothetical protein	318425	318632	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00289	murJ	Lipid II flippase MurJ	318728	320279	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00290	rpsT	30S ribosomal protein S20	320775	321039	+	other	
+region001	NZ_CP065313.1	ECEGEIHF_00291	argD	Acetylornithine aminotransferase	321218	322397	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Aminotran_3; biosynthetic-additional (smcogs) SMCOG1013: aminotransferase class-III
+region001	NZ_CP065313.1	ECEGEIHF_00292	murB	UDP-N-acetylenolpyruvoylglucosamine reductase	322468	323494	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00293	dxs	1-deoxy-D-xylulose-5-phosphate synthase	323510	325376	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DXP_synthase_N; biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region001	NZ_CP065313.1	ECEGEIHF_00294	ispA	Farnesyl diphosphate synthase	325378	326287	-	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region001	NZ_CP065313.1	ECEGEIHF_00295	xseB	Exodeoxyribonuclease 7 small subunit	326305	326527	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00296	sseB	Putative thiosulfate sulfurtransferase SseB	326760	327627	+	other	
+region001	NZ_CP065313.1	ECEGEIHF_00297	zupT_1	Zinc transporter ZupT	327690	328452	-	other	
+region001	NZ_CP065313.1	ECEGEIHF_00298	wbiB	dTDP-L-rhamnose 4-epimerase	328531	329515	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) RmlD_sub_bind; biosynthetic-additional (rule-based-clusters) Polysacc_synt_2; biosynthetic-additional (smcogs) SMCOG1010: NAD-dependent epimerase/dehydratase
+region001	NZ_CP065313.1	ECEGEIHF_00299	nfsB	Oxygen-insensitive NAD(P)H nitroreductase	329637	330282	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF00881; biosynthetic-additional (smcogs) SMCOG1159: dihydropteridine reductase
+region001	NZ_CP065313.1	ECEGEIHF_00300	ttrS_2	Tetrathionate sensor histidine kinase TtrS	330438	332250	+	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region001	NZ_CP065313.1	ECEGEIHF_00301	todT_2	Response regulator protein TodT	332250	332661	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region001	NZ_CP065313.1	ECEGEIHF_00302	ifcA_5	Fumarate reductase flavoprotein subunit	332872	334303	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DAO
+region001	NZ_CP065313.1	ECEGEIHF_00303	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	334600	335308	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) NTP_transf_3
+region001	NZ_CP065313.1	ECEGEIHF_00304	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	335304	335790	+	other	

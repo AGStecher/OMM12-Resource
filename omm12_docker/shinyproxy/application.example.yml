@@ -1,0 +1,38 @@
+proxy:
+  port: 8080
+  landing-page: /app/omm12
+  authentication: none
+  admin-groups: admins
+  container-log-path: ./container-logs
+  container-backend: docker
+  port-range-start: 20000
+  port-range-max: 20049
+  container-wait-time: 90000  # app loads all 12 genomes at startup; 10s is too short
+  heartbeat-rate: 10000   # browser sends a heartbeat every 10s
+  heartbeat-timeout: 60000 # session freed if no heartbeat for 60s
+  hide-navbar: true
+  users:
+  # Template: copy this file to application.yml (same folder) and set a real
+  # admin password there. application.yml is git-ignored, so the password
+  # never ends up on GitHub. With authentication "none" this account only
+  # matters for ShinyProxy's own admin pages.
+  - name: admin
+    password: CHANGE_ME
+    groups: admins
+  docker:
+    internal-networking: true
+  specs:
+  - id: omm12
+    display-name: OMM12 Genomic Resource
+    description: Genomic and functional data browser for the OMM12 synthetic gut community
+    container-cmd: ["R", "-e", "shiny::runApp('/srv/shiny-server/', host = '0.0.0.0', port = 3838)"]
+    # Must match the fixed network name in docker-compose.yml
+    container-network: omm12_sp-net
+    container-image: omm12:latest
+
+logging:
+  file:
+    name: ./shinyproxy.log
+
+server:
+  useForwardHeaders: true

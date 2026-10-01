@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CGView.js Test</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cgview/dist/cgview.css">
+  <style>
+    #cgview_container {
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ddd;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h2>CGView.js Test</h2>
+  <div id="cgview_container"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/cgview/dist/cgview.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/cgparse/dist/cgparse.min.js"></script>
+
+  <script>
+    // Load your GenBank file as text (replace 'example.gbk' with your file path)
+    fetch('acutalibacter_muris_kb18_prokka.gbk')
+      .then(response => response.text())
+      .then(gbText => {
+        // Initialize CGView
+        var cgv = new CGView.Viewer('#cgview_container', { width: '100%', height: 600 });
+        var seqFile = new CGParse.SequenceFile(gbText);
+        var cgvJSON = seqFile.toCGViewJSON();
+        cgv.io.loadJSON(cgvJSON);
+
+        // Add optional customization here
+        cgv.draw();
+      })
+      .catch(err => {
+        console.error("Error loading GenBank file:", err);
+        document.getElementById('cgview_container').innerText = "Failed to load GenBank file.";
+      });
+  </script>
+</body>
+</html>

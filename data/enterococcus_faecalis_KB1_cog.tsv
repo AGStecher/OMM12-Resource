@@ -1,0 +1,2305 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+BELIKPJO_00001	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_00002	D	Cell cycle control, cell division, chromosome partitioning	ZapA	-
+BELIKPJO_00003	F	Nucleotide transport and metabolism	CvpA	-
+BELIKPJO_00004	J	Translation, ribosomal structure and biogenesis	RqcU	-
+BELIKPJO_00005	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_00006	L	Replication, recombination and repair	UvrC	-
+BELIKPJO_00008	R	General function prediction only	YhaQ	-
+BELIKPJO_00009	C	Energy production and conversion	NatB	-
+BELIKPJO_00010	K	Transcription	PurR	-
+BELIKPJO_00011	G	Carbohydrate transport and metabolism	CelF	-
+BELIKPJO_00013	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_00014	R	General function prediction only	YhiN	-
+BELIKPJO_00015	E	Amino acid transport and metabolism	GdhA	-
+BELIKPJO_00016	G	Carbohydrate transport and metabolism	Pgi	-
+BELIKPJO_00018	F	Nucleotide transport and metabolism	NrdI	-
+BELIKPJO_00020	C	Energy production and conversion	NtpI	-
+BELIKPJO_00021	C	Energy production and conversion	AtpE	-
+BELIKPJO_00022	C	Energy production and conversion	NtpE	-
+BELIKPJO_00023	C	Energy production and conversion	NtpC	-
+BELIKPJO_00024	C	Energy production and conversion	NtpF	-
+BELIKPJO_00025	C	Energy production and conversion	NtpA	-
+BELIKPJO_00026	C	Energy production and conversion	NtpB	-
+BELIKPJO_00027	C	Energy production and conversion	NtpD	-
+BELIKPJO_00029	K	Transcription	RpoE	-
+BELIKPJO_00031	V	Defense mechanisms	PenP	-
+BELIKPJO_00032	G	Carbohydrate transport and metabolism	FbpC	-
+BELIKPJO_00033	E	Amino acid transport and metabolism	LysA	-
+BELIKPJO_00034	T	Signal transduction mechanisms	FrsA	-
+BELIKPJO_00038	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+BELIKPJO_00039	M	Cell wall/membrane/envelope biogenesis	RspA	-
+BELIKPJO_00040	O	Posttranslational modification, protein turnover, chaperones	YebA	-
+BELIKPJO_00041	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_00042	K	Transcription	BglG	-
+BELIKPJO_00043	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00044	K	Transcription	BglG	-
+BELIKPJO_00045	G	Carbohydrate transport and metabolism	PtsN	-
+BELIKPJO_00046	G	Carbohydrate transport and metabolism	FrwB	-
+BELIKPJO_00047	G	Carbohydrate transport and metabolism	PtsN	-
+BELIKPJO_00048	G	Carbohydrate transport and metabolism	FrwC	-
+BELIKPJO_00049	G	Carbohydrate transport and metabolism	Rpe	-
+BELIKPJO_00051	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_00052	L	Replication, recombination and repair	DnaG	-
+BELIKPJO_00053	K	Transcription	RpoD	-
+BELIKPJO_00054	R	General function prediction only		-
+BELIKPJO_00055	R	General function prediction only	CvfB	-
+BELIKPJO_00056	P	Inorganic ion transport and metabolism	Fur	-
+BELIKPJO_00057	G	Carbohydrate transport and metabolism	GapA	-
+BELIKPJO_00058	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+BELIKPJO_00060	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_00061	K	Transcription	AcrR	-
+BELIKPJO_00062	S	Function unknown	YxeA	-
+BELIKPJO_00063	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+BELIKPJO_00064	M	Cell wall/membrane/envelope biogenesis	MupG	-
+BELIKPJO_00065	T	Signal transduction mechanisms	FrsA	-
+BELIKPJO_00066	L	Replication, recombination and repair	XerD	-
+BELIKPJO_00067	L	Replication, recombination and repair	ScpA	-
+BELIKPJO_00068	K	Transcription	ScpB	-
+BELIKPJO_00069	J	Translation, ribosomal structure and biogenesis	RsuA	-
+BELIKPJO_00070	H	Coenzyme transport and metabolism	FmnP	-
+BELIKPJO_00071	S	Function unknown	YvbJ	-
+BELIKPJO_00072	C	Energy production and conversion	Fer	-
+BELIKPJO_00073	S	Function unknown	YpbB	-
+BELIKPJO_00074	L	Replication, recombination and repair	RecQ	-
+BELIKPJO_00075	M	Cell wall/membrane/envelope biogenesis	LysM	-
+BELIKPJO_00076	F	Nucleotide transport and metabolism	Cmk	-
+BELIKPJO_00077	J	Translation, ribosomal structure and biogenesis	RpsA	-
+BELIKPJO_00078	J	Translation, ribosomal structure and biogenesis	Der	-
+BELIKPJO_00079	B	Chromatin structure and dynamics	HupA	-
+BELIKPJO_00081	M	Cell wall/membrane/envelope biogenesis	LapB	-
+BELIKPJO_00082	S	Function unknown	YpiB	-
+BELIKPJO_00083	S	Function unknown	YitT	-
+BELIKPJO_00084	V	Defense mechanisms	MazG	-
+BELIKPJO_00085	E	Amino acid transport and metabolism	DapB	-
+BELIKPJO_00086	J	Translation, ribosomal structure and biogenesis	PcnB	-
+BELIKPJO_00087	R	General function prediction only	FlK	-
+BELIKPJO_00089	E	Amino acid transport and metabolism	AroE	-
+BELIKPJO_00090	E	Amino acid transport and metabolism	AroGA	-
+BELIKPJO_00091	E	Amino acid transport and metabolism	AroB	-
+BELIKPJO_00092	E	Amino acid transport and metabolism	AroC	-
+BELIKPJO_00093	E	Amino acid transport and metabolism	TyrA	-
+BELIKPJO_00094	E	Amino acid transport and metabolism	AroA	-
+BELIKPJO_00095	E	Amino acid transport and metabolism	AroK	-
+BELIKPJO_00096	E	Amino acid transport and metabolism	PheA2	-
+BELIKPJO_00097	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+BELIKPJO_00098	I	Lipid transport and metabolism	DegV	-
+BELIKPJO_00099	M	Cell wall/membrane/envelope biogenesis	BamA	-
+BELIKPJO_00102	P	Inorganic ion transport and metabolism	NhaP	-
+BELIKPJO_00103	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_00104	F	Nucleotide transport and metabolism	ThyA	-
+BELIKPJO_00105	H	Coenzyme transport and metabolism	FolA	-
+BELIKPJO_00106	J	Translation, ribosomal structure and biogenesis	QueG	-
+BELIKPJO_00107	K	Transcription	LexA	-
+BELIKPJO_00108	S	Function unknown	YnzC	-
+BELIKPJO_00109	G	Carbohydrate transport and metabolism	TktA	-
+BELIKPJO_00110	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00111	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00112	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_00113	E	Amino acid transport and metabolism	CysK	-
+BELIKPJO_00114	P	Inorganic ion transport and metabolism	Fur	-
+BELIKPJO_00115	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_00116	F	Nucleotide transport and metabolism	YjhB	-
+BELIKPJO_00117	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_00118	K	Transcription	AraC	-
+BELIKPJO_00119	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00120	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00121	F	Nucleotide transport and metabolism	YjhB	-
+BELIKPJO_00123	P	Inorganic ion transport and metabolism	KatE	-
+BELIKPJO_00124	K	Transcription	GlpR	-
+BELIKPJO_00125	C	Energy production and conversion	Gph	-
+BELIKPJO_00126	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00127	L	Replication, recombination and repair	PhrB	-
+BELIKPJO_00128	K	Transcription	HipB	-
+BELIKPJO_00129	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00130	G	Carbohydrate transport and metabolism	AmyA	-
+BELIKPJO_00131	G	Carbohydrate transport and metabolism	SacC	-
+BELIKPJO_00132	K	Transcription	PurR	-
+BELIKPJO_00134	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_00135	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00136	I	Lipid transport and metabolism	Cls	-
+BELIKPJO_00137	S	Function unknown	YebE	-
+BELIKPJO_00139	C	Energy production and conversion	PPX1	-
+BELIKPJO_00140	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+BELIKPJO_00141	C	Energy production and conversion	PflD	-
+BELIKPJO_00142	L	Replication, recombination and repair	GyrA	-
+BELIKPJO_00143	L	Replication, recombination and repair	GyrB	-
+BELIKPJO_00144	R	General function prediction only	YccU	-
+BELIKPJO_00145	E	Amino acid transport and metabolism	EutQ	-
+BELIKPJO_00146	E	Amino acid transport and metabolism	EutH	-
+BELIKPJO_00147	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmL	-
+BELIKPJO_00149	Q	Secondary metabolites biosynthesis, transport and catabolism	PduL	-
+BELIKPJO_00150	E	Amino acid transport and metabolism	EutT	-
+BELIKPJO_00151	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmK	-
+BELIKPJO_00152	I	Lipid transport and metabolism	AdhE	-
+BELIKPJO_00153	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmK	-
+BELIKPJO_00154	E	Amino acid transport and metabolism	EutL	-
+BELIKPJO_00155	E	Amino acid transport and metabolism	EutC	-
+BELIKPJO_00156	E	Amino acid transport and metabolism	EutB	-
+BELIKPJO_00157	E	Amino acid transport and metabolism	EutA	-
+BELIKPJO_00158	T	Signal transduction mechanisms		-
+BELIKPJO_00159	T	Signal transduction mechanisms	AmiR	-
+BELIKPJO_00160	E	Amino acid transport and metabolism	EutS	-
+BELIKPJO_00161	C	Energy production and conversion	EutG	-
+BELIKPJO_00162	H	Coenzyme transport and metabolism	PduO	-
+BELIKPJO_00163	E	Amino acid transport and metabolism	EutP	-
+BELIKPJO_00164	P	Inorganic ion transport and metabolism	FepC	-
+BELIKPJO_00165	P	Inorganic ion transport and metabolism	FepD	-
+BELIKPJO_00166	P	Inorganic ion transport and metabolism	FepB	-
+BELIKPJO_00167	I	Lipid transport and metabolism	PlsY	-
+BELIKPJO_00168	G	Carbohydrate transport and metabolism	GalM	-
+BELIKPJO_00169	K	Transcription	CodY	-
+BELIKPJO_00170	O	Posttranslational modification, protein turnover, chaperones	HslU	-
+BELIKPJO_00171	O	Posttranslational modification, protein turnover, chaperones	HslV	-
+BELIKPJO_00172	L	Replication, recombination and repair	XerD	-
+BELIKPJO_00173	J	Translation, ribosomal structure and biogenesis	TrmFO	-
+BELIKPJO_00174	L	Replication, recombination and repair	TopA	-
+BELIKPJO_00175	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+BELIKPJO_00176	L	Replication, recombination and repair	Smf	-
+BELIKPJO_00177	L	Replication, recombination and repair	RnhB	-
+BELIKPJO_00178	J	Translation, ribosomal structure and biogenesis	RbgA	-
+BELIKPJO_00179	H	Coenzyme transport and metabolism	PanE	-
+BELIKPJO_00180	K	Transcription	LysR	-
+BELIKPJO_00181	T	Signal transduction mechanisms	PfoR	-
+BELIKPJO_00182	C	Energy production and conversion	AceF	-
+BELIKPJO_00183	C	Energy production and conversion	AcoB	-
+BELIKPJO_00184	C	Energy production and conversion	AcoA	-
+BELIKPJO_00185	C	Energy production and conversion	Lpd	-
+BELIKPJO_00186	C	Energy production and conversion	Buk	-
+BELIKPJO_00187	C	Energy production and conversion	Pta	-
+BELIKPJO_00188	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+BELIKPJO_00191	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_00192	K	Transcription	MarR	-
+BELIKPJO_00193	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+BELIKPJO_00194	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+BELIKPJO_00195	R	General function prediction only	YpfH	-
+BELIKPJO_00196	C	Energy production and conversion	Qor	-
+BELIKPJO_00197	M	Cell wall/membrane/envelope biogenesis	LolC	-
+BELIKPJO_00198	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_00200	J	Translation, ribosomal structure and biogenesis	RbbA	-
+BELIKPJO_00201	K	Transcription	YhcF	-
+BELIKPJO_00203	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+BELIKPJO_00204	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+BELIKPJO_00205	S	Function unknown	YozE	-
+BELIKPJO_00206	O	Posttranslational modification, protein turnover, chaperones	MsrA	-
+BELIKPJO_00207	S	Function unknown	YpmS	-
+BELIKPJO_00208	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+BELIKPJO_00209	I	Lipid transport and metabolism	DegV	-
+BELIKPJO_00210	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+BELIKPJO_00212	F	Nucleotide transport and metabolism	Apt	-
+BELIKPJO_00213	L	Replication, recombination and repair	RecJ	-
+BELIKPJO_00214	S	Function unknown	YrvD	-
+BELIKPJO_00215	R	General function prediction only	YqjQ	-
+BELIKPJO_00216	J	Translation, ribosomal structure and biogenesis	ElaC	-
+BELIKPJO_00217	S	Function unknown		-
+BELIKPJO_00218	R	General function prediction only	YlqC	-
+BELIKPJO_00219	J	Translation, ribosomal structure and biogenesis	RpsP	-
+BELIKPJO_00220	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_00221	C	Energy production and conversion	SsuE	-
+BELIKPJO_00222	K	Transcription	SoxR	-
+BELIKPJO_00223	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+BELIKPJO_00224	K	Transcription	YlxM	-
+BELIKPJO_00225	F	Nucleotide transport and metabolism	YbbK	-
+BELIKPJO_00226	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_00227	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_00228	P	Inorganic ion transport and metabolism	PstS	-
+BELIKPJO_00229	E	Amino acid transport and metabolism	AspB	-
+BELIKPJO_00230	G	Carbohydrate transport and metabolism	MngB	-
+BELIKPJO_00231	G	Carbohydrate transport and metabolism	GH125	-
+BELIKPJO_00232	K	Transcription	PurR	-
+BELIKPJO_00233	K	Transcription	LysR	-
+BELIKPJO_00234	P	Inorganic ion transport and metabolism	Cah	-
+BELIKPJO_00235	F	Nucleotide transport and metabolism	PyrE	-
+BELIKPJO_00236	F	Nucleotide transport and metabolism	PyrF	-
+BELIKPJO_00237	F	Nucleotide transport and metabolism	PyrD	-
+BELIKPJO_00238	H	Coenzyme transport and metabolism	Mcr1	-
+BELIKPJO_00239	E	Amino acid transport and metabolism	CarB	-
+BELIKPJO_00240	E	Amino acid transport and metabolism	CarA	-
+BELIKPJO_00241	F	Nucleotide transport and metabolism	AllB	-
+BELIKPJO_00242	F	Nucleotide transport and metabolism	PyrB	-
+BELIKPJO_00243	F	Nucleotide transport and metabolism	UraA	-
+BELIKPJO_00244	F	Nucleotide transport and metabolism	PyrR	-
+BELIKPJO_00245	J	Translation, ribosomal structure and biogenesis	RluA	-
+BELIKPJO_00246	M	Cell wall/membrane/envelope biogenesis	LspA	-
+BELIKPJO_00247	K	Transcription		-
+BELIKPJO_00248	F	Nucleotide transport and metabolism	MIS1	-
+BELIKPJO_00249	K	Transcription	CspC	-
+BELIKPJO_00251	L	Replication, recombination and repair	RnhA	-
+BELIKPJO_00252	J	Translation, ribosomal structure and biogenesis	EbsC	-
+BELIKPJO_00253	E	Amino acid transport and metabolism	AroD	-
+BELIKPJO_00254	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00255	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00256	S	Function unknown	YneF	-
+BELIKPJO_00257	L	Replication, recombination and repair	Nfo	-
+BELIKPJO_00258	O	Posttranslational modification, protein turnover, chaperones	Fra	-
+BELIKPJO_00259	S	Function unknown	YdeI	-
+BELIKPJO_00261	J	Translation, ribosomal structure and biogenesis	TyrS	-
+BELIKPJO_00262	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+BELIKPJO_00264	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+BELIKPJO_00265	C	Energy production and conversion	NatA	-
+BELIKPJO_00267	K	Transcription	PurR	-
+BELIKPJO_00268	E	Amino acid transport and metabolism	PepP	-
+BELIKPJO_00269	R	General function prediction only	GvpP	-
+BELIKPJO_00270	S	Function unknown		-
+BELIKPJO_00271	M	Cell wall/membrane/envelope biogenesis	GalU	-
+BELIKPJO_00272	C	Energy production and conversion	GpsA	-
+BELIKPJO_00273	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+BELIKPJO_00274	T	Signal transduction mechanisms	HprK	-
+BELIKPJO_00275	L	Replication, recombination and repair	UvrC	-
+BELIKPJO_00276	S	Function unknown	YvlD	-
+BELIKPJO_00277	K	Transcription	PspC	-
+BELIKPJO_00278	S	Function unknown	YvlB	-
+BELIKPJO_00279	P	Inorganic ion transport and metabolism	PhoU	-
+BELIKPJO_00280	P	Inorganic ion transport and metabolism	PstB	-
+BELIKPJO_00281	P	Inorganic ion transport and metabolism	PstB	-
+BELIKPJO_00282	P	Inorganic ion transport and metabolism	PstA	-
+BELIKPJO_00283	P	Inorganic ion transport and metabolism	PstC	-
+BELIKPJO_00284	P	Inorganic ion transport and metabolism	PstS	-
+BELIKPJO_00285	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+BELIKPJO_00286	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+BELIKPJO_00287	J	Translation, ribosomal structure and biogenesis	PrfA	-
+BELIKPJO_00288	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+BELIKPJO_00289	J	Translation, ribosomal structure and biogenesis	RaiA	-
+BELIKPJO_00290	R	General function prediction only	ComFC	-
+BELIKPJO_00291	L	Replication, recombination and repair	ComFA	-
+BELIKPJO_00292	R	General function prediction only		-
+BELIKPJO_00293	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_00295	R	General function prediction only	YIH1	-
+BELIKPJO_00297	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_00298	F	Nucleotide transport and metabolism	QueT	-
+BELIKPJO_00299	I	Lipid transport and metabolism	Tim44	-
+BELIKPJO_00300	V	Defense mechanisms	SdpI	-
+BELIKPJO_00301	F	Nucleotide transport and metabolism	PurD	-
+BELIKPJO_00302	F	Nucleotide transport and metabolism	PurH	-
+BELIKPJO_00303	F	Nucleotide transport and metabolism	PurN	-
+BELIKPJO_00304	F	Nucleotide transport and metabolism	PurM	-
+BELIKPJO_00305	F	Nucleotide transport and metabolism	PurF	-
+BELIKPJO_00306	F	Nucleotide transport and metabolism	PurL1	-
+BELIKPJO_00307	F	Nucleotide transport and metabolism	PurL2	-
+BELIKPJO_00308	F	Nucleotide transport and metabolism	PurS	-
+BELIKPJO_00309	F	Nucleotide transport and metabolism	PurC	-
+BELIKPJO_00310	F	Nucleotide transport and metabolism	PurK	-
+BELIKPJO_00311	F	Nucleotide transport and metabolism	PurE	-
+BELIKPJO_00312	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+BELIKPJO_00313	F	Nucleotide transport and metabolism	NnrD	-
+BELIKPJO_00314	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_00315	S	Function unknown		-
+BELIKPJO_00316	E	Amino acid transport and metabolism	IlvE	-
+BELIKPJO_00317	K	Transcription	YdaT	-
+BELIKPJO_00321	R	General function prediction only	PerM	-
+BELIKPJO_00323	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_00324	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_00325	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_00326	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_00327	G	Carbohydrate transport and metabolism	GanA	-
+BELIKPJO_00328	G	Carbohydrate transport and metabolism	FruK	-
+BELIKPJO_00329	G	Carbohydrate transport and metabolism	LacD	-
+BELIKPJO_00330	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+BELIKPJO_00331	K	Transcription	MngR	-
+BELIKPJO_00332	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+BELIKPJO_00333	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+BELIKPJO_00334	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+BELIKPJO_00335	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00336	K	Transcription	LysR	-
+BELIKPJO_00337	H	Coenzyme transport and metabolism	PhnP	-
+BELIKPJO_00338	O	Posttranslational modification, protein turnover, chaperones	eMpr	-
+BELIKPJO_00339	O	Posttranslational modification, protein turnover, chaperones	LasB	-
+BELIKPJO_00340	T	Signal transduction mechanisms	CitA	-
+BELIKPJO_00341	K	Transcription	AgrB	-
+BELIKPJO_00342	K	Transcription	LytT	-
+BELIKPJO_00343	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_00344	L	Replication, recombination and repair	YhaN	-
+BELIKPJO_00345	K	Transcription	GlpR	-
+BELIKPJO_00347	T	Signal transduction mechanisms	YqeK	-
+BELIKPJO_00348	G	Carbohydrate transport and metabolism	PgaB	-
+BELIKPJO_00349	J	Translation, ribosomal structure and biogenesis	RplS	-
+BELIKPJO_00350	J	Translation, ribosomal structure and biogenesis	TrmD	-
+BELIKPJO_00351	J	Translation, ribosomal structure and biogenesis	RimM	-
+BELIKPJO_00352	P	Inorganic ion transport and metabolism	MntH	-
+BELIKPJO_00353	C	Energy production and conversion	PhnB	-
+BELIKPJO_00354	S	Function unknown	TVP38	-
+BELIKPJO_00355	I	Lipid transport and metabolism	UgpQ1	-
+BELIKPJO_00356	P	Inorganic ion transport and metabolism	YbhL	-
+BELIKPJO_00357	I	Lipid transport and metabolism	MaoC	-
+BELIKPJO_00358	M	Cell wall/membrane/envelope biogenesis	MurC	-
+BELIKPJO_00360	R	General function prediction only	YgaE	-
+BELIKPJO_00361	R	General function prediction only	YgaE	-
+BELIKPJO_00362	G	Carbohydrate transport and metabolism	NagC	-
+BELIKPJO_00363	M	Cell wall/membrane/envelope biogenesis	YidD	-
+BELIKPJO_00365	D	Cell cycle control, cell division, chromosome partitioning	EngB	-
+BELIKPJO_00366	O	Posttranslational modification, protein turnover, chaperones	ClpX	-
+BELIKPJO_00367	G	Carbohydrate transport and metabolism	Pgl	-
+BELIKPJO_00368	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_00369	C	Energy production and conversion	DcuC	-
+BELIKPJO_00370	F	Nucleotide transport and metabolism	URH1	-
+BELIKPJO_00371	G	Carbohydrate transport and metabolism	RbsK	-
+BELIKPJO_00372	K	Transcription	BglG	-
+BELIKPJO_00374	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00377	Q	Secondary metabolites biosynthesis, transport and catabolism	XpaC	-
+BELIKPJO_00378	G	Carbohydrate transport and metabolism	GlpF	-
+BELIKPJO_00379	C	Energy production and conversion	GlpA	-
+BELIKPJO_00380	C	Energy production and conversion	GlpK	-
+BELIKPJO_00381	K	Transcription	BglG	-
+BELIKPJO_00382	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_00386	J	Translation, ribosomal structure and biogenesis	RimL	-
+BELIKPJO_00387	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_00388	R	General function prediction only	YczE	-
+BELIKPJO_00389	T	Signal transduction mechanisms	Crp	-
+BELIKPJO_00391	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00392	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+BELIKPJO_00394	O	Posttranslational modification, protein turnover, chaperones	Fra	-
+BELIKPJO_00395	S	Function unknown		-
+BELIKPJO_00396	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+BELIKPJO_00397	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+BELIKPJO_00398	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_00399	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_00400	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_00401	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_00402	K	Transcription	PspF	-
+BELIKPJO_00403	F	Nucleotide transport and metabolism	Dgt	-
+BELIKPJO_00405	G	Carbohydrate transport and metabolism	Eno	-
+BELIKPJO_00406	G	Carbohydrate transport and metabolism	TpiA	-
+BELIKPJO_00407	G	Carbohydrate transport and metabolism	Pgk	-
+BELIKPJO_00408	G	Carbohydrate transport and metabolism	GapA	-
+BELIKPJO_00409	K	Transcription	DeoR	-
+BELIKPJO_00410	S	Function unknown	YitT	-
+BELIKPJO_00411	J	Translation, ribosomal structure and biogenesis	YwlG	-
+BELIKPJO_00412	H	Coenzyme transport and metabolism	ECF-S	-
+BELIKPJO_00413	H	Coenzyme transport and metabolism	ThiD	-
+BELIKPJO_00414	J	Translation, ribosomal structure and biogenesis	AspS	-
+BELIKPJO_00415	J	Translation, ribosomal structure and biogenesis	HisS	-
+BELIKPJO_00416	J	Translation, ribosomal structure and biogenesis	Dtd	-
+BELIKPJO_00417	T	Signal transduction mechanisms	SpoT	-
+BELIKPJO_00418	J	Translation, ribosomal structure and biogenesis	RsmE	-
+BELIKPJO_00419	J	Translation, ribosomal structure and biogenesis	PrmA	-
+BELIKPJO_00421	L	Replication, recombination and repair	Mpg	-
+BELIKPJO_00422	L	Replication, recombination and repair	RarA	-
+BELIKPJO_00424	T	Signal transduction mechanisms	UspA	-
+BELIKPJO_00425	C	Energy production and conversion	AckA	-
+BELIKPJO_00426	L	Replication, recombination and repair	YtxK	-
+BELIKPJO_00428	X	Mobilome: prophages, transposons	ComGF	-
+BELIKPJO_00429	X	Mobilome: prophages, transposons	ComGF	-
+BELIKPJO_00430	N	Cell motility	FimT	-
+BELIKPJO_00431	X	Mobilome: prophages, transposons	ComGC	-
+BELIKPJO_00432	N	Cell motility	GspF/PilC	-
+BELIKPJO_00433	N	Cell motility	GspE/PilB	-
+BELIKPJO_00434	E	Amino acid transport and metabolism	PotE	-
+BELIKPJO_00435	J	Translation, ribosomal structure and biogenesis	RlmN	-
+BELIKPJO_00436	M	Cell wall/membrane/envelope biogenesis	LolC	-
+BELIKPJO_00437	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_00438	K	Transcription	MngR	-
+BELIKPJO_00439	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+BELIKPJO_00440	C	Energy production and conversion	Ndh	-
+BELIKPJO_00441	H	Coenzyme transport and metabolism	MenA	-
+BELIKPJO_00442	H	Coenzyme transport and metabolism	IspA	-
+BELIKPJO_00443	C	Energy production and conversion	CydC	-
+BELIKPJO_00444	C	Energy production and conversion	CydD	-
+BELIKPJO_00445	C	Energy production and conversion	AppB	-
+BELIKPJO_00446	C	Energy production and conversion	AppC	-
+BELIKPJO_00447	K	Transcription	YdeE	-
+BELIKPJO_00448	L	Replication, recombination and repair	TopA	-
+BELIKPJO_00449	S	Function unknown		-
+BELIKPJO_00450	K	Transcription	AcrR	-
+BELIKPJO_00451	R	General function prediction only	YbhB	-
+BELIKPJO_00452	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00453	J	Translation, ribosomal structure and biogenesis	MnmA	-
+BELIKPJO_00455	E	Amino acid transport and metabolism	NifS	-
+BELIKPJO_00456	E	Amino acid transport and metabolism	PrsA	-
+BELIKPJO_00457	P	Inorganic ion transport and metabolism	ZnuC	-
+BELIKPJO_00458	P	Inorganic ion transport and metabolism	ZnuB	-
+BELIKPJO_00459	P	Inorganic ion transport and metabolism	ZnuA	-
+BELIKPJO_00460	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_00461	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_00462	R	General function prediction only	AbgB	-
+BELIKPJO_00463	P	Inorganic ion transport and metabolism	NlpA	-
+BELIKPJO_00464	E	Amino acid transport and metabolism	MetP	-
+BELIKPJO_00465	E	Amino acid transport and metabolism	AbcC	-
+BELIKPJO_00471	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+BELIKPJO_00472	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+BELIKPJO_00473	H	Coenzyme transport and metabolism	EcfT	-
+BELIKPJO_00474	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+BELIKPJO_00475	H	Coenzyme transport and metabolism	ECF-S	-
+BELIKPJO_00476	G	Carbohydrate transport and metabolism	ManB	-
+BELIKPJO_00477	T	Signal transduction mechanisms	YbbR	-
+BELIKPJO_00478	T	Signal transduction mechanisms	CdaA	-
+BELIKPJO_00479	C	Energy production and conversion	PorA	-
+BELIKPJO_00481	E	Amino acid transport and metabolism	GlnA	-
+BELIKPJO_00482	K	Transcription	SoxR	-
+BELIKPJO_00483	J	Translation, ribosomal structure and biogenesis	HflX	-
+BELIKPJO_00484	J	Translation, ribosomal structure and biogenesis	MiaA	-
+BELIKPJO_00485	I	Lipid transport and metabolism	UgpQ	-
+BELIKPJO_00486	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00487	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+BELIKPJO_00488	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+BELIKPJO_00489	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00490	I	Lipid transport and metabolism	LicD	-
+BELIKPJO_00491	M	Cell wall/membrane/envelope biogenesis	RfaL	-
+BELIKPJO_00492	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00493	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+BELIKPJO_00494	I	Lipid transport and metabolism	IspD	-
+BELIKPJO_00495	M	Cell wall/membrane/envelope biogenesis	Acm	-
+BELIKPJO_00496	I	Lipid transport and metabolism	LicD	-
+BELIKPJO_00497	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00498	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+BELIKPJO_00499	M	Cell wall/membrane/envelope biogenesis	RfaL	-
+BELIKPJO_00500	S	Function unknown	YfhO	-
+BELIKPJO_00501	G	Carbohydrate transport and metabolism	WcaE	-
+BELIKPJO_00502	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00503	G	Carbohydrate transport and metabolism	TagH	-
+BELIKPJO_00504	G	Carbohydrate transport and metabolism	TagG	-
+BELIKPJO_00506	S	Function unknown		-
+BELIKPJO_00507	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00508	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+BELIKPJO_00509	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+BELIKPJO_00510	M	Cell wall/membrane/envelope biogenesis	RfbC	-
+BELIKPJO_00511	M	Cell wall/membrane/envelope biogenesis	RmlA1	-
+BELIKPJO_00512	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00513	G	Carbohydrate transport and metabolism	WcaE	-
+BELIKPJO_00514	G	Carbohydrate transport and metabolism	WcaE	-
+BELIKPJO_00515	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+BELIKPJO_00516	S	Function unknown	BrkB	-
+BELIKPJO_00517	J	Translation, ribosomal structure and biogenesis	Map	-
+BELIKPJO_00518	C	Energy production and conversion	FldA	-
+BELIKPJO_00519	T	Signal transduction mechanisms	TspO	-
+BELIKPJO_00520	K	Transcription	AcrR	-
+BELIKPJO_00521	E	Amino acid transport and metabolism	AmpS	-
+BELIKPJO_00523	J	Translation, ribosomal structure and biogenesis	TadA	-
+BELIKPJO_00524	K	Transcription	CdaR	-
+BELIKPJO_00525	R	General function prediction only	YHI9	-
+BELIKPJO_00527	O	Posttranslational modification, protein turnover, chaperones	YugP	-
+BELIKPJO_00528	S	Function unknown	YxeA	-
+BELIKPJO_00530	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00531	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+BELIKPJO_00532	I	Lipid transport and metabolism	YndB	-
+BELIKPJO_00533	R	General function prediction only	AaeB	-
+BELIKPJO_00534	G	Carbohydrate transport and metabolism	GH92	-
+BELIKPJO_00535	T	Signal transduction mechanisms	YesN	-
+BELIKPJO_00536	T	Signal transduction mechanisms	YesM	-
+BELIKPJO_00537	S	Function unknown	YesL	-
+BELIKPJO_00538	G	Carbohydrate transport and metabolism	UgpB	-
+BELIKPJO_00539	G	Carbohydrate transport and metabolism	UgpE	-
+BELIKPJO_00540	G	Carbohydrate transport and metabolism	LplB	-
+BELIKPJO_00541	S	Function unknown		-
+BELIKPJO_00543	K	Transcription	SoxR	-
+BELIKPJO_00544	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00545	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00546	J	Translation, ribosomal structure and biogenesis	TrpS	-
+BELIKPJO_00547	P	Inorganic ion transport and metabolism	NosD	-
+BELIKPJO_00549	S	Function unknown	YesL	-
+BELIKPJO_00550	G	Carbohydrate transport and metabolism	UgpE	-
+BELIKPJO_00551	G	Carbohydrate transport and metabolism	UgpA	-
+BELIKPJO_00552	G	Carbohydrate transport and metabolism	UgpB	-
+BELIKPJO_00553	R	General function prediction only	YyaL	-
+BELIKPJO_00554	S	Function unknown		-
+BELIKPJO_00555	M	Cell wall/membrane/envelope biogenesis	BamD	-
+BELIKPJO_00556	K	Transcription	PurR	-
+BELIKPJO_00558	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_00559	R	General function prediction only	YidK	-
+BELIKPJO_00560	G	Carbohydrate transport and metabolism	YcjR	-
+BELIKPJO_00561	R	General function prediction only	MviM	-
+BELIKPJO_00562	R	General function prediction only	MviM	-
+BELIKPJO_00563	I	Lipid transport and metabolism	AdhE	-
+BELIKPJO_00564	G	Carbohydrate transport and metabolism	IolB	-
+BELIKPJO_00565	G	Carbohydrate transport and metabolism	IolD	-
+BELIKPJO_00566	G	Carbohydrate transport and metabolism	RbsK	-
+BELIKPJO_00567	G	Carbohydrate transport and metabolism	RbsB	-
+BELIKPJO_00568	J	Translation, ribosomal structure and biogenesis	LepA	-
+BELIKPJO_00569	R	General function prediction only	Eis	-
+BELIKPJO_00570	F	Nucleotide transport and metabolism	RCL	-
+BELIKPJO_00571	I	Lipid transport and metabolism	MenE	-
+BELIKPJO_00572	V	Defense mechanisms	YadH	-
+BELIKPJO_00573	J	Translation, ribosomal structure and biogenesis	RbbA	-
+BELIKPJO_00574	H	Coenzyme transport and metabolism	PaaK	-
+BELIKPJO_00575	H	Coenzyme transport and metabolism	PaaK	-
+BELIKPJO_00576	G	Carbohydrate transport and metabolism	GntT	-
+BELIKPJO_00577	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+BELIKPJO_00578	S	Function unknown	DoxX	-
+BELIKPJO_00579	F	Nucleotide transport and metabolism	PurB	-
+BELIKPJO_00580	F	Nucleotide transport and metabolism	PurK	-
+BELIKPJO_00581	F	Nucleotide transport and metabolism	UraA	-
+BELIKPJO_00582	F	Nucleotide transport and metabolism	Apt	-
+BELIKPJO_00584	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_00587	R	General function prediction only	MviM	-
+BELIKPJO_00588	J	Translation, ribosomal structure and biogenesis	AsnS	-
+BELIKPJO_00589	E	Amino acid transport and metabolism	AspB	-
+BELIKPJO_00590	S	Function unknown	YpmB	-
+BELIKPJO_00591	L	Replication, recombination and repair	DinG	-
+BELIKPJO_00593	E	Amino acid transport and metabolism	PotE	-
+BELIKPJO_00594	L	Replication, recombination and repair	PolC	-
+BELIKPJO_00595	J	Translation, ribosomal structure and biogenesis	ProS	-
+BELIKPJO_00596	O	Posttranslational modification, protein turnover, chaperones	RseP	-
+BELIKPJO_00597	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_00598	R	General function prediction only	YczE	-
+BELIKPJO_00599	L	Replication, recombination and repair	MutL	-
+BELIKPJO_00600	H	Coenzyme transport and metabolism	UbiG	-
+BELIKPJO_00601	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+BELIKPJO_00602	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+BELIKPJO_00603	E	Amino acid transport and metabolism	CsdA	-
+BELIKPJO_00604	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+BELIKPJO_00605	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+BELIKPJO_00606	J	Translation, ribosomal structure and biogenesis	Frr	-
+BELIKPJO_00607	F	Nucleotide transport and metabolism	PyrH	-
+BELIKPJO_00608	J	Translation, ribosomal structure and biogenesis	Tsf	-
+BELIKPJO_00609	J	Translation, ribosomal structure and biogenesis	RpsB	-
+BELIKPJO_00610	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_00611	J	Translation, ribosomal structure and biogenesis	SpoU	-
+BELIKPJO_00612	C	Energy production and conversion	AcyP	-
+BELIKPJO_00613	M	Cell wall/membrane/envelope biogenesis	YidC	-
+BELIKPJO_00615	J	Translation, ribosomal structure and biogenesis	GlyS	-
+BELIKPJO_00616	J	Translation, ribosomal structure and biogenesis	GlyQ	-
+BELIKPJO_00617	L	Replication, recombination and repair	RecO	-
+BELIKPJO_00618	J	Translation, ribosomal structure and biogenesis	Era	-
+BELIKPJO_00619	I	Lipid transport and metabolism	DgkA	-
+BELIKPJO_00620	J	Translation, ribosomal structure and biogenesis	YbeY	-
+BELIKPJO_00621	T	Signal transduction mechanisms	PgpH	-
+BELIKPJO_00622	T	Signal transduction mechanisms	PhoH	-
+BELIKPJO_00623	R	General function prediction only	YqeY	-
+BELIKPJO_00624	J	Translation, ribosomal structure and biogenesis	RpsU	-
+BELIKPJO_00625	P	Inorganic ion transport and metabolism	Fur	-
+BELIKPJO_00626	T	Signal transduction mechanisms	PpsR	-
+BELIKPJO_00627	E	Amino acid transport and metabolism	ThrB	-
+BELIKPJO_00628	E	Amino acid transport and metabolism	ThrC	-
+BELIKPJO_00629	E	Amino acid transport and metabolism	ThrA	-
+BELIKPJO_00630	K	Transcription	ArsR	-
+BELIKPJO_00631	E	Amino acid transport and metabolism	ProC	-
+BELIKPJO_00632	G	Carbohydrate transport and metabolism	ManB	-
+BELIKPJO_00633	K	Transcription	ARO8	-
+BELIKPJO_00635	K	Transcription	PadR	-
+BELIKPJO_00636	F	Nucleotide transport and metabolism	GuaB	-
+BELIKPJO_00637	F	Nucleotide transport and metabolism	UraA	-
+BELIKPJO_00638	F	Nucleotide transport and metabolism	SsnA	-
+BELIKPJO_00639	R	General function prediction only	GloB	-
+BELIKPJO_00640	G	Carbohydrate transport and metabolism	PhoE	-
+BELIKPJO_00641	K	Transcription	RpiR	-
+BELIKPJO_00642	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00643	M	Cell wall/membrane/envelope biogenesis	MurQ	-
+BELIKPJO_00644	M	Cell wall/membrane/envelope biogenesis	MupG	-
+BELIKPJO_00645	G	Carbohydrate transport and metabolism	NagE	-
+BELIKPJO_00646	I	Lipid transport and metabolism	UppP	-
+BELIKPJO_00647	G	Carbohydrate transport and metabolism	ChbG	-
+BELIKPJO_00648	P	Inorganic ion transport and metabolism	YkaA	-
+BELIKPJO_00649	P	Inorganic ion transport and metabolism	PitA	-
+BELIKPJO_00650	J	Translation, ribosomal structure and biogenesis	RpsT	-
+BELIKPJO_00651	I	Lipid transport and metabolism	YciA	-
+BELIKPJO_00652	H	Coenzyme transport and metabolism	PanE	-
+BELIKPJO_00653	L	Replication, recombination and repair	HolA	-
+BELIKPJO_00654	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+BELIKPJO_00655	F	Nucleotide transport and metabolism	ComEB	-
+BELIKPJO_00656	L	Replication, recombination and repair	ComEA	-
+BELIKPJO_00657	T	Signal transduction mechanisms	SdrC	-
+BELIKPJO_00658	H	Coenzyme transport and metabolism	CoaD	-
+BELIKPJO_00659	J	Translation, ribosomal structure and biogenesis	RsmD	-
+BELIKPJO_00660	S	Function unknown	YlbG	-
+BELIKPJO_00661	T	Signal transduction mechanisms	YlbF	-
+BELIKPJO_00663	C	Energy production and conversion	PycA	-
+BELIKPJO_00664	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+BELIKPJO_00665	K	Transcription	YlaN	-
+BELIKPJO_00666	L	Replication, recombination and repair	RecQ	-
+BELIKPJO_00667	T	Signal transduction mechanisms	TypA	-
+BELIKPJO_00668	G	Carbohydrate transport and metabolism	SuhB	-
+BELIKPJO_00669	S	Function unknown	YktA	-
+BELIKPJO_00670	P	Inorganic ion transport and metabolism	ClcA	-
+BELIKPJO_00671	N	Cell motility	BcsA	-
+BELIKPJO_00673	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_00675	K	Transcription	HipB	-
+BELIKPJO_00676	J	Translation, ribosomal structure and biogenesis	RnaY	-
+BELIKPJO_00677	J	Translation, ribosomal structure and biogenesis	ArgS	-
+BELIKPJO_00678	J	Translation, ribosomal structure and biogenesis	TsaD	-
+BELIKPJO_00679	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_00680	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_00681	J	Translation, ribosomal structure and biogenesis	TsaB	-
+BELIKPJO_00682	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+BELIKPJO_00683	O	Posttranslational modification, protein turnover, chaperones	YdjI	-
+BELIKPJO_00684	K	Transcription	RPC10	-
+BELIKPJO_00685	S	Function unknown	YgcG	-
+BELIKPJO_00687	C	Energy production and conversion	Gph	-
+BELIKPJO_00689	J	Translation, ribosomal structure and biogenesis	Dph6	-
+BELIKPJO_00690	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_00693	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+BELIKPJO_00694	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_00695	X	Mobilome: prophages, transposons		-
+BELIKPJO_00697	L	Replication, recombination and repair	DinP	-
+BELIKPJO_00702	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_00709	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_00716	J	Translation, ribosomal structure and biogenesis	RqcH	-
+BELIKPJO_00721	L	Replication, recombination and repair	YncB	-
+BELIKPJO_00722	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_00724	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+BELIKPJO_00725	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_00730	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_00739	X	Mobilome: prophages, transposons		-
+BELIKPJO_00742	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_00744	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+BELIKPJO_00746	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_00747	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+BELIKPJO_00748	E	Amino acid transport and metabolism	AroB	-
+BELIKPJO_00749	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_00750	H	Coenzyme transport and metabolism	BioA	-
+BELIKPJO_00751	E	Amino acid transport and metabolism	AroGA	-
+BELIKPJO_00757	L	Replication, recombination and repair	DinP	-
+BELIKPJO_00758	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_00759	G	Carbohydrate transport and metabolism	LacZ	-
+BELIKPJO_00760	R	General function prediction only	YeaQ	-
+BELIKPJO_00761	J	Translation, ribosomal structure and biogenesis	TrmA	-
+BELIKPJO_00762	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+BELIKPJO_00763	L	Replication, recombination and repair	MutY	-
+BELIKPJO_00764	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+BELIKPJO_00766	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_00767	H	Coenzyme transport and metabolism	NadQ	-
+BELIKPJO_00768	V	Defense mechanisms	YaaN	-
+BELIKPJO_00769	Q	Secondary metabolites biosynthesis, transport and catabolism	XpaC	-
+BELIKPJO_00770	V	Defense mechanisms	MutT	-
+BELIKPJO_00772	F	Nucleotide transport and metabolism	MtnN	-
+BELIKPJO_00773	L	Replication, recombination and repair	YhbQ	-
+BELIKPJO_00774	J	Translation, ribosomal structure and biogenesis	TrmN6	-
+BELIKPJO_00775	I	Lipid transport and metabolism	PlsC	-
+BELIKPJO_00776	L	Replication, recombination and repair	SbcD	-
+BELIKPJO_00777	L	Replication, recombination and repair	SbcC	-
+BELIKPJO_00778	K	Transcription	HepA	-
+BELIKPJO_00780	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00782	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+BELIKPJO_00787	H	Coenzyme transport and metabolism	YigB	-
+BELIKPJO_00788	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00789	J	Translation, ribosomal structure and biogenesis	TrpS	-
+BELIKPJO_00790	P	Inorganic ion transport and metabolism	ArsC	-
+BELIKPJO_00791	K	Transcription	MecA	-
+BELIKPJO_00792	R	General function prediction only	CoiA	-
+BELIKPJO_00793	E	Amino acid transport and metabolism	PepF	-
+BELIKPJO_00794	O	Posttranslational modification, protein turnover, chaperones	FrnE	-
+BELIKPJO_00795	R	General function prediction only	YjbK	-
+BELIKPJO_00796	F	Nucleotide transport and metabolism	YjbM	-
+BELIKPJO_00797	H	Coenzyme transport and metabolism	NadK	-
+BELIKPJO_00798	J	Translation, ribosomal structure and biogenesis	RluA	-
+BELIKPJO_00799	P	Inorganic ion transport and metabolism	MgtE	-
+BELIKPJO_00800	P	Inorganic ion transport and metabolism	CutC	-
+BELIKPJO_00801	H	Coenzyme transport and metabolism	UbiE	-
+BELIKPJO_00802	J	Translation, ribosomal structure and biogenesis	TrmL	-
+BELIKPJO_00803	G	Carbohydrate transport and metabolism	PhoE	-
+BELIKPJO_00804	L	Replication, recombination and repair	RecD	-
+BELIKPJO_00805	I	Lipid transport and metabolism	LCB5	-
+BELIKPJO_00806	F	Nucleotide transport and metabolism	QueT	-
+BELIKPJO_00807	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+BELIKPJO_00808	S	Function unknown		-
+BELIKPJO_00809	H	Coenzyme transport and metabolism	CoaBC	-
+BELIKPJO_00810	H	Coenzyme transport and metabolism	CoaBC	-
+BELIKPJO_00811	C	Energy production and conversion	Qor	-
+BELIKPJO_00812	K	Transcription	HipB	-
+BELIKPJO_00813	E	Amino acid transport and metabolism	PotA	-
+BELIKPJO_00814	E	Amino acid transport and metabolism	PotB	-
+BELIKPJO_00815	E	Amino acid transport and metabolism	PotC	-
+BELIKPJO_00816	E	Amino acid transport and metabolism	PotD	-
+BELIKPJO_00817	I	Lipid transport and metabolism	Cls	-
+BELIKPJO_00820	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00822	S	Function unknown	TVP38	-
+BELIKPJO_00823	G	Carbohydrate transport and metabolism	GntT	-
+BELIKPJO_00824	G	Carbohydrate transport and metabolism	GlxK	-
+BELIKPJO_00825	K	Transcription	CdaR	-
+BELIKPJO_00826	I	Lipid transport and metabolism	LCB5	-
+BELIKPJO_00827	S	Function unknown		-
+BELIKPJO_00828	E	Amino acid transport and metabolism	ProW	-
+BELIKPJO_00829	E	Amino acid transport and metabolism	ProV	-
+BELIKPJO_00830	P	Inorganic ion transport and metabolism	KhtT	-
+BELIKPJO_00831	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_00832	K	Transcription	Rex	-
+BELIKPJO_00833	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+BELIKPJO_00835	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+BELIKPJO_00836	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+BELIKPJO_00837	K	Transcription	CadC1	-
+BELIKPJO_00838	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_00839	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_00840	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00841	I	Lipid transport and metabolism	GtrA	-
+BELIKPJO_00842	H	Coenzyme transport and metabolism	PncB	-
+BELIKPJO_00843	H	Coenzyme transport and metabolism	NadE	-
+BELIKPJO_00844	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_00845	S	Function unknown	YjdI	-
+BELIKPJO_00846	R	General function prediction only	YidJ	-
+BELIKPJO_00847	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+BELIKPJO_00848	Q	Secondary metabolites biosynthesis, transport and catabolism	YvaK	-
+BELIKPJO_00849	K	Transcription	VacB	-
+BELIKPJO_00850	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+BELIKPJO_00851	C	Energy production and conversion	AtpB	-
+BELIKPJO_00852	C	Energy production and conversion	AtpE	-
+BELIKPJO_00853	C	Energy production and conversion	AtpF	-
+BELIKPJO_00854	C	Energy production and conversion	AtpH	-
+BELIKPJO_00855	C	Energy production and conversion	AtpA	-
+BELIKPJO_00856	C	Energy production and conversion	AtpG	-
+BELIKPJO_00857	C	Energy production and conversion	AtpD	-
+BELIKPJO_00858	C	Energy production and conversion	AtpC	-
+BELIKPJO_00859	S	Function unknown	YwzB	-
+BELIKPJO_00860	M	Cell wall/membrane/envelope biogenesis	MurA	-
+BELIKPJO_00862	G	Carbohydrate transport and metabolism	SrlB	-
+BELIKPJO_00863	R	General function prediction only	PerM	-
+BELIKPJO_00864	C	Energy production and conversion	AzoR	-
+BELIKPJO_00865	K	Transcription	BglG	-
+BELIKPJO_00866	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00867	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_00868	F	Nucleotide transport and metabolism	Gmk	-
+BELIKPJO_00869	K	Transcription	AcrR	-
+BELIKPJO_00870	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00871	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_00872	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+BELIKPJO_00873	V	Defense mechanisms	AmpC	-
+BELIKPJO_00874	G	Carbohydrate transport and metabolism	ManA	-
+BELIKPJO_00876	F	Nucleotide transport and metabolism	URH1	-
+BELIKPJO_00877	H	Coenzyme transport and metabolism	GatD	-
+BELIKPJO_00878	M	Cell wall/membrane/envelope biogenesis	MurC	-
+BELIKPJO_00879	K	Transcription	YheO	-
+BELIKPJO_00880	F	Nucleotide transport and metabolism	SsnA	-
+BELIKPJO_00881	E	Amino acid transport and metabolism	GltD	-
+BELIKPJO_00882	F	Nucleotide transport and metabolism	AllB	-
+BELIKPJO_00883	E	Amino acid transport and metabolism	IlvA	-
+BELIKPJO_00884	E	Amino acid transport and metabolism	ArgE	-
+BELIKPJO_00885	E	Amino acid transport and metabolism	ArgF	-
+BELIKPJO_00886	E	Amino acid transport and metabolism	ArcC	-
+BELIKPJO_00887	V	Defense mechanisms	RidA	-
+BELIKPJO_00888	F	Nucleotide transport and metabolism	UraA	-
+BELIKPJO_00889	K	Transcription	ModE	-
+BELIKPJO_00890	O	Posttranslational modification, protein turnover, chaperones	XdhC	-
+BELIKPJO_00891	C	Energy production and conversion	CoxL	-
+BELIKPJO_00892	H	Coenzyme transport and metabolism	MocA	-
+BELIKPJO_00893	E	Amino acid transport and metabolism	CsdA	-
+BELIKPJO_00894	E	Amino acid transport and metabolism	SelD	-
+BELIKPJO_00895	J	Translation, ribosomal structure and biogenesis	TusA	-
+BELIKPJO_00898	C	Energy production and conversion	PorB	-
+BELIKPJO_00899	P	Inorganic ion transport and metabolism	TrkG	-
+BELIKPJO_00900	C	Energy production and conversion	SdhA	-
+BELIKPJO_00901	F	Nucleotide transport and metabolism	Tdk	-
+BELIKPJO_00902	J	Translation, ribosomal structure and biogenesis	PrfA	-
+BELIKPJO_00903	J	Translation, ribosomal structure and biogenesis	HemK	-
+BELIKPJO_00904	J	Translation, ribosomal structure and biogenesis	TsaC	-
+BELIKPJO_00905	E	Amino acid transport and metabolism	GlyA	-
+BELIKPJO_00906	F	Nucleotide transport and metabolism	Upp	-
+BELIKPJO_00907	G	Carbohydrate transport and metabolism	SWEET	-
+BELIKPJO_00910	E	Amino acid transport and metabolism	AzlD2	-
+BELIKPJO_00911	E	Amino acid transport and metabolism	AzlC	-
+BELIKPJO_00912	K	Transcription	HipB	-
+BELIKPJO_00914	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_00916	K	Transcription	BglG	-
+BELIKPJO_00917	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+BELIKPJO_00918	P	Inorganic ion transport and metabolism	ArsC	-
+BELIKPJO_00919	E	Amino acid transport and metabolism	GcvH	-
+BELIKPJO_00920	E	Amino acid transport and metabolism	AbcC	-
+BELIKPJO_00921	E	Amino acid transport and metabolism	MetP	-
+BELIKPJO_00922	P	Inorganic ion transport and metabolism	NlpA	-
+BELIKPJO_00923	I	Lipid transport and metabolism	UppS	-
+BELIKPJO_00924	I	Lipid transport and metabolism	CdsA	-
+BELIKPJO_00925	M	Cell wall/membrane/envelope biogenesis	TagB	-
+BELIKPJO_00926	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00927	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00928	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_00929	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_00930	M	Cell wall/membrane/envelope biogenesis	MurB	-
+BELIKPJO_00932	M	Cell wall/membrane/envelope biogenesis	Glf	-
+BELIKPJO_00933	G	Carbohydrate transport and metabolism	TagH	-
+BELIKPJO_00934	G	Carbohydrate transport and metabolism	TagG	-
+BELIKPJO_00935	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_00936	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_00937	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_00938	E	Amino acid transport and metabolism	MetC	-
+BELIKPJO_00939	E	Amino acid transport and metabolism	CysK	-
+BELIKPJO_00941	J	Translation, ribosomal structure and biogenesis	Efp	-
+BELIKPJO_00943	F	Nucleotide transport and metabolism	PyrD	-
+BELIKPJO_00944	I	Lipid transport and metabolism	FabA	-
+BELIKPJO_00945	I	Lipid transport and metabolism	FabB	-
+BELIKPJO_00946	I	Lipid transport and metabolism	FabI	-
+BELIKPJO_00948	P	Inorganic ion transport and metabolism	FieF	-
+BELIKPJO_00949	J	Translation, ribosomal structure and biogenesis	RnaY	-
+BELIKPJO_00950	L	Replication, recombination and repair	Tag	-
+BELIKPJO_00951	L	Replication, recombination and repair	AdaB	-
+BELIKPJO_00952	L	Replication, recombination and repair	AdaA	-
+BELIKPJO_00953	I	Lipid transport and metabolism	PldB	-
+BELIKPJO_00954	G	Carbohydrate transport and metabolism	PhoE	-
+BELIKPJO_00955	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_00956	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_00957	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_00958	K	Transcription	BglG	-
+BELIKPJO_00989	R	General function prediction only	YabR	-
+BELIKPJO_00990	E	Amino acid transport and metabolism	MalY	-
+BELIKPJO_00992	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+BELIKPJO_00993	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+BELIKPJO_00994	H	Coenzyme transport and metabolism	SerA	-
+BELIKPJO_00995	F	Nucleotide transport and metabolism	UshA	-
+BELIKPJO_00996	G	Carbohydrate transport and metabolism	UgpB	-
+BELIKPJO_00997	T	Signal transduction mechanisms	PDE1	-
+BELIKPJO_00998	G	Carbohydrate transport and metabolism	UgpE	-
+BELIKPJO_00999	G	Carbohydrate transport and metabolism	UgpA	-
+BELIKPJO_01000	G	Carbohydrate transport and metabolism	MalK	-
+BELIKPJO_01001	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_01002	C	Energy production and conversion	PdhI	-
+BELIKPJO_01003	P	Inorganic ion transport and metabolism	TrkA	-
+BELIKPJO_01004	T	Signal transduction mechanisms	CitB	-
+BELIKPJO_01005	T	Signal transduction mechanisms	ComP	-
+BELIKPJO_01006	T	Signal transduction mechanisms	LiaF	-
+BELIKPJO_01007	K	Transcription	GreA	-
+BELIKPJO_01008	M	Cell wall/membrane/envelope biogenesis	MltG	-
+BELIKPJO_01009	M	Cell wall/membrane/envelope biogenesis	WecB	-
+BELIKPJO_01010	R	General function prediction only	PaaY	-
+BELIKPJO_01011	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_01012	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_01013	S	Function unknown	YbaN	-
+BELIKPJO_01014	K	Transcription	RpoEps	-
+BELIKPJO_01015	J	Translation, ribosomal structure and biogenesis	RnjA	-
+BELIKPJO_01016	K	Transcription	CspC	-
+BELIKPJO_01017	L	Replication, recombination and repair	RadC	-
+BELIKPJO_01018	G	Carbohydrate transport and metabolism	YcjU	-
+BELIKPJO_01019	H	Coenzyme transport and metabolism	FolC	-
+BELIKPJO_01020	S	Function unknown	YfhO	-
+BELIKPJO_01021	S	Function unknown	TVP38	-
+BELIKPJO_01022	J	Translation, ribosomal structure and biogenesis	ValS	-
+BELIKPJO_01023	O	Posttranslational modification, protein turnover, chaperones	Tpx	-
+BELIKPJO_01024	K	Transcription	Rex	-
+BELIKPJO_01025	H	Coenzyme transport and metabolism	ThiI	-
+BELIKPJO_01026	L	Replication, recombination and repair	XerD	-
+BELIKPJO_01028	M	Cell wall/membrane/envelope biogenesis	YifL	-
+BELIKPJO_01031	X	Mobilome: prophages, transposons	YkfC	-
+BELIKPJO_01034	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+BELIKPJO_01042	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_01045	L	Replication, recombination and repair	NicK	-
+BELIKPJO_01049	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+BELIKPJO_01050	V	Defense mechanisms	HEPN	-
+BELIKPJO_01051	R	General function prediction only	MJ0435	-
+BELIKPJO_01058	K	Transcription	HipB	-
+BELIKPJO_01059	O	Posttranslational modification, protein turnover, chaperones	ImmA	-
+BELIKPJO_01060	K	Transcription	HxlR	-
+BELIKPJO_01061	C	Energy production and conversion	Lpd	-
+BELIKPJO_01062	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+BELIKPJO_01063	K	Transcription	SoxR	-
+BELIKPJO_01064	G	Carbohydrate transport and metabolism	PhoE	-
+BELIKPJO_01065	K	Transcription	HxlR	-
+BELIKPJO_01067	S	Function unknown		-
+BELIKPJO_01069	K	Transcription	CspC	-
+BELIKPJO_01071	M	Cell wall/membrane/envelope biogenesis	Acm	-
+BELIKPJO_01072	O	Posttranslational modification, protein turnover, chaperones	YkoI	-
+BELIKPJO_01075	R	General function prediction only		-
+BELIKPJO_01080	K	Transcription	BglG	-
+BELIKPJO_01081	F	Nucleotide transport and metabolism	NCS2	-
+BELIKPJO_01082	C	Energy production and conversion	YdfG	-
+BELIKPJO_01083	R	General function prediction only	WbbJ	-
+BELIKPJO_01084	K	Transcription	LysR	-
+BELIKPJO_01085	G	Carbohydrate transport and metabolism	GlcU	-
+BELIKPJO_01086	G	Carbohydrate transport and metabolism	RbsD	-
+BELIKPJO_01087	G	Carbohydrate transport and metabolism	RbsK	-
+BELIKPJO_01088	K	Transcription	PurR	-
+BELIKPJO_01089	I	Lipid transport and metabolism	Aes	-
+BELIKPJO_01090	G	Carbohydrate transport and metabolism	UlaA	-
+BELIKPJO_01091	G	Carbohydrate transport and metabolism	SgaB	-
+BELIKPJO_01092	K	Transcription	BglG	-
+BELIKPJO_01097	E	Amino acid transport and metabolism	DdaH	-
+BELIKPJO_01098	P	Inorganic ion transport and metabolism	PhoA	-
+BELIKPJO_01099	J	Translation, ribosomal structure and biogenesis	RqcU	-
+BELIKPJO_01101	J	Translation, ribosomal structure and biogenesis	SelA	-
+BELIKPJO_01102	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_01103	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_01104	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01105	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_01106	K	Transcription	PspF	-
+BELIKPJO_01107	G	Carbohydrate transport and metabolism	PhoE	-
+BELIKPJO_01108	J	Translation, ribosomal structure and biogenesis	GatA	-
+BELIKPJO_01110	V	Defense mechanisms	SalY	-
+BELIKPJO_01111	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_01112	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+BELIKPJO_01113	P	Inorganic ion transport and metabolism	PspE	-
+BELIKPJO_01114	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_01115	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_01116	P	Inorganic ion transport and metabolism	PspE	-
+BELIKPJO_01117	K	Transcription	FrmR	-
+BELIKPJO_01118	G	Carbohydrate transport and metabolism	UhpC	-
+BELIKPJO_01119	E	Amino acid transport and metabolism	PucG	-
+BELIKPJO_01120	K	Transcription	CdaR	-
+BELIKPJO_01121	F	Nucleotide transport and metabolism	AllE	-
+BELIKPJO_01122	E	Amino acid transport and metabolism	ArgE	-
+BELIKPJO_01123	F	Nucleotide transport and metabolism	AllB	-
+BELIKPJO_01124	F	Nucleotide transport and metabolism	FUI1	-
+BELIKPJO_01125	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_01126	K	Transcription	MarR	-
+BELIKPJO_01127	M	Cell wall/membrane/envelope biogenesis	MliC	-
+BELIKPJO_01128	P	Inorganic ion transport and metabolism	SUL1	-
+BELIKPJO_01129	M	Cell wall/membrane/envelope biogenesis	YxeI	-
+BELIKPJO_01131	P	Inorganic ion transport and metabolism	ClcA	-
+BELIKPJO_01132	V	Defense mechanisms	HsdS	-
+BELIKPJO_01133	L	Replication, recombination and repair	XerD	-
+BELIKPJO_01134	V	Defense mechanisms	HsdS	-
+BELIKPJO_01135	V	Defense mechanisms	HsdM	-
+BELIKPJO_01136	V	Defense mechanisms		-
+BELIKPJO_01137	S	Function unknown		-
+BELIKPJO_01138	K	Transcription	CdaR	-
+BELIKPJO_01140	C	Energy production and conversion	SucD	-
+BELIKPJO_01143	K	Transcription	BglG	-
+BELIKPJO_01144	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_01145	E	Amino acid transport and metabolism	SstT	-
+BELIKPJO_01147	J	Translation, ribosomal structure and biogenesis	TruA	-
+BELIKPJO_01148	H	Coenzyme transport and metabolism	MopI	-
+BELIKPJO_01150	K	Transcription	RpoE	-
+BELIKPJO_01152	C	Energy production and conversion	GltP	-
+BELIKPJO_01153	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_01154	R	General function prediction only	YjdB	-
+BELIKPJO_01155	J	Translation, ribosomal structure and biogenesis	RlmH	-
+BELIKPJO_01156	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+BELIKPJO_01157	J	Translation, ribosomal structure and biogenesis	EMAP	-
+BELIKPJO_01158	T	Signal transduction mechanisms	UspA	-
+BELIKPJO_01159	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_01160	E	Amino acid transport and metabolism	FrvX	-
+BELIKPJO_01161	S	Function unknown		-
+BELIKPJO_01162	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_01163	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_01164	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_01165	G	Carbohydrate transport and metabolism	NagA	-
+BELIKPJO_01166	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01167	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_01168	M	Cell wall/membrane/envelope biogenesis	WecH	-
+BELIKPJO_01169	G	Carbohydrate transport and metabolism	ChbG	-
+BELIKPJO_01170	K	Transcription	RpiR	-
+BELIKPJO_01171	L	Replication, recombination and repair	Tag	-
+BELIKPJO_01172	R	General function prediction only	YvpB	-
+BELIKPJO_01174	H	Coenzyme transport and metabolism	ThiT	-
+BELIKPJO_01175	O	Posttranslational modification, protein turnover, chaperones	YkoI	-
+BELIKPJO_01177	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+BELIKPJO_01179	T	Signal transduction mechanisms	Wzb	-
+BELIKPJO_01180	K	Transcription	AcrR	-
+BELIKPJO_01181	S	Function unknown	CwlO1	-
+BELIKPJO_01182	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_01183	M	Cell wall/membrane/envelope biogenesis	MreD	-
+BELIKPJO_01184	D	Cell cycle control, cell division, chromosome partitioning	MreC	-
+BELIKPJO_01185	J	Translation, ribosomal structure and biogenesis	Pnp	-
+BELIKPJO_01186	J	Translation, ribosomal structure and biogenesis	RpsO	-
+BELIKPJO_01187	J	Translation, ribosomal structure and biogenesis	Def	-
+BELIKPJO_01188	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_01189	L	Replication, recombination and repair	AlkD	-
+BELIKPJO_01190	P	Inorganic ion transport and metabolism	FocA	-
+BELIKPJO_01191	J	Translation, ribosomal structure and biogenesis	RpsD	-
+BELIKPJO_01192	H	Coenzyme transport and metabolism	BioY	-
+BELIKPJO_01193	U	Intracellular trafficking, secretion, and vesicular transport	TraF	-
+BELIKPJO_01197	S	Function unknown	YktB	-
+BELIKPJO_01198	J	Translation, ribosomal structure and biogenesis	RimL	-
+BELIKPJO_01199	E	Amino acid transport and metabolism	PepD2	-
+BELIKPJO_01200	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_01201	P	Inorganic ion transport and metabolism	CeuA	-
+BELIKPJO_01202	P	Inorganic ion transport and metabolism	CeuD	-
+BELIKPJO_01203	P	Inorganic ion transport and metabolism	CeuC	-
+BELIKPJO_01204	P	Inorganic ion transport and metabolism	CeuB	-
+BELIKPJO_01205	S	Function unknown	YueI	-
+BELIKPJO_01206	H	Coenzyme transport and metabolism	GshA	-
+BELIKPJO_01207	H	Coenzyme transport and metabolism	PncA	-
+BELIKPJO_01208	S	Function unknown	YitT	-
+BELIKPJO_01209	R	General function prediction only		-
+BELIKPJO_01210	R	General function prediction only	CFF1	-
+BELIKPJO_01211	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+BELIKPJO_01212	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_01213	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_01214	K	Transcription	Rnc	-
+BELIKPJO_01215	E	Amino acid transport and metabolism	DdpA	-
+BELIKPJO_01216	E	Amino acid transport and metabolism	DppC	-
+BELIKPJO_01217	E	Amino acid transport and metabolism	DppB	-
+BELIKPJO_01218	E	Amino acid transport and metabolism	AppF	-
+BELIKPJO_01219	E	Amino acid transport and metabolism	DppD	-
+BELIKPJO_01220	I	Lipid transport and metabolism	AcpP	-
+BELIKPJO_01221	I	Lipid transport and metabolism	PlsX	-
+BELIKPJO_01222	L	Replication, recombination and repair	RecG	-
+BELIKPJO_01223	I	Lipid transport and metabolism	FakA	-
+BELIKPJO_01224	S	Function unknown	YloU	-
+BELIKPJO_01225	K	Transcription	LytT	-
+BELIKPJO_01226	T	Signal transduction mechanisms	CitA	-
+BELIKPJO_01227	C	Energy production and conversion	NatB	-
+BELIKPJO_01228	R	General function prediction only	YhaQ	-
+BELIKPJO_01229	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_01232	H	Coenzyme transport and metabolism	BioA	-
+BELIKPJO_01233	H	Coenzyme transport and metabolism	UbiG	-
+BELIKPJO_01234	S	Function unknown	YnzC	-
+BELIKPJO_01240	J	Translation, ribosomal structure and biogenesis	RpmB	-
+BELIKPJO_01241	H	Coenzyme transport and metabolism	ThiN	-
+BELIKPJO_01242	G	Carbohydrate transport and metabolism	Rpe	-
+BELIKPJO_01243	J	Translation, ribosomal structure and biogenesis	RsgA	-
+BELIKPJO_01244	T	Signal transduction mechanisms	SPS1	-
+BELIKPJO_01245	T	Signal transduction mechanisms	PTC1	-
+BELIKPJO_01246	J	Translation, ribosomal structure and biogenesis	RsmB	-
+BELIKPJO_01247	J	Translation, ribosomal structure and biogenesis	Fmt	-
+BELIKPJO_01248	J	Translation, ribosomal structure and biogenesis	Def	-
+BELIKPJO_01249	L	Replication, recombination and repair	PriA	-
+BELIKPJO_01250	K	Transcription	RpoZ	-
+BELIKPJO_01251	F	Nucleotide transport and metabolism	Gmk	-
+BELIKPJO_01252	M	Cell wall/membrane/envelope biogenesis	DacC	-
+BELIKPJO_01254	J	Translation, ribosomal structure and biogenesis	YicC	-
+BELIKPJO_01255	S	Function unknown		-
+BELIKPJO_01256	R	General function prediction only	YhfF	-
+BELIKPJO_01257	G	Carbohydrate transport and metabolism	Eda	-
+BELIKPJO_01258	G	Carbohydrate transport and metabolism	UxuA	-
+BELIKPJO_01259	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_01260	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01261	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_01262	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_01263	C	Energy production and conversion	GldA	-
+BELIKPJO_01264	C	Energy production and conversion	LdhA	-
+BELIKPJO_01265	G	Carbohydrate transport and metabolism	YqeC	-
+BELIKPJO_01266	K	Transcription	RpiR	-
+BELIKPJO_01268	I	Lipid transport and metabolism	PgsA	-
+BELIKPJO_01270	D	Cell cycle control, cell division, chromosome partitioning	RodZ	-
+BELIKPJO_01271	R	General function prediction only	PqqL	-
+BELIKPJO_01272	R	General function prediction only	PqqL	-
+BELIKPJO_01273	M	Cell wall/membrane/envelope biogenesis	MscL	-
+BELIKPJO_01276	K	Transcription	MngR	-
+BELIKPJO_01277	G	Carbohydrate transport and metabolism	ATH1	-
+BELIKPJO_01278	G	Carbohydrate transport and metabolism	YcjU	-
+BELIKPJO_01280	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+BELIKPJO_01281	E	Amino acid transport and metabolism	PrsA	-
+BELIKPJO_01282	O	Posttranslational modification, protein turnover, chaperones	MsrB	-
+BELIKPJO_01283	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+BELIKPJO_01284	L	Replication, recombination and repair	MutL	-
+BELIKPJO_01285	L	Replication, recombination and repair	MutS	-
+BELIKPJO_01286	T	Signal transduction mechanisms	YmcA	-
+BELIKPJO_01287	T	Signal transduction mechanisms	YmdB	-
+BELIKPJO_01288	J	Translation, ribosomal structure and biogenesis	RnaY	-
+BELIKPJO_01289	L	Replication, recombination and repair	RecA	-
+BELIKPJO_01290	L	Replication, recombination and repair	CinA	-
+BELIKPJO_01291	L	Replication, recombination and repair	YhaN	-
+BELIKPJO_01292	R	General function prediction only	YwnB	-
+BELIKPJO_01293	K	Transcription	IscR	-
+BELIKPJO_01294	S	Function unknown	YccF	-
+BELIKPJO_01296	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_01297	E	Amino acid transport and metabolism	ArgE	-
+BELIKPJO_01299	K	Transcription	RpoE	-
+BELIKPJO_01300	K	Transcription	BglG	-
+BELIKPJO_01307	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+BELIKPJO_01308	I	Lipid transport and metabolism	Aes	-
+BELIKPJO_01309	H	Coenzyme transport and metabolism	PncA	-
+BELIKPJO_01310	M	Cell wall/membrane/envelope biogenesis	LrgB	-
+BELIKPJO_01311	R	General function prediction only	YohJ	-
+BELIKPJO_01312	K	Transcription	LytT	-
+BELIKPJO_01313	T	Signal transduction mechanisms	LytS	-
+BELIKPJO_01314	P	Inorganic ion transport and metabolism	NlpA	-
+BELIKPJO_01315	E	Amino acid transport and metabolism	MetP	-
+BELIKPJO_01316	E	Amino acid transport and metabolism	AbcC	-
+BELIKPJO_01317	R	General function prediction only	YhfA	-
+BELIKPJO_01318	J	Translation, ribosomal structure and biogenesis	RpsN	-
+BELIKPJO_01319	J	Translation, ribosomal structure and biogenesis	RpmG	-
+BELIKPJO_01320	R	General function prediction only	YejR	-
+BELIKPJO_01322	P	Inorganic ion transport and metabolism	ZinT	-
+BELIKPJO_01323	J	Translation, ribosomal structure and biogenesis	DusA	-
+BELIKPJO_01324	V	Defense mechanisms	YadH	-
+BELIKPJO_01325	J	Translation, ribosomal structure and biogenesis	RbbA	-
+BELIKPJO_01326	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_01327	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01328	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_01329	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_01330	K	Transcription	PspF	-
+BELIKPJO_01332	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+BELIKPJO_01333	J	Translation, ribosomal structure and biogenesis	RpsI	-
+BELIKPJO_01334	J	Translation, ribosomal structure and biogenesis	RplM	-
+BELIKPJO_01335	B	Chromatin structure and dynamics	Dps	-
+BELIKPJO_01337	G	Carbohydrate transport and metabolism	XylB	-
+BELIKPJO_01338	N	Cell motility	GspO/PilD	-
+BELIKPJO_01339	K	Transcription	RpoC	-
+BELIKPJO_01340	K	Transcription	RpoB	-
+BELIKPJO_01341	V	Defense mechanisms	MazF	-
+BELIKPJO_01343	R	General function prediction only	YpzJ	-
+BELIKPJO_01344	H	Coenzyme transport and metabolism	BirA2	-
+BELIKPJO_01345	R	General function prediction only		-
+BELIKPJO_01346	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+BELIKPJO_01351	H	Coenzyme transport and metabolism	MenA	-
+BELIKPJO_01352	H	Coenzyme transport and metabolism	ApbE	-
+BELIKPJO_01353	M	Cell wall/membrane/envelope biogenesis	Tpp15	-
+BELIKPJO_01354	C	Energy production and conversion	Ndh	-
+BELIKPJO_01355	S	Function unknown		-
+BELIKPJO_01356	H	Coenzyme transport and metabolism	EetB	-
+BELIKPJO_01357	H	Coenzyme transport and metabolism	IspA	-
+BELIKPJO_01358	V	Defense mechanisms	MazE	-
+BELIKPJO_01359	V	Defense mechanisms	MazF	-
+BELIKPJO_01360	H	Coenzyme transport and metabolism	FolP	-
+BELIKPJO_01361	F	Nucleotide transport and metabolism	RdgB	-
+BELIKPJO_01362	H	Coenzyme transport and metabolism	FolE	-
+BELIKPJO_01363	H	Coenzyme transport and metabolism	FolK	-
+BELIKPJO_01364	H	Coenzyme transport and metabolism	FolB	-
+BELIKPJO_01365	K	Transcription	HipB	-
+BELIKPJO_01366	C	Energy production and conversion	Lpd	-
+BELIKPJO_01368	E	Amino acid transport and metabolism	HyuA	-
+BELIKPJO_01369	S	Function unknown		-
+BELIKPJO_01370	F	Nucleotide transport and metabolism	CodB	-
+BELIKPJO_01371	K	Transcription	CdaR	-
+BELIKPJO_01372	J	Translation, ribosomal structure and biogenesis	RlhA	-
+BELIKPJO_01373	J	Translation, ribosomal structure and biogenesis	RlhA	-
+BELIKPJO_01374	R	General function prediction only	AaeB	-
+BELIKPJO_01375	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+BELIKPJO_01376	K	Transcription	CtsR	-
+BELIKPJO_01377	E	Amino acid transport and metabolism	MetC	-
+BELIKPJO_01378	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_01379	K	Transcription	RpiR	-
+BELIKPJO_01391	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_01392	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_01393	J	Translation, ribosomal structure and biogenesis	SerS	-
+BELIKPJO_01394	F	Nucleotide transport and metabolism	GuaB	-
+BELIKPJO_01395	R	General function prediction only	PTPS	-
+BELIKPJO_01396	S	Function unknown		-
+BELIKPJO_01397	J	Translation, ribosomal structure and biogenesis	GTP1	-
+BELIKPJO_01398	S	Function unknown		-
+BELIKPJO_01399	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+BELIKPJO_01400	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+BELIKPJO_01401	J	Translation, ribosomal structure and biogenesis	RsmG	-
+BELIKPJO_01403	S	Function unknown		-
+BELIKPJO_01404	G	Carbohydrate transport and metabolism	TalA	-
+BELIKPJO_01405	G	Carbohydrate transport and metabolism	SrlB	-
+BELIKPJO_01406	G	Carbohydrate transport and metabolism	SrlE	-
+BELIKPJO_01407	G	Carbohydrate transport and metabolism	SrlA	-
+BELIKPJO_01408	K	Transcription	GutM	-
+BELIKPJO_01409	K	Transcription	BglG	-
+BELIKPJO_01410	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_01411	J	Translation, ribosomal structure and biogenesis	MnmG	-
+BELIKPJO_01412	J	Translation, ribosomal structure and biogenesis	MnmE	-
+BELIKPJO_01413	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+BELIKPJO_01414	H	Coenzyme transport and metabolism	CitG	-
+BELIKPJO_01415	C	Energy production and conversion	SfcA	-
+BELIKPJO_01416	C	Energy production and conversion	OadA1	-
+BELIKPJO_01417	H	Coenzyme transport and metabolism	CitX	-
+BELIKPJO_01418	C	Energy production and conversion	CitF	-
+BELIKPJO_01419	G	Carbohydrate transport and metabolism	CitE	-
+BELIKPJO_01420	C	Energy production and conversion	CitD	-
+BELIKPJO_01421	C	Energy production and conversion	CitC	-
+BELIKPJO_01423	C	Energy production and conversion	OadB	-
+BELIKPJO_01424	I	Lipid transport and metabolism	AccB	-
+BELIKPJO_01426	C	Energy production and conversion	CitM	-
+BELIKPJO_01427	K	Transcription	GntR	-
+BELIKPJO_01428	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_01431	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_01432	S	Function unknown		-
+BELIKPJO_01434	L	Replication, recombination and repair	CedB	-
+BELIKPJO_01435	R	General function prediction only	Jag	-
+BELIKPJO_01436	M	Cell wall/membrane/envelope biogenesis	YidC	-
+BELIKPJO_01437	A	RNA processing and modification	RnpA	-
+BELIKPJO_01438	J	Translation, ribosomal structure and biogenesis	RpmH	-
+BELIKPJO_01439	L	Replication, recombination and repair	DnaA	-
+BELIKPJO_01440	L	Replication, recombination and repair	DnaN	-
+BELIKPJO_01441	J	Translation, ribosomal structure and biogenesis	YbcJ	-
+BELIKPJO_01442	L	Replication, recombination and repair	RecF	-
+BELIKPJO_01443	L	Replication, recombination and repair	GyrB	-
+BELIKPJO_01444	L	Replication, recombination and repair	GyrA	-
+BELIKPJO_01445	J	Translation, ribosomal structure and biogenesis	RpsF	-
+BELIKPJO_01446	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_01447	J	Translation, ribosomal structure and biogenesis	RpsR	-
+BELIKPJO_01448	T	Signal transduction mechanisms	GdpP	-
+BELIKPJO_01449	J	Translation, ribosomal structure and biogenesis	RplI	-
+BELIKPJO_01450	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_01451	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_01452	K	Transcription	BglG	-
+BELIKPJO_01453	L	Replication, recombination and repair	DnaB	-
+BELIKPJO_01454	F	Nucleotide transport and metabolism	PurA	-
+BELIKPJO_01455	I	Lipid transport and metabolism	DegV	-
+BELIKPJO_01456	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_01457	K	Transcription	PspF	-
+BELIKPJO_01458	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01459	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_01460	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_01461	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_01462	S	Function unknown		-
+BELIKPJO_01463	R	General function prediction only	HdeD	-
+BELIKPJO_01465	K	Transcription	RpiR	-
+BELIKPJO_01466	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_01467	E	Amino acid transport and metabolism	MalY	-
+BELIKPJO_01468	V	Defense mechanisms	RidA	-
+BELIKPJO_01469	I	Lipid transport and metabolism	MprF	-
+BELIKPJO_01470	S	Function unknown	YfhO	-
+BELIKPJO_01471	R	General function prediction only	DfsB	-
+BELIKPJO_01472	C	Energy production and conversion	PhnB	-
+BELIKPJO_01473	K	Transcription	YobV	-
+BELIKPJO_01474	E	Amino acid transport and metabolism	ProA	-
+BELIKPJO_01475	E	Amino acid transport and metabolism	ProB	-
+BELIKPJO_01476	F	Nucleotide transport and metabolism	Dut	-
+BELIKPJO_01477	L	Replication, recombination and repair	Sms	-
+BELIKPJO_01478	R	General function prediction only		-
+BELIKPJO_01479	I	Lipid transport and metabolism	IspF	-
+BELIKPJO_01480	J	Translation, ribosomal structure and biogenesis	GlnS	-
+BELIKPJO_01481	E	Amino acid transport and metabolism	CysE	-
+BELIKPJO_01482	J	Translation, ribosomal structure and biogenesis	CysS	-
+BELIKPJO_01483	J	Translation, ribosomal structure and biogenesis	MrnC	-
+BELIKPJO_01484	J	Translation, ribosomal structure and biogenesis	SpoU	-
+BELIKPJO_01485	A	RNA processing and modification	Rae1	-
+BELIKPJO_01486	K	Transcription	RpoE	-
+BELIKPJO_01487	S	Function unknown		-
+BELIKPJO_01488	I	Lipid transport and metabolism	IspE	-
+BELIKPJO_01489	P	Inorganic ion transport and metabolism	ZnuA	-
+BELIKPJO_01490	P	Inorganic ion transport and metabolism	ZnuC	-
+BELIKPJO_01491	P	Inorganic ion transport and metabolism	ZnuB	-
+BELIKPJO_01492	F	Nucleotide transport and metabolism	Apt	-
+BELIKPJO_01493	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+BELIKPJO_01494	F	Nucleotide transport and metabolism	UshA	-
+BELIKPJO_01495	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_01496	F	Nucleotide transport and metabolism	UshA	-
+BELIKPJO_01497	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_01498	S	Function unknown	YnzC	-
+BELIKPJO_01499	H	Coenzyme transport and metabolism	SsuD	-
+BELIKPJO_01500	V	Defense mechanisms	AbiF	-
+BELIKPJO_01501	L	Replication, recombination and repair	RuvA	-
+BELIKPJO_01502	L	Replication, recombination and repair	RuvB	-
+BELIKPJO_01504	G	Carbohydrate transport and metabolism	NanE	-
+BELIKPJO_01505	G	Carbohydrate transport and metabolism	GDB1	-
+BELIKPJO_01506	K	Transcription	HipB	-
+BELIKPJO_01507	T	Signal transduction mechanisms	Crp	-
+BELIKPJO_01508	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_01510	S	Function unknown		-
+BELIKPJO_01511	S	Function unknown	YloU	-
+BELIKPJO_01512	S	Function unknown	YloU	-
+BELIKPJO_01513	R	General function prediction only	YeaQ	-
+BELIKPJO_01514	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_01517	K	Transcription	BglG	-
+BELIKPJO_01518	K	Transcription	BglG	-
+BELIKPJO_01519	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_01520	I	Lipid transport and metabolism	LCB5	-
+BELIKPJO_01521	K	Transcription	BglG	-
+BELIKPJO_01523	P	Inorganic ion transport and metabolism	NosD	-
+BELIKPJO_01524	P	Inorganic ion transport and metabolism	FocA	-
+BELIKPJO_01526	K	Transcription	YheO	-
+BELIKPJO_01528	E	Amino acid transport and metabolism	SdaA	-
+BELIKPJO_01529	E	Amino acid transport and metabolism	SdaA	-
+BELIKPJO_01530	J	Translation, ribosomal structure and biogenesis	SerS	-
+BELIKPJO_01531	I	Lipid transport and metabolism	PldB	-
+BELIKPJO_01532	K	Transcription	ArgR	-
+BELIKPJO_01533	K	Transcription	ArgR	-
+BELIKPJO_01534	E	Amino acid transport and metabolism	ArcA	-
+BELIKPJO_01535	E	Amino acid transport and metabolism	ArgF	-
+BELIKPJO_01536	E	Amino acid transport and metabolism	ArcC	-
+BELIKPJO_01537	T	Signal transduction mechanisms	Crp	-
+BELIKPJO_01538	R	General function prediction only	YfcC	-
+BELIKPJO_01539	V	Defense mechanisms	YajL	-
+BELIKPJO_01540	K	Transcription	ArsR	-
+BELIKPJO_01541	C	Energy production and conversion	Qor	-
+BELIKPJO_01542	G	Carbohydrate transport and metabolism	Chb	-
+BELIKPJO_01543	V	Defense mechanisms	RidA	-
+BELIKPJO_01544	K	Transcription	MepB	-
+BELIKPJO_01545	K	Transcription	ARO8	-
+BELIKPJO_01546	E	Amino acid transport and metabolism	OCDMu	-
+BELIKPJO_01547	R	General function prediction only	YHI9	-
+BELIKPJO_01548	H	Coenzyme transport and metabolism	PduO	-
+BELIKPJO_01550	R	General function prediction only	YvpB	-
+BELIKPJO_01553	L	Replication, recombination and repair	XerD	-
+BELIKPJO_01554	L	Replication, recombination and repair	XerD	-
+BELIKPJO_01559	K	Transcription	AraC	-
+BELIKPJO_01560	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_01561	P	Inorganic ion transport and metabolism	AslA	-
+BELIKPJO_01562	K	Transcription	RpiR	-
+BELIKPJO_01563	G	Carbohydrate transport and metabolism	NanE	-
+BELIKPJO_01564	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_01565	G	Carbohydrate transport and metabolism	NagE	-
+BELIKPJO_01569	E	Amino acid transport and metabolism	BrnQ	-
+BELIKPJO_01570	E	Amino acid transport and metabolism	AnsP	-
+BELIKPJO_01571	C	Energy production and conversion	NatB	-
+BELIKPJO_01572	R	General function prediction only	YhaQ	-
+BELIKPJO_01574	X	Mobilome: prophages, transposons		-
+BELIKPJO_01575	X	Mobilome: prophages, transposons		-
+BELIKPJO_01579	K	Transcription	RpoE	-
+BELIKPJO_01582	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_01583	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_01585	K	Transcription	AraC	-
+BELIKPJO_01587	R	General function prediction only	YbdN	-
+BELIKPJO_01588	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+BELIKPJO_01590	G	Carbohydrate transport and metabolism	NagC	-
+BELIKPJO_01592	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_01593	G	Carbohydrate transport and metabolism	CelC	-
+BELIKPJO_01594	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_01595	G	Carbohydrate transport and metabolism	BglS	-
+BELIKPJO_01596	G	Carbohydrate transport and metabolism	NanH	-
+BELIKPJO_01597	X	Mobilome: prophages, transposons	RAYT	-
+BELIKPJO_01598	R	General function prediction only	YjbJ	-
+BELIKPJO_01601	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_01602	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_01605	V	Defense mechanisms	SunT	-
+BELIKPJO_01606	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+BELIKPJO_01607	K	Transcription	HipB	-
+BELIKPJO_01610	L	Replication, recombination and repair	Dcm	-
+BELIKPJO_01611	L	Replication, recombination and repair	YncB	-
+BELIKPJO_01613	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_01625	S	Function unknown	CwlO1	-
+BELIKPJO_01627	V	Defense mechanisms	MazF	-
+BELIKPJO_01628	V	Defense mechanisms	MazE	-
+BELIKPJO_01629	X	Mobilome: prophages, transposons	YkfC	-
+BELIKPJO_01633	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+BELIKPJO_01636	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+BELIKPJO_01640	T	Signal transduction mechanisms	YfgM	-
+BELIKPJO_01648	R	General function prediction only	YqiK	-
+BELIKPJO_01650	X	Mobilome: prophages, transposons	Tra8	-
+BELIKPJO_01652	F	Nucleotide transport and metabolism	GuaA2	-
+BELIKPJO_01653	H	Coenzyme transport and metabolism	CoaA	-
+BELIKPJO_01654	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+BELIKPJO_01655	J	Translation, ribosomal structure and biogenesis	RsmC	-
+BELIKPJO_01656	F	Nucleotide transport and metabolism	Add	-
+BELIKPJO_01657	K	Transcription	PurR	-
+BELIKPJO_01658	F	Nucleotide transport and metabolism	DeoA	-
+BELIKPJO_01659	F	Nucleotide transport and metabolism	DeoC	-
+BELIKPJO_01660	F	Nucleotide transport and metabolism	Cdd	-
+BELIKPJO_01661	T	Signal transduction mechanisms	Med	-
+BELIKPJO_01662	T	Signal transduction mechanisms	Med	-
+BELIKPJO_01663	F	Nucleotide transport and metabolism	NupO	-
+BELIKPJO_01664	F	Nucleotide transport and metabolism	NupP	-
+BELIKPJO_01665	F	Nucleotide transport and metabolism	NupQ	-
+BELIKPJO_01666	C	Energy production and conversion	TMEM175	-
+BELIKPJO_01667	G	Carbohydrate transport and metabolism	DeoB	-
+BELIKPJO_01668	F	Nucleotide transport and metabolism	XapA	-
+BELIKPJO_01669	F	Nucleotide transport and metabolism	DeoD	-
+BELIKPJO_01670	P	Inorganic ion transport and metabolism	FecB	-
+BELIKPJO_01671	P	Inorganic ion transport and metabolism	FepC	-
+BELIKPJO_01672	P	Inorganic ion transport and metabolism	FepD	-
+BELIKPJO_01673	P	Inorganic ion transport and metabolism	FepD	-
+BELIKPJO_01674	C	Energy production and conversion	YqdH	-
+BELIKPJO_01675	G	Carbohydrate transport and metabolism	GpmA	-
+BELIKPJO_01676	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_01677	G	Carbohydrate transport and metabolism	RpiA	-
+BELIKPJO_01678	J	Translation, ribosomal structure and biogenesis	RpsL	-
+BELIKPJO_01679	J	Translation, ribosomal structure and biogenesis	RpsG	-
+BELIKPJO_01680	J	Translation, ribosomal structure and biogenesis	FusA	-
+BELIKPJO_01681	J	Translation, ribosomal structure and biogenesis	TufA	-
+BELIKPJO_01682	H	Coenzyme transport and metabolism	ThiD	-
+BELIKPJO_01683	I	Lipid transport and metabolism	Cfa	-
+BELIKPJO_01684	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+BELIKPJO_01685	J	Translation, ribosomal structure and biogenesis	RplC	-
+BELIKPJO_01686	J	Translation, ribosomal structure and biogenesis	RplD	-
+BELIKPJO_01687	J	Translation, ribosomal structure and biogenesis	RplW	-
+BELIKPJO_01688	J	Translation, ribosomal structure and biogenesis	RplB	-
+BELIKPJO_01689	J	Translation, ribosomal structure and biogenesis	RpsS	-
+BELIKPJO_01690	J	Translation, ribosomal structure and biogenesis	RplV	-
+BELIKPJO_01691	J	Translation, ribosomal structure and biogenesis	RpsC	-
+BELIKPJO_01692	J	Translation, ribosomal structure and biogenesis	RplP	-
+BELIKPJO_01693	J	Translation, ribosomal structure and biogenesis	RpmC	-
+BELIKPJO_01694	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+BELIKPJO_01695	J	Translation, ribosomal structure and biogenesis	RplN	-
+BELIKPJO_01696	J	Translation, ribosomal structure and biogenesis	RplX	-
+BELIKPJO_01697	J	Translation, ribosomal structure and biogenesis	RplE	-
+BELIKPJO_01698	J	Translation, ribosomal structure and biogenesis	RpsN	-
+BELIKPJO_01699	J	Translation, ribosomal structure and biogenesis	RpsH	-
+BELIKPJO_01700	J	Translation, ribosomal structure and biogenesis	RplF	-
+BELIKPJO_01701	J	Translation, ribosomal structure and biogenesis	RplR	-
+BELIKPJO_01702	J	Translation, ribosomal structure and biogenesis	RpsE	-
+BELIKPJO_01703	J	Translation, ribosomal structure and biogenesis	RpmD	-
+BELIKPJO_01704	J	Translation, ribosomal structure and biogenesis	RplO	-
+BELIKPJO_01705	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+BELIKPJO_01706	F	Nucleotide transport and metabolism	Adk	-
+BELIKPJO_01707	J	Translation, ribosomal structure and biogenesis	InfA	-
+BELIKPJO_01708	J	Translation, ribosomal structure and biogenesis	RpmJ	-
+BELIKPJO_01709	J	Translation, ribosomal structure and biogenesis	RpsM	-
+BELIKPJO_01710	J	Translation, ribosomal structure and biogenesis	RpsK	-
+BELIKPJO_01711	K	Transcription	RpoA	-
+BELIKPJO_01712	J	Translation, ribosomal structure and biogenesis	RplQ	-
+BELIKPJO_01714	R	General function prediction only	AbgB	-
+BELIKPJO_01715	P	Inorganic ion transport and metabolism	EcfA2	-
+BELIKPJO_01716	P	Inorganic ion transport and metabolism	EcfA2	-
+BELIKPJO_01717	H	Coenzyme transport and metabolism	EcfT	-
+BELIKPJO_01718	J	Translation, ribosomal structure and biogenesis	TruA	-
+BELIKPJO_01719	S	Function unknown	YbjQ	-
+BELIKPJO_01720	E	Amino acid transport and metabolism	BrnQ	-
+BELIKPJO_01721	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_01722	F	Nucleotide transport and metabolism	PpnN	-
+BELIKPJO_01723	E	Amino acid transport and metabolism	GlnQ	-
+BELIKPJO_01724	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_01726	O	Posttranslational modification, protein turnover, chaperones	SIR2	-
+BELIKPJO_01727	R	General function prediction only	WbbJ	-
+BELIKPJO_01728	K	Transcription	NiaR	-
+BELIKPJO_01729	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_01730	I	Lipid transport and metabolism	AdhE	-
+BELIKPJO_01731	C	Energy production and conversion	Mdh	-
+BELIKPJO_01732	J	Translation, ribosomal structure and biogenesis	Pth	-
+BELIKPJO_01733	L	Replication, recombination and repair	Mfd	-
+BELIKPJO_01734	D	Cell cycle control, cell division, chromosome partitioning	SpoVB	-
+BELIKPJO_01735	J	Translation, ribosomal structure and biogenesis	HslR	-
+BELIKPJO_01736	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+BELIKPJO_01737	R	General function prediction only	YabR	-
+BELIKPJO_01738	J	Translation, ribosomal structure and biogenesis	TtcA	-
+BELIKPJO_01739	F	Nucleotide transport and metabolism	HptA	-
+BELIKPJO_01740	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+BELIKPJO_01741	O	Posttranslational modification, protein turnover, chaperones	HslO	-
+BELIKPJO_01742	J	Translation, ribosomal structure and biogenesis	DusA	-
+BELIKPJO_01743	J	Translation, ribosomal structure and biogenesis	LysU	-
+BELIKPJO_01748	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+BELIKPJO_01749	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+BELIKPJO_01750	I	Lipid transport and metabolism	MmsB	-
+BELIKPJO_01751	S	Function unknown	YkuJ	-
+BELIKPJO_01752	K	Transcription	MarR	-
+BELIKPJO_01753	I	Lipid transport and metabolism	FabH	-
+BELIKPJO_01754	I	Lipid transport and metabolism	AcpP	-
+BELIKPJO_01755	R	General function prediction only	YrpB	-
+BELIKPJO_01756	I	Lipid transport and metabolism	FabD	-
+BELIKPJO_01757	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_01758	I	Lipid transport and metabolism	FabB	-
+BELIKPJO_01759	I	Lipid transport and metabolism	AccB	-
+BELIKPJO_01760	I	Lipid transport and metabolism	FabA	-
+BELIKPJO_01761	I	Lipid transport and metabolism	PccA	-
+BELIKPJO_01762	I	Lipid transport and metabolism	AccD	-
+BELIKPJO_01763	I	Lipid transport and metabolism	AccA	-
+BELIKPJO_01764	M	Cell wall/membrane/envelope biogenesis	YqeG	-
+BELIKPJO_01765	J	Translation, ribosomal structure and biogenesis	RbgA	-
+BELIKPJO_01766	J	Translation, ribosomal structure and biogenesis	YhbY	-
+BELIKPJO_01767	H	Coenzyme transport and metabolism	NadD	-
+BELIKPJO_01768	T	Signal transduction mechanisms	YqeK	-
+BELIKPJO_01769	J	Translation, ribosomal structure and biogenesis	RsfS	-
+BELIKPJO_01770	R	General function prediction only		-
+BELIKPJO_01771	J	Translation, ribosomal structure and biogenesis	TmcAL	-
+BELIKPJO_01772	K	Transcription	TACO1	-
+BELIKPJO_01774	G	Carbohydrate transport and metabolism	ChiA	-
+BELIKPJO_01775	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+BELIKPJO_01777	M	Cell wall/membrane/envelope biogenesis	ErfK	-
+BELIKPJO_01778	Q	Secondary metabolites biosynthesis, transport and catabolism	PptA	-
+BELIKPJO_01779	J	Translation, ribosomal structure and biogenesis	ThrS	-
+BELIKPJO_01780	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+BELIKPJO_01781	J	Translation, ribosomal structure and biogenesis	RpmG	-
+BELIKPJO_01784	R	General function prediction only	YgaE	-
+BELIKPJO_01787	M	Cell wall/membrane/envelope biogenesis	ArnT	-
+BELIKPJO_01788	S	Function unknown	YhaH	-
+BELIKPJO_01789	E	Amino acid transport and metabolism	DAP2	-
+BELIKPJO_01790	H	Coenzyme transport and metabolism	FAU1	-
+BELIKPJO_01791	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+BELIKPJO_01792	S	Function unknown	YqgQ	-
+BELIKPJO_01793	G	Carbohydrate transport and metabolism	NagC	-
+BELIKPJO_01794	P	Inorganic ion transport and metabolism	PspE	-
+BELIKPJO_01795	S	Function unknown	YeaO	-
+BELIKPJO_01796	R	General function prediction only	YdhS	-
+BELIKPJO_01798	M	Cell wall/membrane/envelope biogenesis	GalE	-
+BELIKPJO_01799	G	Carbohydrate transport and metabolism	GalT2	-
+BELIKPJO_01800	L	Replication, recombination and repair	DnaX	-
+BELIKPJO_01801	K	Transcription	YbaB	-
+BELIKPJO_01802	H	Coenzyme transport and metabolism	ThiW	-
+BELIKPJO_01803	H	Coenzyme transport and metabolism	ThiM	-
+BELIKPJO_01804	H	Coenzyme transport and metabolism	ThiE	-
+BELIKPJO_01805	H	Coenzyme transport and metabolism	ThiD	-
+BELIKPJO_01806	K	Transcription	HxlR	-
+BELIKPJO_01807	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_01808	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_01811	H	Coenzyme transport and metabolism	YkoE	-
+BELIKPJO_01812	P	Inorganic ion transport and metabolism	EcfA2	-
+BELIKPJO_01813	H	Coenzyme transport and metabolism	EcfT	-
+BELIKPJO_01814	H	Coenzyme transport and metabolism	TenA	-
+BELIKPJO_01815	L	Replication, recombination and repair	RecR	-
+BELIKPJO_01816	F	Nucleotide transport and metabolism	Tmk	-
+BELIKPJO_01817	T	Signal transduction mechanisms	DarA	-
+BELIKPJO_01818	L	Replication, recombination and repair	DnaX	-
+BELIKPJO_01819	T	Signal transduction mechanisms	YaaT	-
+BELIKPJO_01820	L	Replication, recombination and repair	YabA	-
+BELIKPJO_01821	J	Translation, ribosomal structure and biogenesis	RsmI	-
+BELIKPJO_01822	P	Inorganic ion transport and metabolism	FetA	-
+BELIKPJO_01823	P	Inorganic ion transport and metabolism	FetB	-
+BELIKPJO_01824	L	Replication, recombination and repair	DinP	-
+BELIKPJO_01825	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+BELIKPJO_01826	F	Nucleotide transport and metabolism	NrdD	-
+BELIKPJO_01827	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_01828	M	Cell wall/membrane/envelope biogenesis	LolC	-
+BELIKPJO_01830	Q	Secondary metabolites biosynthesis, transport and catabolism	EntF	-
+BELIKPJO_01831	M	Cell wall/membrane/envelope biogenesis	DltB	-
+BELIKPJO_01832	I	Lipid transport and metabolism	AcpP	-
+BELIKPJO_01833	M	Cell wall/membrane/envelope biogenesis	DltD	-
+BELIKPJO_01834	E	Amino acid transport and metabolism	FrvX	-
+BELIKPJO_01835	S	Function unknown		-
+BELIKPJO_01836	J	Translation, ribosomal structure and biogenesis	ElaC	-
+BELIKPJO_01837	H	Coenzyme transport and metabolism	LplA	-
+BELIKPJO_01838	X	Mobilome: prophages, transposons		-
+BELIKPJO_01839	J	Translation, ribosomal structure and biogenesis	TrmR	-
+BELIKPJO_01840	V	Defense mechanisms	AhpC	-
+BELIKPJO_01841	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+BELIKPJO_01843	L	Replication, recombination and repair	DnaQ	-
+BELIKPJO_01844	L	Replication, recombination and repair	XthA	-
+BELIKPJO_01845	R	General function prediction only	MviM	-
+BELIKPJO_01846	M	Cell wall/membrane/envelope biogenesis	MurB	-
+BELIKPJO_01848	M	Cell wall/membrane/envelope biogenesis	ArnT	-
+BELIKPJO_01849	T	Signal transduction mechanisms		-
+BELIKPJO_01850	J	Translation, ribosomal structure and biogenesis	RpmG	-
+BELIKPJO_01851	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+BELIKPJO_01852	K	Transcription	NusG	-
+BELIKPJO_01853	S	Function unknown		-
+BELIKPJO_01854	K	Transcription	RpiR	-
+BELIKPJO_01855	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_01856	E	Amino acid transport and metabolism	FrvX	-
+BELIKPJO_01857	E	Amino acid transport and metabolism	DppA	-
+BELIKPJO_01858	E	Amino acid transport and metabolism	SdaA	-
+BELIKPJO_01859	E	Amino acid transport and metabolism	SdaA	-
+BELIKPJO_01860	J	Translation, ribosomal structure and biogenesis	Uup	-
+BELIKPJO_01861	J	Translation, ribosomal structure and biogenesis	RplK	-
+BELIKPJO_01862	J	Translation, ribosomal structure and biogenesis	RplA	-
+BELIKPJO_01863	J	Translation, ribosomal structure and biogenesis	RplJ	-
+BELIKPJO_01864	J	Translation, ribosomal structure and biogenesis	RplL	-
+BELIKPJO_01865	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01867	S	Function unknown		-
+BELIKPJO_01871	R	General function prediction only		-
+BELIKPJO_01872	V	Defense mechanisms	RelE	-
+BELIKPJO_01874	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+BELIKPJO_01875	K	Transcription		-
+BELIKPJO_01877	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_01879	L	Replication, recombination and repair	ArdC	-
+BELIKPJO_01882	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01888	S	Function unknown	YloU	-
+BELIKPJO_01889	S	Function unknown		-
+BELIKPJO_01891	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+BELIKPJO_01892	V	Defense mechanisms	SalY	-
+BELIKPJO_01893	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_01894	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+BELIKPJO_01896	S	Function unknown	YdbT	-
+BELIKPJO_01902	S	Function unknown	YajG	-
+BELIKPJO_01904	R	General function prediction only	YvpB	-
+BELIKPJO_01905	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+BELIKPJO_01907	V	Defense mechanisms	MazF	-
+BELIKPJO_01908	V	Defense mechanisms	MazE	-
+BELIKPJO_01913	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+BELIKPJO_01919	R	General function prediction only	ASCH	-
+BELIKPJO_01921	L	Replication, recombination and repair	YncB	-
+BELIKPJO_01922	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_01923	L	Replication, recombination and repair	Ssb	-
+BELIKPJO_01925	K	Transcription	HipB	-
+BELIKPJO_01926	V	Defense mechanisms	Tad	-
+BELIKPJO_01933	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_01935	L	Replication, recombination and repair	DnaG	-
+BELIKPJO_01938	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_01939	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+BELIKPJO_01941	X	Mobilome: prophages, transposons	YkfC	-
+BELIKPJO_01942	R	General function prediction only	ASCH	-
+BELIKPJO_01943	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01944	T	Signal transduction mechanisms	YbbR	-
+BELIKPJO_01946	K	Transcription	AraC	-
+BELIKPJO_01947	P	Inorganic ion transport and metabolism	TauE	-
+BELIKPJO_01948	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01949	O	Posttranslational modification, protein turnover, chaperones	AslB	-
+BELIKPJO_01950	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01951	O	Posttranslational modification, protein turnover, chaperones	AslB	-
+BELIKPJO_01953	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_01954	K	Transcription	RpiR	-
+BELIKPJO_01955	H	Coenzyme transport and metabolism	FolA	-
+BELIKPJO_01956	P	Inorganic ion transport and metabolism	TrkG	-
+BELIKPJO_01957	P	Inorganic ion transport and metabolism	KefB	-
+BELIKPJO_01958	K	Transcription	CopY	-
+BELIKPJO_01959	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_01960	P	Inorganic ion transport and metabolism	CopZ	-
+BELIKPJO_01961	S	Function unknown		-
+BELIKPJO_01962	K	Transcription	YhcF	-
+BELIKPJO_01963	E	Amino acid transport and metabolism	PepC	-
+BELIKPJO_01964	C	Energy production and conversion	RutF	-
+BELIKPJO_01965	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+BELIKPJO_01966	V	Defense mechanisms	EmrE	-
+BELIKPJO_01967	V	Defense mechanisms	EmrE	-
+BELIKPJO_01968	G	Carbohydrate transport and metabolism	Chi1	-
+BELIKPJO_01969	R	General function prediction only		-
+BELIKPJO_01970	I	Lipid transport and metabolism	FatA	-
+BELIKPJO_01971	R	General function prediction only	YecE	-
+BELIKPJO_01972	F	Nucleotide transport and metabolism	MazG2	-
+BELIKPJO_01973	E	Amino acid transport and metabolism	MetL1	-
+BELIKPJO_01974	G	Carbohydrate transport and metabolism	YcjU	-
+BELIKPJO_01975	D	Cell cycle control, cell division, chromosome partitioning	EzrA	-
+BELIKPJO_01976	E	Amino acid transport and metabolism	NifS	-
+BELIKPJO_01977	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_01978	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_01980	X	Mobilome: prophages, transposons		-
+BELIKPJO_01984	T	Signal transduction mechanisms	ANKYR	-
+BELIKPJO_01985	T	Signal transduction mechanisms	ANKYR	-
+BELIKPJO_01986	Q	Secondary metabolites biosynthesis, transport and catabolism	HutI	-
+BELIKPJO_01987	X	Mobilome: prophages, transposons	Doc	-
+BELIKPJO_01988	V	Defense mechanisms	MazE	-
+BELIKPJO_01989	I	Lipid transport and metabolism	Aes	-
+BELIKPJO_01990	K	Transcription	CdaR	-
+BELIKPJO_01991	C	Energy production and conversion	SucD	-
+BELIKPJO_01993	G	Carbohydrate transport and metabolism	UhpC	-
+BELIKPJO_01994	E	Amino acid transport and metabolism	ArcC	-
+BELIKPJO_01995	C	Energy production and conversion	GltP	-
+BELIKPJO_01996	C	Energy production and conversion	AllD	-
+BELIKPJO_01998	F	Nucleotide transport and metabolism	SsnA	-
+BELIKPJO_02000	S	Function unknown	CwlO1	-
+BELIKPJO_02001	E	Amino acid transport and metabolism	MetE	-
+BELIKPJO_02002	R	General function prediction only	PerM	-
+BELIKPJO_02003	R	General function prediction only	HdeD	-
+BELIKPJO_02004	S	Function unknown		-
+BELIKPJO_02005	S	Function unknown		-
+BELIKPJO_02006	O	Posttranslational modification, protein turnover, chaperones	Pcp	-
+BELIKPJO_02007	C	Energy production and conversion	NhaC	-
+BELIKPJO_02008	K	Transcription	MarR	-
+BELIKPJO_02009	C	Energy production and conversion	NfnB	-
+BELIKPJO_02010	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_02011	G	Carbohydrate transport and metabolism	MtlA	-
+BELIKPJO_02012	K	Transcription	BglG	-
+BELIKPJO_02013	G	Carbohydrate transport and metabolism	MtlA2	-
+BELIKPJO_02014	G	Carbohydrate transport and metabolism	MtlA	-
+BELIKPJO_02015	G	Carbohydrate transport and metabolism	MtlA2	-
+BELIKPJO_02016	G	Carbohydrate transport and metabolism	MtlD	-
+BELIKPJO_02017	E	Amino acid transport and metabolism	DadA	-
+BELIKPJO_02018	R	General function prediction only	YwnB	-
+BELIKPJO_02019	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+BELIKPJO_02020	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_02021	V	Defense mechanisms	SalY	-
+BELIKPJO_02025	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_02026	K	Transcription	SoxR	-
+BELIKPJO_02027	K	Transcription	IclR	-
+BELIKPJO_02028	G	Carbohydrate transport and metabolism	Eda	-
+BELIKPJO_02029	G	Carbohydrate transport and metabolism	RbsK	-
+BELIKPJO_02030	G	Carbohydrate transport and metabolism	KduI	-
+BELIKPJO_02031	I	Lipid transport and metabolism	FabG	-
+BELIKPJO_02032	G	Carbohydrate transport and metabolism	YesR	-
+BELIKPJO_02033	G	Carbohydrate transport and metabolism	DctP	-
+BELIKPJO_02034	G	Carbohydrate transport and metabolism	DctM	-
+BELIKPJO_02035	G	Carbohydrate transport and metabolism	DctQ	-
+BELIKPJO_02036	K	Transcription	AraC	-
+BELIKPJO_02037	G	Carbohydrate transport and metabolism	XylB	-
+BELIKPJO_02038	G	Carbohydrate transport and metabolism	RhaA	-
+BELIKPJO_02039	E	Amino acid transport and metabolism	AraD	-
+BELIKPJO_02040	M	Cell wall/membrane/envelope biogenesis	RhaM	-
+BELIKPJO_02041	K	Transcription	AraC	-
+BELIKPJO_02042	G	Carbohydrate transport and metabolism	YcjR	-
+BELIKPJO_02044	E	Amino acid transport and metabolism	PTR2	-
+BELIKPJO_02045	P	Inorganic ion transport and metabolism	XkdP	-
+BELIKPJO_02046	H	Coenzyme transport and metabolism	MenB	-
+BELIKPJO_02047	I	Lipid transport and metabolism	MenE	-
+BELIKPJO_02048	H	Coenzyme transport and metabolism	MenF	-
+BELIKPJO_02049	H	Coenzyme transport and metabolism	MenD	-
+BELIKPJO_02050	H	Coenzyme transport and metabolism	MenH	-
+BELIKPJO_02051	M	Cell wall/membrane/envelope biogenesis	RspA	-
+BELIKPJO_02052	G	Carbohydrate transport and metabolism	NagB	-
+BELIKPJO_02053	I	Lipid transport and metabolism	MenE	-
+BELIKPJO_02054	V	Defense mechanisms	OsmC	-
+BELIKPJO_02055	P	Inorganic ion transport and metabolism	TauE	-
+BELIKPJO_02056	G	Carbohydrate transport and metabolism	ManY	-
+BELIKPJO_02057	G	Carbohydrate transport and metabolism	ManZ	-
+BELIKPJO_02058	G	Carbohydrate transport and metabolism	AgaB	-
+BELIKPJO_02059	K	Transcription	RpiR	-
+BELIKPJO_02060	M	Cell wall/membrane/envelope biogenesis	MurQ	-
+BELIKPJO_02061	V	Defense mechanisms	AmpC	-
+BELIKPJO_02062	G	Carbohydrate transport and metabolism	ManX	-
+BELIKPJO_02064	P	Inorganic ion transport and metabolism	SodA	-
+BELIKPJO_02065	E	Amino acid transport and metabolism	DapF	-
+BELIKPJO_02066	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+BELIKPJO_02067	G	Carbohydrate transport and metabolism	NagB	-
+BELIKPJO_02068	P	Inorganic ion transport and metabolism	SapB	-
+BELIKPJO_02069	M	Cell wall/membrane/envelope biogenesis	LemA	-
+BELIKPJO_02070	S	Function unknown	YgcG	-
+BELIKPJO_02071	F	Nucleotide transport and metabolism	NrdB	-
+BELIKPJO_02072	F	Nucleotide transport and metabolism	NrdA	-
+BELIKPJO_02073	F	Nucleotide transport and metabolism	NrdI	-
+BELIKPJO_02074	O	Posttranslational modification, protein turnover, chaperones	GrxC	-
+BELIKPJO_02075	P	Inorganic ion transport and metabolism	FeoA	-
+BELIKPJO_02076	P	Inorganic ion transport and metabolism	FeoB	-
+BELIKPJO_02078	L	Replication, recombination and repair	XerD	-
+BELIKPJO_02081	F	Nucleotide transport and metabolism	NrdD	-
+BELIKPJO_02082	K	Transcription	RpoE	-
+BELIKPJO_02084	X	Mobilome: prophages, transposons	InsO	-
+BELIKPJO_02085	X	Mobilome: prophages, transposons	InsE	-
+BELIKPJO_02086	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+BELIKPJO_02089	M	Cell wall/membrane/envelope biogenesis	SpoVK	-
+BELIKPJO_02090	H	Coenzyme transport and metabolism	YigB	-
+BELIKPJO_02091	K	Transcription	GlpR	-
+BELIKPJO_02092	G	Carbohydrate transport and metabolism	RpiB	-
+BELIKPJO_02093	G	Carbohydrate transport and metabolism	RpiB	-
+BELIKPJO_02094	G	Carbohydrate transport and metabolism	FruK	-
+BELIKPJO_02095	G	Carbohydrate transport and metabolism	LacD	-
+BELIKPJO_02096	G	Carbohydrate transport and metabolism	CelC	-
+BELIKPJO_02097	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_02098	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_02099	G	Carbohydrate transport and metabolism	GalM	-
+BELIKPJO_02100	M	Cell wall/membrane/envelope biogenesis	BamA	-
+BELIKPJO_02101	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_02102	L	Replication, recombination and repair	SpoIVCA	-
+BELIKPJO_02105	X	Mobilome: prophages, transposons		-
+BELIKPJO_02106	M	Cell wall/membrane/envelope biogenesis	YxeI	-
+BELIKPJO_02107	Q	Secondary metabolites biosynthesis, transport and catabolism	PptA	-
+BELIKPJO_02110	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_02113	X	Mobilome: prophages, transposons	Rve	-
+BELIKPJO_02114	V	Defense mechanisms	NorM	-
+BELIKPJO_02115	E	Amino acid transport and metabolism	PepF	-
+BELIKPJO_02116	S	Function unknown	VanZ	-
+BELIKPJO_02117	K	Transcription	TACO1	-
+BELIKPJO_02120	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+BELIKPJO_02121	R	General function prediction only	YpfH	-
+BELIKPJO_02122	F	Nucleotide transport and metabolism	Cdd	-
+BELIKPJO_02123	M	Cell wall/membrane/envelope biogenesis	MurE	-
+BELIKPJO_02124	D	Cell cycle control, cell division, chromosome partitioning	SpoVB	-
+BELIKPJO_02125	J	Translation, ribosomal structure and biogenesis	RsuA	-
+BELIKPJO_02126	E	Amino acid transport and metabolism	ArgE	-
+BELIKPJO_02128	G	Carbohydrate transport and metabolism	NolL	-
+BELIKPJO_02129	E	Amino acid transport and metabolism	OpuBA	-
+BELIKPJO_02130	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+BELIKPJO_02131	K	Transcription	ArgR	-
+BELIKPJO_02132	G	Carbohydrate transport and metabolism	ManB	-
+BELIKPJO_02133	J	Translation, ribosomal structure and biogenesis	RimL	-
+BELIKPJO_02134	J	Translation, ribosomal structure and biogenesis	RluA	-
+BELIKPJO_02135	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+BELIKPJO_02136	T	Signal transduction mechanisms	YlbF	-
+BELIKPJO_02137	L	Replication, recombination and repair	SbcD	-
+BELIKPJO_02138	L	Replication, recombination and repair	YhaN	-
+BELIKPJO_02139	J	Translation, ribosomal structure and biogenesis	YhaM	-
+BELIKPJO_02140	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+BELIKPJO_02141	R	General function prediction only	GvpP	-
+BELIKPJO_02142	F	Nucleotide transport and metabolism	HinT	-
+BELIKPJO_02143	J	Translation, ribosomal structure and biogenesis	RbbA	-
+BELIKPJO_02144	U	Intracellular trafficking, secretion, and vesicular transport	EcsB	-
+BELIKPJO_02145	H	Coenzyme transport and metabolism	CotS	-
+BELIKPJO_02146	J	Translation, ribosomal structure and biogenesis	TrmB	-
+BELIKPJO_02147	K	Transcription	RpiR	-
+BELIKPJO_02148	G	Carbohydrate transport and metabolism	FruK	-
+BELIKPJO_02149	G	Carbohydrate transport and metabolism	FrwC	-
+BELIKPJO_02150	G	Carbohydrate transport and metabolism	PtsN	-
+BELIKPJO_02151	G	Carbohydrate transport and metabolism	LacD	-
+BELIKPJO_02152	F	Nucleotide transport and metabolism	YgaC	-
+BELIKPJO_02153	R	General function prediction only	ElaA	-
+BELIKPJO_02154	R	General function prediction only	PerM	-
+BELIKPJO_02155	P	Inorganic ion transport and metabolism	MpfA	-
+BELIKPJO_02156	J	Translation, ribosomal structure and biogenesis	PrfC	-
+BELIKPJO_02158	S	Function unknown	YcaP	-
+BELIKPJO_02161	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+BELIKPJO_02163	T	Signal transduction mechanisms	PtsH	-
+BELIKPJO_02164	G	Carbohydrate transport and metabolism	PtsA	-
+BELIKPJO_02168	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+BELIKPJO_02170	G	Carbohydrate transport and metabolism	FrwC	-
+BELIKPJO_02171	G	Carbohydrate transport and metabolism	FruK	-
+BELIKPJO_02172	K	Transcription	GlpR	-
+BELIKPJO_02173	P	Inorganic ion transport and metabolism	ClcA	-
+BELIKPJO_02174	L	Replication, recombination and repair	UvrD	-
+BELIKPJO_02175	L	Replication, recombination and repair	Lig	-
+BELIKPJO_02176	J	Translation, ribosomal structure and biogenesis	GatC	-
+BELIKPJO_02177	J	Translation, ribosomal structure and biogenesis	GatA	-
+BELIKPJO_02178	J	Translation, ribosomal structure and biogenesis	GatB	-
+BELIKPJO_02179	I	Lipid transport and metabolism	LCB5	-
+BELIKPJO_02180	J	Translation, ribosomal structure and biogenesis	TrmA	-
+BELIKPJO_02182	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+BELIKPJO_02183	T	Signal transduction mechanisms	CitB	-
+BELIKPJO_02184	E	Amino acid transport and metabolism	ArgF	-
+BELIKPJO_02185	E	Amino acid transport and metabolism	PotE	-
+BELIKPJO_02186	E	Amino acid transport and metabolism	AguA	-
+BELIKPJO_02187	E	Amino acid transport and metabolism	ArcC	-
+BELIKPJO_02188	J	Translation, ribosomal structure and biogenesis	GatA	-
+BELIKPJO_02189	H	Coenzyme transport and metabolism	PnuC	-
+BELIKPJO_02190	F	Nucleotide transport and metabolism	Dck	-
+BELIKPJO_02191	N	Cell motility	GspF/PilC	-
+BELIKPJO_02192	S	Function unknown		-
+BELIKPJO_02194	E	Amino acid transport and metabolism	TcyP	-
+BELIKPJO_02195	O	Posttranslational modification, protein turnover, chaperones	AprE	-
+BELIKPJO_02198	R	General function prediction only	VOC	-
+BELIKPJO_02199	V	Defense mechanisms	AmpC	-
+BELIKPJO_02200	S	Function unknown		-
+BELIKPJO_02201	J	Translation, ribosomal structure and biogenesis	TrhO	-
+BELIKPJO_02207	S	Function unknown	NPCBM	-
+BELIKPJO_02210	K	Transcription	BglG	-
+BELIKPJO_02211	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_02212	P	Inorganic ion transport and metabolism	SapB	-
+BELIKPJO_02213	E	Amino acid transport and metabolism	GlnQ	-
+BELIKPJO_02214	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_02215	L	Replication, recombination and repair	UvrB	-
+BELIKPJO_02216	L	Replication, recombination and repair	UvrA	-
+BELIKPJO_02218	T	Signal transduction mechanisms	RapZ	-
+BELIKPJO_02219	G	Carbohydrate transport and metabolism	CofD	-
+BELIKPJO_02220	K	Transcription	WhiA	-
+BELIKPJO_02222	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+BELIKPJO_02223	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+BELIKPJO_02225	S	Function unknown		-
+BELIKPJO_02228	C	Energy production and conversion	SucA	-
+BELIKPJO_02229	I	Lipid transport and metabolism	UgpQ1	-
+BELIKPJO_02230	F	Nucleotide transport and metabolism	YjhB	-
+BELIKPJO_02231	K	Transcription	CspC	-
+BELIKPJO_02234	K	Transcription	RpoN	-
+BELIKPJO_02235	M	Cell wall/membrane/envelope biogenesis	OafA	-
+BELIKPJO_02236	J	Translation, ribosomal structure and biogenesis	RbbA	-
+BELIKPJO_02238	H	Coenzyme transport and metabolism	MetK	-
+BELIKPJO_02239	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_02240	V	Defense mechanisms	FrmB	-
+BELIKPJO_02241	K	Transcription	AcrR	-
+BELIKPJO_02242	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_02243	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_02245	K	Transcription	AcrR	-
+BELIKPJO_02246	M	Cell wall/membrane/envelope biogenesis	LolC	-
+BELIKPJO_02247	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_02248	J	Translation, ribosomal structure and biogenesis	Gcd14	-
+BELIKPJO_02249	R	General function prediction only	YhcC	-
+BELIKPJO_02250	I	Lipid transport and metabolism	PgpB	-
+BELIKPJO_02251	S	Function unknown	YvlB	-
+BELIKPJO_02252	S	Function unknown		-
+BELIKPJO_02253	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+BELIKPJO_02254	J	Translation, ribosomal structure and biogenesis	LeuS	-
+BELIKPJO_02257	E	Amino acid transport and metabolism	HisJ	-
+BELIKPJO_02258	E	Amino acid transport and metabolism	GlnQ	-
+BELIKPJO_02259	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_02260	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_02263	J	Translation, ribosomal structure and biogenesis	RplY	-
+BELIKPJO_02264	J	Translation, ribosomal structure and biogenesis	RsuA	-
+BELIKPJO_02266	H	Coenzyme transport and metabolism	YigB	-
+BELIKPJO_02267	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_02268	F	Nucleotide transport and metabolism	Udk	-
+BELIKPJO_02269	V	Defense mechanisms	MazF	-
+BELIKPJO_02270	R	General function prediction only	MviM	-
+BELIKPJO_02271	K	Transcription	BglG	-
+BELIKPJO_02277	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_02279	M	Cell wall/membrane/envelope biogenesis	MupG	-
+BELIKPJO_02280	M	Cell wall/membrane/envelope biogenesis	MupG	-
+BELIKPJO_02281	R	General function prediction only		-
+BELIKPJO_02282	J	Translation, ribosomal structure and biogenesis	SelA	-
+BELIKPJO_02284	G	Carbohydrate transport and metabolism	RbsK	-
+BELIKPJO_02285	L	Replication, recombination and repair	GyrB	-
+BELIKPJO_02286	S	Function unknown	YaiI	-
+BELIKPJO_02287	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+BELIKPJO_02288	M	Cell wall/membrane/envelope biogenesis	MurF	-
+BELIKPJO_02289	L	Replication, recombination and repair	SrmB	-
+BELIKPJO_02290	I	Lipid transport and metabolism	AcpS	-
+BELIKPJO_02291	M	Cell wall/membrane/envelope biogenesis	Alr	-
+BELIKPJO_02292	V	Defense mechanisms	MazF	-
+BELIKPJO_02294	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+BELIKPJO_02295	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+BELIKPJO_02296	K	Transcription	BglG	-
+BELIKPJO_02297	T	Signal transduction mechanisms	Oca4	-
+BELIKPJO_02299	S	Function unknown	YhgE	-
+BELIKPJO_02300	P	Inorganic ion transport and metabolism	FieF	-
+BELIKPJO_02301	E	Amino acid transport and metabolism	PotE	-
+BELIKPJO_02302	E	Amino acid transport and metabolism	ArgA	-
+BELIKPJO_02303	E	Amino acid transport and metabolism	OpuBB	-
+BELIKPJO_02304	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+BELIKPJO_02305	E	Amino acid transport and metabolism	OpuBB	-
+BELIKPJO_02306	E	Amino acid transport and metabolism	OpuBA	-
+BELIKPJO_02307	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+BELIKPJO_02308	J	Translation, ribosomal structure and biogenesis	QueA	-
+BELIKPJO_02309	K	Transcription	XRE	-
+BELIKPJO_02310	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_02311	P	Inorganic ion transport and metabolism	Kup	-
+BELIKPJO_02312	K	Transcription	HipB	-
+BELIKPJO_02313	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_02314	K	Transcription	BglG	-
+BELIKPJO_02315	R	General function prediction only	YdhF	-
+BELIKPJO_02316	L	Replication, recombination and repair	PolA	-
+BELIKPJO_02317	L	Replication, recombination and repair	Nei	-
+BELIKPJO_02318	H	Coenzyme transport and metabolism	CoaE	-
+BELIKPJO_02319	K	Transcription	NrdR	-
+BELIKPJO_02320	L	Replication, recombination and repair	DnaB2	-
+BELIKPJO_02321	L	Replication, recombination and repair	DnaC	-
+BELIKPJO_02323	S	Function unknown		-
+BELIKPJO_02325	R	General function prediction only	YdaL	-
+BELIKPJO_02326	N	Cell motility	BcsA	-
+BELIKPJO_02330	E	Amino acid transport and metabolism	AspB	-
+BELIKPJO_02331	E	Amino acid transport and metabolism	GlnQ	-
+BELIKPJO_02332	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_02333	C	Energy production and conversion	GldA	-
+BELIKPJO_02334	J	Translation, ribosomal structure and biogenesis	Tgt	-
+BELIKPJO_02335	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+BELIKPJO_02337	C	Energy production and conversion	EutG	-
+BELIKPJO_02338	C	Energy production and conversion	LldD	-
+BELIKPJO_02339	I	Lipid transport and metabolism	ERG12	-
+BELIKPJO_02340	I	Lipid transport and metabolism	MVD1	-
+BELIKPJO_02341	I	Lipid transport and metabolism	ERG12	-
+BELIKPJO_02342	U	Intracellular trafficking, secretion, and vesicular transport	DotG	-
+BELIKPJO_02343	R	General function prediction only	AaeB	-
+BELIKPJO_02344	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_02346	E	Amino acid transport and metabolism	DppB	-
+BELIKPJO_02347	E	Amino acid transport and metabolism	DppC	-
+BELIKPJO_02348	E	Amino acid transport and metabolism	DppD	-
+BELIKPJO_02349	E	Amino acid transport and metabolism	AppF	-
+BELIKPJO_02350	X	Mobilome: prophages, transposons	TnpB	-
+BELIKPJO_02351	J	Translation, ribosomal structure and biogenesis	InfC	-
+BELIKPJO_02352	J	Translation, ribosomal structure and biogenesis	RpmI	-
+BELIKPJO_02353	J	Translation, ribosomal structure and biogenesis	RplT	-
+BELIKPJO_02354	K	Transcription	MmcQ	-
+BELIKPJO_02355	S	Function unknown		-
+BELIKPJO_02356	J	Translation, ribosomal structure and biogenesis	RimI	-
+BELIKPJO_02357	R	General function prediction only	GrpB	-
+BELIKPJO_02358	P	Inorganic ion transport and metabolism	SUL1	-
+BELIKPJO_02359	S	Function unknown	YeiH	-
+BELIKPJO_02360	K	Transcription	LysR	-
+BELIKPJO_02361	R	General function prediction only		-
+BELIKPJO_02363	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_02364	T	Signal transduction mechanisms	BaeS	-
+BELIKPJO_02365	G	Carbohydrate transport and metabolism	GlcU	-
+BELIKPJO_02366	E	Amino acid transport and metabolism	PotE	-
+BELIKPJO_02367	J	Translation, ribosomal structure and biogenesis	MetG	-
+BELIKPJO_02370	L	Replication, recombination and repair	HelD	-
+BELIKPJO_02371	N	Cell motility	TatD	-
+BELIKPJO_02372	J	Translation, ribosomal structure and biogenesis	RnmV	-
+BELIKPJO_02373	J	Translation, ribosomal structure and biogenesis	RsmA	-
+BELIKPJO_02375	G	Carbohydrate transport and metabolism	MalK	-
+BELIKPJO_02376	G	Carbohydrate transport and metabolism	MgsA	-
+BELIKPJO_02377	H	Coenzyme transport and metabolism	FmnP	-
+BELIKPJO_02378	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_02379	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_02380	S	Function unknown		-
+BELIKPJO_02381	S	Function unknown	3D	-
+BELIKPJO_02382	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_02383	I	Lipid transport and metabolism	YxjI	-
+BELIKPJO_02384	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_02385	L	Replication, recombination and repair	Ung	-
+BELIKPJO_02386	C	Energy production and conversion	Pta	-
+BELIKPJO_02387	J	Translation, ribosomal structure and biogenesis	TsaE	-
+BELIKPJO_02388	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_02390	K	Transcription	PurR	-
+BELIKPJO_02391	G	Carbohydrate transport and metabolism	GalM	-
+BELIKPJO_02392	G	Carbohydrate transport and metabolism	YcjU	-
+BELIKPJO_02393	G	Carbohydrate transport and metabolism	ATH1	-
+BELIKPJO_02394	G	Carbohydrate transport and metabolism	PtsG1	-
+BELIKPJO_02395	R	General function prediction only	ElsH	-
+BELIKPJO_02396	E	Amino acid transport and metabolism	ProC	-
+BELIKPJO_02397	K	Transcription	AraC	-
+BELIKPJO_02399	V	Defense mechanisms	MazG	-
+BELIKPJO_02402	C	Energy production and conversion	NatA	-
+BELIKPJO_02403	K	Transcription	SoxR	-
+BELIKPJO_02405	J	Translation, ribosomal structure and biogenesis	RplU	-
+BELIKPJO_02406	J	Translation, ribosomal structure and biogenesis	Prp	-
+BELIKPJO_02407	J	Translation, ribosomal structure and biogenesis	RpmA	-
+BELIKPJO_02408	R	General function prediction only	PsiE	-
+BELIKPJO_02409	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+BELIKPJO_02410	E	Amino acid transport and metabolism	PepP	-
+BELIKPJO_02411	V	Defense mechanisms	MazG	-
+BELIKPJO_02412	S	Function unknown	YloU	-
+BELIKPJO_02413	K	Transcription	NusB	-
+BELIKPJO_02414	H	Coenzyme transport and metabolism	FolD	-
+BELIKPJO_02415	L	Replication, recombination and repair	XseA	-
+BELIKPJO_02416	L	Replication, recombination and repair	XseB	-
+BELIKPJO_02417	H	Coenzyme transport and metabolism	IspA	-
+BELIKPJO_02418	J	Translation, ribosomal structure and biogenesis	YqxC	-
+BELIKPJO_02419	K	Transcription	ArgR	-
+BELIKPJO_02420	L	Replication, recombination and repair	RecN	-
+BELIKPJO_02422	P	Inorganic ion transport and metabolism	CorA	-
+BELIKPJO_02424	J	Translation, ribosomal structure and biogenesis	MraZ	-
+BELIKPJO_02425	J	Translation, ribosomal structure and biogenesis	RmsH	-
+BELIKPJO_02426	D	Cell cycle control, cell division, chromosome partitioning	FtsL2	-
+BELIKPJO_02427	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+BELIKPJO_02428	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+BELIKPJO_02429	M	Cell wall/membrane/envelope biogenesis	MurD	-
+BELIKPJO_02430	M	Cell wall/membrane/envelope biogenesis	MurG	-
+BELIKPJO_02431	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+BELIKPJO_02432	D	Cell cycle control, cell division, chromosome partitioning	FtsA	-
+BELIKPJO_02433	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+BELIKPJO_02434	H	Coenzyme transport and metabolism	YggS	-
+BELIKPJO_02435	D	Cell cycle control, cell division, chromosome partitioning	SepF	-
+BELIKPJO_02436	O	Posttranslational modification, protein turnover, chaperones	Ycf19	-
+BELIKPJO_02437	J	Translation, ribosomal structure and biogenesis	YlmH	-
+BELIKPJO_02438	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+BELIKPJO_02439	J	Translation, ribosomal structure and biogenesis	IleS	-
+BELIKPJO_02440	G	Carbohydrate transport and metabolism	Zwf	-
+BELIKPJO_02441	K	Transcription	MntR	-
+BELIKPJO_02443	G	Carbohydrate transport and metabolism	SfsA	-
+BELIKPJO_02444	R	General function prediction only	MviM	-
+BELIKPJO_02445	L	Replication, recombination and repair	SrmB	-
+BELIKPJO_02446	K	Transcription	PspF	-
+BELIKPJO_02447	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_02448	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_02452	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_02453	G	Carbohydrate transport and metabolism	CelC	-
+BELIKPJO_02454	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_02455	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_02456	R	General function prediction only	Eis	-
+BELIKPJO_02459	C	Energy production and conversion	YgiN	-
+BELIKPJO_02460	G	Carbohydrate transport and metabolism	PpsA	-
+BELIKPJO_02461	T	Signal transduction mechanisms	CBS	-
+BELIKPJO_02462	T	Signal transduction mechanisms	PpsR	-
+BELIKPJO_02463	I	Lipid transport and metabolism	MprF	-
+BELIKPJO_02464	H	Coenzyme transport and metabolism	MenH	-
+BELIKPJO_02465	R	General function prediction only	AAA	-
+BELIKPJO_02466	R	General function prediction only	ElsH	-
+BELIKPJO_02467	L	Replication, recombination and repair	UvrA	-
+BELIKPJO_02468	L	Replication, recombination and repair	UvrA	-
+BELIKPJO_02469	J	Translation, ribosomal structure and biogenesis	GatA	-
+BELIKPJO_02470	R	General function prediction only	YcbJ	-
+BELIKPJO_02472	F	Nucleotide transport and metabolism	Ndk	-
+BELIKPJO_02473	E	Amino acid transport and metabolism	AspB	-
+BELIKPJO_02475	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_02476	S	Function unknown		-
+BELIKPJO_02477	F	Nucleotide transport and metabolism	NCS2	-
+BELIKPJO_02478	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_02480	L	Replication, recombination and repair	DnaE	-
+BELIKPJO_02481	G	Carbohydrate transport and metabolism	PfkA	-
+BELIKPJO_02482	G	Carbohydrate transport and metabolism	PykF	-
+BELIKPJO_02483	J	Translation, ribosomal structure and biogenesis	YceD	-
+BELIKPJO_02484	J	Translation, ribosomal structure and biogenesis	RpmF	-
+BELIKPJO_02485	G	Carbohydrate transport and metabolism	Gnd	-
+BELIKPJO_02486	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_02487	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_02504	L	Replication, recombination and repair	XerD	-
+BELIKPJO_02506	P	Inorganic ion transport and metabolism	ArsA	-
+BELIKPJO_02508	K	Transcription	ArsR	-
+BELIKPJO_02510	K	Transcription	ArsR	-
+BELIKPJO_02511	E	Amino acid transport and metabolism	MnaT	-
+BELIKPJO_02512	P	Inorganic ion transport and metabolism	ArsA	-
+BELIKPJO_02513	P	Inorganic ion transport and metabolism	ACR3	-
+BELIKPJO_02514	P	Inorganic ion transport and metabolism	ACR3	-
+BELIKPJO_02515	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_02517	K	Transcription	ArsR	-
+BELIKPJO_02518	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_02519	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_02526	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+BELIKPJO_02529	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+BELIKPJO_02532	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+BELIKPJO_02534	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+BELIKPJO_02537	U	Intracellular trafficking, secretion, and vesicular transport	VirD2	-
+BELIKPJO_02539	L	Replication, recombination and repair		-
+BELIKPJO_02540	L	Replication, recombination and repair		-
+BELIKPJO_02545	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_02546	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_02547	D	Cell cycle control, cell division, chromosome partitioning	SufI	-
+BELIKPJO_02548	P	Inorganic ion transport and metabolism	CopZ	-
+BELIKPJO_02549	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_02550	K	Transcription	CopY	-
+BELIKPJO_02551	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+BELIKPJO_02554	P	Inorganic ion transport and metabolism	ZntA	-
+BELIKPJO_02555	S	Function unknown		-
+BELIKPJO_02556	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+BELIKPJO_02557	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+BELIKPJO_02559	K	Transcription	RpoE	-
+BELIKPJO_02560	K	Transcription	RpoE	-
+BELIKPJO_02562	L	Replication, recombination and repair	XerD	-
+BELIKPJO_02563	K	Transcription	SSL2	-
+BELIKPJO_02564	K	Transcription	SoxR	-
+BELIKPJO_02565	C	Energy production and conversion	Lpd	-
+BELIKPJO_02566	X	Mobilome: prophages, transposons		-
+BELIKPJO_02567	X	Mobilome: prophages, transposons		-
+BELIKPJO_02569	X	Mobilome: prophages, transposons		-
+BELIKPJO_02571	P	Inorganic ion transport and metabolism	TauB	-
+BELIKPJO_02572	P	Inorganic ion transport and metabolism		-
+BELIKPJO_02573	R	General function prediction only	AAA	-
+BELIKPJO_02574	P	Inorganic ion transport and metabolism	MntH	-
+BELIKPJO_02575	T	Signal transduction mechanisms	UspA	-
+BELIKPJO_02576	K	Transcription	CdaR	-
+BELIKPJO_02577	E	Amino acid transport and metabolism	OppA	-
+BELIKPJO_02578	F	Nucleotide transport and metabolism	AllB	-
+BELIKPJO_02579	F	Nucleotide transport and metabolism	SsnA	-
+BELIKPJO_02580	V	Defense mechanisms	MsrC	-
+BELIKPJO_02581	C	Energy production and conversion	PhnB	-
+BELIKPJO_02582	R	General function prediction only	WbbJ	-
+BELIKPJO_02584	G	Carbohydrate transport and metabolism	GalM	-
+BELIKPJO_02585	G	Carbohydrate transport and metabolism	GalK	-
+BELIKPJO_02586	G	Carbohydrate transport and metabolism	GalT2	-
+BELIKPJO_02587	K	Transcription	PurR	-
+BELIKPJO_02588	J	Translation, ribosomal structure and biogenesis	Kti12	-
+BELIKPJO_02590	R	General function prediction only	YhbS	-
+BELIKPJO_02591	R	General function prediction only	MJ0604	-
+BELIKPJO_02592	R	General function prediction only	YhbS	-
+BELIKPJO_02593	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_02594	L	Replication, recombination and repair	DinP	-
+BELIKPJO_02598	T	Signal transduction mechanisms	UspA	-
+BELIKPJO_02600	J	Translation, ribosomal structure and biogenesis	RimL	-
+BELIKPJO_02601	O	Posttranslational modification, protein turnover, chaperones	FrnE	-
+BELIKPJO_02602	S	Function unknown	YhaH	-
+BELIKPJO_02603	K	Transcription	BglG	-
+BELIKPJO_02604	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_02605	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_02606	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_02607	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+BELIKPJO_02609	S	Function unknown	YuzA	-
+BELIKPJO_02616	S	Function unknown	YjgN	-
+BELIKPJO_02618	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+BELIKPJO_02619	R	General function prediction only		-
+BELIKPJO_02621	E	Amino acid transport and metabolism	AnsP	-
+BELIKPJO_02624	C	Energy production and conversion	GlpC	-
+BELIKPJO_02625	C	Energy production and conversion	LutB	-
+BELIKPJO_02626	C	Energy production and conversion	LutC	-
+BELIKPJO_02627	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+BELIKPJO_02628	L	Replication, recombination and repair	AddB	-
+BELIKPJO_02629	L	Replication, recombination and repair	RecB	-
+BELIKPJO_02630	K	Transcription	HxlR	-
+BELIKPJO_02631	J	Translation, ribosomal structure and biogenesis	PheS	-
+BELIKPJO_02632	J	Translation, ribosomal structure and biogenesis	PheT	-
+BELIKPJO_02633	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_02634	E	Amino acid transport and metabolism	HisM	-
+BELIKPJO_02635	E	Amino acid transport and metabolism	HisJ	-
+BELIKPJO_02636	E	Amino acid transport and metabolism	GlnQ	-
+BELIKPJO_02637	M	Cell wall/membrane/envelope biogenesis	MurI	-
+BELIKPJO_02638	J	Translation, ribosomal structure and biogenesis	Rph	-
+BELIKPJO_02639	R	General function prediction only	YfcE	-
+BELIKPJO_02640	K	Transcription	GlpR	-
+BELIKPJO_02641	G	Carbohydrate transport and metabolism	UlaG	-
+BELIKPJO_02642	G	Carbohydrate transport and metabolism	PtsN	-
+BELIKPJO_02643	G	Carbohydrate transport and metabolism	UlaA	-
+BELIKPJO_02644	G	Carbohydrate transport and metabolism	SgaB	-
+BELIKPJO_02645	G	Carbohydrate transport and metabolism	UlaD	-
+BELIKPJO_02646	G	Carbohydrate transport and metabolism	SgaU	-
+BELIKPJO_02647	E	Amino acid transport and metabolism	AraD	-
+BELIKPJO_02648	T	Signal transduction mechanisms		-
+BELIKPJO_02649	E	Amino acid transport and metabolism	DapD	-
+BELIKPJO_02650	R	General function prediction only	AbgB	-
+BELIKPJO_02651	M	Cell wall/membrane/envelope biogenesis	MscS	-
+BELIKPJO_02653	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+BELIKPJO_02654	E	Amino acid transport and metabolism	PuuD	-
+BELIKPJO_02655	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+BELIKPJO_02656	V	Defense mechanisms	MutT	-
+BELIKPJO_02657	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_02658	R	General function prediction only	YdhJ	-
+BELIKPJO_02659	H	Coenzyme transport and metabolism	LplA	-
+BELIKPJO_02660	S	Function unknown	YwiB	-
+BELIKPJO_02661	K	Transcription	RpoE	-
+BELIKPJO_02662	F	Nucleotide transport and metabolism	PyrG	-
+BELIKPJO_02663	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+BELIKPJO_02664	R	General function prediction only	YotM	-
+BELIKPJO_02665	X	Mobilome: prophages, transposons	YoqJ	-
+BELIKPJO_02666	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+BELIKPJO_02667	J	Translation, ribosomal structure and biogenesis	RlmL	-
+BELIKPJO_02668	O	Posttranslational modification, protein turnover, chaperones	YpwA	-
+BELIKPJO_02669	L	Replication, recombination and repair	DnaD	-
+BELIKPJO_02670	L	Replication, recombination and repair	Nth	-
+BELIKPJO_02671	K	Transcription	MngR	-
+BELIKPJO_02672	E	Amino acid transport and metabolism	ArgE	-
+BELIKPJO_02673	E	Amino acid transport and metabolism	IaaA	-
+BELIKPJO_02674	G	Carbohydrate transport and metabolism	CelA	-
+BELIKPJO_02675	G	Carbohydrate transport and metabolism	CelB	-
+BELIKPJO_02677	L	Replication, recombination and repair	DinG	-
+BELIKPJO_02678	J	Translation, ribosomal structure and biogenesis	AnsA	-
+BELIKPJO_02679	J	Translation, ribosomal structure and biogenesis	RnaY	-
+BELIKPJO_02680	T	Signal transduction mechanisms	YajQ	-
+BELIKPJO_02681	S	Function unknown	YitT	-
+BELIKPJO_02682	G	Carbohydrate transport and metabolism	Fba	-
+BELIKPJO_02683	M	Cell wall/membrane/envelope biogenesis	MurA	-
+BELIKPJO_02684	K	Transcription	Rho	-
+BELIKPJO_02685	J	Translation, ribosomal structure and biogenesis	RpmE	-
+BELIKPJO_02686	M	Cell wall/membrane/envelope biogenesis	TagB	-
+BELIKPJO_02687	M	Cell wall/membrane/envelope biogenesis	WecG	-
+BELIKPJO_02689	M	Cell wall/membrane/envelope biogenesis	TagD	-
+BELIKPJO_02692	G	Carbohydrate transport and metabolism	NagC	-
+BELIKPJO_02694	C	Energy production and conversion	NfnB	-
+BELIKPJO_02695	T	Signal transduction mechanisms	LuxS	-
+BELIKPJO_02696	E	Amino acid transport and metabolism	Asd	-
+BELIKPJO_02697	E	Amino acid transport and metabolism	DapA	-
+BELIKPJO_02698	J	Translation, ribosomal structure and biogenesis	RnjA	-
+BELIKPJO_02699	F	Nucleotide transport and metabolism	UshA	-
+BELIKPJO_02700	S	Function unknown	YutD	-
+BELIKPJO_02701	F	Nucleotide transport and metabolism	NagD	-
+BELIKPJO_02702	S	Function unknown		-
+BELIKPJO_02704	I	Lipid transport and metabolism	DegV	-
+BELIKPJO_02705	G	Carbohydrate transport and metabolism	GlpF	-
+BELIKPJO_02706	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_02707	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_02708	T	Signal transduction mechanisms	YycH	-
+BELIKPJO_02709	T	Signal transduction mechanisms	YycI	-
+BELIKPJO_02710	H	Coenzyme transport and metabolism	PhnP	-
+BELIKPJO_02711	P	Inorganic ion transport and metabolism	YraQ	-
+BELIKPJO_02712	S	Function unknown	YcgQ	-
+BELIKPJO_02713	C	Energy production and conversion	YjjB	-
+BELIKPJO_02714	C	Energy production and conversion	YjjP	-
+BELIKPJO_02715	S	Function unknown		-
+BELIKPJO_02716	J	Translation, ribosomal structure and biogenesis	YqgF	-
+BELIKPJO_02717	S	Function unknown	YrzB	-
+BELIKPJO_02718	R	General function prediction only	TPR	-
+BELIKPJO_02719	C	Energy production and conversion	SfcA	-
+BELIKPJO_02720	C	Energy production and conversion	CitS	-
+BELIKPJO_02721	T	Signal transduction mechanisms	CitA	-
+BELIKPJO_02722	K	Transcription	CitB	-
+BELIKPJO_02723	H	Coenzyme transport and metabolism	Cdr	-
+BELIKPJO_02724	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+BELIKPJO_02725	E	Amino acid transport and metabolism	IlvB	-
+BELIKPJO_02726	Q	Secondary metabolites biosynthesis, transport and catabolism	AlsD	-
+BELIKPJO_02729	S	Function unknown	YcfL	-
+BELIKPJO_02730	E	Amino acid transport and metabolism	PotB	-
+BELIKPJO_02731	E	Amino acid transport and metabolism	PotC	-
+BELIKPJO_02732	E	Amino acid transport and metabolism	PotA	-
+BELIKPJO_02733	E	Amino acid transport and metabolism	PotD	-
+BELIKPJO_02734	F	Nucleotide transport and metabolism	AdeC	-
+BELIKPJO_02735	F	Nucleotide transport and metabolism	SsnA	-
+BELIKPJO_02736	K	Transcription	HipB	-
+BELIKPJO_02737	H	Coenzyme transport and metabolism	ApbE	-
+BELIKPJO_02738	C	Energy production and conversion	SsuE	-
+BELIKPJO_02739	C	Energy production and conversion	SsuE	-
+BELIKPJO_02740	K	Transcription	BglG	-
+BELIKPJO_02743	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+BELIKPJO_02744	G	Carbohydrate transport and metabolism	LplB	-
+BELIKPJO_02745	G	Carbohydrate transport and metabolism	UgpE	-
+BELIKPJO_02746	G	Carbohydrate transport and metabolism	UgpB	-
+BELIKPJO_02747	S	Function unknown	YesL	-
+BELIKPJO_02748	Q	Secondary metabolites biosynthesis, transport and catabolism	Axe1	-
+BELIKPJO_02749	R	General function prediction only	ElsH	-
+BELIKPJO_02750	G	Carbohydrate transport and metabolism	BglX	-
+BELIKPJO_02751	G	Carbohydrate transport and metabolism		-
+BELIKPJO_02752	K	Transcription	PurR	-
+BELIKPJO_02754	K	Transcription	MngR	-
+BELIKPJO_02755	G	Carbohydrate transport and metabolism	BglB	-
+BELIKPJO_02756	R	General function prediction only	MviM	-
+BELIKPJO_02757	S	Function unknown	YeaL	-
+BELIKPJO_02760	J	Translation, ribosomal structure and biogenesis	RqcH	-
+BELIKPJO_02763	R	General function prediction only		-
+BELIKPJO_02764	R	General function prediction only		-
+BELIKPJO_02765	R	General function prediction only	PhnK	-
+BELIKPJO_02766	C	Energy production and conversion	YjjB	-
+BELIKPJO_02767	C	Energy production and conversion	YjjP	-
+BELIKPJO_02769	H	Coenzyme transport and metabolism	Cof	-
+BELIKPJO_02770	T	Signal transduction mechanisms	OmpR	-
+BELIKPJO_02771	T	Signal transduction mechanisms	WalK	-
+BELIKPJO_02774	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+BELIKPJO_02775	J	Translation, ribosomal structure and biogenesis	RlmK	-
+BELIKPJO_02776	L	Replication, recombination and repair	RnhC	-
+BELIKPJO_02777	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_02778	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+BELIKPJO_02779	J	Translation, ribosomal structure and biogenesis	RimP	-
+BELIKPJO_02780	K	Transcription	NusA	-
+BELIKPJO_02781	A	RNA processing and modification	RnpM	-
+BELIKPJO_02782	J	Translation, ribosomal structure and biogenesis	Rpl7Ae	-
+BELIKPJO_02783	J	Translation, ribosomal structure and biogenesis	InfB	-
+BELIKPJO_02784	J	Translation, ribosomal structure and biogenesis	RbfA	-
+BELIKPJO_02786	O	Posttranslational modification, protein turnover, chaperones	ImmA	-
+BELIKPJO_02787	K	Transcription	HipB	-
+BELIKPJO_02789	L	Replication, recombination and repair	DnaD	-
+BELIKPJO_02790	L	Replication, recombination and repair	DnaC	-
+BELIKPJO_02798	X	Mobilome: prophages, transposons		-
+BELIKPJO_02799	X	Mobilome: prophages, transposons	YomH	-
+BELIKPJO_02800	X	Mobilome: prophages, transposons	PblB	-
+BELIKPJO_02801	C	Energy production and conversion	NtpE	-
+BELIKPJO_02802	X	Mobilome: prophages, transposons		-
+BELIKPJO_02803	M	Cell wall/membrane/envelope biogenesis	CwlA	-
+BELIKPJO_02804	J	Translation, ribosomal structure and biogenesis	TruB	-
+BELIKPJO_02805	H	Coenzyme transport and metabolism	RibF	-
+BELIKPJO_02806	R	General function prediction only	YhbS	-
+BELIKPJO_02807	K	Transcription	PadR	-
+BELIKPJO_02808	L	Replication, recombination and repair	GINS	-
+BELIKPJO_02809	S	Function unknown		-
+BELIKPJO_02810	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+BELIKPJO_02811	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+BELIKPJO_02812	K	Transcription	LysR	-
+BELIKPJO_02813	K	Transcription	LysR	-
+BELIKPJO_02814	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_02815	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_02816	H	Coenzyme transport and metabolism	HemN	-
+BELIKPJO_02817	K	Transcription	HrcA	-
+BELIKPJO_02818	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+BELIKPJO_02819	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+BELIKPJO_02820	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+BELIKPJO_02821	R	General function prediction only	YfcE	-
+BELIKPJO_02822	K	Transcription	Tex	-
+BELIKPJO_02823	R	General function prediction only	SprT	-
+BELIKPJO_02825	E	Amino acid transport and metabolism	AspB	-
+BELIKPJO_02827	K	Transcription	HipB	-
+BELIKPJO_02828	G	Carbohydrate transport and metabolism	NagA	-
+BELIKPJO_02831	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_02832	M	Cell wall/membrane/envelope biogenesis	LolC	-
+BELIKPJO_02834	R	General function prediction only	YqiK	-
+BELIKPJO_02839	K	Transcription	AcrR	-
+BELIKPJO_02840	R	General function prediction only		-
+BELIKPJO_02841	K	Transcription	MngR	-
+BELIKPJO_02842	S	Function unknown		-
+BELIKPJO_02843	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+BELIKPJO_02845	O	Posttranslational modification, protein turnover, chaperones	YkoI	-
+BELIKPJO_02846	M	Cell wall/membrane/envelope biogenesis	LolD	-
+BELIKPJO_02847	K	Transcription	MarR	-
+BELIKPJO_02848	G	Carbohydrate transport and metabolism	MalG	-
+BELIKPJO_02849	G	Carbohydrate transport and metabolism	UgpA	-
+BELIKPJO_02850	G	Carbohydrate transport and metabolism	MalE	-
+BELIKPJO_02851	G	Carbohydrate transport and metabolism	AmyA	-
+BELIKPJO_02852	G	Carbohydrate transport and metabolism	AmyA	-
+BELIKPJO_02853	G	Carbohydrate transport and metabolism	AmyA	-
+BELIKPJO_02854	C	Energy production and conversion	TMEM175	-
+BELIKPJO_02855	P	Inorganic ion transport and metabolism	MgtA	-
+BELIKPJO_02856	C	Energy production and conversion	AcoA	-
+BELIKPJO_02857	C	Energy production and conversion	AcoB	-
+BELIKPJO_02858	C	Energy production and conversion	AceF	-
+BELIKPJO_02859	C	Energy production and conversion	Lpd	-
+BELIKPJO_02860	T	Signal transduction mechanisms	PocR	-
+BELIKPJO_02861	C	Energy production and conversion	GldA	-
+BELIKPJO_02862	T	Signal transduction mechanisms	DhaM	-
+BELIKPJO_02863	G	Carbohydrate transport and metabolism	DAK1	-
+BELIKPJO_02864	G	Carbohydrate transport and metabolism	DAK1	-
+BELIKPJO_02866	I	Lipid transport and metabolism	PksG	-
+BELIKPJO_02867	I	Lipid transport and metabolism	PaaJ	-
+BELIKPJO_02868	R	General function prediction only	PerM	-
+BELIKPJO_02869	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+BELIKPJO_02870	K	Transcription	CspC	-
+BELIKPJO_02872	K	Transcription	HipB	-
+BELIKPJO_02873	G	Carbohydrate transport and metabolism	AraJ	-
+BELIKPJO_02874	G	Carbohydrate transport and metabolism	UlaG	-
+BELIKPJO_02875	K	Transcription	YtoI	-
+BELIKPJO_02876	A	RNA processing and modification	NrnA	-
+BELIKPJO_02877	R	General function prediction only	PhnA	-
+BELIKPJO_02879	V	Defense mechanisms	VanZ	-
+BELIKPJO_02880	L	Replication, recombination and repair	SrmB	-
+BELIKPJO_02881	K	Transcription	CadC1	-
+BELIKPJO_02882	J	Translation, ribosomal structure and biogenesis	AlaS	-
+BELIKPJO_02883	J	Translation, ribosomal structure and biogenesis	TrmK	-
+BELIKPJO_02884	R	General function prediction only	YqfO	-
+BELIKPJO_02885	E	Amino acid transport and metabolism	PepD2	-
+BELIKPJO_02886	S	Function unknown	YsdA	-
+BELIKPJO_02887	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+BELIKPJO_02888	H	Coenzyme transport and metabolism	MobA	-
+BELIKPJO_02889	P	Inorganic ion transport and metabolism	FocA	-
+BELIKPJO_02890	H	Coenzyme transport and metabolism	MobB	-
+BELIKPJO_02891	C	Energy production and conversion	NuoE	-
+BELIKPJO_02892	C	Energy production and conversion	NuoF	-
+BELIKPJO_02893	C	Energy production and conversion	ForC	-
+BELIKPJO_02894	H	Coenzyme transport and metabolism	MoeA	-
+BELIKPJO_02895	H	Coenzyme transport and metabolism	MoaC	-
+BELIKPJO_02896	H	Coenzyme transport and metabolism	MoaA	-
+BELIKPJO_02897	F	Nucleotide transport and metabolism	YiiM	-
+BELIKPJO_02898	H	Coenzyme transport and metabolism	MoaB	-
+BELIKPJO_02899	H	Coenzyme transport and metabolism	MoeA	-
+BELIKPJO_02900	P	Inorganic ion transport and metabolism	ModA	-
+BELIKPJO_02901	P	Inorganic ion transport and metabolism	ModB	-
+BELIKPJO_02902	P	Inorganic ion transport and metabolism	CysA	-

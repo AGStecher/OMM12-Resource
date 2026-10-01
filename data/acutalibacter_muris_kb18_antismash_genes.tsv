@@ -1,0 +1,152 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065321.1	GFAIFJLA_00240	regX3_2	Sensory transduction protein regX3	224827	225496	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region001	NZ_CP065321.1	GFAIFJLA_00241	phoR_1	Phosphate regulon sensor protein PhoR	225479	226826	+	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region001	NZ_CP065321.1	GFAIFJLA_00242	GFAIFJLA_00242_gene	hypothetical protein	227035	227227	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00243	GFAIFJLA_00243_gene	hypothetical protein	227233	227578	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00244	GFAIFJLA_00244_gene	hypothetical protein	228109	229252	-	other	
+region001	NZ_CP065321.1	GFAIFJLA_00245	GFAIFJLA_00245_gene	hypothetical protein	229305	231045	-	other	
+region001	NZ_CP065321.1	GFAIFJLA_00246	GFAIFJLA_00246_gene	hypothetical protein	231484	231664	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00247	agrA_1	Accessory gene regulator A	232184	232901	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00248	GFAIFJLA_00248_gene	hypothetical protein	232901	234230	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00249	agrB_1	Accessory gene regulator protein B	234328	234919	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region001	NZ_CP065321.1	GFAIFJLA_00250	GFAIFJLA_00250_gene	hypothetical protein	234911	235031	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region001	NZ_CP065321.1	GFAIFJLA_00251	GFAIFJLA_00251_gene	hypothetical protein	235333	235795	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00252	spo0C_1	Chromosome-partitioning protein Spo0J	236150	237092	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00253	GFAIFJLA_00253_gene	hypothetical protein	237081	237894	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00254	GFAIFJLA_00254_gene	hypothetical protein	237904	238171	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00255	GFAIFJLA_00255_gene	hypothetical protein	238286	239912	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00256	GFAIFJLA_00256_gene	hypothetical protein	239911	240607	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00257	GFAIFJLA_00257_gene	hypothetical protein	240576	240828	-	other	
+region001	NZ_CP065321.1	GFAIFJLA_00258	GFAIFJLA_00258_gene	hypothetical protein	241079	241394	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00259	betI	HTH-type transcriptional regulator BetI	241897	242530	+	regulatory	regulatory (smcogs) SMCOG1057: TetR family transcriptional regulator
+region001	NZ_CP065321.1	GFAIFJLA_00260	GFAIFJLA_00260_gene	hypothetical protein	242633	243338	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00261	GFAIFJLA_00261_gene	hypothetical protein	243469	243757	+	other	
+region001	NZ_CP065321.1	GFAIFJLA_00262	GFAIFJLA_00262_gene	hypothetical protein	243753	243978	-	other	
+region001	NZ_CP065321.1	GFAIFJLA_00263	GFAIFJLA_00263_gene	hypothetical protein	244109	245015	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00295	GFAIFJLA_00295_gene	hypothetical protein	280024	281155	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00296	GFAIFJLA_00296_gene	hypothetical protein	281480	282734	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00297	GFAIFJLA_00297_gene	hypothetical protein	282814	282991	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00298	GFAIFJLA_00298_gene	hypothetical protein	283017	283395	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00299	GFAIFJLA_00299_gene	hypothetical protein	283429	284593	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00300	GFAIFJLA_00300_gene	hypothetical protein	284602	285679	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00301	GFAIFJLA_00301_gene	hypothetical protein	285879	286338	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00302	GFAIFJLA_00302_gene	putative HTH-type transcriptional regulator	286747	287092	-	other	other (smcogs) SMCOG1148: hypothetical protein
+region002	NZ_CP065321.1	GFAIFJLA_00303	GFAIFJLA_00303_gene	hypothetical protein	287228	287750	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00304	ypdB_2	Transcriptional regulatory protein YpdB	287737	288457	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00305	GFAIFJLA_00305_gene	hypothetical protein	288453	289293	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00306	agrB_2	Accessory gene regulator protein B	289880	290471	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region002	NZ_CP065321.1	GFAIFJLA_00307	GFAIFJLA_00307_gene	hypothetical protein	290463	290583	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region002	NZ_CP065321.1	GFAIFJLA_00308	GFAIFJLA_00308_gene	hypothetical protein	290885	291347	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00309	spo0C_2	Chromosome-partitioning protein Spo0J	291703	292633	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00310	Int-Tn_6	Transposase from transposon Tn916	292533	293349	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region002	NZ_CP065321.1	GFAIFJLA_00311	GFAIFJLA_00311_gene	hypothetical protein	293600	293972	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00312	GFAIFJLA_00312_gene	hypothetical protein	293985	294147	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00313	GFAIFJLA_00313_gene	hypothetical protein	294121	295024	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00314	spo0C_3	Chromosome-partitioning protein Spo0J	295187	295592	+	other	
+region002	NZ_CP065321.1	GFAIFJLA_00315	lysS	Lysine--tRNA ligase	296065	298003	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00316	greA	Transcription elongation factor GreA	298046	298529	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00317	ykvT	putative protein YkvT	298652	299351	-	other	
+region002	NZ_CP065321.1	GFAIFJLA_00318	luxS	S-ribosylhomocysteine lyase	299526	299988	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00837	GFAIFJLA_00837_gene	hypothetical protein	844661	845567	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00838	GFAIFJLA_00838_gene	hypothetical protein	845626	846529	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00839	abgB	p-aminobenzoyl-glutamate hydrolase subunit B	846525	847995	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1244: amidohydrolase
+region003	NZ_CP065321.1	GFAIFJLA_00840	artM_1	Arginine transport ATP-binding protein ArtM	848006	848747	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region003	NZ_CP065321.1	GFAIFJLA_00841	artQ	Arginine transport system permease protein ArtQ	848730	849420	-	transport	transport (smcogs) SMCOG1096: polar amino acid ABC transporter, inner membrane
+region003	NZ_CP065321.1	GFAIFJLA_00842	artP	Arginine-binding extracellular protein ArtP	849529	850423	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1091: glutamine-binding lipoprotein glnH
+region003	NZ_CP065321.1	GFAIFJLA_00843	apy	Exo-alpha-(1->6)-L-arabinopyranosidase	850635	853428	+	other	
+region003	NZ_CP065321.1	GFAIFJLA_00844	GFAIFJLA_00844_gene	hypothetical protein	853529	854465	+	other	
+region003	NZ_CP065321.1	GFAIFJLA_00845	GFAIFJLA_00845_gene	hypothetical protein	854525	854675	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: SCIFF; biosynthetic (rule-based-clusters) ranthipeptide: TIGR03973
+region003	NZ_CP065321.1	GFAIFJLA_00846	chuR_1	Anaerobic sulfatase-maturating enzyme	854751	856131	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: TIGR04085; biosynthetic (rule-based-clusters) ranthipeptide: SPASM; biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic (rule-based-clusters) ranthipeptide: Ranthipeptide_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12
+region003	NZ_CP065321.1	GFAIFJLA_00847	speA	Arginine decarboxylase	856127	857462	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Aminotran_5
+region003	NZ_CP065321.1	GFAIFJLA_00848	yicI	Alpha-xylosidase	857517	859770	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00849	phnP	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	859797	860634	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00850	groL	60 kDa chaperonin	860778	862404	-	other	other (smcogs) SMCOG1299: chaperonin GroEL
+region003	NZ_CP065321.1	GFAIFJLA_00851	groS	10 kDa chaperonin	862544	862838	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00852	rpsT	30S ribosomal protein S20	863129	863390	+	other	
+region003	NZ_CP065321.1	GFAIFJLA_00853	GFAIFJLA_00853_gene	hypothetical protein	863534	863684	+	other	
+region003	NZ_CP065321.1	GFAIFJLA_00854	ydhF	Oxidoreductase YdhF	863698	864616	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1039: aldo/keto reductase family oxidoreductase
+region003	NZ_CP065321.1	GFAIFJLA_00855	GFAIFJLA_00855_gene	hypothetical protein	864671	865028	-	other	
+region003	NZ_CP065321.1	GFAIFJLA_00856	yutF	Acid sugar phosphatase	865054	865858	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01481	GFAIFJLA_01481_gene	hypothetical protein	1446702	1446825	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01482	GFAIFJLA_01482_gene	hypothetical protein	1447215	1448034	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01483	GFAIFJLA_01483_gene	hypothetical protein	1449275	1449977	+	other	other (smcogs) SMCOG1237: transposase
+region004	NZ_CP065321.1	GFAIFJLA_01484	GFAIFJLA_01484_gene	hypothetical protein	1449921	1450398	+	other	other (smcogs) SMCOG1237: transposase
+region004	NZ_CP065321.1	GFAIFJLA_01485	GFAIFJLA_01485_gene	hypothetical protein	1450814	1451987	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01486	htpG_1	Chaperone protein HtpG	1451932	1453681	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01487	celC	Endoglucanase C	1453731	1455312	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01488	GFAIFJLA_01488_gene	hypothetical protein	1455831	1455987	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region004	NZ_CP065321.1	GFAIFJLA_01489	btsR_1	Transcriptional regulatory protein BtsR	1456301	1456703	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01490	GFAIFJLA_01490_gene	hypothetical protein	1456753	1457032	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01491	GFAIFJLA_01491_gene	hypothetical protein	1457127	1457484	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01492	GFAIFJLA_01492_gene	hypothetical protein	1457458	1457755	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01493	GFAIFJLA_01493_gene	hypothetical protein	1457862	1458099	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01494	GFAIFJLA_01494_gene	hypothetical protein	1458393	1458846	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01495	GFAIFJLA_01495_gene	hypothetical protein	1458900	1459470	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01496	GFAIFJLA_01496_gene	hypothetical protein	1459473	1459665	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01497	GFAIFJLA_01497_gene	hypothetical protein	1459865	1460132	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01498	GFAIFJLA_01498_gene	hypothetical protein	1460131	1460374	+	other	
+region004	NZ_CP065321.1	GFAIFJLA_01499	GFAIFJLA_01499_gene	hypothetical protein	1461171	1461474	-	other	
+region004	NZ_CP065321.1	GFAIFJLA_01500	yvdT	putative HTH-type transcriptional regulator YvdT	1461646	1462264	+	regulatory	regulatory (smcogs) SMCOG1057: TetR family transcriptional regulator
+region004	NZ_CP065321.1	GFAIFJLA_01501	irtA	Iron import ATP-binding/permease protein IrtA	1462333	1464112	+	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region004	NZ_CP065321.1	GFAIFJLA_01502	GFAIFJLA_01502_gene	putative ABC transporter ATP-binding protein	1464104	1465832	+	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region005	NZ_CP065321.1	GFAIFJLA_02880	GFAIFJLA_02880_gene	hypothetical protein	2810168	2810855	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02881	GFAIFJLA_02881_gene	hypothetical protein	2810851	2811715	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02882	ilvC	Ketol-acid reductoisomerase (NAD(+))	2811730	2812747	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) 2-Hacid_dh_C
+region005	NZ_CP065321.1	GFAIFJLA_02883	GFAIFJLA_02883_gene	hypothetical protein	2812804	2813290	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02884	ilvH_2	Acetolactate synthase small subunit	2813289	2813799	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02885	ilvG	Acetolactate synthase isozyme 2 large subunit	2813800	2815468	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) TPP_enzyme_N; biosynthetic-additional (rule-based-clusters) TPP_enzyme_C; biosynthetic-additional (smcogs) SMCOG1055: pyruvate oxidase/decarboxylase
+region005	NZ_CP065321.1	GFAIFJLA_02886	rimL	Ribosomal-protein-serine acetyltransferase	2815464	2816151	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1111: GCN5-related N-acetyltransferase
+region005	NZ_CP065321.1	GFAIFJLA_02887	tdcB	L-threonine ammonia-lyase	2816514	2817717	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PALP; biosynthetic-additional (smcogs) SMCOG1081: cysteine synthase
+region005	NZ_CP065321.1	GFAIFJLA_02888	GFAIFJLA_02888_gene	hypothetical protein	2817927	2818800	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02889	rluD_1	Ribosomal large subunit pseudouridine synthase D	2818813	2819680	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1279: pseudouridine synthase
+region005	NZ_CP065321.1	GFAIFJLA_02890	GFAIFJLA_02890_gene	Farnesyl diphosphate synthase	2819679	2820594	-	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region005	NZ_CP065321.1	GFAIFJLA_02891	xseB	Exodeoxyribonuclease 7 small subunit	2820586	2820802	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02892	xseA	Exodeoxyribonuclease 7 large subunit	2820854	2822042	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02893	tsaD_2	tRNA N6-adenosine threonylcarbamoyltransferase	2822038	2822965	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02894	nusB	Transcription antitermination protein NusB	2822961	2823375	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02895	GFAIFJLA_02895_gene	hypothetical protein	2823521	2823686	+	other	
+region005	NZ_CP065321.1	GFAIFJLA_02896	coaX	Type III pantothenate kinase	2823734	2824502	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02897	panT	Pantothenic acid transporter PanT	2824505	2825180	-	other	
+region005	NZ_CP065321.1	GFAIFJLA_02898	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC	2825442	2826645	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Flavoprotein
+region005	NZ_CP065321.1	GFAIFJLA_02899	GFAIFJLA_02899_gene	hypothetical protein	2826662	2827073	+	other	
+region005	NZ_CP065321.1	GFAIFJLA_02900	glyA	Serine hydroxymethyltransferase	2827124	2828381	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DegT_DnrJ_EryC1
+region005	NZ_CP065321.1	GFAIFJLA_02901	hrb	High molecular weight rubredoxin	2828517	2829222	+	other	
+region005	NZ_CP065321.1	GFAIFJLA_02902	tcdA	tRNA threonylcarbamoyladenosine dehydratase	2829218	2829932	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) ThiF
+region005	NZ_CP065321.1	GFAIFJLA_02903	iscR	HTH-type transcriptional regulator IscR	2829978	2830386	-	other	
+region006	NZ_CP065321.1	GFAIFJLA_03169	GFAIFJLA_03169_gene	hypothetical protein	3089155	3090337	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03170	GFAIFJLA_03170_gene	hypothetical protein	3090354	3091329	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03171	GFAIFJLA_03171_gene	hypothetical protein	3092034	3093285	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03172	lacF_3	Lactose transport system permease protein LacF	3093302	3094166	+	transport	transport (smcogs) SMCOG1067: putative ABC transporter permease protein
+region006	NZ_CP065321.1	GFAIFJLA_03173	araQ_14	L-arabinose transport system permease protein AraQ	3094162	3094936	+	transport	transport (smcogs) SMCOG1069: putative ABC transporter permease protein
+region006	NZ_CP065321.1	GFAIFJLA_03174	GFAIFJLA_03174_gene	hypothetical protein	3094936	3095998	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03175	msbA_5	Lipid A export ATP-binding/permease protein MsbA	3095978	3097637	+	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region006	NZ_CP065321.1	GFAIFJLA_03176	GFAIFJLA_03176_gene	Anaerobic sulfatase-maturating enzyme	3097796	3099197	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: TIGR04085; biosynthetic (rule-based-clusters) ranthipeptide: Other_Sactipeptide_rSAM_RRE; biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12
+region006	NZ_CP065321.1	GFAIFJLA_03177	GFAIFJLA_03177_gene	hypothetical protein	3099196	3100252	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03178	GFAIFJLA_03178_gene	hypothetical protein	3100965	3102501	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03179	GFAIFJLA_03179_gene	hypothetical protein	3102838	3103804	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03180	GFAIFJLA_03180_gene	hypothetical protein	3104267	3105680	+	other	
+region006	NZ_CP065321.1	GFAIFJLA_03181	GFAIFJLA_03181_gene	hypothetical protein	3106218	3107907	-	other	
+region006	NZ_CP065321.1	GFAIFJLA_03182	dpnM_3	Modification methylase DpnIIA	3107919	3108768	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03364	GFAIFJLA_03364_gene	hypothetical protein	3273832	3274570	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03365	GFAIFJLA_03365_gene	hypothetical protein	3274517	3275759	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03366	GFAIFJLA_03366_gene	hypothetical protein	3275755	3275935	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03367	smc_4	Chromosome partition protein Smc	3276076	3277066	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03368	GFAIFJLA_03368_gene	hypothetical protein	3277230	3278505	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03369	GFAIFJLA_03369_gene	hypothetical protein	3278832	3279216	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03370	GFAIFJLA_03370_gene	hypothetical protein	3279219	3279648	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03371	GFAIFJLA_03371_gene	hypothetical protein	3280003	3280411	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03372	mecR1_2	Methicillin resistance mecR1 protein	3280407	3281565	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03373	GFAIFJLA_03373_gene	hypothetical protein	3281730	3282954	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03374	chuR_3	Anaerobic sulfatase-maturating enzyme	3283112	3284564	+	biosynthetic	biosynthetic (rule-based-clusters) RRE-containing: Other_Sactipeptide_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) PF04055; biosynthetic-additional (rule-based-clusters) Fer4_12
+region007	NZ_CP065321.1	GFAIFJLA_03375	GFAIFJLA_03375_gene	hypothetical protein	3284605	3285649	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03376	GFAIFJLA_03376_gene	hypothetical protein	3285651	3285912	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding_2
+region007	NZ_CP065321.1	GFAIFJLA_03377	GFAIFJLA_03377_gene	hypothetical protein	3285990	3286185	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03378	GFAIFJLA_03378_gene	hypothetical protein	3286092	3286269	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03379	GFAIFJLA_03379_gene	hypothetical protein	3286311	3288168	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03380	GFAIFJLA_03380_gene	hypothetical protein	3288171	3289260	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03381	GFAIFJLA_03381_gene	putative ABC transporter ATP-binding protein	3289262	3290972	+	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region007	NZ_CP065321.1	GFAIFJLA_03382	GFAIFJLA_03382_gene	hypothetical protein	3291133	3291565	-	other	
+region007	NZ_CP065321.1	GFAIFJLA_03383	GFAIFJLA_03383_gene	putative ABC transporter ATP-binding protein	3291762	3292452	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region007	NZ_CP065321.1	GFAIFJLA_03384	GFAIFJLA_03384_gene	hypothetical protein	3292454	3292595	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03385	GFAIFJLA_03385_gene	hypothetical protein	3292560	3293706	+	other	
+region007	NZ_CP065321.1	GFAIFJLA_03386	GFAIFJLA_03386_gene	hypothetical protein	3293716	3294517	+	other	

@@ -1,0 +1,1610 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+PBFPHCLI_00001	C	Energy production and conversion	NarG	-
+PBFPHCLI_00002	C	Energy production and conversion	NarY	-
+PBFPHCLI_00003	C	Energy production and conversion	NarJ	-
+PBFPHCLI_00004	C	Energy production and conversion	NarI	-
+PBFPHCLI_00005	E	Amino acid transport and metabolism	EamA	-
+PBFPHCLI_00006	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00007	I	Lipid transport and metabolism	YjjU	-
+PBFPHCLI_00010	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00011	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00013	I	Lipid transport and metabolism	PccA	-
+PBFPHCLI_00014	I	Lipid transport and metabolism	AccD	-
+PBFPHCLI_00015	I	Lipid transport and metabolism	AccA	-
+PBFPHCLI_00016	I	Lipid transport and metabolism	FabI	-
+PBFPHCLI_00026	O	Posttranslational modification, protein turnover, chaperones	FrnE	-
+PBFPHCLI_00027	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00028	I	Lipid transport and metabolism	Aes	-
+PBFPHCLI_00030	X	Mobilome: prophages, transposons	InsE	-
+PBFPHCLI_00032	V	Defense mechanisms	GmrSD	-
+PBFPHCLI_00039	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00047	K	Transcription	HipB	-
+PBFPHCLI_00048	K	Transcription	LexA	-
+PBFPHCLI_00049	P	Inorganic ion transport and metabolism	CeuA	-
+PBFPHCLI_00050	R	General function prediction only	Hlx	-
+PBFPHCLI_00054	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00056	S	Function unknown	YrvD	-
+PBFPHCLI_00057	H	Coenzyme transport and metabolism	Cof	-
+PBFPHCLI_00058	F	Nucleotide transport and metabolism	RCL	-
+PBFPHCLI_00060	S	Function unknown	YcaP	-
+PBFPHCLI_00062	S	Function unknown	YbaN	-
+PBFPHCLI_00063	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+PBFPHCLI_00065	E	Amino acid transport and metabolism	AnsP	-
+PBFPHCLI_00067	H	Coenzyme transport and metabolism	Dxs	-
+PBFPHCLI_00068	S	Function unknown	BH3996	-
+PBFPHCLI_00069	S	Function unknown	TVP38	-
+PBFPHCLI_00070	L	Replication, recombination and repair	UvrA	-
+PBFPHCLI_00071	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+PBFPHCLI_00072	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+PBFPHCLI_00073	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+PBFPHCLI_00074	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+PBFPHCLI_00075	H	Coenzyme transport and metabolism	AarF	-
+PBFPHCLI_00076	P	Inorganic ion transport and metabolism	MpfA	-
+PBFPHCLI_00077	K	Transcription	CopY	-
+PBFPHCLI_00078	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_00079	S	Function unknown	YeaL	-
+PBFPHCLI_00080	R	General function prediction only	QdoI	-
+PBFPHCLI_00081	E	Amino acid transport and metabolism	MnaT	-
+PBFPHCLI_00082	S	Function unknown		-
+PBFPHCLI_00083	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+PBFPHCLI_00084	J	Translation, ribosomal structure and biogenesis	RnaY	-
+PBFPHCLI_00086	I	Lipid transport and metabolism	DegV	-
+PBFPHCLI_00087	J	Translation, ribosomal structure and biogenesis	RqcH	-
+PBFPHCLI_00088	E	Amino acid transport and metabolism	CarB	-
+PBFPHCLI_00089	E	Amino acid transport and metabolism	CarA	-
+PBFPHCLI_00090	J	Translation, ribosomal structure and biogenesis	RluA	-
+PBFPHCLI_00091	M	Cell wall/membrane/envelope biogenesis	LspA	-
+PBFPHCLI_00092	S	Function unknown	YdbT	-
+PBFPHCLI_00093	L	Replication, recombination and repair	RnhA	-
+PBFPHCLI_00094	J	Translation, ribosomal structure and biogenesis	RlmL	-
+PBFPHCLI_00095	F	Nucleotide transport and metabolism	NrdI	-
+PBFPHCLI_00096	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+PBFPHCLI_00097	X	Mobilome: prophages, transposons	YoqJ	-
+PBFPHCLI_00098	R	General function prediction only	YotM	-
+PBFPHCLI_00099	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+PBFPHCLI_00100	E	Amino acid transport and metabolism	EamA	-
+PBFPHCLI_00101	L	Replication, recombination and repair	DnaD	-
+PBFPHCLI_00102	S	Function unknown	YpmB	-
+PBFPHCLI_00103	L	Replication, recombination and repair	DinG	-
+PBFPHCLI_00104	I	Lipid transport and metabolism	ERG12	-
+PBFPHCLI_00105	I	Lipid transport and metabolism	MVD1	-
+PBFPHCLI_00106	I	Lipid transport and metabolism	ERG12	-
+PBFPHCLI_00107	C	Energy production and conversion	LldD	-
+PBFPHCLI_00108	R	General function prediction only	YagU	-
+PBFPHCLI_00109	G	Carbohydrate transport and metabolism	GalA	-
+PBFPHCLI_00110	K	Transcription	PurR	-
+PBFPHCLI_00111	G	Carbohydrate transport and metabolism	NagC	-
+PBFPHCLI_00112	C	Energy production and conversion	Mdh	-
+PBFPHCLI_00113	M	Cell wall/membrane/envelope biogenesis	LrgB	-
+PBFPHCLI_00114	R	General function prediction only	YohJ	-
+PBFPHCLI_00115	K	Transcription	LytT	-
+PBFPHCLI_00116	T	Signal transduction mechanisms	LytS	-
+PBFPHCLI_00117	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+PBFPHCLI_00118	J	Translation, ribosomal structure and biogenesis	RsmB	-
+PBFPHCLI_00119	H	Coenzyme transport and metabolism	Cof	-
+PBFPHCLI_00120	R	General function prediction only		-
+PBFPHCLI_00121	T	Signal transduction mechanisms	CitB	-
+PBFPHCLI_00122	K	Transcription	HipB	-
+PBFPHCLI_00123	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+PBFPHCLI_00124	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+PBFPHCLI_00125	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+PBFPHCLI_00126	E	Amino acid transport and metabolism	CsdA	-
+PBFPHCLI_00127	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+PBFPHCLI_00128	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+PBFPHCLI_00129	P	Inorganic ion transport and metabolism	FeoA	-
+PBFPHCLI_00130	P	Inorganic ion transport and metabolism	FeoB	-
+PBFPHCLI_00131	I	Lipid transport and metabolism	MenE	-
+PBFPHCLI_00132	H	Coenzyme transport and metabolism	MenB	-
+PBFPHCLI_00133	Q	Secondary metabolites biosynthesis, transport and catabolism	PaaI	-
+PBFPHCLI_00134	K	Transcription	RpoE	-
+PBFPHCLI_00135	G	Carbohydrate transport and metabolism	UhpC	-
+PBFPHCLI_00136	S	Function unknown	YfhO	-
+PBFPHCLI_00138	H	Coenzyme transport and metabolism	RibE	-
+PBFPHCLI_00139	H	Coenzyme transport and metabolism	RibA	-
+PBFPHCLI_00140	H	Coenzyme transport and metabolism	RibC	-
+PBFPHCLI_00141	H	Coenzyme transport and metabolism	RibD1	-
+PBFPHCLI_00142	F	Nucleotide transport and metabolism	URH1	-
+PBFPHCLI_00146	C	Energy production and conversion	CyoA	-
+PBFPHCLI_00147	S	Function unknown	YhaH	-
+PBFPHCLI_00148	X	Mobilome: prophages, transposons	InsO	-
+PBFPHCLI_00149	X	Mobilome: prophages, transposons	InsO	-
+PBFPHCLI_00151	J	Translation, ribosomal structure and biogenesis	GatA	-
+PBFPHCLI_00154	E	Amino acid transport and metabolism	MnaT	-
+PBFPHCLI_00155	G	Carbohydrate transport and metabolism	XylB	-
+PBFPHCLI_00156	G	Carbohydrate transport and metabolism	GntT	-
+PBFPHCLI_00157	K	Transcription	PurR	-
+PBFPHCLI_00158	G	Carbohydrate transport and metabolism	XylB	-
+PBFPHCLI_00161	S	Function unknown	YloU	-
+PBFPHCLI_00162	E	Amino acid transport and metabolism	MnaT	-
+PBFPHCLI_00165	R	General function prediction only	YqkB	-
+PBFPHCLI_00166	C	Energy production and conversion	PPX1	-
+PBFPHCLI_00167	F	Nucleotide transport and metabolism	YjhB	-
+PBFPHCLI_00168	L	Replication, recombination and repair	GyrA	-
+PBFPHCLI_00169	L	Replication, recombination and repair	GyrB	-
+PBFPHCLI_00170	I	Lipid transport and metabolism	PlsY	-
+PBFPHCLI_00171	G	Carbohydrate transport and metabolism	GalM	-
+PBFPHCLI_00172	L	Replication, recombination and repair	TopA	-
+PBFPHCLI_00173	L	Replication, recombination and repair	Smf	-
+PBFPHCLI_00174	L	Replication, recombination and repair	RnhB	-
+PBFPHCLI_00175	J	Translation, ribosomal structure and biogenesis	RbgA	-
+PBFPHCLI_00176	S	Function unknown	YozE	-
+PBFPHCLI_00177	S	Function unknown	YpmS	-
+PBFPHCLI_00178	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+PBFPHCLI_00179	I	Lipid transport and metabolism	DegV	-
+PBFPHCLI_00180	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+PBFPHCLI_00181	H	Coenzyme transport and metabolism	FolA	-
+PBFPHCLI_00182	F	Nucleotide transport and metabolism	ThyA	-
+PBFPHCLI_00183	J	Translation, ribosomal structure and biogenesis	Uup	-
+PBFPHCLI_00184	J	Translation, ribosomal structure and biogenesis	PcnB	-
+PBFPHCLI_00185	M	Cell wall/membrane/envelope biogenesis	LapB	-
+PBFPHCLI_00186	B	Chromatin structure and dynamics	HupA	-
+PBFPHCLI_00187	J	Translation, ribosomal structure and biogenesis	Der	-
+PBFPHCLI_00188	J	Translation, ribosomal structure and biogenesis	RpsA	-
+PBFPHCLI_00189	F	Nucleotide transport and metabolism	Cmk	-
+PBFPHCLI_00191	L	Replication, recombination and repair	RecQ	-
+PBFPHCLI_00192	S	Function unknown	YpbB	-
+PBFPHCLI_00193	H	Coenzyme transport and metabolism	FmnP	-
+PBFPHCLI_00194	J	Translation, ribosomal structure and biogenesis	RsuA	-
+PBFPHCLI_00195	K	Transcription	ScpB	-
+PBFPHCLI_00196	L	Replication, recombination and repair	ScpA	-
+PBFPHCLI_00198	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00199	R	General function prediction only	CvfB	-
+PBFPHCLI_00200	G	Carbohydrate transport and metabolism	PykF	-
+PBFPHCLI_00201	L	Replication, recombination and repair	DnaE	-
+PBFPHCLI_00203	E	Amino acid transport and metabolism	PepD2	-
+PBFPHCLI_00204	H	Coenzyme transport and metabolism	NIF3	-
+PBFPHCLI_00205	J	Translation, ribosomal structure and biogenesis	TrmK	-
+PBFPHCLI_00206	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_00207	K	Transcription	RpoD	-
+PBFPHCLI_00208	L	Replication, recombination and repair	DnaG	-
+PBFPHCLI_00209	J	Translation, ribosomal structure and biogenesis	GlyS	-
+PBFPHCLI_00210	J	Translation, ribosomal structure and biogenesis	GlyQ	-
+PBFPHCLI_00211	L	Replication, recombination and repair	RecO	-
+PBFPHCLI_00212	J	Translation, ribosomal structure and biogenesis	Era	-
+PBFPHCLI_00213	I	Lipid transport and metabolism	DgkA	-
+PBFPHCLI_00214	J	Translation, ribosomal structure and biogenesis	YbeY	-
+PBFPHCLI_00215	T	Signal transduction mechanisms	PhoH	-
+PBFPHCLI_00216	H	Coenzyme transport and metabolism	BirA2	-
+PBFPHCLI_00217	H	Coenzyme transport and metabolism	BioY	-
+PBFPHCLI_00218	E	Amino acid transport and metabolism	ArgH	-
+PBFPHCLI_00219	E	Amino acid transport and metabolism	ArgG	-
+PBFPHCLI_00220	M	Cell wall/membrane/envelope biogenesis	YxeI	-
+PBFPHCLI_00221	R	General function prediction only	YqeY	-
+PBFPHCLI_00222	J	Translation, ribosomal structure and biogenesis	RpsU	-
+PBFPHCLI_00223	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_00224	E	Amino acid transport and metabolism	GlnQ	-
+PBFPHCLI_00225	J	Translation, ribosomal structure and biogenesis	AspS	-
+PBFPHCLI_00226	G	Carbohydrate transport and metabolism	FN3K	-
+PBFPHCLI_00227	J	Translation, ribosomal structure and biogenesis	Dtd	-
+PBFPHCLI_00228	T	Signal transduction mechanisms	SpoT	-
+PBFPHCLI_00230	J	Translation, ribosomal structure and biogenesis	RsmE	-
+PBFPHCLI_00231	J	Translation, ribosomal structure and biogenesis	PrmA	-
+PBFPHCLI_00233	C	Energy production and conversion	Mdh	-
+PBFPHCLI_00234	C	Energy production and conversion	AllD	-
+PBFPHCLI_00235	E	Amino acid transport and metabolism	PepD	-
+PBFPHCLI_00236	J	Translation, ribosomal structure and biogenesis	LepA	-
+PBFPHCLI_00237	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+PBFPHCLI_00238	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+PBFPHCLI_00239	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+PBFPHCLI_00240	K	Transcription	HrcA	-
+PBFPHCLI_00242	H	Coenzyme transport and metabolism	RibF	-
+PBFPHCLI_00243	J	Translation, ribosomal structure and biogenesis	TruB	-
+PBFPHCLI_00244	J	Translation, ribosomal structure and biogenesis	RbfA	-
+PBFPHCLI_00245	J	Translation, ribosomal structure and biogenesis	InfB	-
+PBFPHCLI_00246	J	Translation, ribosomal structure and biogenesis	Rpl7Ae	-
+PBFPHCLI_00247	A	RNA processing and modification	RnpM	-
+PBFPHCLI_00248	K	Transcription	NusA	-
+PBFPHCLI_00249	J	Translation, ribosomal structure and biogenesis	RimP	-
+PBFPHCLI_00250	L	Replication, recombination and repair	PolC	-
+PBFPHCLI_00251	J	Translation, ribosomal structure and biogenesis	ProS	-
+PBFPHCLI_00252	O	Posttranslational modification, protein turnover, chaperones	RseP	-
+PBFPHCLI_00253	I	Lipid transport and metabolism	CdsA	-
+PBFPHCLI_00254	I	Lipid transport and metabolism	UppS	-
+PBFPHCLI_00255	J	Translation, ribosomal structure and biogenesis	Frr	-
+PBFPHCLI_00256	F	Nucleotide transport and metabolism	PyrH	-
+PBFPHCLI_00257	J	Translation, ribosomal structure and biogenesis	Tsf	-
+PBFPHCLI_00258	J	Translation, ribosomal structure and biogenesis	RpsB	-
+PBFPHCLI_00259	C	Energy production and conversion	LdhA	-
+PBFPHCLI_00260	L	Replication, recombination and repair	YhbQ	-
+PBFPHCLI_00261	J	Translation, ribosomal structure and biogenesis	TrmN6	-
+PBFPHCLI_00262	I	Lipid transport and metabolism	PlsC	-
+PBFPHCLI_00263	S	Function unknown	YneF	-
+PBFPHCLI_00264	S	Function unknown	YnzC	-
+PBFPHCLI_00265	K	Transcription	LexA	-
+PBFPHCLI_00266	I	Lipid transport and metabolism	PksG	-
+PBFPHCLI_00267	L	Replication, recombination and repair	RnhA	-
+PBFPHCLI_00269	R	General function prediction only	HdeD	-
+PBFPHCLI_00270	F	Nucleotide transport and metabolism	Apt	-
+PBFPHCLI_00271	L	Replication, recombination and repair	RecJ	-
+PBFPHCLI_00272	R	General function prediction only	YqjQ	-
+PBFPHCLI_00273	J	Translation, ribosomal structure and biogenesis	ElaC	-
+PBFPHCLI_00274	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+PBFPHCLI_00275	L	Replication, recombination and repair	UvrC	-
+PBFPHCLI_00277	V	Defense mechanisms	MazG	-
+PBFPHCLI_00278	D	Cell cycle control, cell division, chromosome partitioning	EngB	-
+PBFPHCLI_00279	O	Posttranslational modification, protein turnover, chaperones	ClpX	-
+PBFPHCLI_00280	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+PBFPHCLI_00281	J	Translation, ribosomal structure and biogenesis	TufA	-
+PBFPHCLI_00283	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_00284	J	Translation, ribosomal structure and biogenesis	RnjA	-
+PBFPHCLI_00285	J	Translation, ribosomal structure and biogenesis	RpsO	-
+PBFPHCLI_00286	J	Translation, ribosomal structure and biogenesis	RpsT	-
+PBFPHCLI_00287	X	Mobilome: prophages, transposons		-
+PBFPHCLI_00288	L	Replication, recombination and repair	HolA	-
+PBFPHCLI_00289	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+PBFPHCLI_00290	F	Nucleotide transport and metabolism	ComEB	-
+PBFPHCLI_00291	L	Replication, recombination and repair	ComEA	-
+PBFPHCLI_00292	T	Signal transduction mechanisms	SdrC	-
+PBFPHCLI_00293	H	Coenzyme transport and metabolism	CoaD	-
+PBFPHCLI_00294	J	Translation, ribosomal structure and biogenesis	RsmD	-
+PBFPHCLI_00295	S	Function unknown	YlbG	-
+PBFPHCLI_00296	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+PBFPHCLI_00297	T	Signal transduction mechanisms	TypA	-
+PBFPHCLI_00298	G	Carbohydrate transport and metabolism	SuhB	-
+PBFPHCLI_00299	S	Function unknown	YktA	-
+PBFPHCLI_00300	C	Energy production and conversion	Lpd	-
+PBFPHCLI_00301	C	Energy production and conversion	AceF	-
+PBFPHCLI_00302	C	Energy production and conversion	AcoB	-
+PBFPHCLI_00303	C	Energy production and conversion	AcoA	-
+PBFPHCLI_00304	J	Translation, ribosomal structure and biogenesis	Def	-
+PBFPHCLI_00306	K	Transcription	RpoEps	-
+PBFPHCLI_00307	I	Lipid transport and metabolism	LCB5	-
+PBFPHCLI_00309	X	Mobilome: prophages, transposons	RAYT	-
+PBFPHCLI_00310	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+PBFPHCLI_00311	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_00315	G	Carbohydrate transport and metabolism	GlxK	-
+PBFPHCLI_00316	G	Carbohydrate transport and metabolism	GlxK	-
+PBFPHCLI_00317	E	Amino acid transport and metabolism	Asd	-
+PBFPHCLI_00318	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_00319	E	Amino acid transport and metabolism	DapB	-
+PBFPHCLI_00320	E	Amino acid transport and metabolism	DapA	-
+PBFPHCLI_00321	R	General function prediction only	AbgB	-
+PBFPHCLI_00322	E	Amino acid transport and metabolism	DapD	-
+PBFPHCLI_00323	E	Amino acid transport and metabolism	LysA	-
+PBFPHCLI_00324	E	Amino acid transport and metabolism	MetL1	-
+PBFPHCLI_00325	E	Amino acid transport and metabolism	DapF	-
+PBFPHCLI_00326	E	Amino acid transport and metabolism	PrsA	-
+PBFPHCLI_00327	L	Replication, recombination and repair	RecD	-
+PBFPHCLI_00328	R	General function prediction only	TPR	-
+PBFPHCLI_00329	G	Carbohydrate transport and metabolism	PhoE	-
+PBFPHCLI_00330	J	Translation, ribosomal structure and biogenesis	MnmA	-
+PBFPHCLI_00332	E	Amino acid transport and metabolism	NifS	-
+PBFPHCLI_00333	F	Nucleotide transport and metabolism	MtnN	-
+PBFPHCLI_00335	V	Defense mechanisms	MutT	-
+PBFPHCLI_00336	K	Transcription	CspC	-
+PBFPHCLI_00337	J	Translation, ribosomal structure and biogenesis	IleS	-
+PBFPHCLI_00338	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+PBFPHCLI_00339	J	Translation, ribosomal structure and biogenesis	YlmH	-
+PBFPHCLI_00340	O	Posttranslational modification, protein turnover, chaperones	Ycf19	-
+PBFPHCLI_00341	D	Cell cycle control, cell division, chromosome partitioning	SepF	-
+PBFPHCLI_00342	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+PBFPHCLI_00343	D	Cell cycle control, cell division, chromosome partitioning	FtsA	-
+PBFPHCLI_00344	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+PBFPHCLI_00345	M	Cell wall/membrane/envelope biogenesis	MurG	-
+PBFPHCLI_00346	M	Cell wall/membrane/envelope biogenesis	MurD	-
+PBFPHCLI_00347	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+PBFPHCLI_00348	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+PBFPHCLI_00349	D	Cell cycle control, cell division, chromosome partitioning	FtsL2	-
+PBFPHCLI_00350	J	Translation, ribosomal structure and biogenesis	RmsH	-
+PBFPHCLI_00351	J	Translation, ribosomal structure and biogenesis	MraZ	-
+PBFPHCLI_00354	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+PBFPHCLI_00355	J	Translation, ribosomal structure and biogenesis	TrmL	-
+PBFPHCLI_00356	H	Coenzyme transport and metabolism	UbiE	-
+PBFPHCLI_00357	G	Carbohydrate transport and metabolism	Pgl	-
+PBFPHCLI_00358	X	Mobilome: prophages, transposons	InsO	-
+PBFPHCLI_00365	J	Translation, ribosomal structure and biogenesis	RluA	-
+PBFPHCLI_00366	H	Coenzyme transport and metabolism	NadK	-
+PBFPHCLI_00367	F	Nucleotide transport and metabolism	YjbM	-
+PBFPHCLI_00368	O	Posttranslational modification, protein turnover, chaperones	FrnE	-
+PBFPHCLI_00369	E	Amino acid transport and metabolism	PepD	-
+PBFPHCLI_00370	R	General function prediction only	CoiA	-
+PBFPHCLI_00371	K	Transcription	MecA	-
+PBFPHCLI_00372	P	Inorganic ion transport and metabolism	ArsC	-
+PBFPHCLI_00376	X	Mobilome: prophages, transposons		-
+PBFPHCLI_00401	M	Cell wall/membrane/envelope biogenesis	DedA	-
+PBFPHCLI_00402	S	Function unknown		-
+PBFPHCLI_00403	F	Nucleotide transport and metabolism	NagD	-
+PBFPHCLI_00404	S	Function unknown	YutD	-
+PBFPHCLI_00405	R	General function prediction only		-
+PBFPHCLI_00406	C	Energy production and conversion	AckA	-
+PBFPHCLI_00407	L	Replication, recombination and repair	YtxK	-
+PBFPHCLI_00408	T	Signal transduction mechanisms	YfgM	-
+PBFPHCLI_00409	X	Mobilome: prophages, transposons	ComGF	-
+PBFPHCLI_00411	X	Mobilome: prophages, transposons	ComGC	-
+PBFPHCLI_00412	X	Mobilome: prophages, transposons	ComGC	-
+PBFPHCLI_00413	N	Cell motility	GspF/PilC	-
+PBFPHCLI_00414	N	Cell motility	GspE/PilB	-
+PBFPHCLI_00415	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_00416	K	Transcription	TACO1	-
+PBFPHCLI_00418	K	Transcription	PurR	-
+PBFPHCLI_00419	E	Amino acid transport and metabolism	PepP	-
+PBFPHCLI_00421	S	Function unknown		-
+PBFPHCLI_00422	M	Cell wall/membrane/envelope biogenesis	MscS	-
+PBFPHCLI_00423	H	Coenzyme transport and metabolism	Cof	-
+PBFPHCLI_00424	T	Signal transduction mechanisms		-
+PBFPHCLI_00425	R	General function prediction only	YfcE	-
+PBFPHCLI_00426	F	Nucleotide transport and metabolism	RdgB	-
+PBFPHCLI_00427	M	Cell wall/membrane/envelope biogenesis	MurI	-
+PBFPHCLI_00429	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+PBFPHCLI_00430	J	Translation, ribosomal structure and biogenesis	RqcU	-
+PBFPHCLI_00431	F	Nucleotide transport and metabolism	CvpA	-
+PBFPHCLI_00432	S	Function unknown	YrzB	-
+PBFPHCLI_00433	J	Translation, ribosomal structure and biogenesis	YqgF	-
+PBFPHCLI_00434	S	Function unknown		-
+PBFPHCLI_00435	J	Translation, ribosomal structure and biogenesis	AlaS	-
+PBFPHCLI_00436	L	Replication, recombination and repair	SrmB	-
+PBFPHCLI_00437	A	RNA processing and modification	NrnA	-
+PBFPHCLI_00438	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+PBFPHCLI_00439	J	Translation, ribosomal structure and biogenesis	Tgt	-
+PBFPHCLI_00440	L	Replication, recombination and repair	RuvB	-
+PBFPHCLI_00441	L	Replication, recombination and repair	RuvA	-
+PBFPHCLI_00442	L	Replication, recombination and repair	MutL	-
+PBFPHCLI_00443	L	Replication, recombination and repair	MutS	-
+PBFPHCLI_00444	J	Translation, ribosomal structure and biogenesis	RnaY	-
+PBFPHCLI_00445	L	Replication, recombination and repair	RecA	-
+PBFPHCLI_00446	L	Replication, recombination and repair	CinA	-
+PBFPHCLI_00447	I	Lipid transport and metabolism	PgsA	-
+PBFPHCLI_00448	D	Cell cycle control, cell division, chromosome partitioning	RodZ	-
+PBFPHCLI_00449	R	General function prediction only	PqqL	-
+PBFPHCLI_00450	R	General function prediction only	PqqL	-
+PBFPHCLI_00451	E	Amino acid transport and metabolism	HisJ	-
+PBFPHCLI_00452	E	Amino acid transport and metabolism	GlnQ	-
+PBFPHCLI_00453	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_00454	M	Cell wall/membrane/envelope biogenesis	MreD	-
+PBFPHCLI_00455	D	Cell cycle control, cell division, chromosome partitioning	MreC	-
+PBFPHCLI_00456	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+PBFPHCLI_00457	L	Replication, recombination and repair	RadC	-
+PBFPHCLI_00458	H	Coenzyme transport and metabolism	FolC	-
+PBFPHCLI_00459	C	Energy production and conversion	Ndh	-
+PBFPHCLI_00460	C	Energy production and conversion	CydC	-
+PBFPHCLI_00461	C	Energy production and conversion	CydD	-
+PBFPHCLI_00462	C	Energy production and conversion	AppB	-
+PBFPHCLI_00463	C	Energy production and conversion	AppC	-
+PBFPHCLI_00464	J	Translation, ribosomal structure and biogenesis	ValS	-
+PBFPHCLI_00465	H	Coenzyme transport and metabolism	ThiI	-
+PBFPHCLI_00466	E	Amino acid transport and metabolism	NifS	-
+PBFPHCLI_00467	D	Cell cycle control, cell division, chromosome partitioning	EzrA	-
+PBFPHCLI_00468	J	Translation, ribosomal structure and biogenesis	RpsD	-
+PBFPHCLI_00469	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00470	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00471	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00472	E	Amino acid transport and metabolism	GlsA	-
+PBFPHCLI_00473	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00474	E	Amino acid transport and metabolism	GadA	-
+PBFPHCLI_00475	F	Nucleotide transport and metabolism	NCS2	-
+PBFPHCLI_00476	I	Lipid transport and metabolism	CaiB	-
+PBFPHCLI_00477	E	Amino acid transport and metabolism	IlvB	-
+PBFPHCLI_00478	L	Replication, recombination and repair	YaaA	-
+PBFPHCLI_00479	R	General function prediction only	YczE	-
+PBFPHCLI_00480	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+PBFPHCLI_00482	S	Function unknown	YueI	-
+PBFPHCLI_00483	L	Replication, recombination and repair	RarA	-
+PBFPHCLI_00485	T	Signal transduction mechanisms	UspA	-
+PBFPHCLI_00486	K	Transcription	PurR	-
+PBFPHCLI_00487	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_00488	R	General function prediction only	WbbJ	-
+PBFPHCLI_00489	G	Carbohydrate transport and metabolism	AraA	-
+PBFPHCLI_00490	E	Amino acid transport and metabolism	AraD	-
+PBFPHCLI_00491	G	Carbohydrate transport and metabolism	XylB	-
+PBFPHCLI_00492	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_00493	K	Transcription	HipB	-
+PBFPHCLI_00494	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+PBFPHCLI_00495	E	Amino acid transport and metabolism	GcvH	-
+PBFPHCLI_00496	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+PBFPHCLI_00498	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+PBFPHCLI_00499	M	Cell wall/membrane/envelope biogenesis	MurA	-
+PBFPHCLI_00500	S	Function unknown	YwzB	-
+PBFPHCLI_00501	C	Energy production and conversion	AtpC	-
+PBFPHCLI_00502	C	Energy production and conversion	AtpD	-
+PBFPHCLI_00503	C	Energy production and conversion	AtpG	-
+PBFPHCLI_00504	C	Energy production and conversion	AtpA	-
+PBFPHCLI_00505	C	Energy production and conversion	AtpH	-
+PBFPHCLI_00506	C	Energy production and conversion	AtpF	-
+PBFPHCLI_00507	C	Energy production and conversion	AtpE	-
+PBFPHCLI_00508	C	Energy production and conversion	AtpB	-
+PBFPHCLI_00509	F	Nucleotide transport and metabolism	UraA	-
+PBFPHCLI_00510	S	Function unknown		-
+PBFPHCLI_00511	S	Function unknown		-
+PBFPHCLI_00512	G	Carbohydrate transport and metabolism	PtsA	-
+PBFPHCLI_00513	F	Nucleotide transport and metabolism	Upp	-
+PBFPHCLI_00514	E	Amino acid transport and metabolism	GlyA	-
+PBFPHCLI_00515	J	Translation, ribosomal structure and biogenesis	TsaC	-
+PBFPHCLI_00516	J	Translation, ribosomal structure and biogenesis	HemK	-
+PBFPHCLI_00517	J	Translation, ribosomal structure and biogenesis	PrfA	-
+PBFPHCLI_00518	F	Nucleotide transport and metabolism	Tdk	-
+PBFPHCLI_00519	M	Cell wall/membrane/envelope biogenesis	MurC	-
+PBFPHCLI_00520	H	Coenzyme transport and metabolism	GatD	-
+PBFPHCLI_00522	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00523	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00524	K	Transcription	ArgR	-
+PBFPHCLI_00525	E	Amino acid transport and metabolism	ArcA	-
+PBFPHCLI_00526	V	Defense mechanisms	AmpC	-
+PBFPHCLI_00530	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_00531	K	Transcription	YozG	-
+PBFPHCLI_00533	X	Mobilome: prophages, transposons	pRha	-
+PBFPHCLI_00547	P	Inorganic ion transport and metabolism	NhaP	-
+PBFPHCLI_00552	P	Inorganic ion transport and metabolism	ZntA	-
+PBFPHCLI_00553	R	General function prediction only		-
+PBFPHCLI_00554	R	General function prediction only		-
+PBFPHCLI_00555	O	Posttranslational modification, protein turnover, chaperones		-
+PBFPHCLI_00556	E	Amino acid transport and metabolism	EamA	-
+PBFPHCLI_00557	E	Amino acid transport and metabolism	ArcC	-
+PBFPHCLI_00558	E	Amino acid transport and metabolism	ArgF	-
+PBFPHCLI_00559	T	Signal transduction mechanisms	YesN	-
+PBFPHCLI_00562	G	Carbohydrate transport and metabolism	Pgi	-
+PBFPHCLI_00563	R	General function prediction only	WbbJ	-
+PBFPHCLI_00564	G	Carbohydrate transport and metabolism	GlcU	-
+PBFPHCLI_00565	T	Signal transduction mechanisms	WalK	-
+PBFPHCLI_00566	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_00568	P	Inorganic ion transport and metabolism	XkdP	-
+PBFPHCLI_00569	H	Coenzyme transport and metabolism	Cof	-
+PBFPHCLI_00570	K	Transcription	MarR	-
+PBFPHCLI_00571	M	Cell wall/membrane/envelope biogenesis	OafA	-
+PBFPHCLI_00573	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+PBFPHCLI_00574	G	Carbohydrate transport and metabolism	ManB	-
+PBFPHCLI_00575	T	Signal transduction mechanisms	YbbR	-
+PBFPHCLI_00576	T	Signal transduction mechanisms	CdaA	-
+PBFPHCLI_00577	G	Carbohydrate transport and metabolism	FucP	-
+PBFPHCLI_00578	G	Carbohydrate transport and metabolism	RbsD	-
+PBFPHCLI_00579	G	Carbohydrate transport and metabolism	RbsK	-
+PBFPHCLI_00580	M	Cell wall/membrane/envelope biogenesis	MurB	-
+PBFPHCLI_00581	L	Replication, recombination and repair	DnaQ	-
+PBFPHCLI_00582	R	General function prediction only		-
+PBFPHCLI_00583	E	Amino acid transport and metabolism	MnaT	-
+PBFPHCLI_00584	J	Translation, ribosomal structure and biogenesis	TsaE	-
+PBFPHCLI_00585	C	Energy production and conversion	Pta	-
+PBFPHCLI_00586	L	Replication, recombination and repair	Ung	-
+PBFPHCLI_00587	I	Lipid transport and metabolism	YxjI	-
+PBFPHCLI_00588	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+PBFPHCLI_00589	K	Transcription	VacB	-
+PBFPHCLI_00590	Q	Secondary metabolites biosynthesis, transport and catabolism	YvaK	-
+PBFPHCLI_00591	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+PBFPHCLI_00592	P	Inorganic ion transport and metabolism	ClcA	-
+PBFPHCLI_00593	E	Amino acid transport and metabolism	AnsP	-
+PBFPHCLI_00594	G	Carbohydrate transport and metabolism	Eno	-
+PBFPHCLI_00595	G	Carbohydrate transport and metabolism	TpiA	-
+PBFPHCLI_00596	G	Carbohydrate transport and metabolism	Pgk	-
+PBFPHCLI_00597	G	Carbohydrate transport and metabolism	GapA	-
+PBFPHCLI_00599	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+PBFPHCLI_00600	G	Carbohydrate transport and metabolism	UhpC	-
+PBFPHCLI_00603	K	Transcription	WhiA	-
+PBFPHCLI_00604	G	Carbohydrate transport and metabolism	CofD	-
+PBFPHCLI_00605	T	Signal transduction mechanisms	RapZ	-
+PBFPHCLI_00606	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00607	L	Replication, recombination and repair	UvrA	-
+PBFPHCLI_00608	L	Replication, recombination and repair	UvrB	-
+PBFPHCLI_00610	F	Nucleotide transport and metabolism	YfbR	-
+PBFPHCLI_00611	G	Carbohydrate transport and metabolism	ManB	-
+PBFPHCLI_00612	I	Lipid transport and metabolism	YciA	-
+PBFPHCLI_00613	E	Amino acid transport and metabolism	HisJ	-
+PBFPHCLI_00614	E	Amino acid transport and metabolism	ArgE	-
+PBFPHCLI_00615	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+PBFPHCLI_00616	C	Energy production and conversion	GlpC	-
+PBFPHCLI_00617	C	Energy production and conversion	LutB	-
+PBFPHCLI_00618	C	Energy production and conversion	LutC	-
+PBFPHCLI_00619	M	Cell wall/membrane/envelope biogenesis	GalU	-
+PBFPHCLI_00620	C	Energy production and conversion	GpsA	-
+PBFPHCLI_00621	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+PBFPHCLI_00622	T	Signal transduction mechanisms	HprK	-
+PBFPHCLI_00623	S	Function unknown	YvlD	-
+PBFPHCLI_00624	K	Transcription	PspC	-
+PBFPHCLI_00625	J	Translation, ribosomal structure and biogenesis	PrfA	-
+PBFPHCLI_00626	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+PBFPHCLI_00627	J	Translation, ribosomal structure and biogenesis	RaiA	-
+PBFPHCLI_00628	R	General function prediction only	ComFC	-
+PBFPHCLI_00629	L	Replication, recombination and repair	ComFA	-
+PBFPHCLI_00630	R	General function prediction only	YIH1	-
+PBFPHCLI_00631	G	Carbohydrate transport and metabolism	UhpC	-
+PBFPHCLI_00633	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00634	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_00635	K	Transcription	MarR	-
+PBFPHCLI_00637	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00638	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00639	R	General function prediction only	ProX	-
+PBFPHCLI_00640	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+PBFPHCLI_00641	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+PBFPHCLI_00642	K	Transcription	Rex	-
+PBFPHCLI_00643	J	Translation, ribosomal structure and biogenesis	Uup	-
+PBFPHCLI_00644	H	Coenzyme transport and metabolism	PanE	-
+PBFPHCLI_00645	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_00646	V	Defense mechanisms	Nit1	-
+PBFPHCLI_00647	E	Amino acid transport and metabolism	ProB	-
+PBFPHCLI_00648	E	Amino acid transport and metabolism	ProA	-
+PBFPHCLI_00649	E	Amino acid transport and metabolism	ProC	-
+PBFPHCLI_00650	J	Translation, ribosomal structure and biogenesis	TsaD	-
+PBFPHCLI_00651	J	Translation, ribosomal structure and biogenesis	RimI	-
+PBFPHCLI_00652	J	Translation, ribosomal structure and biogenesis	TsaB	-
+PBFPHCLI_00653	M	Cell wall/membrane/envelope biogenesis	GalE	-
+PBFPHCLI_00654	F	Nucleotide transport and metabolism	GppA	-
+PBFPHCLI_00655	P	Inorganic ion transport and metabolism	Ppk	-
+PBFPHCLI_00657	I	Lipid transport and metabolism	FatA	-
+PBFPHCLI_00658	J	Translation, ribosomal structure and biogenesis	RsmI	-
+PBFPHCLI_00659	L	Replication, recombination and repair	YabA	-
+PBFPHCLI_00660	L	Replication, recombination and repair	DnaX	-
+PBFPHCLI_00661	T	Signal transduction mechanisms	DarA	-
+PBFPHCLI_00662	F	Nucleotide transport and metabolism	Tmk	-
+PBFPHCLI_00664	L	Replication, recombination and repair	RecR	-
+PBFPHCLI_00665	K	Transcription	YbaB	-
+PBFPHCLI_00666	L	Replication, recombination and repair	DnaX	-
+PBFPHCLI_00667	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_00668	J	Translation, ribosomal structure and biogenesis	TadA	-
+PBFPHCLI_00669	O	Posttranslational modification, protein turnover, chaperones	GrxC	-
+PBFPHCLI_00670	F	Nucleotide transport and metabolism	NrdA	-
+PBFPHCLI_00671	F	Nucleotide transport and metabolism	NrdB	-
+PBFPHCLI_00672	C	Energy production and conversion	EutG	-
+PBFPHCLI_00674	S	Function unknown		-
+PBFPHCLI_00675	K	Transcription	PadR	-
+PBFPHCLI_00676	M	Cell wall/membrane/envelope biogenesis	MscL	-
+PBFPHCLI_00677	X	Mobilome: prophages, transposons	RAYT	-
+PBFPHCLI_00680	J	Translation, ribosomal structure and biogenesis	RplL	-
+PBFPHCLI_00681	J	Translation, ribosomal structure and biogenesis	RplJ	-
+PBFPHCLI_00682	M	Cell wall/membrane/envelope biogenesis	WecB	-
+PBFPHCLI_00683	N	Cell motility	BcsA	-
+PBFPHCLI_00685	K	Transcription	ARO8	-
+PBFPHCLI_00686	J	Translation, ribosomal structure and biogenesis	RplA	-
+PBFPHCLI_00687	J	Translation, ribosomal structure and biogenesis	RplK	-
+PBFPHCLI_00688	K	Transcription	NusG	-
+PBFPHCLI_00689	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+PBFPHCLI_00690	J	Translation, ribosomal structure and biogenesis	RpmG	-
+PBFPHCLI_00691	J	Translation, ribosomal structure and biogenesis	SpoU	-
+PBFPHCLI_00692	J	Translation, ribosomal structure and biogenesis	MrnC	-
+PBFPHCLI_00693	J	Translation, ribosomal structure and biogenesis	CysS	-
+PBFPHCLI_00694	R	General function prediction only		-
+PBFPHCLI_00695	L	Replication, recombination and repair	Sms	-
+PBFPHCLI_00696	F	Nucleotide transport and metabolism	Dut	-
+PBFPHCLI_00697	R	General function prediction only	YidJ	-
+PBFPHCLI_00698	G	Carbohydrate transport and metabolism	RpiA	-
+PBFPHCLI_00699	E	Amino acid transport and metabolism	PepC	-
+PBFPHCLI_00700	E	Amino acid transport and metabolism	HisJ	-
+PBFPHCLI_00701	E	Amino acid transport and metabolism	GlnQ	-
+PBFPHCLI_00702	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_00703	E	Amino acid transport and metabolism	MetC	-
+PBFPHCLI_00704	I	Lipid transport and metabolism	Aes	-
+PBFPHCLI_00705	G	Carbohydrate transport and metabolism	GpmA	-
+PBFPHCLI_00706	R	General function prediction only	PTPS	-
+PBFPHCLI_00708	G	Carbohydrate transport and metabolism	LacZ	-
+PBFPHCLI_00710	R	General function prediction only	SprT	-
+PBFPHCLI_00711	K	Transcription	Tex	-
+PBFPHCLI_00712	H	Coenzyme transport and metabolism	NadE	-
+PBFPHCLI_00713	H	Coenzyme transport and metabolism	PncB	-
+PBFPHCLI_00714	K	Transcription	MngR	-
+PBFPHCLI_00715	M	Cell wall/membrane/envelope biogenesis	RacX	-
+PBFPHCLI_00716	R	General function prediction only	YbjL	-
+PBFPHCLI_00717	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_00721	R	General function prediction only		-
+PBFPHCLI_00723	E	Amino acid transport and metabolism	PTR2	-
+PBFPHCLI_00725	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00727	K	Transcription	HipB	-
+PBFPHCLI_00728	X	Mobilome: prophages, transposons		-
+PBFPHCLI_00737	J	Translation, ribosomal structure and biogenesis	LysU	-
+PBFPHCLI_00738	J	Translation, ribosomal structure and biogenesis	DusA	-
+PBFPHCLI_00739	O	Posttranslational modification, protein turnover, chaperones	HslO	-
+PBFPHCLI_00740	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+PBFPHCLI_00741	F	Nucleotide transport and metabolism	HptA	-
+PBFPHCLI_00742	J	Translation, ribosomal structure and biogenesis	TtcA	-
+PBFPHCLI_00743	R	General function prediction only	YabR	-
+PBFPHCLI_00744	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+PBFPHCLI_00745	J	Translation, ribosomal structure and biogenesis	HslR	-
+PBFPHCLI_00746	L	Replication, recombination and repair	Mfd	-
+PBFPHCLI_00747	J	Translation, ribosomal structure and biogenesis	Pth	-
+PBFPHCLI_00748	T	Signal transduction mechanisms		-
+PBFPHCLI_00749	Q	Secondary metabolites biosynthesis, transport and catabolism	MhpD	-
+PBFPHCLI_00750	F	Nucleotide transport and metabolism	SsnA	-
+PBFPHCLI_00751	F	Nucleotide transport and metabolism	CodB	-
+PBFPHCLI_00752	V	Defense mechanisms	MazF	-
+PBFPHCLI_00753	M	Cell wall/membrane/envelope biogenesis	Alr	-
+PBFPHCLI_00754	I	Lipid transport and metabolism	AcpS	-
+PBFPHCLI_00756	Q	Secondary metabolites biosynthesis, transport and catabolism	EntF	-
+PBFPHCLI_00757	M	Cell wall/membrane/envelope biogenesis	DltB	-
+PBFPHCLI_00758	I	Lipid transport and metabolism	AcpP	-
+PBFPHCLI_00759	M	Cell wall/membrane/envelope biogenesis	DltD	-
+PBFPHCLI_00760	E	Amino acid transport and metabolism	GlsA	-
+PBFPHCLI_00761	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+PBFPHCLI_00762	L	Replication, recombination and repair	SrmB	-
+PBFPHCLI_00763	M	Cell wall/membrane/envelope biogenesis	MurF	-
+PBFPHCLI_00764	O	Posttranslational modification, protein turnover, chaperones	HtpX	-
+PBFPHCLI_00765	M	Cell wall/membrane/envelope biogenesis	LemA	-
+PBFPHCLI_00766	T	Signal transduction mechanisms	Wzb	-
+PBFPHCLI_00767	G	Carbohydrate transport and metabolism	PhoE	-
+PBFPHCLI_00768	G	Carbohydrate transport and metabolism	Fba	-
+PBFPHCLI_00769	G	Carbohydrate transport and metabolism	TpiA	-
+PBFPHCLI_00770	P	Inorganic ion transport and metabolism	NosD	-
+PBFPHCLI_00771	G	Carbohydrate transport and metabolism	PpsA	-
+PBFPHCLI_00772	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+PBFPHCLI_00773	S	Function unknown		-
+PBFPHCLI_00774	G	Carbohydrate transport and metabolism	CelB	-
+PBFPHCLI_00775	J	Translation, ribosomal structure and biogenesis	RpmE	-
+PBFPHCLI_00776	M	Cell wall/membrane/envelope biogenesis	MurA	-
+PBFPHCLI_00777	F	Nucleotide transport and metabolism	PyrG	-
+PBFPHCLI_00778	K	Transcription	RpoE	-
+PBFPHCLI_00779	S	Function unknown	YwiB	-
+PBFPHCLI_00780	H	Coenzyme transport and metabolism	LplA	-
+PBFPHCLI_00781	R	General function prediction only	YdhJ	-
+PBFPHCLI_00782	H	Coenzyme transport and metabolism	Cof	-
+PBFPHCLI_00783	M	Cell wall/membrane/envelope biogenesis	BamD	-
+PBFPHCLI_00784	E	Amino acid transport and metabolism	PrsA	-
+PBFPHCLI_00785	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+PBFPHCLI_00786	F	Nucleotide transport and metabolism	Apt	-
+PBFPHCLI_00787	P	Inorganic ion transport and metabolism	ZnuB	-
+PBFPHCLI_00788	P	Inorganic ion transport and metabolism	ZnuC	-
+PBFPHCLI_00789	P	Inorganic ion transport and metabolism	ZnuA	-
+PBFPHCLI_00790	I	Lipid transport and metabolism	IspE	-
+PBFPHCLI_00791	S	Function unknown		-
+PBFPHCLI_00792	J	Translation, ribosomal structure and biogenesis	RsmA	-
+PBFPHCLI_00793	J	Translation, ribosomal structure and biogenesis	RnmV	-
+PBFPHCLI_00794	N	Cell motility	TatD	-
+PBFPHCLI_00795	J	Translation, ribosomal structure and biogenesis	MetG	-
+PBFPHCLI_00796	R	General function prediction only	YecE	-
+PBFPHCLI_00798	O	Posttranslational modification, protein turnover, chaperones	SIR2	-
+PBFPHCLI_00800	I	Lipid transport and metabolism	HMG1	-
+PBFPHCLI_00801	F	Nucleotide transport and metabolism	GppA	-
+PBFPHCLI_00802	J	Translation, ribosomal structure and biogenesis	TrpS	-
+PBFPHCLI_00803	L	Replication, recombination and repair	YhdJ	-
+PBFPHCLI_00804	X	Mobilome: prophages, transposons		-
+PBFPHCLI_00805	L	Replication, recombination and repair	HelD	-
+PBFPHCLI_00806	P	Inorganic ion transport and metabolism	KefB	-
+PBFPHCLI_00808	E	Amino acid transport and metabolism	ArgD	-
+PBFPHCLI_00809	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_00810	L	Replication, recombination and repair	Nth	-
+PBFPHCLI_00811	R	General function prediction only		-
+PBFPHCLI_00812	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_00813	C	Energy production and conversion	Mdh	-
+PBFPHCLI_00814	P	Inorganic ion transport and metabolism	NlpA	-
+PBFPHCLI_00815	E	Amino acid transport and metabolism	AbcC	-
+PBFPHCLI_00816	E	Amino acid transport and metabolism	MetP	-
+PBFPHCLI_00817	E	Amino acid transport and metabolism	ArgE	-
+PBFPHCLI_00818	P	Inorganic ion transport and metabolism	ClcA	-
+PBFPHCLI_00819	O	Posttranslational modification, protein turnover, chaperones	MsrB	-
+PBFPHCLI_00820	E	Amino acid transport and metabolism	OpuBB	-
+PBFPHCLI_00821	E	Amino acid transport and metabolism	OpuBA	-
+PBFPHCLI_00822	E	Amino acid transport and metabolism	OpuBB	-
+PBFPHCLI_00823	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+PBFPHCLI_00824	K	Transcription	IscR	-
+PBFPHCLI_00825	R	General function prediction only	YbjT	-
+PBFPHCLI_00827	G	Carbohydrate transport and metabolism	DeoB	-
+PBFPHCLI_00828	P	Inorganic ion transport and metabolism	ZntA	-
+PBFPHCLI_00829	O	Posttranslational modification, protein turnover, chaperones		-
+PBFPHCLI_00832	C	Energy production and conversion	Lpd	-
+PBFPHCLI_00834	L	Replication, recombination and repair		-
+PBFPHCLI_00835	I	Lipid transport and metabolism	PgpB	-
+PBFPHCLI_00836	R	General function prediction only	YdhF	-
+PBFPHCLI_00838	G	Carbohydrate transport and metabolism	TpiA	-
+PBFPHCLI_00839	R	General function prediction only	PsiE	-
+PBFPHCLI_00840	R	General function prediction only	YdeN	-
+PBFPHCLI_00842	P	Inorganic ion transport and metabolism	FieF	-
+PBFPHCLI_00843	C	Energy production and conversion	NhaC	-
+PBFPHCLI_00844	C	Energy production and conversion	NhaC	-
+PBFPHCLI_00845	R	General function prediction only		-
+PBFPHCLI_00846	R	General function prediction only	YwnB	-
+PBFPHCLI_00848	I	Lipid transport and metabolism	FabG	-
+PBFPHCLI_00849	G	Carbohydrate transport and metabolism	ProP	-
+PBFPHCLI_00850	K	Transcription	HxlR	-
+PBFPHCLI_00851	C	Energy production and conversion	Qor	-
+PBFPHCLI_00857	J	Translation, ribosomal structure and biogenesis	TyrS	-
+PBFPHCLI_00859	G	Carbohydrate transport and metabolism	GpmA	-
+PBFPHCLI_00860	F	Nucleotide transport and metabolism	PurD	-
+PBFPHCLI_00861	F	Nucleotide transport and metabolism	PurH	-
+PBFPHCLI_00862	F	Nucleotide transport and metabolism	PurN	-
+PBFPHCLI_00863	F	Nucleotide transport and metabolism	PurM	-
+PBFPHCLI_00864	F	Nucleotide transport and metabolism	PurF	-
+PBFPHCLI_00865	F	Nucleotide transport and metabolism	PurL1	-
+PBFPHCLI_00866	F	Nucleotide transport and metabolism	PurL2	-
+PBFPHCLI_00867	F	Nucleotide transport and metabolism	PurS	-
+PBFPHCLI_00868	F	Nucleotide transport and metabolism	PurC	-
+PBFPHCLI_00869	F	Nucleotide transport and metabolism	PurB	-
+PBFPHCLI_00870	F	Nucleotide transport and metabolism	PurK	-
+PBFPHCLI_00871	F	Nucleotide transport and metabolism	PurE	-
+PBFPHCLI_00872	Q	Secondary metabolites biosynthesis, transport and catabolism	AlsD	-
+PBFPHCLI_00873	E	Amino acid transport and metabolism	IlvB	-
+PBFPHCLI_00874	F	Nucleotide transport and metabolism	MIS1	-
+PBFPHCLI_00875	R	General function prediction only	PerM	-
+PBFPHCLI_00876	I	Lipid transport and metabolism	Cfa	-
+PBFPHCLI_00877	H	Coenzyme transport and metabolism	RibB	-
+PBFPHCLI_00878	G	Carbohydrate transport and metabolism	YcjU	-
+PBFPHCLI_00879	F	Nucleotide transport and metabolism	PyrE	-
+PBFPHCLI_00880	F	Nucleotide transport and metabolism	PyrF	-
+PBFPHCLI_00881	F	Nucleotide transport and metabolism	PyrD	-
+PBFPHCLI_00882	F	Nucleotide transport and metabolism	AllB	-
+PBFPHCLI_00883	F	Nucleotide transport and metabolism	PyrB	-
+PBFPHCLI_00884	K	Transcription	LysR	-
+PBFPHCLI_00885	E	Amino acid transport and metabolism	AzlD2	-
+PBFPHCLI_00886	E	Amino acid transport and metabolism	AzlC	-
+PBFPHCLI_00887	T	Signal transduction mechanisms	WalK	-
+PBFPHCLI_00888	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_00889	F	Nucleotide transport and metabolism	GuaB	-
+PBFPHCLI_00890	K	Transcription	DeoR	-
+PBFPHCLI_00891	F	Nucleotide transport and metabolism	DeoD	-
+PBFPHCLI_00892	F	Nucleotide transport and metabolism	DeoA	-
+PBFPHCLI_00893	G	Carbohydrate transport and metabolism	DeoB	-
+PBFPHCLI_00894	F	Nucleotide transport and metabolism	DeoC	-
+PBFPHCLI_00895	S	Function unknown		-
+PBFPHCLI_00896	J	Translation, ribosomal structure and biogenesis	GTP1	-
+PBFPHCLI_00897	S	Function unknown		-
+PBFPHCLI_00898	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+PBFPHCLI_00899	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+PBFPHCLI_00900	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+PBFPHCLI_00901	J	Translation, ribosomal structure and biogenesis	RsmG	-
+PBFPHCLI_00902	I	Lipid transport and metabolism	FadB	-
+PBFPHCLI_00903	F	Nucleotide transport and metabolism	URH1	-
+PBFPHCLI_00904	F	Nucleotide transport and metabolism	NupC	-
+PBFPHCLI_00905	E	Amino acid transport and metabolism	AnsP	-
+PBFPHCLI_00906	E	Amino acid transport and metabolism	GlnQ	-
+PBFPHCLI_00907	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_00908	J	Translation, ribosomal structure and biogenesis	SerS	-
+PBFPHCLI_00909	S	Function unknown		-
+PBFPHCLI_00911	H	Coenzyme transport and metabolism	ApbE	-
+PBFPHCLI_00912	C	Energy production and conversion	SsuE	-
+PBFPHCLI_00913	C	Energy production and conversion	SsuE	-
+PBFPHCLI_00914	J	Translation, ribosomal structure and biogenesis	TrmA	-
+PBFPHCLI_00915	K	Transcription	PurR	-
+PBFPHCLI_00916	G	Carbohydrate transport and metabolism	MelB	-
+PBFPHCLI_00917	E	Amino acid transport and metabolism	CarA	-
+PBFPHCLI_00918	E	Amino acid transport and metabolism	CarB	-
+PBFPHCLI_00919	G	Carbohydrate transport and metabolism	MelB	-
+PBFPHCLI_00920	G	Carbohydrate transport and metabolism	AmyA	-
+PBFPHCLI_00923	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_00924	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_00926	K	Transcription	AcrR	-
+PBFPHCLI_00928	F	Nucleotide transport and metabolism	PyrR	-
+PBFPHCLI_00930	F	Nucleotide transport and metabolism	PurA	-
+PBFPHCLI_00931	F	Nucleotide transport and metabolism	GuaB	-
+PBFPHCLI_00932	H	Coenzyme transport and metabolism	Cdr	-
+PBFPHCLI_00933	H	Coenzyme transport and metabolism	ECF-S	-
+PBFPHCLI_00934	I	Lipid transport and metabolism	UgpQ1	-
+PBFPHCLI_00936	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_00937	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_00938	E	Amino acid transport and metabolism	PuuD	-
+PBFPHCLI_00939	H	Coenzyme transport and metabolism	GshA	-
+PBFPHCLI_00940	P	Inorganic ion transport and metabolism	ClcA	-
+PBFPHCLI_00941	P	Inorganic ion transport and metabolism	ClcA	-
+PBFPHCLI_00942	T	Signal transduction mechanisms	KdpD	-
+PBFPHCLI_00943	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_00944	F	Nucleotide transport and metabolism	YjbM	-
+PBFPHCLI_00946	G	Carbohydrate transport and metabolism	YcjU	-
+PBFPHCLI_00947	G	Carbohydrate transport and metabolism	ATH1	-
+PBFPHCLI_00948	G	Carbohydrate transport and metabolism	MelB	-
+PBFPHCLI_00949	I	Lipid transport and metabolism	PaaJ	-
+PBFPHCLI_00950	K	Transcription	PurR	-
+PBFPHCLI_00951	L	Replication, recombination and repair	RecB	-
+PBFPHCLI_00952	L	Replication, recombination and repair	AddB	-
+PBFPHCLI_00954	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_00955	I	Lipid transport and metabolism	Cls	-
+PBFPHCLI_00956	J	Translation, ribosomal structure and biogenesis	RimI	-
+PBFPHCLI_00957	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_00958	M	Cell wall/membrane/envelope biogenesis	RspA	-
+PBFPHCLI_00959	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+PBFPHCLI_00961	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_00962	C	Energy production and conversion	LdhA	-
+PBFPHCLI_00963	R	General function prediction only	YhfA	-
+PBFPHCLI_00965	V	Defense mechanisms	SunT	-
+PBFPHCLI_00969	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_00970	K	Transcription	LytT	-
+PBFPHCLI_00971	T	Signal transduction mechanisms	CitA	-
+PBFPHCLI_00974	M	Cell wall/membrane/envelope biogenesis	ErfK	-
+PBFPHCLI_00975	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_00978	V	Defense mechanisms	SalY	-
+PBFPHCLI_00979	M	Cell wall/membrane/envelope biogenesis	LolD	-
+PBFPHCLI_00980	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+PBFPHCLI_00981	I	Lipid transport and metabolism	AdhE	-
+PBFPHCLI_00982	E	Amino acid transport and metabolism	ProC	-
+PBFPHCLI_00983	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+PBFPHCLI_00984	G	Carbohydrate transport and metabolism	GlcU	-
+PBFPHCLI_00985	C	Energy production and conversion	EutG	-
+PBFPHCLI_00986	C	Energy production and conversion	SsuE	-
+PBFPHCLI_00988	J	Translation, ribosomal structure and biogenesis	RlmH	-
+PBFPHCLI_00989	R	General function prediction only		-
+PBFPHCLI_00991	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+PBFPHCLI_00992	H	Coenzyme transport and metabolism	PhnP	-
+PBFPHCLI_00993	T	Signal transduction mechanisms	YycI	-
+PBFPHCLI_00994	T	Signal transduction mechanisms	YycH	-
+PBFPHCLI_00995	T	Signal transduction mechanisms	WalK	-
+PBFPHCLI_00996	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_00998	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+PBFPHCLI_00999	K	Transcription	MarR	-
+PBFPHCLI_01001	K	Transcription	HipB	-
+PBFPHCLI_01002	C	Energy production and conversion	PPK2	-
+PBFPHCLI_01004	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01005	L	Replication, recombination and repair	DnaB	-
+PBFPHCLI_01006	J	Translation, ribosomal structure and biogenesis	RplI	-
+PBFPHCLI_01007	T	Signal transduction mechanisms	GdpP	-
+PBFPHCLI_01008	J	Translation, ribosomal structure and biogenesis	RpsR	-
+PBFPHCLI_01009	L	Replication, recombination and repair	Ssb	-
+PBFPHCLI_01010	J	Translation, ribosomal structure and biogenesis	RpsF	-
+PBFPHCLI_01011	L	Replication, recombination and repair	GyrA	-
+PBFPHCLI_01012	L	Replication, recombination and repair	GyrB	-
+PBFPHCLI_01013	L	Replication, recombination and repair	RecF	-
+PBFPHCLI_01014	J	Translation, ribosomal structure and biogenesis	YbcJ	-
+PBFPHCLI_01015	L	Replication, recombination and repair	DnaN	-
+PBFPHCLI_01016	L	Replication, recombination and repair	DnaA	-
+PBFPHCLI_01017	J	Translation, ribosomal structure and biogenesis	RpmH	-
+PBFPHCLI_01018	A	RNA processing and modification	RnpA	-
+PBFPHCLI_01019	M	Cell wall/membrane/envelope biogenesis	YidC	-
+PBFPHCLI_01020	V	Defense mechanisms	HsdS	-
+PBFPHCLI_01021	V	Defense mechanisms	HsdM	-
+PBFPHCLI_01023	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01024	V	Defense mechanisms		-
+PBFPHCLI_01026	V	Defense mechanisms	HsdS	-
+PBFPHCLI_01029	R	General function prediction only	Jag	-
+PBFPHCLI_01030	J	Translation, ribosomal structure and biogenesis	MnmE	-
+PBFPHCLI_01031	J	Translation, ribosomal structure and biogenesis	MnmG	-
+PBFPHCLI_01032	E	Amino acid transport and metabolism	AsnB	-
+PBFPHCLI_01033	M	Cell wall/membrane/envelope biogenesis	MurE	-
+PBFPHCLI_01034	R	General function prediction only		-
+PBFPHCLI_01035	U	Intracellular trafficking, secretion, and vesicular transport	TraF	-
+PBFPHCLI_01036	E	Amino acid transport and metabolism	MnaT	-
+PBFPHCLI_01038	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_01039	R	General function prediction only	YtcJ	-
+PBFPHCLI_01041	J	Translation, ribosomal structure and biogenesis	RbbA	-
+PBFPHCLI_01045	E	Amino acid transport and metabolism	AzlD	-
+PBFPHCLI_01048	P	Inorganic ion transport and metabolism	SapB	-
+PBFPHCLI_01049	F	Nucleotide transport and metabolism	HptA	-
+PBFPHCLI_01050	V	Defense mechanisms	AmpC	-
+PBFPHCLI_01051	T	Signal transduction mechanisms	Wzb	-
+PBFPHCLI_01052	R	General function prediction only	ProX	-
+PBFPHCLI_01053	V	Defense mechanisms	RelB	-
+PBFPHCLI_01054	V	Defense mechanisms	MazF	-
+PBFPHCLI_01055	K	Transcription	LytT	-
+PBFPHCLI_01056	T	Signal transduction mechanisms	CitA	-
+PBFPHCLI_01061	R	General function prediction only	YfdV	-
+PBFPHCLI_01062	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_01063	T	Signal transduction mechanisms	WalK	-
+PBFPHCLI_01064	O	Posttranslational modification, protein turnover, chaperones	YkoI	-
+PBFPHCLI_01065	P	Inorganic ion transport and metabolism		-
+PBFPHCLI_01066	R	General function prediction only	YqjQ	-
+PBFPHCLI_01067	R	General function prediction only	YurZ	-
+PBFPHCLI_01069	C	Energy production and conversion	FldA	-
+PBFPHCLI_01071	R	General function prediction only	WbbJ	-
+PBFPHCLI_01072	S	Function unknown		-
+PBFPHCLI_01073	Q	Secondary metabolites biosynthesis, transport and catabolism	MhpD	-
+PBFPHCLI_01074	C	Energy production and conversion	Mdh	-
+PBFPHCLI_01075	K	Transcription	ARO8	-
+PBFPHCLI_01076	S	Function unknown	YpuA	-
+PBFPHCLI_01077	J	Translation, ribosomal structure and biogenesis	AnsA	-
+PBFPHCLI_01078	K	Transcription	LysR	-
+PBFPHCLI_01079	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_01080	K	Transcription	AcrR	-
+PBFPHCLI_01081	S	Function unknown	YhgE	-
+PBFPHCLI_01082	R	General function prediction only	YwnB	-
+PBFPHCLI_01083	C	Energy production and conversion	PdhI	-
+PBFPHCLI_01084	F	Nucleotide transport and metabolism	GuaA1	-
+PBFPHCLI_01085	T	Signal transduction mechanisms	EAL	-
+PBFPHCLI_01086	N	Cell motility	BcsA	-
+PBFPHCLI_01088	T	Signal transduction mechanisms	GGDEF	-
+PBFPHCLI_01089	T	Signal transduction mechanisms	EAL	-
+PBFPHCLI_01090	J	Translation, ribosomal structure and biogenesis	AsnS	-
+PBFPHCLI_01091	E	Amino acid transport and metabolism	AsnA	-
+PBFPHCLI_01093	K	Transcription	IscR	-
+PBFPHCLI_01094	E	Amino acid transport and metabolism	PepN	-
+PBFPHCLI_01095	R	General function prediction only	YwnB	-
+PBFPHCLI_01096	E	Amino acid transport and metabolism	PepC	-
+PBFPHCLI_01098	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01100	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01102	K	Transcription	HxlR	-
+PBFPHCLI_01103	R	General function prediction only	FRM2	-
+PBFPHCLI_01104	K	Transcription	HxlR	-
+PBFPHCLI_01105	R	General function prediction only	YwnB	-
+PBFPHCLI_01106	R	General function prediction only	ElaA	-
+PBFPHCLI_01107	R	General function prediction only		-
+PBFPHCLI_01108	R	General function prediction only		-
+PBFPHCLI_01109	R	General function prediction only		-
+PBFPHCLI_01110	E	Amino acid transport and metabolism	MetE	-
+PBFPHCLI_01112	H	Coenzyme transport and metabolism	PanE	-
+PBFPHCLI_01113	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01114	T	Signal transduction mechanisms	AtaC	-
+PBFPHCLI_01115	R	General function prediction only	BtlA	-
+PBFPHCLI_01117	J	Translation, ribosomal structure and biogenesis	ThrS	-
+PBFPHCLI_01119	P	Inorganic ion transport and metabolism	MntH	-
+PBFPHCLI_01120	E	Amino acid transport and metabolism	Tdh	-
+PBFPHCLI_01121	K	Transcription	AcrR	-
+PBFPHCLI_01122	M	Cell wall/membrane/envelope biogenesis	LolC	-
+PBFPHCLI_01123	M	Cell wall/membrane/envelope biogenesis	LolD	-
+PBFPHCLI_01124	M	Cell wall/membrane/envelope biogenesis	LolD	-
+PBFPHCLI_01126	K	Transcription	ArsR	-
+PBFPHCLI_01127	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+PBFPHCLI_01128	K	Transcription	PurR	-
+PBFPHCLI_01131	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01132	J	Translation, ribosomal structure and biogenesis	HisS	-
+PBFPHCLI_01133	X	Mobilome: prophages, transposons	RAYT	-
+PBFPHCLI_01134	K	Transcription	MarR	-
+PBFPHCLI_01135	F	Nucleotide transport and metabolism	NnrE	-
+PBFPHCLI_01136	M	Cell wall/membrane/envelope biogenesis	ErfK	-
+PBFPHCLI_01137	M	Cell wall/membrane/envelope biogenesis	ErfK	-
+PBFPHCLI_01140	M	Cell wall/membrane/envelope biogenesis	DacC	-
+PBFPHCLI_01141	S	Function unknown		-
+PBFPHCLI_01142	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01143	C	Energy production and conversion	GldA	-
+PBFPHCLI_01144	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+PBFPHCLI_01146	G	Carbohydrate transport and metabolism	PhoE	-
+PBFPHCLI_01147	R	General function prediction only	YfcC	-
+PBFPHCLI_01148	C	Energy production and conversion	NhaC	-
+PBFPHCLI_01149	F	Nucleotide transport and metabolism	UraA	-
+PBFPHCLI_01150	E	Amino acid transport and metabolism	PepD	-
+PBFPHCLI_01151	P	Inorganic ion transport and metabolism	CorA	-
+PBFPHCLI_01152	J	Translation, ribosomal structure and biogenesis	RluA	-
+PBFPHCLI_01153	P	Inorganic ion transport and metabolism	TerC	-
+PBFPHCLI_01154	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+PBFPHCLI_01155	V	Defense mechanisms	NorM	-
+PBFPHCLI_01157	R	General function prediction only	RhsA	-
+PBFPHCLI_01158	K	Transcription	ArsR	-
+PBFPHCLI_01159	P	Inorganic ion transport and metabolism	CadD	-
+PBFPHCLI_01160	R	General function prediction only	PhnK	-
+PBFPHCLI_01161	R	General function prediction only		-
+PBFPHCLI_01162	R	General function prediction only		-
+PBFPHCLI_01163	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+PBFPHCLI_01165	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01167	K	Transcription	XRE	-
+PBFPHCLI_01168	J	Translation, ribosomal structure and biogenesis	aMBF1	-
+PBFPHCLI_01169	P	Inorganic ion transport and metabolism	CadD	-
+PBFPHCLI_01170	K	Transcription	ArsR	-
+PBFPHCLI_01171	T	Signal transduction mechanisms	Wzb	-
+PBFPHCLI_01172	P	Inorganic ion transport and metabolism	ACR3	-
+PBFPHCLI_01173	K	Transcription	ArsR	-
+PBFPHCLI_01175	J	Translation, ribosomal structure and biogenesis	Uup	-
+PBFPHCLI_01176	S	Function unknown		-
+PBFPHCLI_01177	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+PBFPHCLI_01178	E	Amino acid transport and metabolism	BrnQ	-
+PBFPHCLI_01180	J	Translation, ribosomal structure and biogenesis	DhhP	-
+PBFPHCLI_01183	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01186	R	General function prediction only	MdaB	-
+PBFPHCLI_01188	S	Function unknown	YeaO	-
+PBFPHCLI_01189	L	Replication, recombination and repair	Mpg	-
+PBFPHCLI_01190	R	General function prediction only		-
+PBFPHCLI_01191	R	General function prediction only		-
+PBFPHCLI_01193	O	Posttranslational modification, protein turnover, chaperones	PepO	-
+PBFPHCLI_01194	K	Transcription	HipB	-
+PBFPHCLI_01195	J	Translation, ribosomal structure and biogenesis	YmdB	-
+PBFPHCLI_01196	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01197	I	Lipid transport and metabolism	Cls	-
+PBFPHCLI_01198	K	Transcription	SoxR	-
+PBFPHCLI_01199	E	Amino acid transport and metabolism	CysK	-
+PBFPHCLI_01200	E	Amino acid transport and metabolism	MetA	-
+PBFPHCLI_01201	Q	Secondary metabolites biosynthesis, transport and catabolism	YbbP	-
+PBFPHCLI_01202	M	Cell wall/membrane/envelope biogenesis	LolD	-
+PBFPHCLI_01203	T	Signal transduction mechanisms	KdpD	-
+PBFPHCLI_01204	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_01205	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_01206	H	Coenzyme transport and metabolism	PnuC	-
+PBFPHCLI_01207	K	Transcription	GreA	-
+PBFPHCLI_01211	R	General function prediction only	YbhB	-
+PBFPHCLI_01212	T	Signal transduction mechanisms	Oca4	-
+PBFPHCLI_01213	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+PBFPHCLI_01214	G	Carbohydrate transport and metabolism	GalK	-
+PBFPHCLI_01215	G	Carbohydrate transport and metabolism	GalT2	-
+PBFPHCLI_01216	K	Transcription	PurR	-
+PBFPHCLI_01217	M	Cell wall/membrane/envelope biogenesis	DedA	-
+PBFPHCLI_01218	C	Energy production and conversion	GltP	-
+PBFPHCLI_01219	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01220	K	Transcription	Lrp	-
+PBFPHCLI_01221	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01222	T	Signal transduction mechanisms	UspA	-
+PBFPHCLI_01223	G	Carbohydrate transport and metabolism	MelB	-
+PBFPHCLI_01225	G	Carbohydrate transport and metabolism	Gnd	-
+PBFPHCLI_01226	G	Carbohydrate transport and metabolism	Zwf	-
+PBFPHCLI_01227	P	Inorganic ion transport and metabolism	CynX	-
+PBFPHCLI_01228	C	Energy production and conversion	PhnB	-
+PBFPHCLI_01229	F	Nucleotide transport and metabolism	NrdI	-
+PBFPHCLI_01230	P	Inorganic ion transport and metabolism	MpfA	-
+PBFPHCLI_01234	K	Transcription	MarR	-
+PBFPHCLI_01235	R	General function prediction only	B3/B4	-
+PBFPHCLI_01236	R	General function prediction only	PerM	-
+PBFPHCLI_01237	G	Carbohydrate transport and metabolism	YcjR	-
+PBFPHCLI_01239	G	Carbohydrate transport and metabolism	GlpF	-
+PBFPHCLI_01240	E	Amino acid transport and metabolism	EutJ	-
+PBFPHCLI_01241	K	Transcription	AraC	-
+PBFPHCLI_01242	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmK	-
+PBFPHCLI_01243	E	Amino acid transport and metabolism	EutL	-
+PBFPHCLI_01244	Q	Secondary metabolites biosynthesis, transport and catabolism	PduC	-
+PBFPHCLI_01246	Q	Secondary metabolites biosynthesis, transport and catabolism	PduE	-
+PBFPHCLI_01247	I	Lipid transport and metabolism	PaaJ	-
+PBFPHCLI_01249	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmK	-
+PBFPHCLI_01250	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmK	-
+PBFPHCLI_01251	Q	Secondary metabolites biosynthesis, transport and catabolism	PduL	-
+PBFPHCLI_01253	Q	Secondary metabolites biosynthesis, transport and catabolism	CcmL	-
+PBFPHCLI_01254	H	Coenzyme transport and metabolism	PduO	-
+PBFPHCLI_01255	T	Signal transduction mechanisms	EfgA	-
+PBFPHCLI_01256	I	Lipid transport and metabolism	AdhE	-
+PBFPHCLI_01257	C	Energy production and conversion	EutG	-
+PBFPHCLI_01258	C	Energy production and conversion	AckA	-
+PBFPHCLI_01259	E	Amino acid transport and metabolism	EutS	-
+PBFPHCLI_01260	T	Signal transduction mechanisms	Oca4	-
+PBFPHCLI_01261	G	Carbohydrate transport and metabolism	PhoE	-
+PBFPHCLI_01262	P	Inorganic ion transport and metabolism	CadD	-
+PBFPHCLI_01263	E	Amino acid transport and metabolism	EutP	-
+PBFPHCLI_01264	C	Energy production and conversion	FldA	-
+PBFPHCLI_01265	C	Energy production and conversion	SsuE	-
+PBFPHCLI_01266	H	Coenzyme transport and metabolism	PduO	-
+PBFPHCLI_01267	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01268	E	Amino acid transport and metabolism	PepD	-
+PBFPHCLI_01269	J	Translation, ribosomal structure and biogenesis	EbsC	-
+PBFPHCLI_01270	K	Transcription	MngR	-
+PBFPHCLI_01271	G	Carbohydrate transport and metabolism	XFP	-
+PBFPHCLI_01272	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01273	I	Lipid transport and metabolism	PldB	-
+PBFPHCLI_01274	X	Mobilome: prophages, transposons	TnpB	-
+PBFPHCLI_01275	X	Mobilome: prophages, transposons	RAYT	-
+PBFPHCLI_01276	E	Amino acid transport and metabolism	BrnQ	-
+PBFPHCLI_01277	G	Carbohydrate transport and metabolism	NagC	-
+PBFPHCLI_01278	J	Translation, ribosomal structure and biogenesis	FusA	-
+PBFPHCLI_01279	T	Signal transduction mechanisms	UspA	-
+PBFPHCLI_01280	H	Coenzyme transport and metabolism	LplA	-
+PBFPHCLI_01284	J	Translation, ribosomal structure and biogenesis	RbbA	-
+PBFPHCLI_01285	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01286	G	Carbohydrate transport and metabolism	SgcC	-
+PBFPHCLI_01287	C	Energy production and conversion	Qor	-
+PBFPHCLI_01288	C	Energy production and conversion	Qor	-
+PBFPHCLI_01290	K	Transcription	HipB	-
+PBFPHCLI_01291	T	Signal transduction mechanisms	FrsA	-
+PBFPHCLI_01292	S	Function unknown		-
+PBFPHCLI_01293	P	Inorganic ion transport and metabolism	NhaP	-
+PBFPHCLI_01294	R	General function prediction only	Tic20a	-
+PBFPHCLI_01295	H	Coenzyme transport and metabolism	EcfT	-
+PBFPHCLI_01296	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+PBFPHCLI_01297	H	Coenzyme transport and metabolism	YkoE	-
+PBFPHCLI_01298	P	Inorganic ion transport and metabolism	TauE	-
+PBFPHCLI_01299	I	Lipid transport and metabolism	FabG	-
+PBFPHCLI_01300	F	Nucleotide transport and metabolism	URH1	-
+PBFPHCLI_01301	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+PBFPHCLI_01302	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01303	K	Transcription	LytT	-
+PBFPHCLI_01304	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01305	S	Function unknown	YvbJ	-
+PBFPHCLI_01307	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01308	S	Function unknown	YvbJ	-
+PBFPHCLI_01309	R	General function prediction only	DR0291	-
+PBFPHCLI_01311	U	Intracellular trafficking, secretion, and vesicular transport	SctG	-
+PBFPHCLI_01314	C	Energy production and conversion	Gph	-
+PBFPHCLI_01315	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01316	B	Chromatin structure and dynamics	Dps	-
+PBFPHCLI_01317	P	Inorganic ion transport and metabolism	MgtA	-
+PBFPHCLI_01318	H	Coenzyme transport and metabolism	MenH	-
+PBFPHCLI_01319	R	General function prediction only		-
+PBFPHCLI_01320	E	Amino acid transport and metabolism	PotA	-
+PBFPHCLI_01321	E	Amino acid transport and metabolism	PotB	-
+PBFPHCLI_01322	E	Amino acid transport and metabolism	PotC	-
+PBFPHCLI_01323	E	Amino acid transport and metabolism	PotD	-
+PBFPHCLI_01325	G	Carbohydrate transport and metabolism	UhpC	-
+PBFPHCLI_01326	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01327	F	Nucleotide transport and metabolism	YjhB	-
+PBFPHCLI_01328	F	Nucleotide transport and metabolism	Gmk	-
+PBFPHCLI_01329	P	Inorganic ion transport and metabolism	Fur	-
+PBFPHCLI_01332	K	Transcription	PspC	-
+PBFPHCLI_01333	K	Transcription	AcrR	-
+PBFPHCLI_01334	S	Function unknown	YhgE	-
+PBFPHCLI_01335	C	Energy production and conversion	LdhA	-
+PBFPHCLI_01337	R	General function prediction only	YeaQ	-
+PBFPHCLI_01338	S	Function unknown	YdbT	-
+PBFPHCLI_01339	J	Translation, ribosomal structure and biogenesis	HflX	-
+PBFPHCLI_01340	G	Carbohydrate transport and metabolism	PhoE	-
+PBFPHCLI_01341	M	Cell wall/membrane/envelope biogenesis	DedA	-
+PBFPHCLI_01342	L	Replication, recombination and repair	HelD	-
+PBFPHCLI_01343	H	Coenzyme transport and metabolism	Cdr	-
+PBFPHCLI_01344	H	Coenzyme transport and metabolism	Cdr	-
+PBFPHCLI_01345	E	Amino acid transport and metabolism	EamA	-
+PBFPHCLI_01346	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+PBFPHCLI_01347	H	Coenzyme transport and metabolism	CoaA	-
+PBFPHCLI_01348	R	General function prediction only	AAA_14	-
+PBFPHCLI_01350	F	Nucleotide transport and metabolism	GuaA2	-
+PBFPHCLI_01351	K	Transcription		-
+PBFPHCLI_01354	C	Energy production and conversion	Qor	-
+PBFPHCLI_01355	K	Transcription	HxlR	-
+PBFPHCLI_01357	V	Defense mechanisms	RelB	-
+PBFPHCLI_01358	J	Translation, ribosomal structure and biogenesis	SpoU	-
+PBFPHCLI_01359	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01360	J	Translation, ribosomal structure and biogenesis	YwlG	-
+PBFPHCLI_01361	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01362	M	Cell wall/membrane/envelope biogenesis	LysM	-
+PBFPHCLI_01364	P	Inorganic ion transport and metabolism	CorA	-
+PBFPHCLI_01365	R	General function prediction only	YhbS	-
+PBFPHCLI_01366	F	Nucleotide transport and metabolism	CodB	-
+PBFPHCLI_01368	P	Inorganic ion transport and metabolism	NlpA	-
+PBFPHCLI_01369	E	Amino acid transport and metabolism	Tdh	-
+PBFPHCLI_01370	R	General function prediction only	YczE	-
+PBFPHCLI_01371	O	Posttranslational modification, protein turnover, chaperones		-
+PBFPHCLI_01372	T	Signal transduction mechanisms	LuxS	-
+PBFPHCLI_01373	P	Inorganic ion transport and metabolism	NlpA	-
+PBFPHCLI_01374	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+PBFPHCLI_01376	R	General function prediction only	RhsA	-
+PBFPHCLI_01377	R	General function prediction only	RhsA	-
+PBFPHCLI_01378	T	Signal transduction mechanisms	PfoR	-
+PBFPHCLI_01379	J	Translation, ribosomal structure and biogenesis	Efp	-
+PBFPHCLI_01381	G	Carbohydrate transport and metabolism	ManA	-
+PBFPHCLI_01382	J	Translation, ribosomal structure and biogenesis	RimI	-
+PBFPHCLI_01385	P	Inorganic ion transport and metabolism	AmtB	-
+PBFPHCLI_01387	E	Amino acid transport and metabolism	UreA	-
+PBFPHCLI_01388	E	Amino acid transport and metabolism	UreB	-
+PBFPHCLI_01389	E	Amino acid transport and metabolism	UreC	-
+PBFPHCLI_01390	O	Posttranslational modification, protein turnover, chaperones	UreE	-
+PBFPHCLI_01391	O	Posttranslational modification, protein turnover, chaperones	UreF	-
+PBFPHCLI_01392	O	Posttranslational modification, protein turnover, chaperones	HypB	-
+PBFPHCLI_01393	O	Posttranslational modification, protein turnover, chaperones	UreH	-
+PBFPHCLI_01394	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+PBFPHCLI_01395	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+PBFPHCLI_01396	P	Inorganic ion transport and metabolism	CbiM	-
+PBFPHCLI_01397	H	Coenzyme transport and metabolism	EcfT	-
+PBFPHCLI_01398	P	Inorganic ion transport and metabolism	EcfA2	-
+PBFPHCLI_01399	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_01400	P	Inorganic ion transport and metabolism	PstS	-
+PBFPHCLI_01401	P	Inorganic ion transport and metabolism	PstC	-
+PBFPHCLI_01402	P	Inorganic ion transport and metabolism	PstA	-
+PBFPHCLI_01403	P	Inorganic ion transport and metabolism	PstB	-
+PBFPHCLI_01404	P	Inorganic ion transport and metabolism	PhoU	-
+PBFPHCLI_01407	N	Cell motility	BcsA	-
+PBFPHCLI_01408	G	Carbohydrate transport and metabolism	BcsZ	-
+PBFPHCLI_01409	C	Energy production and conversion	NfnB	-
+PBFPHCLI_01410	S	Function unknown		-
+PBFPHCLI_01411	P	Inorganic ion transport and metabolism	TrkG	-
+PBFPHCLI_01412	P	Inorganic ion transport and metabolism	TrkA	-
+PBFPHCLI_01413	H	Coenzyme transport and metabolism	UbiE	-
+PBFPHCLI_01415	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01416	K	Transcription	HipB	-
+PBFPHCLI_01417	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01419	P	Inorganic ion transport and metabolism	MntH	-
+PBFPHCLI_01420	H	Coenzyme transport and metabolism	HemH	-
+PBFPHCLI_01421	E	Amino acid transport and metabolism	CysK	-
+PBFPHCLI_01422	C	Energy production and conversion	WrbA	-
+PBFPHCLI_01423	S	Function unknown	YeiH	-
+PBFPHCLI_01424	I	Lipid transport and metabolism	Aes	-
+PBFPHCLI_01425	J	Translation, ribosomal structure and biogenesis	Uup	-
+PBFPHCLI_01426	J	Translation, ribosomal structure and biogenesis	Uup	-
+PBFPHCLI_01427	P	Inorganic ion transport and metabolism	EfeB	-
+PBFPHCLI_01428	R	General function prediction only	YfcC	-
+PBFPHCLI_01429	R	General function prediction only	YfcC	-
+PBFPHCLI_01430	E	Amino acid transport and metabolism	ArgE	-
+PBFPHCLI_01431	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01432	G	Carbohydrate transport and metabolism	AmyA	-
+PBFPHCLI_01433	V	Defense mechanisms	PenP	-
+PBFPHCLI_01434	M	Cell wall/membrane/envelope biogenesis	DacC	-
+PBFPHCLI_01436	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01438	G	Carbohydrate transport and metabolism	GalM	-
+PBFPHCLI_01440	S	Function unknown		-
+PBFPHCLI_01441	X	Mobilome: prophages, transposons	TnpB	-
+PBFPHCLI_01443	G	Carbohydrate transport and metabolism	AdhP	-
+PBFPHCLI_01444	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+PBFPHCLI_01445	K	Transcription	LysR	-
+PBFPHCLI_01446	C	Energy production and conversion	SfcA	-
+PBFPHCLI_01447	C	Energy production and conversion	FumC	-
+PBFPHCLI_01448	C	Energy production and conversion	SdhA	-
+PBFPHCLI_01449	G	Carbohydrate transport and metabolism	CitT	-
+PBFPHCLI_01450	K	Transcription	LysR	-
+PBFPHCLI_01451	C	Energy production and conversion	YjjP	-
+PBFPHCLI_01452	L	Replication, recombination and repair	Udg4	-
+PBFPHCLI_01453	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01454	I	Lipid transport and metabolism	Aes	-
+PBFPHCLI_01455	V	Defense mechanisms	YajL	-
+PBFPHCLI_01456	I	Lipid transport and metabolism	MprF	-
+PBFPHCLI_01458	J	Translation, ribosomal structure and biogenesis	RluA	-
+PBFPHCLI_01460	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01461	K	Transcription	SoxR	-
+PBFPHCLI_01463	J	Translation, ribosomal structure and biogenesis	RnjA	-
+PBFPHCLI_01464	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+PBFPHCLI_01465	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_01466	E	Amino acid transport and metabolism	HisM	-
+PBFPHCLI_01467	E	Amino acid transport and metabolism	HisJ	-
+PBFPHCLI_01468	E	Amino acid transport and metabolism	GlnQ	-
+PBFPHCLI_01469	T	Signal transduction mechanisms	UspA	-
+PBFPHCLI_01470	P	Inorganic ion transport and metabolism	Ccc1	-
+PBFPHCLI_01471	P	Inorganic ion transport and metabolism	Ccc1	-
+PBFPHCLI_01472	P	Inorganic ion transport and metabolism	CzcD	-
+PBFPHCLI_01473	K	Transcription	MntR	-
+PBFPHCLI_01474	K	Transcription	CspC	-
+PBFPHCLI_01475	C	Energy production and conversion	YjjP	-
+PBFPHCLI_01476	C	Energy production and conversion	YjjB	-
+PBFPHCLI_01477	I	Lipid transport and metabolism	PgpB	-
+PBFPHCLI_01478	J	Translation, ribosomal structure and biogenesis	RimL	-
+PBFPHCLI_01479	E	Amino acid transport and metabolism	LysP	-
+PBFPHCLI_01480	F	Nucleotide transport and metabolism	Dck	-
+PBFPHCLI_01486	T	Signal transduction mechanisms	FrsA	-
+PBFPHCLI_01487	G	Carbohydrate transport and metabolism	AdhP	-
+PBFPHCLI_01488	K	Transcription	CtsR	-
+PBFPHCLI_01489	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+PBFPHCLI_01490	K	Transcription	AcrR	-
+PBFPHCLI_01491	K	Transcription	RpoB	-
+PBFPHCLI_01492	K	Transcription	RpoC	-
+PBFPHCLI_01494	N	Cell motility	GspO/PilD	-
+PBFPHCLI_01495	J	Translation, ribosomal structure and biogenesis	RpsL	-
+PBFPHCLI_01496	J	Translation, ribosomal structure and biogenesis	RpsG	-
+PBFPHCLI_01497	J	Translation, ribosomal structure and biogenesis	FusA	-
+PBFPHCLI_01498	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+PBFPHCLI_01499	J	Translation, ribosomal structure and biogenesis	RplC	-
+PBFPHCLI_01500	J	Translation, ribosomal structure and biogenesis	RplD	-
+PBFPHCLI_01501	J	Translation, ribosomal structure and biogenesis	RplW	-
+PBFPHCLI_01502	J	Translation, ribosomal structure and biogenesis	RplB	-
+PBFPHCLI_01503	J	Translation, ribosomal structure and biogenesis	RpsS	-
+PBFPHCLI_01504	J	Translation, ribosomal structure and biogenesis	RplV	-
+PBFPHCLI_01505	J	Translation, ribosomal structure and biogenesis	RpsC	-
+PBFPHCLI_01506	J	Translation, ribosomal structure and biogenesis	RplP	-
+PBFPHCLI_01507	J	Translation, ribosomal structure and biogenesis	RpmC	-
+PBFPHCLI_01508	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+PBFPHCLI_01509	J	Translation, ribosomal structure and biogenesis	RplN	-
+PBFPHCLI_01510	J	Translation, ribosomal structure and biogenesis	RplX	-
+PBFPHCLI_01511	J	Translation, ribosomal structure and biogenesis	RplE	-
+PBFPHCLI_01512	J	Translation, ribosomal structure and biogenesis	RpsN	-
+PBFPHCLI_01513	J	Translation, ribosomal structure and biogenesis	RpsH	-
+PBFPHCLI_01514	J	Translation, ribosomal structure and biogenesis	RplF	-
+PBFPHCLI_01515	J	Translation, ribosomal structure and biogenesis	RplR	-
+PBFPHCLI_01516	J	Translation, ribosomal structure and biogenesis	RpsE	-
+PBFPHCLI_01517	J	Translation, ribosomal structure and biogenesis	RpmD	-
+PBFPHCLI_01518	J	Translation, ribosomal structure and biogenesis	RplO	-
+PBFPHCLI_01519	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+PBFPHCLI_01520	F	Nucleotide transport and metabolism	Adk	-
+PBFPHCLI_01521	J	Translation, ribosomal structure and biogenesis	InfA	-
+PBFPHCLI_01522	J	Translation, ribosomal structure and biogenesis	RpmJ	-
+PBFPHCLI_01523	J	Translation, ribosomal structure and biogenesis	RpsM	-
+PBFPHCLI_01524	J	Translation, ribosomal structure and biogenesis	RpsK	-
+PBFPHCLI_01525	K	Transcription	RpoA	-
+PBFPHCLI_01526	J	Translation, ribosomal structure and biogenesis	RplQ	-
+PBFPHCLI_01527	P	Inorganic ion transport and metabolism	EcfA2	-
+PBFPHCLI_01528	P	Inorganic ion transport and metabolism	EcfA2	-
+PBFPHCLI_01529	H	Coenzyme transport and metabolism	EcfT	-
+PBFPHCLI_01530	J	Translation, ribosomal structure and biogenesis	TruA	-
+PBFPHCLI_01531	J	Translation, ribosomal structure and biogenesis	RplM	-
+PBFPHCLI_01532	J	Translation, ribosomal structure and biogenesis	RpsI	-
+PBFPHCLI_01533	I	Lipid transport and metabolism	FabG	-
+PBFPHCLI_01534	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+PBFPHCLI_01535	F	Nucleotide transport and metabolism	Apt	-
+PBFPHCLI_01536	F	Nucleotide transport and metabolism	PurK	-
+PBFPHCLI_01537	L	Replication, recombination and repair	UvrD	-
+PBFPHCLI_01538	L	Replication, recombination and repair	Lig	-
+PBFPHCLI_01539	R	General function prediction only	CamS	-
+PBFPHCLI_01540	J	Translation, ribosomal structure and biogenesis	GatC	-
+PBFPHCLI_01541	J	Translation, ribosomal structure and biogenesis	GatA	-
+PBFPHCLI_01542	J	Translation, ribosomal structure and biogenesis	GatB	-
+PBFPHCLI_01543	I	Lipid transport and metabolism	LCB5	-
+PBFPHCLI_01544	J	Translation, ribosomal structure and biogenesis	TrmA	-
+PBFPHCLI_01545	G	Carbohydrate transport and metabolism	ProP	-
+PBFPHCLI_01546	S	Function unknown	AF0785	-
+PBFPHCLI_01547	M	Cell wall/membrane/envelope biogenesis	GumC	-
+PBFPHCLI_01550	H	Coenzyme transport and metabolism	PncA	-
+PBFPHCLI_01551	K	Transcription	AcrR	-
+PBFPHCLI_01552	R	General function prediction only	MdaB	-
+PBFPHCLI_01553	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01554	R	General function prediction only		-
+PBFPHCLI_01555	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01558	P	Inorganic ion transport and metabolism	AmtB	-
+PBFPHCLI_01559	C	Energy production and conversion	Lpd	-
+PBFPHCLI_01560	J	Translation, ribosomal structure and biogenesis	RimI	-
+PBFPHCLI_01562	C	Energy production and conversion	NfnB	-
+PBFPHCLI_01563	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01564	M	Cell wall/membrane/envelope biogenesis	CwlA	-
+PBFPHCLI_01566	K	Transcription	LytT	-
+PBFPHCLI_01568	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01569	P	Inorganic ion transport and metabolism	YbhL	-
+PBFPHCLI_01570	R	General function prediction only	ElaA	-
+PBFPHCLI_01572	H	Coenzyme transport and metabolism	GshA	-
+PBFPHCLI_01573	C	Energy production and conversion	Mdh	-
+PBFPHCLI_01574	F	Nucleotide transport and metabolism	PpnN	-
+PBFPHCLI_01576	R	General function prediction only	MviM	-
+PBFPHCLI_01577	L	Replication, recombination and repair	SrmB	-
+PBFPHCLI_01579	M	Cell wall/membrane/envelope biogenesis	WecB	-
+PBFPHCLI_01581	I	Lipid transport and metabolism	GtrA	-
+PBFPHCLI_01582	C	Energy production and conversion	FldA	-
+PBFPHCLI_01583	J	Translation, ribosomal structure and biogenesis	Map	-
+PBFPHCLI_01584	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_01585	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01586	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01587	S	Function unknown	BrkB	-
+PBFPHCLI_01590	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01591	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+PBFPHCLI_01593	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+PBFPHCLI_01594	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+PBFPHCLI_01595	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+PBFPHCLI_01596	R	General function prediction only	YvpB	-
+PBFPHCLI_01598	M	Cell wall/membrane/envelope biogenesis	Glf	-
+PBFPHCLI_01599	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+PBFPHCLI_01600	G	Carbohydrate transport and metabolism	WcaE	-
+PBFPHCLI_01602	M	Cell wall/membrane/envelope biogenesis	YveK	-
+PBFPHCLI_01603	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+PBFPHCLI_01604	G	Carbohydrate transport and metabolism	WcaE	-
+PBFPHCLI_01605	G	Carbohydrate transport and metabolism	WcaE	-
+PBFPHCLI_01606	R	General function prediction only	PTPS	-
+PBFPHCLI_01607	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+PBFPHCLI_01608	O	Posttranslational modification, protein turnover, chaperones	Stt3	-
+PBFPHCLI_01609	M	Cell wall/membrane/envelope biogenesis	RmlA1	-
+PBFPHCLI_01610	M	Cell wall/membrane/envelope biogenesis	RfbC	-
+PBFPHCLI_01611	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+PBFPHCLI_01612	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+PBFPHCLI_01614	M	Cell wall/membrane/envelope biogenesis	CwlA	-
+PBFPHCLI_01615	R	General function prediction only	PerM	-
+PBFPHCLI_01616	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+PBFPHCLI_01617	J	Translation, ribosomal structure and biogenesis	PrfC	-
+PBFPHCLI_01618	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+PBFPHCLI_01619	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+PBFPHCLI_01621	K	Transcription	YhcF	-
+PBFPHCLI_01622	J	Translation, ribosomal structure and biogenesis	RbbA	-
+PBFPHCLI_01625	X	Mobilome: prophages, transposons	Srso17	-
+PBFPHCLI_01627	S	Function unknown		-
+PBFPHCLI_01628	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+PBFPHCLI_01630	T	Signal transduction mechanisms	PtsH	-
+PBFPHCLI_01631	G	Carbohydrate transport and metabolism	PtsA	-
+PBFPHCLI_01632	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01633	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01634	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+PBFPHCLI_01635	S	Function unknown	YkuJ	-
+PBFPHCLI_01652	X	Mobilome: prophages, transposons		-
+PBFPHCLI_01653	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01654	X	Mobilome: prophages, transposons	InsO	-
+PBFPHCLI_01655	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+PBFPHCLI_01656	H	Coenzyme transport and metabolism	MoaA	-
+PBFPHCLI_01657	K	Transcription	PurR	-
+PBFPHCLI_01658	H	Coenzyme transport and metabolism	MoaC	-
+PBFPHCLI_01659	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01660	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01661	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01662	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01663	F	Nucleotide transport and metabolism	NrdD	-
+PBFPHCLI_01664	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+PBFPHCLI_01665	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+PBFPHCLI_01666	P	Inorganic ion transport and metabolism	XkdP	-
+PBFPHCLI_01668	P	Inorganic ion transport and metabolism	XkdP	-
+PBFPHCLI_01670	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01671	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01672	L	Replication, recombination and repair	XthA	-
+PBFPHCLI_01673	E	Amino acid transport and metabolism	GltD	-
+PBFPHCLI_01674	F	Nucleotide transport and metabolism	PyrD	-
+PBFPHCLI_01675	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+PBFPHCLI_01676	O	Posttranslational modification, protein turnover, chaperones	IbpA	-
+PBFPHCLI_01677	L	Replication, recombination and repair	DinP	-
+PBFPHCLI_01679	R	General function prediction only	HdeD	-
+PBFPHCLI_01681	V	Defense mechanisms	VanZ	-
+PBFPHCLI_01682	E	Amino acid transport and metabolism	AnsP	-
+PBFPHCLI_01683	P	Inorganic ion transport and metabolism	Fur	-
+PBFPHCLI_01684	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01685	L	Replication, recombination and repair	Tag	-
+PBFPHCLI_01686	H	Coenzyme transport and metabolism	MetK	-
+PBFPHCLI_01687	J	Translation, ribosomal structure and biogenesis	LeuS	-
+PBFPHCLI_01688	V	Defense mechanisms	HicB	-
+PBFPHCLI_01689	D	Cell cycle control, cell division, chromosome partitioning	SpoVB	-
+PBFPHCLI_01690	F	Nucleotide transport and metabolism	NnrD	-
+PBFPHCLI_01691	E	Amino acid transport and metabolism	ArgE	-
+PBFPHCLI_01692	T	Signal transduction mechanisms	UspA	-
+PBFPHCLI_01693	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+PBFPHCLI_01694	F	Nucleotide transport and metabolism	Dck	-
+PBFPHCLI_01696	K	Transcription	PurR	-
+PBFPHCLI_01697	G	Carbohydrate transport and metabolism	RbsK	-
+PBFPHCLI_01699	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+PBFPHCLI_01700	S	Function unknown	YbjQ	-
+PBFPHCLI_01702	K	Transcription		-
+PBFPHCLI_01703	H	Coenzyme transport and metabolism	FolB	-
+PBFPHCLI_01704	H	Coenzyme transport and metabolism	FolK	-
+PBFPHCLI_01705	H	Coenzyme transport and metabolism	FolE	-
+PBFPHCLI_01706	H	Coenzyme transport and metabolism	FolC	-
+PBFPHCLI_01707	F	Nucleotide transport and metabolism	RdgB	-
+PBFPHCLI_01708	H	Coenzyme transport and metabolism	FolP	-
+PBFPHCLI_01712	C	Energy production and conversion	Mdh	-
+PBFPHCLI_01713	H	Coenzyme transport and metabolism	ThiD	-
+PBFPHCLI_01714	J	Translation, ribosomal structure and biogenesis	ArgS	-
+PBFPHCLI_01715	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+PBFPHCLI_01716	T	Signal transduction mechanisms	YlbF	-
+PBFPHCLI_01717	L	Replication, recombination and repair	SbcD	-
+PBFPHCLI_01718	L	Replication, recombination and repair	YhaN	-
+PBFPHCLI_01719	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+PBFPHCLI_01720	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+PBFPHCLI_01721	F	Nucleotide transport and metabolism	HinT	-
+PBFPHCLI_01722	J	Translation, ribosomal structure and biogenesis	RbbA	-
+PBFPHCLI_01723	U	Intracellular trafficking, secretion, and vesicular transport	EcsB	-
+PBFPHCLI_01724	J	Translation, ribosomal structure and biogenesis	TrmB	-
+PBFPHCLI_01725	H	Coenzyme transport and metabolism	PdxI	-
+PBFPHCLI_01726	E	Amino acid transport and metabolism	GlsA	-
+PBFPHCLI_01727	S	Function unknown		-
+PBFPHCLI_01728	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+PBFPHCLI_01729	J	Translation, ribosomal structure and biogenesis	EMAP	-
+PBFPHCLI_01730	M	Cell wall/membrane/envelope biogenesis	MurC	-
+PBFPHCLI_01731	P	Inorganic ion transport and metabolism	YbhL	-
+PBFPHCLI_01732	S	Function unknown	YoaK	-
+PBFPHCLI_01733	L	Replication, recombination and repair	PolA	-
+PBFPHCLI_01734	L	Replication, recombination and repair	Nei	-
+PBFPHCLI_01735	H	Coenzyme transport and metabolism	CoaE	-
+PBFPHCLI_01736	K	Transcription	NrdR	-
+PBFPHCLI_01737	L	Replication, recombination and repair	DnaB2	-
+PBFPHCLI_01738	L	Replication, recombination and repair	DnaC	-
+PBFPHCLI_01739	J	Translation, ribosomal structure and biogenesis	InfC	-
+PBFPHCLI_01740	J	Translation, ribosomal structure and biogenesis	RpmI	-
+PBFPHCLI_01741	J	Translation, ribosomal structure and biogenesis	RplT	-
+PBFPHCLI_01742	M	Cell wall/membrane/envelope biogenesis	YqeG	-
+PBFPHCLI_01743	J	Translation, ribosomal structure and biogenesis	RbgA	-
+PBFPHCLI_01744	J	Translation, ribosomal structure and biogenesis	YhbY	-
+PBFPHCLI_01745	H	Coenzyme transport and metabolism	NadD	-
+PBFPHCLI_01746	T	Signal transduction mechanisms	YqeK	-
+PBFPHCLI_01747	J	Translation, ribosomal structure and biogenesis	RsfS	-
+PBFPHCLI_01748	R	General function prediction only		-
+PBFPHCLI_01749	J	Translation, ribosomal structure and biogenesis	TmcAL	-
+PBFPHCLI_01750	J	Translation, ribosomal structure and biogenesis	YceD	-
+PBFPHCLI_01751	J	Translation, ribosomal structure and biogenesis	RpmF	-
+PBFPHCLI_01752	T	Signal transduction mechanisms	OmpR	-
+PBFPHCLI_01753	T	Signal transduction mechanisms	WalK	-
+PBFPHCLI_01754	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01755	V	Defense mechanisms	NorM	-
+PBFPHCLI_01756	J	Translation, ribosomal structure and biogenesis	Def	-
+PBFPHCLI_01757	M	Cell wall/membrane/envelope biogenesis	YidC	-
+PBFPHCLI_01758	C	Energy production and conversion	AcyP	-
+PBFPHCLI_01759	J	Translation, ribosomal structure and biogenesis	SpoU	-
+PBFPHCLI_01760	J	Translation, ribosomal structure and biogenesis	RnaY	-
+PBFPHCLI_01761	K	Transcription	HxlR	-
+PBFPHCLI_01762	J	Translation, ribosomal structure and biogenesis	PheS	-
+PBFPHCLI_01763	J	Translation, ribosomal structure and biogenesis	PheT	-
+PBFPHCLI_01764	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+PBFPHCLI_01765	F	Nucleotide transport and metabolism	Udk	-
+PBFPHCLI_01766	K	Transcription	GreA	-
+PBFPHCLI_01767	C	Energy production and conversion	PdhI	-
+PBFPHCLI_01768	S	Function unknown	YfhO	-
+PBFPHCLI_01769	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+PBFPHCLI_01770	J	Translation, ribosomal structure and biogenesis	RpmG	-
+PBFPHCLI_01771	H	Coenzyme transport and metabolism	FAU1	-
+PBFPHCLI_01772	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+PBFPHCLI_01773	S	Function unknown	YqgQ	-
+PBFPHCLI_01774	G	Carbohydrate transport and metabolism	NagC	-
+PBFPHCLI_01775	P	Inorganic ion transport and metabolism	PspE	-
+PBFPHCLI_01777	J	Translation, ribosomal structure and biogenesis	MiaA	-
+PBFPHCLI_01778	E	Amino acid transport and metabolism	GlnA	-
+PBFPHCLI_01779	J	Translation, ribosomal structure and biogenesis	GlnS	-
+PBFPHCLI_01780	E	Amino acid transport and metabolism	AspB	-
+PBFPHCLI_01782	L	Replication, recombination and repair	Mod	-
+PBFPHCLI_01783	L	Replication, recombination and repair	Mod	-
+PBFPHCLI_01784	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01785	L	Replication, recombination and repair	Mod	-
+PBFPHCLI_01786	V	Defense mechanisms	PM0699	-
+PBFPHCLI_01787	O	Posttranslational modification, protein turnover, chaperones	MsrA	-
+PBFPHCLI_01788	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+PBFPHCLI_01789	L	Replication, recombination and repair	RecN	-
+PBFPHCLI_01792	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01796	K	Transcription	AcrR	-
+PBFPHCLI_01797	J	Translation, ribosomal structure and biogenesis	RplU	-
+PBFPHCLI_01798	J	Translation, ribosomal structure and biogenesis	Prp	-
+PBFPHCLI_01799	J	Translation, ribosomal structure and biogenesis	RpmA	-
+PBFPHCLI_01800	H	Coenzyme transport and metabolism	YggS	-
+PBFPHCLI_01801	E	Amino acid transport and metabolism	PepP	-
+PBFPHCLI_01802	J	Translation, ribosomal structure and biogenesis	ThpR	-
+PBFPHCLI_01803	S	Function unknown	YloU	-
+PBFPHCLI_01804	K	Transcription	NusB	-
+PBFPHCLI_01805	H	Coenzyme transport and metabolism	FolD	-
+PBFPHCLI_01806	L	Replication, recombination and repair	XseA	-
+PBFPHCLI_01807	L	Replication, recombination and repair	XseB	-
+PBFPHCLI_01808	H	Coenzyme transport and metabolism	IspA	-
+PBFPHCLI_01809	J	Translation, ribosomal structure and biogenesis	YqxC	-
+PBFPHCLI_01810	K	Transcription	ArgR	-
+PBFPHCLI_01811	L	Replication, recombination and repair	RecN	-
+PBFPHCLI_01813	F	Nucleotide transport and metabolism	Gmk	-
+PBFPHCLI_01814	K	Transcription	RpoZ	-
+PBFPHCLI_01815	H	Coenzyme transport and metabolism	CoaBC	-
+PBFPHCLI_01816	L	Replication, recombination and repair	PriA	-
+PBFPHCLI_01817	J	Translation, ribosomal structure and biogenesis	Fmt	-
+PBFPHCLI_01818	J	Translation, ribosomal structure and biogenesis	RsmB	-
+PBFPHCLI_01819	T	Signal transduction mechanisms	PTC1	-
+PBFPHCLI_01820	T	Signal transduction mechanisms	SPS1	-
+PBFPHCLI_01821	J	Translation, ribosomal structure and biogenesis	RsgA	-
+PBFPHCLI_01822	G	Carbohydrate transport and metabolism	Rpe	-
+PBFPHCLI_01823	H	Coenzyme transport and metabolism	ThiN	-
+PBFPHCLI_01824	J	Translation, ribosomal structure and biogenesis	RpmB	-
+PBFPHCLI_01825	S	Function unknown	YloU	-
+PBFPHCLI_01826	I	Lipid transport and metabolism	FakA	-
+PBFPHCLI_01827	L	Replication, recombination and repair	RecG	-
+PBFPHCLI_01828	I	Lipid transport and metabolism	PlsX	-
+PBFPHCLI_01829	I	Lipid transport and metabolism	AcpP	-
+PBFPHCLI_01830	K	Transcription	Rnc	-
+PBFPHCLI_01831	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01832	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+PBFPHCLI_01833	K	Transcription	YlxM	-
+PBFPHCLI_01834	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+PBFPHCLI_01835	J	Translation, ribosomal structure and biogenesis	RpsP	-
+PBFPHCLI_01836	R	General function prediction only	YlqC	-
+PBFPHCLI_01837	J	Translation, ribosomal structure and biogenesis	RimM	-
+PBFPHCLI_01838	J	Translation, ribosomal structure and biogenesis	TrmD	-
+PBFPHCLI_01839	E	Amino acid transport and metabolism	PotE	-
+PBFPHCLI_01840	J	Translation, ribosomal structure and biogenesis	RplS	-
+PBFPHCLI_01841	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01844	S	Function unknown	CwlO1	-
+PBFPHCLI_01845	P	Inorganic ion transport and metabolism	NlpA	-
+PBFPHCLI_01848	V	Defense mechanisms	MazG	-
+PBFPHCLI_01849	L	Replication, recombination and repair	XthA	-
+PBFPHCLI_01851	V	Defense mechanisms	Cas9	-
+PBFPHCLI_01852	V	Defense mechanisms	Cas1	-
+PBFPHCLI_01853	V	Defense mechanisms	Cas2	-
+PBFPHCLI_01855	X	Mobilome: prophages, transposons	TnpB	-
+PBFPHCLI_01856	K	Transcription	PurR	-
+PBFPHCLI_01857	G	Carbohydrate transport and metabolism	MelB	-
+PBFPHCLI_01858	G	Carbohydrate transport and metabolism	GanA	-
+PBFPHCLI_01859	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01860	H	Coenzyme transport and metabolism	IspA	-
+PBFPHCLI_01861	H	Coenzyme transport and metabolism	MenA	-
+PBFPHCLI_01862	H	Coenzyme transport and metabolism	UbiE	-
+PBFPHCLI_01863	G	Carbohydrate transport and metabolism	AraJ	-
+PBFPHCLI_01864	R	General function prediction only	YfcE	-
+PBFPHCLI_01865	J	Translation, ribosomal structure and biogenesis	RpsN	-
+PBFPHCLI_01867	E	Amino acid transport and metabolism	SdaA	-
+PBFPHCLI_01868	E	Amino acid transport and metabolism	SdaA	-
+PBFPHCLI_01869	V	Defense mechanisms	AhpC	-
+PBFPHCLI_01870	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+PBFPHCLI_01872	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+PBFPHCLI_01873	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+PBFPHCLI_01876	S	Function unknown	YcfL	-
+PBFPHCLI_01877	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+PBFPHCLI_01878	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01881	U	Intracellular trafficking, secretion, and vesicular transport	FhaB	-
+PBFPHCLI_01882	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01883	C	Energy production and conversion	Qor	-
+PBFPHCLI_01884	K	Transcription	HxlR	-
+PBFPHCLI_01885	R	General function prediction only	YhaQ	-
+PBFPHCLI_01886	C	Energy production and conversion	NatB	-
+PBFPHCLI_01887	K	Transcription	AF0184	-
+PBFPHCLI_01891	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01892	L	Replication, recombination and repair	Ssb	-
+PBFPHCLI_01893	L	Replication, recombination and repair	NicK	-
+PBFPHCLI_01894	M	Cell wall/membrane/envelope biogenesis	LysM	-
+PBFPHCLI_01895	V	Defense mechanisms	RelB	-
+PBFPHCLI_01898	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+PBFPHCLI_01903	U	Intracellular trafficking, secretion, and vesicular transport	Hia	-
+PBFPHCLI_01904	E	Amino acid transport and metabolism	PepD	-
+PBFPHCLI_01905	P	Inorganic ion transport and metabolism	KefB	-
+PBFPHCLI_01906	Q	Secondary metabolites biosynthesis, transport and catabolism	PptA	-
+PBFPHCLI_01907	C	Energy production and conversion	GlpK	-
+PBFPHCLI_01912	K	Transcription	HxlR	-
+PBFPHCLI_01913	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+PBFPHCLI_01914	M	Cell wall/membrane/envelope biogenesis	YveK	-
+PBFPHCLI_01915	D	Cell cycle control, cell division, chromosome partitioning	Mrp	-
+PBFPHCLI_01916	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+PBFPHCLI_01917	M	Cell wall/membrane/envelope biogenesis	RmlA1	-
+PBFPHCLI_01918	M	Cell wall/membrane/envelope biogenesis	RfbC	-
+PBFPHCLI_01919	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+PBFPHCLI_01920	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01921	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01922	G	Carbohydrate transport and metabolism	WcaE	-
+PBFPHCLI_01923	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+PBFPHCLI_01924	E	Amino acid transport and metabolism	CysE	-
+PBFPHCLI_01926	M	Cell wall/membrane/envelope biogenesis	Glf	-
+PBFPHCLI_01927	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+PBFPHCLI_01928	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+PBFPHCLI_01929	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+PBFPHCLI_01930	V	Defense mechanisms	GmrSD	-
+PBFPHCLI_01932	V	Defense mechanisms	HsdM	-
+PBFPHCLI_01933	K	Transcription	MngR	-
+PBFPHCLI_01934	O	Posttranslational modification, protein turnover, chaperones	DraG	-
+PBFPHCLI_01935	F	Nucleotide transport and metabolism	CodB	-
+PBFPHCLI_01936	G	Carbohydrate transport and metabolism	RbsK	-
+PBFPHCLI_01937	X	Mobilome: prophages, transposons	YkfC	-
+PBFPHCLI_01938	P	Inorganic ion transport and metabolism	KefB	-
+PBFPHCLI_01939	V	Defense mechanisms	MazE	-
+PBFPHCLI_01940	V	Defense mechanisms	MazF	-
+PBFPHCLI_01941	R	General function prediction only	YqiK	-
+PBFPHCLI_01944	X	Mobilome: prophages, transposons	Doc	-
+PBFPHCLI_01946	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+PBFPHCLI_01948	E	Amino acid transport and metabolism	MHT1	-
+PBFPHCLI_01949	E	Amino acid transport and metabolism	LysP	-
+PBFPHCLI_01951	V	Defense mechanisms	MazF	-
+PBFPHCLI_01952	V	Defense mechanisms	MazE	-
+PBFPHCLI_01953	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+PBFPHCLI_01954	K	Transcription	HepA	-
+PBFPHCLI_01955	T	Signal transduction mechanisms	YwqE	-
+PBFPHCLI_01956	M	Cell wall/membrane/envelope biogenesis	Acm	-
+PBFPHCLI_01958	L	Replication, recombination and repair	SbcD	-
+PBFPHCLI_01959	L	Replication, recombination and repair	SbcC	-
+PBFPHCLI_01960	H	Coenzyme transport and metabolism	SsuD	-
+PBFPHCLI_01961	H	Coenzyme transport and metabolism	SsuD	-
+PBFPHCLI_01962	X	Mobilome: prophages, transposons	Tra8	-
+PBFPHCLI_01963	L	Replication, recombination and repair	AdaA	-
+PBFPHCLI_01964	F	Nucleotide transport and metabolism	UshA	-
+PBFPHCLI_01965	K	Transcription	HipB	-
+PBFPHCLI_01966	T	Signal transduction mechanisms	FIDO	-
+PBFPHCLI_01967	G	Carbohydrate transport and metabolism	NagB	-
+PBFPHCLI_01976	I	Lipid transport and metabolism	PgpB	-
+PBFPHCLI_01977	G	Carbohydrate transport and metabolism	YicI	-
+PBFPHCLI_01978	P	Inorganic ion transport and metabolism	ClcA	-
+PBFPHCLI_01979	X	Mobilome: prophages, transposons	RAYT	-
+PBFPHCLI_01980	H	Coenzyme transport and metabolism	ThiE	-
+PBFPHCLI_01981	H	Coenzyme transport and metabolism	ThiD	-
+PBFPHCLI_01982	H	Coenzyme transport and metabolism	ThiM	-
+PBFPHCLI_01984	L	Replication, recombination and repair	XerD	-
+PBFPHCLI_01985	T	Signal transduction mechanisms	Crp	-
+PBFPHCLI_01988	P	Inorganic ion transport and metabolism	FepB	-
+PBFPHCLI_01989	P	Inorganic ion transport and metabolism	FepC	-
+PBFPHCLI_01990	P	Inorganic ion transport and metabolism	FepD	-
+PBFPHCLI_01991	F	Nucleotide transport and metabolism	CysJ	-
+PBFPHCLI_01992	H	Coenzyme transport and metabolism	MoaE	-
+PBFPHCLI_01993	H	Coenzyme transport and metabolism	MoaD	-
+PBFPHCLI_01994	P	Inorganic ion transport and metabolism	NarK	-
+PBFPHCLI_01998	T	Signal transduction mechanisms	CitB	-
+PBFPHCLI_01999	T	Signal transduction mechanisms	ComP	-
+PBFPHCLI_02001	H	Coenzyme transport and metabolism	MobA	-
+PBFPHCLI_02002	H	Coenzyme transport and metabolism	MobB	-
+PBFPHCLI_02003	H	Coenzyme transport and metabolism	MoeA	-
+PBFPHCLI_02004	H	Coenzyme transport and metabolism	MoaB	-
+PBFPHCLI_02005	H	Coenzyme transport and metabolism	ThiF	-

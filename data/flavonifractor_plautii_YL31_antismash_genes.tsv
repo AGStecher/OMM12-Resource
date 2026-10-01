@@ -1,0 +1,50 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065315.1	ctg1_3522			3694972	3695989	-	transport	transport (smcogs) SMCOG1011: transport system permease protein
+region001	NZ_CP065315.1	ctg1_3523			3696346	3697264	+	other	
+region001	NZ_CP065315.1	ctg1_3524			3697257	3697770	+	other	
+region001	NZ_CP065315.1	ctg1_3525			3697783	3697978	+	other	
+region001	NZ_CP065315.1	ctg1_3526			3697981	3698368	+	other	
+region001	NZ_CP065315.1	ctg1_3527			3698386	3699490	+	other	
+region001	NZ_CP065315.1	ctg1_3528			3699495	3699987	+	other	
+region001	NZ_CP065315.1	ctg1_3529			3699983	3700517	+	other	
+region001	NZ_CP065315.1	ctg1_3530			3700527	3701112	+	other	
+region001	NZ_CP065315.1	ctg1_3531			3701206	3701596	+	other	
+region001	NZ_CP065315.1	ctg1_3532			3701796	3702294	+	other	
+region001	NZ_CP065315.1	ctg1_3533			3702295	3703225	+	other	
+region001	NZ_CP065315.1	ctg1_3534			3703221	3704427	+	other	
+region001	NZ_CP065315.1	ctg1_3535			3704443	3704677	+	other	
+region001	NZ_CP065315.1	ctg1_3536			3704679	3705561	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region001	NZ_CP065315.1	ctg1_3537			3705571	3706033	+	other	
+region001	NZ_CP065315.1	ctg1_3538			3706135	3707929	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DXP_synthase_N; biosynthetic-additional (rule-based-clusters) TPP_enzyme_C; biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region001	NZ_CP065315.1	ctg1_3539			3707921	3708740	+	other	
+region001	NZ_CP065315.1	ctg1_3540			3708736	3709606	+	other	
+region001	NZ_CP065315.1	ctg1_3541			3709602	3710055	+	other	
+region001	NZ_CP065315.1	ctg1_3542			3710079	3711783	+	other	
+region001	NZ_CP065315.1	ctg1_3543			3712204	3713434	+	other	
+region001	NZ_CP065315.1	ctg1_3544			3713543	3714713	+	other	
+region001	NZ_CP065315.1	ctg1_3545			3714770	3715538	-	other	
+region002	NZ_CP065315.1	ctg1_3549			3719639	3720545	+	other	
+region002	NZ_CP065315.1	ctg1_3550			3720608	3722195	-	transport	transport (smcogs) SMCOG1044: ABC transporter, permease protein
+region002	NZ_CP065315.1	ctg1_3551			3722197	3723352	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region002	NZ_CP065315.1	ctg1_3552			3723604	3723919	+	other	
+region002	NZ_CP065315.1	ctg1_3553			3723936	3724881	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Pyr_redox_2; biosynthetic-additional (smcogs) SMCOG1176: alkyl hydroperoxide reductase subunit
+region002	NZ_CP065315.1	ctg1_3554			3724877	3725300	+	other	
+region002	NZ_CP065315.1	ctg1_3555			3725302	3726613	+	other	other (smcogs) SMCOG1241: lipoprotein dsbF
+region002	NZ_CP065315.1	ctg1_3556			3726683	3727814	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) bTGT
+region002	NZ_CP065315.1	ctg1_3557			3727920	3728280	+	other	
+region002	NZ_CP065315.1	ctg1_3558			3728340	3728769	+	other	
+region002	NZ_CP065315.1	ctg1_3559			3728832	3728973	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: SCIFF; biosynthetic (rule-based-clusters) ranthipeptide: TIGR03973
+region002	NZ_CP065315.1	ctg1_3560			3729048	3730410	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: Ranthipeptide_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12; biosynthetic-additional (rule-based-clusters) TIGR04085
+region002	NZ_CP065315.1	ctg1_3561			3730728	3731358	+	other	
+region002	NZ_CP065315.1	ctg1_3562			3731384	3732263	+	other	other (smcogs) SMCOG1077: phage integrase family protein
+region002	NZ_CP065315.1	ctg1_3563			3732369	3732909	+	other	
+region002	NZ_CP065315.1	ctg1_3564			3732923	3733529	+	other	
+region002	NZ_CP065315.1	ctg1_3565			3733607	3734666	+	other	
+region002	NZ_CP065315.1	ctg1_3566			3734677	3735142	+	other	
+region002	NZ_CP065315.1	ctg1_3567			3735165	3736524	+	other	
+region002	NZ_CP065315.1	ctg1_3568			3736593	3737229	+	other	
+region002	NZ_CP065315.1	ctg1_3569			3737300	3737579	+	other	
+region002	NZ_CP065315.1	ctg1_3570			3737717	3737924	+	other	
+region002	NZ_CP065315.1	ctg1_3571			3737988	3738702	+	other	
+region002	NZ_CP065315.1	ctg1_3572			3738689	3739487	+	other	
+region002	NZ_CP065315.1	ctg1_3573			3739561	3740290	+	other	

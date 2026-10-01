@@ -1,0 +1,7 @@
+ECEGEIHF_00236	mobileOG_000138602|clpP|D9Y5Y2|phage|replication/recombination/repair|GPD|Homology	91.2	193	17	0	14	206	11	203	6.77e-120	341	91.5
+ECEGEIHF_00236	mobileOG_000175864|clpP|A0A3D4GDM6|phage|replication/recombination/repair|GPD|Homology	91.2	193	17	0	14	206	11	203	6.77e-120	341	91.5
+ECEGEIHF_00340	mobileOG_000218777|hup|A0A1C7HH89|integration/excision|replication|GPD|Homology	97.7	87	2	0	1	87	1	87	4.13e-53	162	100
+ECEGEIHF_00343	mobileOG_000218779|hsdM|D9Y7T4|stability/transfer/defense|NA|GPD|Homology	90.8	336	28	1	1	336	121	453	1.18e-220	611	100
+ECEGEIHF_00343	mobileOG_000082099|hsdM|D9Y7T4|stability/transfer/defense|NA|GPD|Homology	90.2	336	33	0	1	336	121	456	6.01e-219	607	100
+ECEGEIHF_01875	mobileOG_000009225|ihfA|A0A1C7HIJ4|phage|integration/excision|GPD|Manual	100	124	0	0	1	124	1	124	1.39e-84	244	100
+ECEGEIHF_01921	mobileOG_000139178|rrrD|A0A1C7HE45|phage|lysis|GPD|Homology	93.5	168	11	0	4	171	6	173	2.55e-110	313	98.2

@@ -1,0 +1,42 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	NZ_CP065319.1	BMHFFIJJ_01210	BMHFFIJJ_01210_gene	hypothetical protein	1313216	1313546	+	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01212	nlpD_1	Murein hydrolase activator NlpD	1314366	1315008	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01213	BMHFFIJJ_01213_gene	hypothetical protein	1315036	1315702	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01214	BMHFFIJJ_01214_gene	Polyphenol oxidase	1315752	1315968	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01215	BMHFFIJJ_01215_gene	Polyphenol oxidase	1316067	1316565	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01216	obg	GTPase Obg	1316561	1317716	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01217	adk	Adenylate kinase	1317804	1318374	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01218	hpt	Hypoxanthine phosphoribosyltransferase	1318433	1318970	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01219	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr	1319711	1321223	+	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01220	BMHFFIJJ_01220_gene	hypothetical protein	1321296	1322364	+	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01221	BMHFFIJJ_01221_gene	hypothetical protein	1322400	1322685	+	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01222	pqqD	Coenzyme PQQ synthesis protein D	1322699	1323050	-	biosynthetic	biosynthetic (rule-based-clusters) RRE-containing: PqqD_RRE; biosynthetic-additional (rule-based-clusters) PF05402
+region001	NZ_CP065319.1	BMHFFIJJ_01223	BMHFFIJJ_01223_gene	hypothetical protein	1323075	1324722	-	transport	transport (smcogs) SMCOG1106: major facilitator transporter
+region001	NZ_CP065319.1	BMHFFIJJ_01224	BMHFFIJJ_01224_gene	hypothetical protein	1324823	1325171	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01225	BMHFFIJJ_01225_gene	hypothetical protein	1325177	1325951	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01226	BMHFFIJJ_01226_gene	hypothetical protein	1325956	1326484	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01227	norR2	Nitric oxide reductase transcription regulator NorR2	1326470	1327709	-	regulatory	regulatory (smcogs) SMCOG1112: sigma-54 dependent trancsriptional regulator
+region001	NZ_CP065319.1	BMHFFIJJ_01228	pdxA2	D-threonate 4-phosphate dehydrogenase	1327721	1328816	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01229	BMHFFIJJ_01229_gene	hypothetical protein	1328820	1329864	-	other	
+region001	NZ_CP065319.1	BMHFFIJJ_01230	rlmN_1	Dual-specificity RNA methyltransferase RlmN	1329882	1330893	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PF04055
+region002	NZ_CP065319.1	BMHFFIJJ_03240	btuB_5	Vitamin B12 transporter BtuB	3834134	3836549	+	transport	transport (smcogs) SMCOG1082: TonB-dependent siderophore receptor family
+region002	NZ_CP065319.1	BMHFFIJJ_03241	BMHFFIJJ_03241_gene	hypothetical protein	3836590	3837979	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03242	BMHFFIJJ_03242_gene	hypothetical protein	3838071	3839199	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03243	pfkA_2	ATP-dependent 6-phosphofructokinase 1	3840046	3841027	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03244	ispH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	3841149	3842019	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03245	cmk_2	Cytidylate kinase	3842027	3842861	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03246	tonB_4	Protein TonB	3842931	3843615	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03247	BMHFFIJJ_03247_gene	(2E,6E)-farnesyl diphosphate synthase	3843684	3844659	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region002	NZ_CP065319.1	BMHFFIJJ_03248	BMHFFIJJ_03248_gene	hypothetical protein	3844674	3845391	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03249	dtd3_2	D-aminoacyl-tRNA deacylase	3845384	3846161	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03251	BMHFFIJJ_03251_gene	hypothetical protein	3846440	3847241	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03252	BMHFFIJJ_03252_gene	hypothetical protein	3847247	3847733	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03253	BMHFFIJJ_03253_gene	hypothetical protein	3847768	3848362	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03254	BMHFFIJJ_03254_gene	hypothetical protein	3848365	3848836	+	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03255	BMHFFIJJ_03255_gene	hypothetical protein	3848933	3849473	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03256	BMHFFIJJ_03256_gene	hypothetical protein	3849570	3850848	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03257	asnC_2	Regulatory protein AsnC	3851000	3851480	+	regulatory	regulatory (smcogs) SMCOG1120: AsnC family transcriptional regulator
+region002	NZ_CP065319.1	BMHFFIJJ_03258	folA	Dihydrofolate reductase	3851526	3852021	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03259	thyA2	Thymidylate synthase 2	3852026	3852821	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03260	cls	Cardiolipin synthase	3852860	3854132	-	other	
+region002	NZ_CP065319.1	BMHFFIJJ_03261	BMHFFIJJ_03261_gene	hypothetical protein	3854318	3854648	-	other	

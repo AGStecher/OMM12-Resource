@@ -1,0 +1,1349 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+GBAOMCCE_00002	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_00003	H	Coenzyme transport and metabolism	FmnP	-
+GBAOMCCE_00004	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+GBAOMCCE_00005	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+GBAOMCCE_00006	J	Translation, ribosomal structure and biogenesis	YhbY	-
+GBAOMCCE_00007	H	Coenzyme transport and metabolism	TenA	-
+GBAOMCCE_00008	S	Function unknown	YccF	-
+GBAOMCCE_00009	O	Posttranslational modification, protein turnover, chaperones		-
+GBAOMCCE_00010	E	Amino acid transport and metabolism	ArgA	-
+GBAOMCCE_00011	S	Function unknown	SWIM	-
+GBAOMCCE_00012	I	Lipid transport and metabolism	FAA1	-
+GBAOMCCE_00013	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00014	L	Replication, recombination and repair	RarA	-
+GBAOMCCE_00015	L	Replication, recombination and repair	Dob1	-
+GBAOMCCE_00016	C	Energy production and conversion	PPK2	-
+GBAOMCCE_00017	C	Energy production and conversion	PPK2	-
+GBAOMCCE_00018	E	Amino acid transport and metabolism	HisM	-
+GBAOMCCE_00019	E	Amino acid transport and metabolism	HisM	-
+GBAOMCCE_00020	E	Amino acid transport and metabolism	HisJ	-
+GBAOMCCE_00021	E	Amino acid transport and metabolism	GlnQ	-
+GBAOMCCE_00022	I	Lipid transport and metabolism	PldB	-
+GBAOMCCE_00023	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+GBAOMCCE_00024	J	Translation, ribosomal structure and biogenesis	HisS	-
+GBAOMCCE_00025	J	Translation, ribosomal structure and biogenesis	AspS	-
+GBAOMCCE_00026	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+GBAOMCCE_00027	T	Signal transduction mechanisms	UspA	-
+GBAOMCCE_00030	K	Transcription	CspC	-
+GBAOMCCE_00031	T	Signal transduction mechanisms	WalK	-
+GBAOMCCE_00032	T	Signal transduction mechanisms	OmpR	-
+GBAOMCCE_00034	V	Defense mechanisms	EsxA	-
+GBAOMCCE_00035	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+GBAOMCCE_00036	K	Transcription	CspC	-
+GBAOMCCE_00038	L	Replication, recombination and repair	Ung	-
+GBAOMCCE_00039	R	General function prediction only	MMP0363	-
+GBAOMCCE_00040	R	General function prediction only	MMP0362	-
+GBAOMCCE_00042	P	Inorganic ion transport and metabolism	ChlD	-
+GBAOMCCE_00043	P	Inorganic ion transport and metabolism	ChlD	-
+GBAOMCCE_00046	I	Lipid transport and metabolism	EstA	-
+GBAOMCCE_00047	F	Nucleotide transport and metabolism	PurB	-
+GBAOMCCE_00048	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+GBAOMCCE_00050	B	Chromatin structure and dynamics	HupA	-
+GBAOMCCE_00053	G	Carbohydrate transport and metabolism	SuhB	-
+GBAOMCCE_00055	O	Posttranslational modification, protein turnover, chaperones	RPT1	-
+GBAOMCCE_00056	M	Cell wall/membrane/envelope biogenesis	DedA	-
+GBAOMCCE_00057	E	Amino acid transport and metabolism	SerB	-
+GBAOMCCE_00058	J	Translation, ribosomal structure and biogenesis	Fmt	-
+GBAOMCCE_00059	L	Replication, recombination and repair	PriA	-
+GBAOMCCE_00060	I	Lipid transport and metabolism	Cfa	-
+GBAOMCCE_00061	H	Coenzyme transport and metabolism	MetK	-
+GBAOMCCE_00062	K	Transcription	RpoZ	-
+GBAOMCCE_00063	E	Amino acid transport and metabolism	IlvD	-
+GBAOMCCE_00064	F	Nucleotide transport and metabolism	Gmk	-
+GBAOMCCE_00065	F	Nucleotide transport and metabolism	PyrF	-
+GBAOMCCE_00066	E	Amino acid transport and metabolism	CarB	-
+GBAOMCCE_00067	E	Amino acid transport and metabolism	CarA	-
+GBAOMCCE_00068	K	Transcription	NusB	-
+GBAOMCCE_00069	J	Translation, ribosomal structure and biogenesis	Efp	-
+GBAOMCCE_00072	J	Translation, ribosomal structure and biogenesis	TufA	-
+GBAOMCCE_00073	J	Translation, ribosomal structure and biogenesis	FusA	-
+GBAOMCCE_00074	J	Translation, ribosomal structure and biogenesis	RpsG	-
+GBAOMCCE_00075	J	Translation, ribosomal structure and biogenesis	RpsL	-
+GBAOMCCE_00077	E	Amino acid transport and metabolism	GLY1	-
+GBAOMCCE_00078	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_00079	F	Nucleotide transport and metabolism	PurT	-
+GBAOMCCE_00080	F	Nucleotide transport and metabolism	PurC	-
+GBAOMCCE_00081	F	Nucleotide transport and metabolism	PurL2	-
+GBAOMCCE_00082	O	Posttranslational modification, protein turnover, chaperones	YdjI	-
+GBAOMCCE_00088	K	Transcription	HipB	-
+GBAOMCCE_00089	V	Defense mechanisms	NimA	-
+GBAOMCCE_00090	S	Function unknown		-
+GBAOMCCE_00092	L	Replication, recombination and repair	DinP	-
+GBAOMCCE_00093	F	Nucleotide transport and metabolism	PurF	-
+GBAOMCCE_00094	F	Nucleotide transport and metabolism	PurM	-
+GBAOMCCE_00095	F	Nucleotide transport and metabolism	PurD	-
+GBAOMCCE_00096	P	Inorganic ion transport and metabolism	Fes	-
+GBAOMCCE_00097	I	Lipid transport and metabolism	MprF	-
+GBAOMCCE_00098	P	Inorganic ion transport and metabolism	Fur	-
+GBAOMCCE_00099	F	Nucleotide transport and metabolism	PurK	-
+GBAOMCCE_00100	F	Nucleotide transport and metabolism	PurE	-
+GBAOMCCE_00101	H	Coenzyme transport and metabolism	Dxs	-
+GBAOMCCE_00104	P	Inorganic ion transport and metabolism	ArsB	-
+GBAOMCCE_00105	L	Replication, recombination and repair	DnaG	-
+GBAOMCCE_00106	M	Cell wall/membrane/envelope biogenesis	Alr	-
+GBAOMCCE_00107	J	Translation, ribosomal structure and biogenesis	RimL	-
+GBAOMCCE_00108	T	Signal transduction mechanisms	LuxS	-
+GBAOMCCE_00109	C	Energy production and conversion	GldA	-
+GBAOMCCE_00110	R	General function prediction only		-
+GBAOMCCE_00111	E	Amino acid transport and metabolism	MnaT	-
+GBAOMCCE_00112	X	Mobilome: prophages, transposons	Doc	-
+GBAOMCCE_00113	X	Mobilome: prophages, transposons	SocA	-
+GBAOMCCE_00114	K	Transcription		-
+GBAOMCCE_00117	L	Replication, recombination and repair	Dcm	-
+GBAOMCCE_00122	X	Mobilome: prophages, transposons		-
+GBAOMCCE_00125	R	General function prediction only	DfsB	-
+GBAOMCCE_00128	L	Replication, recombination and repair	AlkD	-
+GBAOMCCE_00129	J	Translation, ribosomal structure and biogenesis	RimL	-
+GBAOMCCE_00130	L	Replication, recombination and repair	YcjD	-
+GBAOMCCE_00131	L	Replication, recombination and repair	RecQ	-
+GBAOMCCE_00132	E	Amino acid transport and metabolism	CysK	-
+GBAOMCCE_00133	E	Amino acid transport and metabolism	MetC	-
+GBAOMCCE_00134	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+GBAOMCCE_00135	E	Amino acid transport and metabolism	DppD	-
+GBAOMCCE_00136	E	Amino acid transport and metabolism	DppC	-
+GBAOMCCE_00137	E	Amino acid transport and metabolism	DppB	-
+GBAOMCCE_00138	E	Amino acid transport and metabolism	DdpA	-
+GBAOMCCE_00139	H	Coenzyme transport and metabolism	CoaX	-
+GBAOMCCE_00141	J	Translation, ribosomal structure and biogenesis	RluA	-
+GBAOMCCE_00142	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+GBAOMCCE_00143	T	Signal transduction mechanisms	CitB	-
+GBAOMCCE_00144	V	Defense mechanisms	AbiEi	-
+GBAOMCCE_00145	E	Amino acid transport and metabolism	GlnQ	-
+GBAOMCCE_00146	E	Amino acid transport and metabolism	HisM	-
+GBAOMCCE_00147	E	Amino acid transport and metabolism	HisJ	-
+GBAOMCCE_00148	E	Amino acid transport and metabolism	HisJ	-
+GBAOMCCE_00149	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+GBAOMCCE_00150	M	Cell wall/membrane/envelope biogenesis		-
+GBAOMCCE_00151	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+GBAOMCCE_00152	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+GBAOMCCE_00153	J	Translation, ribosomal structure and biogenesis	PrfA	-
+GBAOMCCE_00154	E	Amino acid transport and metabolism	DapD	-
+GBAOMCCE_00155	J	Translation, ribosomal structure and biogenesis	RlmH	-
+GBAOMCCE_00156	C	Energy production and conversion	GltA	-
+GBAOMCCE_00157	J	Translation, ribosomal structure and biogenesis	Map	-
+GBAOMCCE_00158	R	General function prediction only	HdeD	-
+GBAOMCCE_00159	O	Posttranslational modification, protein turnover, chaperones	PepO	-
+GBAOMCCE_00160	L	Replication, recombination and repair	Ssb	-
+GBAOMCCE_00161	J	Translation, ribosomal structure and biogenesis	ProS	-
+GBAOMCCE_00163	L	Replication, recombination and repair	RecD	-
+GBAOMCCE_00164	H	Coenzyme transport and metabolism	Cof	-
+GBAOMCCE_00165	A	RNA processing and modification	Orn	-
+GBAOMCCE_00166	F	Nucleotide transport and metabolism	GuaB	-
+GBAOMCCE_00167	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+GBAOMCCE_00168	J	Translation, ribosomal structure and biogenesis	TsaC	-
+GBAOMCCE_00169	J	Translation, ribosomal structure and biogenesis	HemK	-
+GBAOMCCE_00170	J	Translation, ribosomal structure and biogenesis	PrfA	-
+GBAOMCCE_00171	J	Translation, ribosomal structure and biogenesis	RpmE	-
+GBAOMCCE_00172	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_00173	G	Carbohydrate transport and metabolism	XylB	-
+GBAOMCCE_00174	G	Carbohydrate transport and metabolism	XynB2	-
+GBAOMCCE_00175	I	Lipid transport and metabolism	PnbA	-
+GBAOMCCE_00176	G	Carbohydrate transport and metabolism	LacZ	-
+GBAOMCCE_00177	G	Carbohydrate transport and metabolism	XynB2	-
+GBAOMCCE_00178	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00179	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00180	G	Carbohydrate transport and metabolism	UgpB	-
+GBAOMCCE_00181	K	Transcription	PurR	-
+GBAOMCCE_00183	G	Carbohydrate transport and metabolism	XynB2	-
+GBAOMCCE_00184	G	Carbohydrate transport and metabolism	XylA	-
+GBAOMCCE_00185	J	Translation, ribosomal structure and biogenesis	RpmE	-
+GBAOMCCE_00189	H	Coenzyme transport and metabolism	YkoE	-
+GBAOMCCE_00190	E	Amino acid transport and metabolism	MET17	-
+GBAOMCCE_00191	J	Translation, ribosomal structure and biogenesis	Def	-
+GBAOMCCE_00192	J	Translation, ribosomal structure and biogenesis	Uup	-
+GBAOMCCE_00193	I	Lipid transport and metabolism	TesB	-
+GBAOMCCE_00196	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+GBAOMCCE_00197	F	Nucleotide transport and metabolism	HptA	-
+GBAOMCCE_00198	J	Translation, ribosomal structure and biogenesis	TtcA	-
+GBAOMCCE_00199	M	Cell wall/membrane/envelope biogenesis	DacB	-
+GBAOMCCE_00201	J	Translation, ribosomal structure and biogenesis	RbbA	-
+GBAOMCCE_00202	N	Cell motility	BcsA	-
+GBAOMCCE_00203	R	General function prediction only	PerM	-
+GBAOMCCE_00204	N	Cell motility	BcsA	-
+GBAOMCCE_00208	K	Transcription	PurR	-
+GBAOMCCE_00209	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00210	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00211	G	Carbohydrate transport and metabolism	GanA	-
+GBAOMCCE_00212	G	Carbohydrate transport and metabolism	UgpB	-
+GBAOMCCE_00213	S	Function unknown		-
+GBAOMCCE_00216	H	Coenzyme transport and metabolism	YigB	-
+GBAOMCCE_00217	K	Transcription	PurR	-
+GBAOMCCE_00218	G	Carbohydrate transport and metabolism	LacZ	-
+GBAOMCCE_00219	G	Carbohydrate transport and metabolism	MelB	-
+GBAOMCCE_00220	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+GBAOMCCE_00221	S	Function unknown	YeaO	-
+GBAOMCCE_00223	V	Defense mechanisms	JetD	-
+GBAOMCCE_00224	S	Function unknown		-
+GBAOMCCE_00227	S	Function unknown		-
+GBAOMCCE_00228	R	General function prediction only	YpfH	-
+GBAOMCCE_00229	L	Replication, recombination and repair	YbjD	-
+GBAOMCCE_00230	J	Translation, ribosomal structure and biogenesis	Bud32	-
+GBAOMCCE_00231	R	General function prediction only	YqfW	-
+GBAOMCCE_00232	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+GBAOMCCE_00233	X	Mobilome: prophages, transposons	IS285	-
+GBAOMCCE_00235	J	Translation, ribosomal structure and biogenesis	TrmB	-
+GBAOMCCE_00236	M	Cell wall/membrane/envelope biogenesis	GalE	-
+GBAOMCCE_00237	T	Signal transduction mechanisms	Wzb	-
+GBAOMCCE_00238	H	Coenzyme transport and metabolism	FolA	-
+GBAOMCCE_00239	F	Nucleotide transport and metabolism	ThyA	-
+GBAOMCCE_00240	R	General function prediction only	YhfA	-
+GBAOMCCE_00241	T	Signal transduction mechanisms	UspA	-
+GBAOMCCE_00242	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+GBAOMCCE_00243	M	Cell wall/membrane/envelope biogenesis		-
+GBAOMCCE_00244	H	Coenzyme transport and metabolism	SerC	-
+GBAOMCCE_00245	P	Inorganic ion transport and metabolism	PhoU	-
+GBAOMCCE_00246	T	Signal transduction mechanisms	WalK	-
+GBAOMCCE_00248	G	Carbohydrate transport and metabolism	ManA	-
+GBAOMCCE_00249	C	Energy production and conversion	Qor	-
+GBAOMCCE_00250	S	Function unknown		-
+GBAOMCCE_00251	G	Carbohydrate transport and metabolism	GpmA	-
+GBAOMCCE_00252	H	Coenzyme transport and metabolism	MenA	-
+GBAOMCCE_00253	E	Amino acid transport and metabolism	PotE	-
+GBAOMCCE_00254	E	Amino acid transport and metabolism	Kex1	-
+GBAOMCCE_00255	E	Amino acid transport and metabolism	PotE	-
+GBAOMCCE_00256	E	Amino acid transport and metabolism	PepC	-
+GBAOMCCE_00257	R	General function prediction only		-
+GBAOMCCE_00259	E	Amino acid transport and metabolism	LivF	-
+GBAOMCCE_00260	E	Amino acid transport and metabolism	LivG	-
+GBAOMCCE_00261	E	Amino acid transport and metabolism	LivM	-
+GBAOMCCE_00263	R	General function prediction only	HdeD	-
+GBAOMCCE_00264	J	Translation, ribosomal structure and biogenesis	LysU	-
+GBAOMCCE_00266	E	Amino acid transport and metabolism	MET17	-
+GBAOMCCE_00267	E	Amino acid transport and metabolism	MET17	-
+GBAOMCCE_00268	E	Amino acid transport and metabolism	MetC	-
+GBAOMCCE_00269	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+GBAOMCCE_00270	K	Transcription	PspC	-
+GBAOMCCE_00271	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_00273	T	Signal transduction mechanisms	CitB	-
+GBAOMCCE_00274	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+GBAOMCCE_00276	E	Amino acid transport and metabolism	DAP2	-
+GBAOMCCE_00277	G	Carbohydrate transport and metabolism	Pgm	-
+GBAOMCCE_00278	I	Lipid transport and metabolism	LCB5	-
+GBAOMCCE_00279	J	Translation, ribosomal structure and biogenesis	SerS	-
+GBAOMCCE_00281	L	Replication, recombination and repair	RnhA	-
+GBAOMCCE_00282	G	Carbohydrate transport and metabolism	RpiA	-
+GBAOMCCE_00285	L	Replication, recombination and repair	Sms	-
+GBAOMCCE_00286	H	Coenzyme transport and metabolism	RibF	-
+GBAOMCCE_00287	J	Translation, ribosomal structure and biogenesis	TruB	-
+GBAOMCCE_00288	J	Translation, ribosomal structure and biogenesis	RbfA	-
+GBAOMCCE_00289	J	Translation, ribosomal structure and biogenesis	InfB	-
+GBAOMCCE_00290	K	Transcription	NusA	-
+GBAOMCCE_00293	J	Translation, ribosomal structure and biogenesis	TruA	-
+GBAOMCCE_00295	J	Translation, ribosomal structure and biogenesis	RplQ	-
+GBAOMCCE_00296	K	Transcription	RpoA	-
+GBAOMCCE_00297	J	Translation, ribosomal structure and biogenesis	RpsK	-
+GBAOMCCE_00298	J	Translation, ribosomal structure and biogenesis	RpsM	-
+GBAOMCCE_00299	J	Translation, ribosomal structure and biogenesis	RpmJ	-
+GBAOMCCE_00300	J	Translation, ribosomal structure and biogenesis	InfA	-
+GBAOMCCE_00301	F	Nucleotide transport and metabolism	Adk	-
+GBAOMCCE_00302	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+GBAOMCCE_00303	J	Translation, ribosomal structure and biogenesis	RplO	-
+GBAOMCCE_00304	J	Translation, ribosomal structure and biogenesis	RpmD	-
+GBAOMCCE_00305	J	Translation, ribosomal structure and biogenesis	RpsE	-
+GBAOMCCE_00306	J	Translation, ribosomal structure and biogenesis	RplR	-
+GBAOMCCE_00307	J	Translation, ribosomal structure and biogenesis	RplF	-
+GBAOMCCE_00308	J	Translation, ribosomal structure and biogenesis	RpsH	-
+GBAOMCCE_00309	J	Translation, ribosomal structure and biogenesis	RpsN	-
+GBAOMCCE_00310	J	Translation, ribosomal structure and biogenesis	RplE	-
+GBAOMCCE_00311	J	Translation, ribosomal structure and biogenesis	RplX	-
+GBAOMCCE_00312	J	Translation, ribosomal structure and biogenesis	RplN	-
+GBAOMCCE_00313	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+GBAOMCCE_00314	J	Translation, ribosomal structure and biogenesis	RpmC	-
+GBAOMCCE_00315	J	Translation, ribosomal structure and biogenesis	RplP	-
+GBAOMCCE_00316	J	Translation, ribosomal structure and biogenesis	RpsC	-
+GBAOMCCE_00317	J	Translation, ribosomal structure and biogenesis	RplV	-
+GBAOMCCE_00318	J	Translation, ribosomal structure and biogenesis	RpsS	-
+GBAOMCCE_00319	J	Translation, ribosomal structure and biogenesis	RplB	-
+GBAOMCCE_00320	J	Translation, ribosomal structure and biogenesis	RplW	-
+GBAOMCCE_00321	J	Translation, ribosomal structure and biogenesis	RplD	-
+GBAOMCCE_00322	J	Translation, ribosomal structure and biogenesis	RplC	-
+GBAOMCCE_00323	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+GBAOMCCE_00325	C	Energy production and conversion	EutG	-
+GBAOMCCE_00326	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_00327	G	Carbohydrate transport and metabolism	PulA	-
+GBAOMCCE_00328	J	Translation, ribosomal structure and biogenesis	RpsI	-
+GBAOMCCE_00329	J	Translation, ribosomal structure and biogenesis	RplM	-
+GBAOMCCE_00331	G	Carbohydrate transport and metabolism	MalQ	-
+GBAOMCCE_00333	R	General function prediction only	YIH1	-
+GBAOMCCE_00334	H	Coenzyme transport and metabolism	SerA	-
+GBAOMCCE_00335	K	Transcription	LytT	-
+GBAOMCCE_00336	T	Signal transduction mechanisms	CitA	-
+GBAOMCCE_00338	L	Replication, recombination and repair	DinP	-
+GBAOMCCE_00339	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_00340	C	Energy production and conversion	IorA	-
+GBAOMCCE_00341	E	Amino acid transport and metabolism	PotE	-
+GBAOMCCE_00342	M	Cell wall/membrane/envelope biogenesis	MurB	-
+GBAOMCCE_00343	J	Translation, ribosomal structure and biogenesis	RpmG	-
+GBAOMCCE_00347	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+GBAOMCCE_00349	J	Translation, ribosomal structure and biogenesis	RimL	-
+GBAOMCCE_00350	H	Coenzyme transport and metabolism	FAU1	-
+GBAOMCCE_00351	R	General function prediction only		-
+GBAOMCCE_00352	W	Extracellular structures	CpaB	-
+GBAOMCCE_00354	L	Replication, recombination and repair	DNA2	-
+GBAOMCCE_00355	T	Signal transduction mechanisms	FHA	-
+GBAOMCCE_00356	J	Translation, ribosomal structure and biogenesis	RplL	-
+GBAOMCCE_00357	J	Translation, ribosomal structure and biogenesis	RplJ	-
+GBAOMCCE_00358	P	Inorganic ion transport and metabolism	ZnuA	-
+GBAOMCCE_00359	F	Nucleotide transport and metabolism	NCS2	-
+GBAOMCCE_00360	P	Inorganic ion transport and metabolism	PstB	-
+GBAOMCCE_00361	P	Inorganic ion transport and metabolism	PstA	-
+GBAOMCCE_00362	P	Inorganic ion transport and metabolism	PstC	-
+GBAOMCCE_00363	P	Inorganic ion transport and metabolism	PstS	-
+GBAOMCCE_00364	P	Inorganic ion transport and metabolism	PstB	-
+GBAOMCCE_00365	P	Inorganic ion transport and metabolism	PstA	-
+GBAOMCCE_00366	P	Inorganic ion transport and metabolism	PstC	-
+GBAOMCCE_00367	P	Inorganic ion transport and metabolism	PstS	-
+GBAOMCCE_00368	T	Signal transduction mechanisms	OmpR	-
+GBAOMCCE_00369	T	Signal transduction mechanisms	WalK	-
+GBAOMCCE_00370	F	Nucleotide transport and metabolism	MtnN	-
+GBAOMCCE_00371	E	Amino acid transport and metabolism	AroG1	-
+GBAOMCCE_00372	M	Cell wall/membrane/envelope biogenesis	OafA	-
+GBAOMCCE_00373	E	Amino acid transport and metabolism	AroG1	-
+GBAOMCCE_00374	E	Amino acid transport and metabolism	PepC	-
+GBAOMCCE_00375	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+GBAOMCCE_00376	O	Posttranslational modification, protein turnover, chaperones	Pcp	-
+GBAOMCCE_00377	I	Lipid transport and metabolism	IspD	-
+GBAOMCCE_00378	F	Nucleotide transport and metabolism	YfiH	-
+GBAOMCCE_00379	J	Translation, ribosomal structure and biogenesis	RlhA	-
+GBAOMCCE_00380	H	Coenzyme transport and metabolism	PdxI	-
+GBAOMCCE_00381	O	Posttranslational modification, protein turnover, chaperones	GrxC	-
+GBAOMCCE_00382	F	Nucleotide transport and metabolism	NrdI	-
+GBAOMCCE_00383	F	Nucleotide transport and metabolism	NrdA	-
+GBAOMCCE_00384	F	Nucleotide transport and metabolism	NrdB	-
+GBAOMCCE_00385	S	Function unknown		-
+GBAOMCCE_00386	M	Cell wall/membrane/envelope biogenesis	LemA	-
+GBAOMCCE_00387	J	Translation, ribosomal structure and biogenesis	Pnp	-
+GBAOMCCE_00388	J	Translation, ribosomal structure and biogenesis	RpsO	-
+GBAOMCCE_00389	C	Energy production and conversion	Mdh	-
+GBAOMCCE_00392	I	Lipid transport and metabolism	AcpS	-
+GBAOMCCE_00393	I	Lipid transport and metabolism	FabG2	-
+GBAOMCCE_00394	I	Lipid transport and metabolism	MmdA	-
+GBAOMCCE_00395	I	Lipid transport and metabolism	PccA	-
+GBAOMCCE_00396	H	Coenzyme transport and metabolism	BioY	-
+GBAOMCCE_00397	H	Coenzyme transport and metabolism	BirA2	-
+GBAOMCCE_00398	K	Transcription	CdaR	-
+GBAOMCCE_00399	J	Translation, ribosomal structure and biogenesis	RplA	-
+GBAOMCCE_00400	J	Translation, ribosomal structure and biogenesis	RplK	-
+GBAOMCCE_00401	K	Transcription	NusG	-
+GBAOMCCE_00402	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+GBAOMCCE_00404	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_00405	E	Amino acid transport and metabolism	ProB	-
+GBAOMCCE_00406	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+GBAOMCCE_00407	J	Translation, ribosomal structure and biogenesis	RpmA	-
+GBAOMCCE_00408	J	Translation, ribosomal structure and biogenesis	RplU	-
+GBAOMCCE_00409	J	Translation, ribosomal structure and biogenesis	CafA	-
+GBAOMCCE_00410	E	Amino acid transport and metabolism	ArgE	-
+GBAOMCCE_00411	R	General function prediction only	YfdV	-
+GBAOMCCE_00412	Q	Secondary metabolites biosynthesis, transport and catabolism	YbbP	-
+GBAOMCCE_00413	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_00414	L	Replication, recombination and repair	RnhB	-
+GBAOMCCE_00415	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+GBAOMCCE_00416	J	Translation, ribosomal structure and biogenesis	RplS	-
+GBAOMCCE_00417	G	Carbohydrate transport and metabolism	Pgi	-
+GBAOMCCE_00418	M	Cell wall/membrane/envelope biogenesis	CpsB	-
+GBAOMCCE_00421	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+GBAOMCCE_00422	F	Nucleotide transport and metabolism	RdgB	-
+GBAOMCCE_00423	J	Translation, ribosomal structure and biogenesis	Rph	-
+GBAOMCCE_00425	H	Coenzyme transport and metabolism	PncB	-
+GBAOMCCE_00426	H	Coenzyme transport and metabolism	PdxI	-
+GBAOMCCE_00431	J	Translation, ribosomal structure and biogenesis	FusA	-
+GBAOMCCE_00433	E	Amino acid transport and metabolism	OppA	-
+GBAOMCCE_00434	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+GBAOMCCE_00437	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+GBAOMCCE_00439	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00440	M	Cell wall/membrane/envelope biogenesis	PspA	-
+GBAOMCCE_00442	J	Translation, ribosomal structure and biogenesis	IleS	-
+GBAOMCCE_00445	T	Signal transduction mechanisms	Oca4	-
+GBAOMCCE_00446	G	Carbohydrate transport and metabolism	BglC	-
+GBAOMCCE_00448	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00449	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00450	K	Transcription	MarR	-
+GBAOMCCE_00451	C	Energy production and conversion	SsuE	-
+GBAOMCCE_00452	E	Amino acid transport and metabolism	Tdh	-
+GBAOMCCE_00454	H	Coenzyme transport and metabolism	Gsh2	-
+GBAOMCCE_00455	R	General function prediction only		-
+GBAOMCCE_00458	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+GBAOMCCE_00459	F	Nucleotide transport and metabolism	NrdD	-
+GBAOMCCE_00460	L	Replication, recombination and repair	XseA	-
+GBAOMCCE_00461	L	Replication, recombination and repair	XseB	-
+GBAOMCCE_00462	R	General function prediction only	YafD	-
+GBAOMCCE_00464	S	Function unknown	CwlO1	-
+GBAOMCCE_00465	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_00466	L	Replication, recombination and repair	Vsr	-
+GBAOMCCE_00468	L	Replication, recombination and repair	DnaQ	-
+GBAOMCCE_00469	J	Translation, ribosomal structure and biogenesis	Def	-
+GBAOMCCE_00470	G	Carbohydrate transport and metabolism	ManB	-
+GBAOMCCE_00471	E	Amino acid transport and metabolism	PepN	-
+GBAOMCCE_00472	J	Translation, ribosomal structure and biogenesis	RnjA	-
+GBAOMCCE_00473	E	Amino acid transport and metabolism	DapA	-
+GBAOMCCE_00474	E	Amino acid transport and metabolism	DapB	-
+GBAOMCCE_00475	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00476	R	General function prediction only	YhbS	-
+GBAOMCCE_00477	L	Replication, recombination and repair	UvrD	-
+GBAOMCCE_00478	L	Replication, recombination and repair	Slr0479	-
+GBAOMCCE_00479	T	Signal transduction mechanisms	SPS1	-
+GBAOMCCE_00480	R	General function prediction only	FN3	-
+GBAOMCCE_00481	R	General function prediction only	MMP0363	-
+GBAOMCCE_00482	R	General function prediction only	MMP0362	-
+GBAOMCCE_00483	O	Posttranslational modification, protein turnover, chaperones	YebA	-
+GBAOMCCE_00485	T	Signal transduction mechanisms	FHA	-
+GBAOMCCE_00486	K	Transcription	RpoC	-
+GBAOMCCE_00487	K	Transcription	RpoB	-
+GBAOMCCE_00489	L	Replication, recombination and repair	MutY	-
+GBAOMCCE_00490	J	Translation, ribosomal structure and biogenesis	TrmL	-
+GBAOMCCE_00491	D	Cell cycle control, cell division, chromosome partitioning		-
+GBAOMCCE_00492	T	Signal transduction mechanisms	ACT	-
+GBAOMCCE_00493	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+GBAOMCCE_00494	G	Carbohydrate transport and metabolism	GalK	-
+GBAOMCCE_00495	G	Carbohydrate transport and metabolism	GalT	-
+GBAOMCCE_00496	K	Transcription	GlpR	-
+GBAOMCCE_00497	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00498	F	Nucleotide transport and metabolism	PyrD	-
+GBAOMCCE_00499	C	Energy production and conversion	FadH	-
+GBAOMCCE_00500	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+GBAOMCCE_00501	T	Signal transduction mechanisms	Crp	-
+GBAOMCCE_00502	H	Coenzyme transport and metabolism	LplA	-
+GBAOMCCE_00503	R	General function prediction only	TM2	-
+GBAOMCCE_00505	C	Energy production and conversion	LeuB	-
+GBAOMCCE_00506	E	Amino acid transport and metabolism	PtrB	-
+GBAOMCCE_00507	I	Lipid transport and metabolism	App1	-
+GBAOMCCE_00508	E	Amino acid transport and metabolism	GcvH	-
+GBAOMCCE_00509	F	Nucleotide transport and metabolism	NPY1	-
+GBAOMCCE_00510	H	Coenzyme transport and metabolism	MenH	-
+GBAOMCCE_00512	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+GBAOMCCE_00513	R	General function prediction only	YabE	-
+GBAOMCCE_00514	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+GBAOMCCE_00517	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+GBAOMCCE_00519	V	Defense mechanisms	MutT	-
+GBAOMCCE_00521	M	Cell wall/membrane/envelope biogenesis	Ugd	-
+GBAOMCCE_00522	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+GBAOMCCE_00524	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00525	P	Inorganic ion transport and metabolism	MntH	-
+GBAOMCCE_00527	K	Transcription	PurR	-
+GBAOMCCE_00528	G	Carbohydrate transport and metabolism	GanA	-
+GBAOMCCE_00529	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00530	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00531	G	Carbohydrate transport and metabolism	UgpB	-
+GBAOMCCE_00532	H	Coenzyme transport and metabolism	PdxS	-
+GBAOMCCE_00533	H	Coenzyme transport and metabolism	PdxT	-
+GBAOMCCE_00534	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+GBAOMCCE_00535	M	Cell wall/membrane/envelope biogenesis	WecH	-
+GBAOMCCE_00536	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_00537	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+GBAOMCCE_00538	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00539	M	Cell wall/membrane/envelope biogenesis	OCH1	-
+GBAOMCCE_00540	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00541	M	Cell wall/membrane/envelope biogenesis	OCH1	-
+GBAOMCCE_00543	H	Coenzyme transport and metabolism	PdxS	-
+GBAOMCCE_00544	H	Coenzyme transport and metabolism	PdxT	-
+GBAOMCCE_00545	M	Cell wall/membrane/envelope biogenesis	WecH	-
+GBAOMCCE_00547	M	Cell wall/membrane/envelope biogenesis	WecH	-
+GBAOMCCE_00548	M	Cell wall/membrane/envelope biogenesis	MurG	-
+GBAOMCCE_00549	G	Carbohydrate transport and metabolism		-
+GBAOMCCE_00550	M	Cell wall/membrane/envelope biogenesis	WcaK	-
+GBAOMCCE_00551	C	Energy production and conversion	NfnB	-
+GBAOMCCE_00552	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_00553	M	Cell wall/membrane/envelope biogenesis	LicC	-
+GBAOMCCE_00554	E	Amino acid transport and metabolism	EamA	-
+GBAOMCCE_00555	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+GBAOMCCE_00556	X	Mobilome: prophages, transposons	IS285	-
+GBAOMCCE_00557	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00558	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+GBAOMCCE_00559	X	Mobilome: prophages, transposons	IS285	-
+GBAOMCCE_00560	M	Cell wall/membrane/envelope biogenesis	WecH	-
+GBAOMCCE_00561	X	Mobilome: prophages, transposons	Tra8	-
+GBAOMCCE_00562	E	Amino acid transport and metabolism	EamA	-
+GBAOMCCE_00563	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+GBAOMCCE_00564	I	Lipid transport and metabolism	LicD	-
+GBAOMCCE_00565	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00566	M	Cell wall/membrane/envelope biogenesis	RfaL	-
+GBAOMCCE_00567	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+GBAOMCCE_00568	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+GBAOMCCE_00569	C	Energy production and conversion	CydD	-
+GBAOMCCE_00570	I	Lipid transport and metabolism	FAA1	-
+GBAOMCCE_00571	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+GBAOMCCE_00572	T	Signal transduction mechanisms	Wzb	-
+GBAOMCCE_00574	M	Cell wall/membrane/envelope biogenesis	YveK	-
+GBAOMCCE_00581	R	General function prediction only		-
+GBAOMCCE_00582	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+GBAOMCCE_00587	V	Defense mechanisms	Cas1	-
+GBAOMCCE_00590	V	Defense mechanisms	Cas6e	-
+GBAOMCCE_00591	V	Defense mechanisms	Cse2gr11	-
+GBAOMCCE_00592	V	Defense mechanisms	Cas8e	-
+GBAOMCCE_00593	V	Defense mechanisms	Cas3	-
+GBAOMCCE_00594	E	Amino acid transport and metabolism	ThrB	-
+GBAOMCCE_00595	E	Amino acid transport and metabolism	ThrA	-
+GBAOMCCE_00596	E	Amino acid transport and metabolism	LysA	-
+GBAOMCCE_00597	J	Translation, ribosomal structure and biogenesis	ArgS	-
+GBAOMCCE_00598	M	Cell wall/membrane/envelope biogenesis	XynC	-
+GBAOMCCE_00599	V	Defense mechanisms	RidA	-
+GBAOMCCE_00600	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00601	G	Carbohydrate transport and metabolism		-
+GBAOMCCE_00602	G	Carbohydrate transport and metabolism		-
+GBAOMCCE_00604	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+GBAOMCCE_00607	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+GBAOMCCE_00608	L	Replication, recombination and repair	NucS	-
+GBAOMCCE_00609	C	Energy production and conversion	AtpC	-
+GBAOMCCE_00610	C	Energy production and conversion	AtpD	-
+GBAOMCCE_00611	C	Energy production and conversion	AtpG	-
+GBAOMCCE_00612	C	Energy production and conversion	AtpA	-
+GBAOMCCE_00613	C	Energy production and conversion	AtpH	-
+GBAOMCCE_00614	C	Energy production and conversion	AtpF	-
+GBAOMCCE_00615	C	Energy production and conversion	AtpE	-
+GBAOMCCE_00616	C	Energy production and conversion	AtpB	-
+GBAOMCCE_00617	E	Amino acid transport and metabolism	MetA	-
+GBAOMCCE_00619	I	Lipid transport and metabolism	CaiB	-
+GBAOMCCE_00620	X	Mobilome: prophages, transposons	InsO	-
+GBAOMCCE_00621	X	Mobilome: prophages, transposons	InsE	-
+GBAOMCCE_00622	V	Defense mechanisms	AbiEi	-
+GBAOMCCE_00623	R	General function prediction only	YfdV	-
+GBAOMCCE_00624	E	Amino acid transport and metabolism	IlvB	-
+GBAOMCCE_00625	P	Inorganic ion transport and metabolism	ClcA	-
+GBAOMCCE_00626	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+GBAOMCCE_00628	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_00629	C	Energy production and conversion	Ppa	-
+GBAOMCCE_00631	T	Signal transduction mechanisms	OmpR	-
+GBAOMCCE_00632	L	Replication, recombination and repair	Nth	-
+GBAOMCCE_00633	E	Amino acid transport and metabolism	DdpA	-
+GBAOMCCE_00634	J	Translation, ribosomal structure and biogenesis	ValS	-
+GBAOMCCE_00635	K	Transcription	Lrp	-
+GBAOMCCE_00636	E	Amino acid transport and metabolism	PheA	-
+GBAOMCCE_00638	K	Transcription	Rho	-
+GBAOMCCE_00639	H	Coenzyme transport and metabolism	HemY	-
+GBAOMCCE_00641	J	Translation, ribosomal structure and biogenesis	RimL	-
+GBAOMCCE_00642	J	Translation, ribosomal structure and biogenesis	GatB	-
+GBAOMCCE_00643	J	Translation, ribosomal structure and biogenesis	GatA	-
+GBAOMCCE_00644	J	Translation, ribosomal structure and biogenesis	GatC	-
+GBAOMCCE_00645	C	Energy production and conversion	NhaC	-
+GBAOMCCE_00646	J	Translation, ribosomal structure and biogenesis	RbbA	-
+GBAOMCCE_00647	J	Translation, ribosomal structure and biogenesis	SpoU	-
+GBAOMCCE_00649	P	Inorganic ion transport and metabolism	ZntA	-
+GBAOMCCE_00650	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+GBAOMCCE_00651	C	Energy production and conversion	FAHD1	-
+GBAOMCCE_00652	H	Coenzyme transport and metabolism	YggS	-
+GBAOMCCE_00653	J	Translation, ribosomal structure and biogenesis	GlnS	-
+GBAOMCCE_00655	G	Carbohydrate transport and metabolism	GlpF	-
+GBAOMCCE_00658	T	Signal transduction mechanisms	FIDO	-
+GBAOMCCE_00659	L	Replication, recombination and repair	XerD	-
+GBAOMCCE_00661	T	Signal transduction mechanisms	HipA	-
+GBAOMCCE_00666	S	Function unknown		-
+GBAOMCCE_00669	L	Replication, recombination and repair	Ssb	-
+GBAOMCCE_00671	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+GBAOMCCE_00673	S	Function unknown		-
+GBAOMCCE_00675	M	Cell wall/membrane/envelope biogenesis		-
+GBAOMCCE_00676	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+GBAOMCCE_00682	X	Mobilome: prophages, transposons	TnpB	-
+GBAOMCCE_00683	X	Mobilome: prophages, transposons		-
+GBAOMCCE_00686	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+GBAOMCCE_00690	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+GBAOMCCE_00693	L	Replication, recombination and repair	YhaN	-
+GBAOMCCE_00697	E	Amino acid transport and metabolism	ArgA	-
+GBAOMCCE_00704	J	Translation, ribosomal structure and biogenesis	RplI	-
+GBAOMCCE_00705	J	Translation, ribosomal structure and biogenesis	RpsR	-
+GBAOMCCE_00706	L	Replication, recombination and repair	Ssb	-
+GBAOMCCE_00707	J	Translation, ribosomal structure and biogenesis	RpsF	-
+GBAOMCCE_00708	E	Amino acid transport and metabolism	PrsA	-
+GBAOMCCE_00709	G	Carbohydrate transport and metabolism	RbsK	-
+GBAOMCCE_00710	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00711	F	Nucleotide transport and metabolism	URH1	-
+GBAOMCCE_00712	K	Transcription	PurR	-
+GBAOMCCE_00716	M	Cell wall/membrane/envelope biogenesis	Glf	-
+GBAOMCCE_00717	N	Cell motility	BcsA	-
+GBAOMCCE_00718	G	Carbohydrate transport and metabolism	WcaE	-
+GBAOMCCE_00719	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+GBAOMCCE_00720	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+GBAOMCCE_00721	G	Carbohydrate transport and metabolism	WcaE	-
+GBAOMCCE_00722	M	Cell wall/membrane/envelope biogenesis	Acm	-
+GBAOMCCE_00723	G	Carbohydrate transport and metabolism	TagH	-
+GBAOMCCE_00724	G	Carbohydrate transport and metabolism	TagG	-
+GBAOMCCE_00725	G	Carbohydrate transport and metabolism	WcaE	-
+GBAOMCCE_00730	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_00731	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+GBAOMCCE_00732	T	Signal transduction mechanisms	HDGYP	-
+GBAOMCCE_00733	R	General function prediction only	YafJ	-
+GBAOMCCE_00734	P	Inorganic ion transport and metabolism	Kup	-
+GBAOMCCE_00735	N	Cell motility	TatD	-
+GBAOMCCE_00736	G	Carbohydrate transport and metabolism	GalA	-
+GBAOMCCE_00738	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00739	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00740	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00741	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00742	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_00743	J	Translation, ribosomal structure and biogenesis	MetG	-
+GBAOMCCE_00746	J	Translation, ribosomal structure and biogenesis	RsmI	-
+GBAOMCCE_00747	O	Posttranslational modification, protein turnover, chaperones	PMT1	-
+GBAOMCCE_00748	I	Lipid transport and metabolism	Aes	-
+GBAOMCCE_00749	M	Cell wall/membrane/envelope biogenesis	DedA	-
+GBAOMCCE_00751	V	Defense mechanisms	MA1133	-
+GBAOMCCE_00752	G	Carbohydrate transport and metabolism	BglX	-
+GBAOMCCE_00753	K	Transcription	AcrR	-
+GBAOMCCE_00754	G	Carbohydrate transport and metabolism	YcjU	-
+GBAOMCCE_00755	J	Translation, ribosomal structure and biogenesis	YafQ	-
+GBAOMCCE_00756	V	Defense mechanisms	StbD	-
+GBAOMCCE_00757	K	Transcription	SoxR	-
+GBAOMCCE_00758	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+GBAOMCCE_00759	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+GBAOMCCE_00760	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+GBAOMCCE_00762	K	Transcription	PurR	-
+GBAOMCCE_00764	H	Coenzyme transport and metabolism	YigB	-
+GBAOMCCE_00765	G	Carbohydrate transport and metabolism	PulA	-
+GBAOMCCE_00766	G	Carbohydrate transport and metabolism	MalG	-
+GBAOMCCE_00767	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00768	G	Carbohydrate transport and metabolism	MalE	-
+GBAOMCCE_00769	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_00770	G	Carbohydrate transport and metabolism	MalQ	-
+GBAOMCCE_00771	S	Function unknown	YesL	-
+GBAOMCCE_00772	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00773	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00774	K	Transcription	PurR	-
+GBAOMCCE_00776	G	Carbohydrate transport and metabolism	UgpB	-
+GBAOMCCE_00777	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_00779	G	Carbohydrate transport and metabolism	PhoE	-
+GBAOMCCE_00781	C	Energy production and conversion	NfnB	-
+GBAOMCCE_00783	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00787	V	Defense mechanisms	Nit1	-
+GBAOMCCE_00788	J	Translation, ribosomal structure and biogenesis	YafQ	-
+GBAOMCCE_00789	V	Defense mechanisms	RelB	-
+GBAOMCCE_00793	G	Carbohydrate transport and metabolism	MelB	-
+GBAOMCCE_00794	G	Carbohydrate transport and metabolism	HybA1	-
+GBAOMCCE_00795	K	Transcription	PurR	-
+GBAOMCCE_00796	O	Posttranslational modification, protein turnover, chaperones	SIR2	-
+GBAOMCCE_00797	E	Amino acid transport and metabolism	IlvA	-
+GBAOMCCE_00799	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_00800	V	Defense mechanisms	AbiEi	-
+GBAOMCCE_00801	G	Carbohydrate transport and metabolism	GalA	-
+GBAOMCCE_00802	G	Carbohydrate transport and metabolism	UgpE	-
+GBAOMCCE_00803	G	Carbohydrate transport and metabolism	UgpA	-
+GBAOMCCE_00804	G	Carbohydrate transport and metabolism	UgpB	-
+GBAOMCCE_00805	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_00806	G	Carbohydrate transport and metabolism	GalA	-
+GBAOMCCE_00807	J	Translation, ribosomal structure and biogenesis	TadA	-
+GBAOMCCE_00808	P	Inorganic ion transport and metabolism	NhaP	-
+GBAOMCCE_00809	R	General function prediction only	YpfH	-
+GBAOMCCE_00811	F	Nucleotide transport and metabolism	Dcd	-
+GBAOMCCE_00812	P	Inorganic ion transport and metabolism	MgtA	-
+GBAOMCCE_00813	J	Translation, ribosomal structure and biogenesis	SpoU	-
+GBAOMCCE_00814	C	Energy production and conversion	Lpd	-
+GBAOMCCE_00815	J	Translation, ribosomal structure and biogenesis	Bud32	-
+GBAOMCCE_00816	G	Carbohydrate transport and metabolism	MalK	-
+GBAOMCCE_00817	S	Function unknown		-
+GBAOMCCE_00818	T	Signal transduction mechanisms	SPS1	-
+GBAOMCCE_00819	O	Posttranslational modification, protein turnover, chaperones	DsbG	-
+GBAOMCCE_00821	R	General function prediction only	YabE	-
+GBAOMCCE_00822	J	Translation, ribosomal structure and biogenesis	RsmA	-
+GBAOMCCE_00823	I	Lipid transport and metabolism	IspE	-
+GBAOMCCE_00825	J	Translation, ribosomal structure and biogenesis	PcnB	-
+GBAOMCCE_00826	F	Nucleotide transport and metabolism	YjhB	-
+GBAOMCCE_00828	M	Cell wall/membrane/envelope biogenesis	MurJ	-
+GBAOMCCE_00829	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+GBAOMCCE_00830	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+GBAOMCCE_00831	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+GBAOMCCE_00832	J	Translation, ribosomal structure and biogenesis	RsmG	-
+GBAOMCCE_00833	R	General function prediction only	Jag	-
+GBAOMCCE_00834	M	Cell wall/membrane/envelope biogenesis	YidC	-
+GBAOMCCE_00836	L	Replication, recombination and repair	DnaA	-
+GBAOMCCE_00837	L	Replication, recombination and repair	DnaN	-
+GBAOMCCE_00838	L	Replication, recombination and repair	RecF	-
+GBAOMCCE_00839	R	General function prediction only		-
+GBAOMCCE_00840	L	Replication, recombination and repair	GyrB	-
+GBAOMCCE_00841	L	Replication, recombination and repair	GyrA	-
+GBAOMCCE_00843	V	Defense mechanisms	VanZ	-
+GBAOMCCE_00845	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+GBAOMCCE_00846	E	Amino acid transport and metabolism	GdhA	-
+GBAOMCCE_00847	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00850	M	Cell wall/membrane/envelope biogenesis	MscL	-
+GBAOMCCE_00851	R	General function prediction only		-
+GBAOMCCE_00854	R	General function prediction only	YgjP	-
+GBAOMCCE_00856	K	Transcription	Lrp	-
+GBAOMCCE_00858	L	Replication, recombination and repair	UvrA	-
+GBAOMCCE_00859	H	Coenzyme transport and metabolism	UbiE	-
+GBAOMCCE_00862	C	Energy production and conversion	SsuE	-
+GBAOMCCE_00865	J	Translation, ribosomal structure and biogenesis	RimI	-
+GBAOMCCE_00867	V	Defense mechanisms	MazG	-
+GBAOMCCE_00869	V	Defense mechanisms	HsdM	-
+GBAOMCCE_00875	S	Function unknown	YiijF	-
+GBAOMCCE_00876	K	Transcription		-
+GBAOMCCE_00877	K	Transcription	MarR	-
+GBAOMCCE_00878	K	Transcription		-
+GBAOMCCE_00880	G	Carbohydrate transport and metabolism	BglX	-
+GBAOMCCE_00881	J	Translation, ribosomal structure and biogenesis	Aph	-
+GBAOMCCE_00882	B	Chromatin structure and dynamics	Dps	-
+GBAOMCCE_00883	P	Inorganic ion transport and metabolism	MpfA	-
+GBAOMCCE_00884	P	Inorganic ion transport and metabolism	CynT	-
+GBAOMCCE_00885	K	Transcription	PurR	-
+GBAOMCCE_00888	G	Carbohydrate transport and metabolism	XylH	-
+GBAOMCCE_00889	G	Carbohydrate transport and metabolism	MglA	-
+GBAOMCCE_00890	G	Carbohydrate transport and metabolism	XylF	-
+GBAOMCCE_00891	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_00892	G	Carbohydrate transport and metabolism	MglA	-
+GBAOMCCE_00894	K	Transcription	PurR	-
+GBAOMCCE_00895	G	Carbohydrate transport and metabolism	AbfA	-
+GBAOMCCE_00896	G	Carbohydrate transport and metabolism	XylB	-
+GBAOMCCE_00897	E	Amino acid transport and metabolism	AraD	-
+GBAOMCCE_00898	G	Carbohydrate transport and metabolism	AraA	-
+GBAOMCCE_00899	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+GBAOMCCE_00900	C	Energy production and conversion	Ppc	-
+GBAOMCCE_00901	C	Energy production and conversion	YjjP	-
+GBAOMCCE_00902	J	Translation, ribosomal structure and biogenesis	TrpS	-
+GBAOMCCE_00907	G	Carbohydrate transport and metabolism	GlgP	-
+GBAOMCCE_00909	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+GBAOMCCE_00910	J	Translation, ribosomal structure and biogenesis	TrmR	-
+GBAOMCCE_00912	S	Function unknown	YlxW	-
+GBAOMCCE_00913	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+GBAOMCCE_00914	E	Amino acid transport and metabolism	PabA	-
+GBAOMCCE_00915	T	Signal transduction mechanisms	SPS1	-
+GBAOMCCE_00916	T	Signal transduction mechanisms	SPS1	-
+GBAOMCCE_00917	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+GBAOMCCE_00918	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+GBAOMCCE_00919	T	Signal transduction mechanisms	PTC1	-
+GBAOMCCE_00920	T	Signal transduction mechanisms	FHA	-
+GBAOMCCE_00921	T	Signal transduction mechanisms	FHA	-
+GBAOMCCE_00922	E	Amino acid transport and metabolism	DAP2	-
+GBAOMCCE_00923	E	Amino acid transport and metabolism	EamA	-
+GBAOMCCE_00924	I	Lipid transport and metabolism	PldB	-
+GBAOMCCE_00926	H	Coenzyme transport and metabolism	UbiE	-
+GBAOMCCE_00928	R	General function prediction only	YeaQ	-
+GBAOMCCE_00929	R	General function prediction only	YeaQ	-
+GBAOMCCE_00931	E	Amino acid transport and metabolism	GltD	-
+GBAOMCCE_00932	P	Inorganic ion transport and metabolism	ZntA	-
+GBAOMCCE_00933	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+GBAOMCCE_00934	H	Coenzyme transport and metabolism	YigB	-
+GBAOMCCE_00935	J	Translation, ribosomal structure and biogenesis	Tgt	-
+GBAOMCCE_00937	O	Posttranslational modification, protein turnover, chaperones	HtpX	-
+GBAOMCCE_00938	V	Defense mechanisms	PenP	-
+GBAOMCCE_00939	L	Replication, recombination and repair	SRAP	-
+GBAOMCCE_00940	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00941	C	Energy production and conversion	WrbA	-
+GBAOMCCE_00942	R	General function prediction only		-
+GBAOMCCE_00943	V	Defense mechanisms	Mrr	-
+GBAOMCCE_00944	L	Replication, recombination and repair	Dcm	-
+GBAOMCCE_00946	V	Defense mechanisms	RelB	-
+GBAOMCCE_00947	L	Replication, recombination and repair	AdaB	-
+GBAOMCCE_00949	K	Transcription	LysR	-
+GBAOMCCE_00950	G	Carbohydrate transport and metabolism	PgaB	-
+GBAOMCCE_00951	G	Carbohydrate transport and metabolism	Fba	-
+GBAOMCCE_00952	F	Nucleotide transport and metabolism	PurA	-
+GBAOMCCE_00953	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+GBAOMCCE_00954	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+GBAOMCCE_00955	E	Amino acid transport and metabolism	LivH	-
+GBAOMCCE_00956	E	Amino acid transport and metabolism	LivM	-
+GBAOMCCE_00958	E	Amino acid transport and metabolism	LivK	-
+GBAOMCCE_00959	K	Transcription	PurR	-
+GBAOMCCE_00961	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_00962	G	Carbohydrate transport and metabolism	MelB	-
+GBAOMCCE_00963	E	Amino acid transport and metabolism	LivK	-
+GBAOMCCE_00964	I	Lipid transport and metabolism	PccA	-
+GBAOMCCE_00966	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_00967	T	Signal transduction mechanisms	CitB	-
+GBAOMCCE_00970	M	Cell wall/membrane/envelope biogenesis	PGRP	-
+GBAOMCCE_00971	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_00972	V	Defense mechanisms	SalY	-
+GBAOMCCE_00973	G	Carbohydrate transport and metabolism	MelB	-
+GBAOMCCE_00975	P	Inorganic ion transport and metabolism	NarK	-
+GBAOMCCE_00976	E	Amino acid transport and metabolism	IlvC	-
+GBAOMCCE_00977	G	Carbohydrate transport and metabolism	AraJ	-
+GBAOMCCE_00980	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+GBAOMCCE_00981	G	Carbohydrate transport and metabolism	BglB	-
+GBAOMCCE_00983	K	Transcription	PurR	-
+GBAOMCCE_00984	S	Function unknown	YesL	-
+GBAOMCCE_00987	G	Carbohydrate transport and metabolism	YihS	-
+GBAOMCCE_00988	P	Inorganic ion transport and metabolism	FetA	-
+GBAOMCCE_00989	P	Inorganic ion transport and metabolism	FetB	-
+GBAOMCCE_00990	E	Amino acid transport and metabolism	AnsP	-
+GBAOMCCE_00991	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_00992	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_00993	E	Amino acid transport and metabolism	AnsP	-
+GBAOMCCE_00994	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_00996	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_00997	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_00998	K	Transcription	MarR	-
+GBAOMCCE_00999	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_01000	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_01001	G	Carbohydrate transport and metabolism	PgaB	-
+GBAOMCCE_01004	M	Cell wall/membrane/envelope biogenesis	Acm	-
+GBAOMCCE_01006	N	Cell motility	ArlF	-
+GBAOMCCE_01007	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_01008	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_01012	T	Signal transduction mechanisms	CheY	-
+GBAOMCCE_01013	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+GBAOMCCE_01014	E	Amino acid transport and metabolism	OpuBA	-
+GBAOMCCE_01015	I	Lipid transport and metabolism	PgpB	-
+GBAOMCCE_01016	R	General function prediction only	WbbJ	-
+GBAOMCCE_01018	K	Transcription	AcrR	-
+GBAOMCCE_01019	S	Function unknown	YhgE	-
+GBAOMCCE_01020	S	Function unknown	YhgE	-
+GBAOMCCE_01022	H	Coenzyme transport and metabolism	EcfT	-
+GBAOMCCE_01023	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+GBAOMCCE_01024	P	Inorganic ion transport and metabolism	ZinT	-
+GBAOMCCE_01025	I	Lipid transport and metabolism	YjjU	-
+GBAOMCCE_01027	A	RNA processing and modification	PBP1	-
+GBAOMCCE_01029	E	Amino acid transport and metabolism	PepD	-
+GBAOMCCE_01030	K	Transcription	AcrR	-
+GBAOMCCE_01031	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+GBAOMCCE_01032	P	Inorganic ion transport and metabolism	AmtB	-
+GBAOMCCE_01033	T	Signal transduction mechanisms	GlnK	-
+GBAOMCCE_01034	O	Posttranslational modification, protein turnover, chaperones	GlnD	-
+GBAOMCCE_01035	L	Replication, recombination and repair	DnaB	-
+GBAOMCCE_01036	M	Cell wall/membrane/envelope biogenesis	MurD	-
+GBAOMCCE_01037	H	Coenzyme transport and metabolism	GatD	-
+GBAOMCCE_01038	Q	Secondary metabolites biosynthesis, transport and catabolism	PhaF	-
+GBAOMCCE_01039	H	Coenzyme transport and metabolism	AarF	-
+GBAOMCCE_01040	I	Lipid transport and metabolism	UgpQ	-
+GBAOMCCE_01041	F	Nucleotide transport and metabolism	Upp	-
+GBAOMCCE_01043	T	Signal transduction mechanisms	SixA	-
+GBAOMCCE_01044	P	Inorganic ion transport and metabolism	Ppk	-
+GBAOMCCE_01045	W	Extracellular structures	CpaE/TadZ	-
+GBAOMCCE_01046	W	Extracellular structures	CpaF/TadA	-
+GBAOMCCE_01050	W	Extracellular structures	TadE/TadG	-
+GBAOMCCE_01052	L	Replication, recombination and repair	DnaX	-
+GBAOMCCE_01053	L	Replication, recombination and repair	RecR	-
+GBAOMCCE_01054	E	Amino acid transport and metabolism	MetL1	-
+GBAOMCCE_01055	E	Amino acid transport and metabolism	MetL1	-
+GBAOMCCE_01056	E	Amino acid transport and metabolism	Asd	-
+GBAOMCCE_01058	E	Amino acid transport and metabolism	LeuA	-
+GBAOMCCE_01059	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+GBAOMCCE_01060	I	Lipid transport and metabolism	INO1	-
+GBAOMCCE_01061	I	Lipid transport and metabolism	PgpB	-
+GBAOMCCE_01062	L	Replication, recombination and repair	TopA	-
+GBAOMCCE_01063	F	Nucleotide transport and metabolism	Tmk	-
+GBAOMCCE_01064	L	Replication, recombination and repair	DnaX	-
+GBAOMCCE_01065	R	General function prediction only	YbhB	-
+GBAOMCCE_01066	E	Amino acid transport and metabolism	PepD	-
+GBAOMCCE_01067	E	Amino acid transport and metabolism	PepD	-
+GBAOMCCE_01068	F	Nucleotide transport and metabolism	MIS1	-
+GBAOMCCE_01069	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+GBAOMCCE_01070	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+GBAOMCCE_01072	L	Replication, recombination and repair	YcjD	-
+GBAOMCCE_01073	I	Lipid transport and metabolism	GtrA	-
+GBAOMCCE_01075	G	Carbohydrate transport and metabolism	PhoE	-
+GBAOMCCE_01078	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+GBAOMCCE_01079	G	Carbohydrate transport and metabolism	FucP	-
+GBAOMCCE_01080	J	Translation, ribosomal structure and biogenesis	GlnS	-
+GBAOMCCE_01083	T	Signal transduction mechanisms	CpdA	-
+GBAOMCCE_01084	K	Transcription	IclR	-
+GBAOMCCE_01085	E	Amino acid transport and metabolism	LeuC	-
+GBAOMCCE_01086	E	Amino acid transport and metabolism	LeuD	-
+GBAOMCCE_01087	K	Transcription	Lrp	-
+GBAOMCCE_01088	H	Coenzyme transport and metabolism	Cdr	-
+GBAOMCCE_01089	M	Cell wall/membrane/envelope biogenesis	MurA	-
+GBAOMCCE_01090	I	Lipid transport and metabolism	PlsC	-
+GBAOMCCE_01091	C	Energy production and conversion	GpsA	-
+GBAOMCCE_01092	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+GBAOMCCE_01094	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+GBAOMCCE_01095	M	Cell wall/membrane/envelope biogenesis	MscS	-
+GBAOMCCE_01096	K	Transcription	AcrR	-
+GBAOMCCE_01097	I	Lipid transport and metabolism	Aes	-
+GBAOMCCE_01098	S	Function unknown		-
+GBAOMCCE_01099	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_01101	C	Energy production and conversion	NrfG	-
+GBAOMCCE_01103	G	Carbohydrate transport and metabolism	RbsK	-
+GBAOMCCE_01104	J	Translation, ribosomal structure and biogenesis	RpmB	-
+GBAOMCCE_01105	L	Replication, recombination and repair	RecG	-
+GBAOMCCE_01106	X	Mobilome: prophages, transposons	Tra8	-
+GBAOMCCE_01107	P	Inorganic ion transport and metabolism	ChlD	-
+GBAOMCCE_01108	J	Translation, ribosomal structure and biogenesis	RsmD	-
+GBAOMCCE_01109	J	Translation, ribosomal structure and biogenesis	TrmD	-
+GBAOMCCE_01110	J	Translation, ribosomal structure and biogenesis	RimM	-
+GBAOMCCE_01111	R	General function prediction only	YlqC	-
+GBAOMCCE_01112	J	Translation, ribosomal structure and biogenesis	RpsP	-
+GBAOMCCE_01113	G	Carbohydrate transport and metabolism	LacZ	-
+GBAOMCCE_01114	R	General function prediction only	YafD	-
+GBAOMCCE_01115	P	Inorganic ion transport and metabolism		-
+GBAOMCCE_01116	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+GBAOMCCE_01117	J	Translation, ribosomal structure and biogenesis	CysS	-
+GBAOMCCE_01118	J	Translation, ribosomal structure and biogenesis	Uup	-
+GBAOMCCE_01119	F	Nucleotide transport and metabolism	GuaA1	-
+GBAOMCCE_01120	E	Amino acid transport and metabolism	IlvH	-
+GBAOMCCE_01121	E	Amino acid transport and metabolism	IlvB	-
+GBAOMCCE_01122	K	Transcription	Rnc	-
+GBAOMCCE_01123	J	Translation, ribosomal structure and biogenesis	RpmF	-
+GBAOMCCE_01124	J	Translation, ribosomal structure and biogenesis	YceD	-
+GBAOMCCE_01125	C	Energy production and conversion	NtpE	-
+GBAOMCCE_01126	H	Coenzyme transport and metabolism	CoaD	-
+GBAOMCCE_01127	F	Nucleotide transport and metabolism	Adk	-
+GBAOMCCE_01128	G	Carbohydrate transport and metabolism	XFP	-
+GBAOMCCE_01129	L	Replication, recombination and repair	PolC	-
+GBAOMCCE_01130	R	General function prediction only	YhbS	-
+GBAOMCCE_01131	H	Coenzyme transport and metabolism	PanE	-
+GBAOMCCE_01132	P	Inorganic ion transport and metabolism	NlpA	-
+GBAOMCCE_01133	E	Amino acid transport and metabolism	AbcC	-
+GBAOMCCE_01134	E	Amino acid transport and metabolism	MetP	-
+GBAOMCCE_01135	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_01136	E	Amino acid transport and metabolism	HisM	-
+GBAOMCCE_01137	E	Amino acid transport and metabolism	HisM	-
+GBAOMCCE_01138	E	Amino acid transport and metabolism	GlnQ	-
+GBAOMCCE_01139	E	Amino acid transport and metabolism	HisJ	-
+GBAOMCCE_01140	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+GBAOMCCE_01141	I	Lipid transport and metabolism	YjjU	-
+GBAOMCCE_01142	M	Cell wall/membrane/envelope biogenesis	MurI	-
+GBAOMCCE_01143	E	Amino acid transport and metabolism	DapF	-
+GBAOMCCE_01144	R	General function prediction only		-
+GBAOMCCE_01145	A	RNA processing and modification	YciV	-
+GBAOMCCE_01147	R	General function prediction only	YcbJ	-
+GBAOMCCE_01148	L	Replication, recombination and repair	UvrD	-
+GBAOMCCE_01149	O	Posttranslational modification, protein turnover, chaperones	Zincin	-
+GBAOMCCE_01150	T	Signal transduction mechanisms	SdrC	-
+GBAOMCCE_01152	S	Function unknown		-
+GBAOMCCE_01154	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+GBAOMCCE_01155	I	Lipid transport and metabolism	Dxr	-
+GBAOMCCE_01156	I	Lipid transport and metabolism	IspG	-
+GBAOMCCE_01157	E	Amino acid transport and metabolism	DAP2	-
+GBAOMCCE_01158	L	Replication, recombination and repair	RecO	-
+GBAOMCCE_01159	I	Lipid transport and metabolism	UppS	-
+GBAOMCCE_01160	V	Defense mechanisms	AbiEi	-
+GBAOMCCE_01161	F	Nucleotide transport and metabolism	URH1	-
+GBAOMCCE_01162	P	Inorganic ion transport and metabolism	TauA	-
+GBAOMCCE_01163	P	Inorganic ion transport and metabolism	TauC	-
+GBAOMCCE_01164	G	Carbohydrate transport and metabolism	SacC	-
+GBAOMCCE_01165	P	Inorganic ion transport and metabolism	NarK	-
+GBAOMCCE_01166	K	Transcription	PurR	-
+GBAOMCCE_01167	H	Coenzyme transport and metabolism	YqgV	-
+GBAOMCCE_01168	H	Coenzyme transport and metabolism	ThiD	-
+GBAOMCCE_01169	H	Coenzyme transport and metabolism	ThiM	-
+GBAOMCCE_01170	J	Translation, ribosomal structure and biogenesis	GRS1	-
+GBAOMCCE_01171	J	Translation, ribosomal structure and biogenesis	DusA	-
+GBAOMCCE_01172	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+GBAOMCCE_01173	D	Cell cycle control, cell division, chromosome partitioning	SepF	-
+GBAOMCCE_01174	O	Posttranslational modification, protein turnover, chaperones	Ycf19	-
+GBAOMCCE_01175	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+GBAOMCCE_01176	M	Cell wall/membrane/envelope biogenesis	LspA	-
+GBAOMCCE_01177	J	Translation, ribosomal structure and biogenesis	RluA	-
+GBAOMCCE_01179	L	Replication, recombination and repair	DnaE	-
+GBAOMCCE_01180	E	Amino acid transport and metabolism	HisD	-
+GBAOMCCE_01181	E	Amino acid transport and metabolism	HisC	-
+GBAOMCCE_01182	E	Amino acid transport and metabolism	HisB2	-
+GBAOMCCE_01184	E	Amino acid transport and metabolism	HisH	-
+GBAOMCCE_01185	E	Amino acid transport and metabolism	HisA	-
+GBAOMCCE_01186	S	Function unknown		-
+GBAOMCCE_01187	E	Amino acid transport and metabolism	GlnA	-
+GBAOMCCE_01188	J	Translation, ribosomal structure and biogenesis	HrpA	-
+GBAOMCCE_01189	J	Translation, ribosomal structure and biogenesis	RsmC	-
+GBAOMCCE_01190	J	Translation, ribosomal structure and biogenesis	HflX	-
+GBAOMCCE_01191	C	Energy production and conversion	Mdh	-
+GBAOMCCE_01192	P	Inorganic ion transport and metabolism	CzcD	-
+GBAOMCCE_01193	K	Transcription	LexA	-
+GBAOMCCE_01194	M	Cell wall/membrane/envelope biogenesis	LysM	-
+GBAOMCCE_01195	K	Transcription	NrdR	-
+GBAOMCCE_01196	H	Coenzyme transport and metabolism	SerA	-
+GBAOMCCE_01197	L	Replication, recombination and repair	HelD	-
+GBAOMCCE_01198	J	Translation, ribosomal structure and biogenesis	MraZ	-
+GBAOMCCE_01199	J	Translation, ribosomal structure and biogenesis	RmsH	-
+GBAOMCCE_01201	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+GBAOMCCE_01202	M	Cell wall/membrane/envelope biogenesis	MurE	-
+GBAOMCCE_01203	M	Cell wall/membrane/envelope biogenesis	MurF	-
+GBAOMCCE_01204	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+GBAOMCCE_01205	M	Cell wall/membrane/envelope biogenesis	MurD	-
+GBAOMCCE_01206	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+GBAOMCCE_01207	M	Cell wall/membrane/envelope biogenesis	MurG	-
+GBAOMCCE_01208	M	Cell wall/membrane/envelope biogenesis	MurC	-
+GBAOMCCE_01209	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+GBAOMCCE_01210	E	Amino acid transport and metabolism	DdpA	-
+GBAOMCCE_01211	E	Amino acid transport and metabolism	DppB	-
+GBAOMCCE_01212	E	Amino acid transport and metabolism	DppC	-
+GBAOMCCE_01213	Q	Secondary metabolites biosynthesis, transport and catabolism	YejF	-
+GBAOMCCE_01215	J	Translation, ribosomal structure and biogenesis	Dtd	-
+GBAOMCCE_01216	G	Carbohydrate transport and metabolism	RbsK	-
+GBAOMCCE_01217	G	Carbohydrate transport and metabolism	NagC	-
+GBAOMCCE_01218	R	General function prediction only	YwnB	-
+GBAOMCCE_01219	F	Nucleotide transport and metabolism	YjhB	-
+GBAOMCCE_01220	E	Amino acid transport and metabolism	PepP	-
+GBAOMCCE_01222	J	Translation, ribosomal structure and biogenesis	RimL	-
+GBAOMCCE_01227	K	Transcription	AF2118	-
+GBAOMCCE_01231	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_01232	T	Signal transduction mechanisms	CitB	-
+GBAOMCCE_01233	H	Coenzyme transport and metabolism	FolC	-
+GBAOMCCE_01234	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+GBAOMCCE_01235	M	Cell wall/membrane/envelope biogenesis	MurE	-
+GBAOMCCE_01236	K	Transcription	RpoE	-
+GBAOMCCE_01238	G	Carbohydrate transport and metabolism	GalM	-
+GBAOMCCE_01239	I	Lipid transport and metabolism	IspH	-
+GBAOMCCE_01240	J	Translation, ribosomal structure and biogenesis	EbsC	-
+GBAOMCCE_01241	G	Carbohydrate transport and metabolism	GapA	-
+GBAOMCCE_01242	H	Coenzyme transport and metabolism	ThiN	-
+GBAOMCCE_01243	J	Translation, ribosomal structure and biogenesis	InfC	-
+GBAOMCCE_01244	J	Translation, ribosomal structure and biogenesis	RpmI	-
+GBAOMCCE_01245	J	Translation, ribosomal structure and biogenesis	RplT	-
+GBAOMCCE_01246	L	Replication, recombination and repair	XerD	-
+GBAOMCCE_01247	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+GBAOMCCE_01248	H	Coenzyme transport and metabolism	NadQ	-
+GBAOMCCE_01249	G	Carbohydrate transport and metabolism	UhpC	-
+GBAOMCCE_01250	T	Signal transduction mechanisms	TypA	-
+GBAOMCCE_01252	E	Amino acid transport and metabolism	PheA2	-
+GBAOMCCE_01253	E	Amino acid transport and metabolism	TyrA	-
+GBAOMCCE_01255	Q	Secondary metabolites biosynthesis, transport and catabolism	YbbP	-
+GBAOMCCE_01256	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_01257	L	Replication, recombination and repair	XerD	-
+GBAOMCCE_01258	E	Amino acid transport and metabolism	OppA	-
+GBAOMCCE_01259	E	Amino acid transport and metabolism	DppB	-
+GBAOMCCE_01260	E	Amino acid transport and metabolism	DppC	-
+GBAOMCCE_01261	Q	Secondary metabolites biosynthesis, transport and catabolism	YejF	-
+GBAOMCCE_01263	L	Replication, recombination and repair	XthA	-
+GBAOMCCE_01266	J	Translation, ribosomal structure and biogenesis	TrmA	-
+GBAOMCCE_01267	G	Carbohydrate transport and metabolism	RbsB	-
+GBAOMCCE_01268	P	Inorganic ion transport and metabolism	MgtA	-
+GBAOMCCE_01269	C	Energy production and conversion	AcnA	-
+GBAOMCCE_01271	R	General function prediction only	WbbJ	-
+GBAOMCCE_01272	V	Defense mechanisms	GmrSD	-
+GBAOMCCE_01273	T	Signal transduction mechanisms	YesN	-
+GBAOMCCE_01274	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_01275	J	Translation, ribosomal structure and biogenesis	RbbA	-
+GBAOMCCE_01276	V	Defense mechanisms	YadH	-
+GBAOMCCE_01277	V	Defense mechanisms	YadH	-
+GBAOMCCE_01278	S	Function unknown		-
+GBAOMCCE_01280	F	Nucleotide transport and metabolism	YjbM	-
+GBAOMCCE_01281	J	Translation, ribosomal structure and biogenesis	MiaB	-
+GBAOMCCE_01282	J	Translation, ribosomal structure and biogenesis	MiaA	-
+GBAOMCCE_01283	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+GBAOMCCE_01284	I	Lipid transport and metabolism	PgsA	-
+GBAOMCCE_01285	H	Coenzyme transport and metabolism	PncC	-
+GBAOMCCE_01286	K	Transcription	HipB	-
+GBAOMCCE_01288	L	Replication, recombination and repair	RecA	-
+GBAOMCCE_01289	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+GBAOMCCE_01291	J	Translation, ribosomal structure and biogenesis	RaiA	-
+GBAOMCCE_01292	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+GBAOMCCE_01293	E	Amino acid transport and metabolism	TrpD	-
+GBAOMCCE_01294	R	General function prediction only	HdeD	-
+GBAOMCCE_01295	I	Lipid transport and metabolism	PlsC	-
+GBAOMCCE_01296	T	Signal transduction mechanisms	SPS1	-
+GBAOMCCE_01297	H	Coenzyme transport and metabolism	IspA	-
+GBAOMCCE_01299	K	Transcription	RpoD	-
+GBAOMCCE_01300	L	Replication, recombination and repair	GyrB	-
+GBAOMCCE_01301	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_01302	G	Carbohydrate transport and metabolism	FucP	-
+GBAOMCCE_01303	G	Carbohydrate transport and metabolism	FucP	-
+GBAOMCCE_01304	L	Replication, recombination and repair	Lhr	-
+GBAOMCCE_01305	G	Carbohydrate transport and metabolism	GlcU	-
+GBAOMCCE_01306	L	Replication, recombination and repair	GyrA	-
+GBAOMCCE_01307	T	Signal transduction mechanisms	AtaC	-
+GBAOMCCE_01310	F	Nucleotide transport and metabolism	Dut	-
+GBAOMCCE_01311	T	Signal transduction mechanisms	SpoT	-
+GBAOMCCE_01312	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+GBAOMCCE_01313	P	Inorganic ion transport and metabolism	NlpA	-
+GBAOMCCE_01314	E	Amino acid transport and metabolism	AbcC	-
+GBAOMCCE_01315	E	Amino acid transport and metabolism	MetP	-
+GBAOMCCE_01316	R	General function prediction only	AbgB	-
+GBAOMCCE_01317	H	Coenzyme transport and metabolism	NadE	-
+GBAOMCCE_01318	D	Cell cycle control, cell division, chromosome partitioning	FtsN	-
+GBAOMCCE_01319	C	Energy production and conversion	PflD	-
+GBAOMCCE_01320	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+GBAOMCCE_01321	A	RNA processing and modification	Rnd	-
+GBAOMCCE_01322	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+GBAOMCCE_01323	P	Inorganic ion transport and metabolism	ClcA	-
+GBAOMCCE_01324	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+GBAOMCCE_01325	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+GBAOMCCE_01326	O	Posttranslational modification, protein turnover, chaperones	ClpX	-
+GBAOMCCE_01329	E	Amino acid transport and metabolism	MalY	-
+GBAOMCCE_01330	C	Energy production and conversion	NhaA	-
+GBAOMCCE_01331	F	Nucleotide transport and metabolism	PpnN	-
+GBAOMCCE_01332	J	Translation, ribosomal structure and biogenesis	TrmR	-
+GBAOMCCE_01333	C	Energy production and conversion	SdhB	-
+GBAOMCCE_01334	H	Coenzyme transport and metabolism	NadB	-
+GBAOMCCE_01335	L	Replication, recombination and repair	Smf	-
+GBAOMCCE_01336	O	Posttranslational modification, protein turnover, chaperones	YifB	-
+GBAOMCCE_01337	L	Replication, recombination and repair	YraN	-
+GBAOMCCE_01338	H	Coenzyme transport and metabolism	PdxK	-
+GBAOMCCE_01339	E	Amino acid transport and metabolism	MET17	-
+GBAOMCCE_01340	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+GBAOMCCE_01341	H	Coenzyme transport and metabolism	EcfT	-
+GBAOMCCE_01342	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_01343	Q	Secondary metabolites biosynthesis, transport and catabolism	YbbP	-
+GBAOMCCE_01344	T	Signal transduction mechanisms	CitB	-
+GBAOMCCE_01345	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_01346	H	Coenzyme transport and metabolism	MenH	-
+GBAOMCCE_01347	E	Amino acid transport and metabolism	ProC	-
+GBAOMCCE_01348	J	Translation, ribosomal structure and biogenesis	GTP1	-
+GBAOMCCE_01349	R	General function prediction only	QdoI	-
+GBAOMCCE_01351	I	Lipid transport and metabolism	Aes	-
+GBAOMCCE_01352	F	Nucleotide transport and metabolism	UraA	-
+GBAOMCCE_01353	S	Function unknown	YeiH	-
+GBAOMCCE_01354	L	Replication, recombination and repair	SrmB	-
+GBAOMCCE_01355	R	General function prediction only	YqjQ	-
+GBAOMCCE_01356	P	Inorganic ion transport and metabolism	ZntA	-
+GBAOMCCE_01357	O	Posttranslational modification, protein turnover, chaperones	MsrA	-
+GBAOMCCE_01358	E	Amino acid transport and metabolism	BrnQ	-
+GBAOMCCE_01359	E	Amino acid transport and metabolism	PepE	-
+GBAOMCCE_01360	G	Carbohydrate transport and metabolism	Gnd	-
+GBAOMCCE_01361	G	Carbohydrate transport and metabolism	NagB	-
+GBAOMCCE_01362	G	Carbohydrate transport and metabolism	OpcA	-
+GBAOMCCE_01363	G	Carbohydrate transport and metabolism	Zwf	-
+GBAOMCCE_01364	D	Cell cycle control, cell division, chromosome partitioning	RodZ	-
+GBAOMCCE_01365	P	Inorganic ion transport and metabolism	FeoB	-
+GBAOMCCE_01366	P	Inorganic ion transport and metabolism	FeoA	-
+GBAOMCCE_01367	E	Amino acid transport and metabolism	AspA	-
+GBAOMCCE_01368	F	Nucleotide transport and metabolism	RCL	-
+GBAOMCCE_01369	K	Transcription	MarR	-
+GBAOMCCE_01370	R	General function prediction only		-
+GBAOMCCE_01371	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+GBAOMCCE_01372	C	Energy production and conversion	CstA	-
+GBAOMCCE_01373	S	Function unknown	YbdD	-
+GBAOMCCE_01374	G	Carbohydrate transport and metabolism	BglX	-
+GBAOMCCE_01375	S	Function unknown		-
+GBAOMCCE_01376	E	Amino acid transport and metabolism	MnaT	-
+GBAOMCCE_01377	J	Translation, ribosomal structure and biogenesis	Pth	-
+GBAOMCCE_01378	L	Replication, recombination and repair	Mfd	-
+GBAOMCCE_01380	P	Inorganic ion transport and metabolism	TauB	-
+GBAOMCCE_01381	P	Inorganic ion transport and metabolism	TauA	-
+GBAOMCCE_01382	P	Inorganic ion transport and metabolism	TauC	-
+GBAOMCCE_01383	G	Carbohydrate transport and metabolism	Eno	-
+GBAOMCCE_01384	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+GBAOMCCE_01385	S	Function unknown		-
+GBAOMCCE_01386	F	Nucleotide transport and metabolism	GppA	-
+GBAOMCCE_01389	E	Amino acid transport and metabolism	SdaA	-
+GBAOMCCE_01390	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+GBAOMCCE_01391	K	Transcription	GreA	-
+GBAOMCCE_01392	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+GBAOMCCE_01393	T	Signal transduction mechanisms		-
+GBAOMCCE_01395	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+GBAOMCCE_01396	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+GBAOMCCE_01397	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+GBAOMCCE_01398	G	Carbohydrate transport and metabolism	WcaE	-
+GBAOMCCE_01399	R	General function prediction only	YfaS	-
+GBAOMCCE_01401	H	Coenzyme transport and metabolism	Cof	-
+GBAOMCCE_01402	R	General function prediction only	ComFC	-
+GBAOMCCE_01403	T	Signal transduction mechanisms	WalK	-
+GBAOMCCE_01404	T	Signal transduction mechanisms	OmpR	-
+GBAOMCCE_01405	G	Carbohydrate transport and metabolism	GlgB	-
+GBAOMCCE_01406	K	Transcription	CdnL	-
+GBAOMCCE_01407	I	Lipid transport and metabolism	IspF	-
+GBAOMCCE_01408	P	Inorganic ion transport and metabolism	ZnuB	-
+GBAOMCCE_01409	P	Inorganic ion transport and metabolism	ZnuC	-
+GBAOMCCE_01410	P	Inorganic ion transport and metabolism	ZnuA	-
+GBAOMCCE_01411	H	Coenzyme transport and metabolism	FolD	-
+GBAOMCCE_01412	J	Translation, ribosomal structure and biogenesis	RpsA	-
+GBAOMCCE_01413	H	Coenzyme transport and metabolism	CoaE	-
+GBAOMCCE_01414	L	Replication, recombination and repair	UvrB	-
+GBAOMCCE_01415	P	Inorganic ion transport and metabolism	TerC	-
+GBAOMCCE_01416	G	Carbohydrate transport and metabolism	PykF	-
+GBAOMCCE_01418	V	Defense mechanisms	MutT	-
+GBAOMCCE_01419	T	Signal transduction mechanisms	AmiR	-
+GBAOMCCE_01421	L	Replication, recombination and repair	PolA	-
+GBAOMCCE_01422	H	Coenzyme transport and metabolism	NIF3	-
+GBAOMCCE_01423	V	Defense mechanisms	MutT	-
+GBAOMCCE_01424	G	Carbohydrate transport and metabolism	PulA	-
+GBAOMCCE_01427	E	Amino acid transport and metabolism	AroA	-
+GBAOMCCE_01428	C	Energy production and conversion	AckA	-
+GBAOMCCE_01429	C	Energy production and conversion	Pta	-
+GBAOMCCE_01430	G	Carbohydrate transport and metabolism	XFP	-
+GBAOMCCE_01431	F	Nucleotide transport and metabolism	GuaA2	-
+GBAOMCCE_01432	R	General function prediction only	AaeB	-
+GBAOMCCE_01433	R	General function prediction only		-
+GBAOMCCE_01435	E	Amino acid transport and metabolism	MnaT	-
+GBAOMCCE_01436	F	Nucleotide transport and metabolism	Tmk	-
+GBAOMCCE_01437	R	General function prediction only		-
+GBAOMCCE_01438	F	Nucleotide transport and metabolism	Add	-
+GBAOMCCE_01439	K	Transcription	XRE	-
+GBAOMCCE_01440	K	Transcription	YhcF	-
+GBAOMCCE_01441	J	Translation, ribosomal structure and biogenesis	RbbA	-
+GBAOMCCE_01443	R	General function prediction only	ProX	-
+GBAOMCCE_01444	E	Amino acid transport and metabolism	PuuD	-
+GBAOMCCE_01445	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_01447	S	Function unknown	YdbS	-
+GBAOMCCE_01448	E	Amino acid transport and metabolism	MalY	-
+GBAOMCCE_01449	G	Carbohydrate transport and metabolism	Pgu1	-
+GBAOMCCE_01450	F	Nucleotide transport and metabolism	UraA	-
+GBAOMCCE_01451	F	Nucleotide transport and metabolism	Apt	-
+GBAOMCCE_01452	L	Replication, recombination and repair	UvrD	-
+GBAOMCCE_01453	J	Translation, ribosomal structure and biogenesis	RpsD	-
+GBAOMCCE_01454	S	Function unknown	YvlD	-
+GBAOMCCE_01455	G	Carbohydrate transport and metabolism	PhoE	-
+GBAOMCCE_01458	J	Translation, ribosomal structure and biogenesis	AlaS	-
+GBAOMCCE_01459	J	Translation, ribosomal structure and biogenesis	YqgF	-
+GBAOMCCE_01460	M	Cell wall/membrane/envelope biogenesis	MltG	-
+GBAOMCCE_01462	E	Amino acid transport and metabolism	AroC	-
+GBAOMCCE_01463	E	Amino acid transport and metabolism	AroB	-
+GBAOMCCE_01464	E	Amino acid transport and metabolism	AroQ	-
+GBAOMCCE_01465	G	Carbohydrate transport and metabolism	AmyA	-
+GBAOMCCE_01468	G	Carbohydrate transport and metabolism	GlgB	-
+GBAOMCCE_01469	F	Nucleotide transport and metabolism	PyrG	-
+GBAOMCCE_01470	M	Cell wall/membrane/envelope biogenesis	ErfK	-
+GBAOMCCE_01471	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+GBAOMCCE_01472	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+GBAOMCCE_01473	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+GBAOMCCE_01474	E	Amino acid transport and metabolism	CsdA	-
+GBAOMCCE_01475	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+GBAOMCCE_01476	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+GBAOMCCE_01477	G	Carbohydrate transport and metabolism	GlgC	-
+GBAOMCCE_01478	J	Translation, ribosomal structure and biogenesis	SpoU	-
+GBAOMCCE_01480	J	Translation, ribosomal structure and biogenesis	RsmE	-
+GBAOMCCE_01481	F	Nucleotide transport and metabolism	HinT	-
+GBAOMCCE_01482	T	Signal transduction mechanisms	PhoH	-
+GBAOMCCE_01483	J	Translation, ribosomal structure and biogenesis	YbeY	-
+GBAOMCCE_01484	P	Inorganic ion transport and metabolism	MpfA	-
+GBAOMCCE_01485	J	Translation, ribosomal structure and biogenesis	Era	-
+GBAOMCCE_01486	I	Lipid transport and metabolism	FAA1	-
+GBAOMCCE_01487	C	Energy production and conversion	PntA	-
+GBAOMCCE_01489	C	Energy production and conversion	PntB	-
+GBAOMCCE_01490	T	Signal transduction mechanisms	FrsA	-
+GBAOMCCE_01491	J	Translation, ribosomal structure and biogenesis	RplY	-
+GBAOMCCE_01492	E	Amino acid transport and metabolism	IlvE	-
+GBAOMCCE_01493	P	Inorganic ion transport and metabolism	YadS	-
+GBAOMCCE_01494	J	Translation, ribosomal structure and biogenesis	RpsT	-
+GBAOMCCE_01495	J	Translation, ribosomal structure and biogenesis	LepA	-
+GBAOMCCE_01496	H	Coenzyme transport and metabolism	HemN	-
+GBAOMCCE_01497	E	Amino acid transport and metabolism	GltB3	-
+GBAOMCCE_01498	E	Amino acid transport and metabolism	GltD	-
+GBAOMCCE_01499	E	Amino acid transport and metabolism	AnsP	-
+GBAOMCCE_01500	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+GBAOMCCE_01501	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_01502	P	Inorganic ion transport and metabolism	ModF	-
+GBAOMCCE_01503	J	Translation, ribosomal structure and biogenesis	Gcd14	-
+GBAOMCCE_01504	T	Signal transduction mechanisms	SixA	-
+GBAOMCCE_01505	E	Amino acid transport and metabolism	MetE	-
+GBAOMCCE_01506	E	Amino acid transport and metabolism	MetF	-
+GBAOMCCE_01507	O	Posttranslational modification, protein turnover, chaperones	GlnE1	-
+GBAOMCCE_01509	F	Nucleotide transport and metabolism	PyrB	-
+GBAOMCCE_01510	F	Nucleotide transport and metabolism	PyrI	-
+GBAOMCCE_01511	F	Nucleotide transport and metabolism	AllB	-
+GBAOMCCE_01512	F	Nucleotide transport and metabolism	PyrF	-
+GBAOMCCE_01513	H	Coenzyme transport and metabolism	Mcr1	-
+GBAOMCCE_01514	F	Nucleotide transport and metabolism	PyrD	-
+GBAOMCCE_01515	F	Nucleotide transport and metabolism	PyrE	-
+GBAOMCCE_01516	R	General function prediction only	YhbS	-
+GBAOMCCE_01517	F	Nucleotide transport and metabolism	YjhB	-
+GBAOMCCE_01518	K	Transcription	HxlR	-
+GBAOMCCE_01519	O	Posttranslational modification, protein turnover, chaperones	DraG	-
+GBAOMCCE_01520	L	Replication, recombination and repair	YcjD	-
+GBAOMCCE_01521	H	Coenzyme transport and metabolism	YigB	-
+GBAOMCCE_01522	K	Transcription	LysR	-
+GBAOMCCE_01523	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+GBAOMCCE_01524	V	Defense mechanisms	AhpC	-
+GBAOMCCE_01525	F	Nucleotide transport and metabolism	NnrD	-
+GBAOMCCE_01526	M	Cell wall/membrane/envelope biogenesis	YxeI	-
+GBAOMCCE_01527	R	General function prediction only	YurZ	-
+GBAOMCCE_01528	P	Inorganic ion transport and metabolism	FieF	-
+GBAOMCCE_01529	J	Translation, ribosomal structure and biogenesis	Uup	-
+GBAOMCCE_01530	R	General function prediction only	YpfH	-
+GBAOMCCE_01531	L	Replication, recombination and repair	Mug	-
+GBAOMCCE_01533	L	Replication, recombination and repair	UvrA	-
+GBAOMCCE_01534	L	Replication, recombination and repair	UvrC	-
+GBAOMCCE_01535	E	Amino acid transport and metabolism	AroE	-
+GBAOMCCE_01536	T	Signal transduction mechanisms	RapZ	-
+GBAOMCCE_01537	K	Transcription	WhiA	-
+GBAOMCCE_01538	G	Carbohydrate transport and metabolism	Pgk	-
+GBAOMCCE_01539	G	Carbohydrate transport and metabolism	TpiA	-
+GBAOMCCE_01540	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+GBAOMCCE_01541	H	Coenzyme transport and metabolism	Cof	-
+GBAOMCCE_01542	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_01543	K	Transcription	Lrp	-
+GBAOMCCE_01544	E	Amino acid transport and metabolism	AspB	-
+GBAOMCCE_01545	U	Intracellular trafficking, secretion, and vesicular transport	DotG	-
+GBAOMCCE_01546	G	Carbohydrate transport and metabolism	TalA	-
+GBAOMCCE_01547	G	Carbohydrate transport and metabolism	TktA	-
+GBAOMCCE_01548	K	Transcription	HrcA	-
+GBAOMCCE_01549	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+GBAOMCCE_01550	G	Carbohydrate transport and metabolism	FN3K	-
+GBAOMCCE_01551	I	Lipid transport and metabolism	UppP	-
+GBAOMCCE_01552	R	General function prediction only		-
+GBAOMCCE_01557	J	Translation, ribosomal structure and biogenesis	Uup	-
+GBAOMCCE_01560	J	Translation, ribosomal structure and biogenesis	RimI	-
+GBAOMCCE_01562	J	Translation, ribosomal structure and biogenesis	Uup	-
+GBAOMCCE_01563	J	Translation, ribosomal structure and biogenesis	ThrS	-
+GBAOMCCE_01564	I	Lipid transport and metabolism	PgsA	-
+GBAOMCCE_01565	I	Lipid transport and metabolism	LpxP	-
+GBAOMCCE_01566	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+GBAOMCCE_01567	K	Transcription	TACO1	-
+GBAOMCCE_01568	L	Replication, recombination and repair	RuvC	-
+GBAOMCCE_01569	L	Replication, recombination and repair	RuvA	-
+GBAOMCCE_01570	L	Replication, recombination and repair	RuvB	-
+GBAOMCCE_01571	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+GBAOMCCE_01572	F	Nucleotide transport and metabolism	Apt	-
+GBAOMCCE_01573	C	Energy production and conversion	SucC	-
+GBAOMCCE_01574	C	Energy production and conversion	SucD	-
+GBAOMCCE_01576	F	Nucleotide transport and metabolism	PurH	-
+GBAOMCCE_01578	G	Carbohydrate transport and metabolism	GlpF	-
+GBAOMCCE_01579	J	Translation, ribosomal structure and biogenesis	RsuA	-
+GBAOMCCE_01580	J	Translation, ribosomal structure and biogenesis	Der	-
+GBAOMCCE_01582	G	Carbohydrate transport and metabolism	QRI1	-
+GBAOMCCE_01583	K	Transcription	YobV	-
+GBAOMCCE_01584	C	Energy production and conversion	HybB	-
+GBAOMCCE_01585	L	Replication, recombination and repair	Dob1	-
+GBAOMCCE_01587	C	Energy production and conversion	Gph	-
+GBAOMCCE_01588	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+GBAOMCCE_01589	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+GBAOMCCE_01591	K	Transcription	SoxR	-
+GBAOMCCE_01592	T	Signal transduction mechanisms	FHA	-
+GBAOMCCE_01593	S	Function unknown	YlxW	-
+GBAOMCCE_01594	S	Function unknown	Sbp	-
+GBAOMCCE_01595	S	Function unknown	YlxW	-
+GBAOMCCE_01596	I	Lipid transport and metabolism	PgsA	-
+GBAOMCCE_01597	E	Amino acid transport and metabolism	HisG	-
+GBAOMCCE_01598	E	Amino acid transport and metabolism	HisI2	-
+GBAOMCCE_01599	G	Carbohydrate transport and metabolism	Rpe	-
+GBAOMCCE_01600	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+GBAOMCCE_01601	E	Amino acid transport and metabolism	TrpA	-
+GBAOMCCE_01602	E	Amino acid transport and metabolism	TrpB	-
+GBAOMCCE_01604	G	Carbohydrate transport and metabolism	YcjR	-
+GBAOMCCE_01605	G	Carbohydrate transport and metabolism	ThuA	-
+GBAOMCCE_01608	E	Amino acid transport and metabolism	TrpE	-
+GBAOMCCE_01609	E	Amino acid transport and metabolism	HisI1	-
+GBAOMCCE_01610	E	Amino acid transport and metabolism	HisF	-
+GBAOMCCE_01611	V	Defense mechanisms	YadH	-
+GBAOMCCE_01612	J	Translation, ribosomal structure and biogenesis	RbbA	-
+GBAOMCCE_01614	J	Translation, ribosomal structure and biogenesis	RlmN	-
+GBAOMCCE_01615	I	Lipid transport and metabolism	CdsA	-
+GBAOMCCE_01616	J	Translation, ribosomal structure and biogenesis	Frr	-
+GBAOMCCE_01617	F	Nucleotide transport and metabolism	PyrH	-
+GBAOMCCE_01618	J	Translation, ribosomal structure and biogenesis	Tsf	-
+GBAOMCCE_01619	J	Translation, ribosomal structure and biogenesis	RpsB	-
+GBAOMCCE_01620	J	Translation, ribosomal structure and biogenesis	Def	-
+GBAOMCCE_01621	I	Lipid transport and metabolism	FAA1	-
+GBAOMCCE_01623	F	Nucleotide transport and metabolism	GuaB	-
+GBAOMCCE_01624	C	Energy production and conversion	Icd	-
+GBAOMCCE_01625	G	Carbohydrate transport and metabolism	XylF	-
+GBAOMCCE_01626	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+GBAOMCCE_01631	J	Translation, ribosomal structure and biogenesis	TsaD	-
+GBAOMCCE_01632	J	Translation, ribosomal structure and biogenesis	RimI	-
+GBAOMCCE_01633	J	Translation, ribosomal structure and biogenesis	TsaB	-
+GBAOMCCE_01634	J	Translation, ribosomal structure and biogenesis	TsaE	-
+GBAOMCCE_01635	L	Replication, recombination and repair	HolA	-
+GBAOMCCE_01636	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+GBAOMCCE_01637	L	Replication, recombination and repair	ComEA	-
+GBAOMCCE_01638	J	Translation, ribosomal structure and biogenesis	LeuS	-
+GBAOMCCE_01639	E	Amino acid transport and metabolism	HisJ	-
+GBAOMCCE_01640	P	Inorganic ion transport and metabolism	CorA	-
+GBAOMCCE_01641	G	Carbohydrate transport and metabolism	PhoE	-
+GBAOMCCE_01642	R	General function prediction only		-
+GBAOMCCE_01646	G	Carbohydrate transport and metabolism	PhoE	-
+GBAOMCCE_01647	J	Translation, ribosomal structure and biogenesis	RsfS	-
+GBAOMCCE_01648	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+GBAOMCCE_01650	E	Amino acid transport and metabolism	PrsA	-
+GBAOMCCE_01651	H	Coenzyme transport and metabolism	NadD	-
+GBAOMCCE_01653	E	Amino acid transport and metabolism	ProA	-
+GBAOMCCE_01654	E	Amino acid transport and metabolism	ThrC	-
+GBAOMCCE_01655	G	Carbohydrate transport and metabolism	YcjU	-
+GBAOMCCE_01656	L	Replication, recombination and repair	RecN	-
+GBAOMCCE_01657	H	Coenzyme transport and metabolism	NadK	-
+GBAOMCCE_01658	P	Inorganic ion transport and metabolism	TrkA	-
+GBAOMCCE_01659	P	Inorganic ion transport and metabolism	TrkG	-
+GBAOMCCE_01660	J	Translation, ribosomal structure and biogenesis	YqxC	-
+GBAOMCCE_01661	F	Nucleotide transport and metabolism	NagD	-
+GBAOMCCE_01662	M	Cell wall/membrane/envelope biogenesis	BepA	-
+GBAOMCCE_01663	J	Translation, ribosomal structure and biogenesis	TyrS	-
+GBAOMCCE_01664	J	Translation, ribosomal structure and biogenesis	RnaY	-
+GBAOMCCE_01665	I	Lipid transport and metabolism	FabG	-
+GBAOMCCE_01666	E	Amino acid transport and metabolism	ArgH	-
+GBAOMCCE_01667	E	Amino acid transport and metabolism	ArgG	-
+GBAOMCCE_01668	K	Transcription	ArgR	-
+GBAOMCCE_01669	E	Amino acid transport and metabolism	ArgF	-
+GBAOMCCE_01670	E	Amino acid transport and metabolism	ArgD	-
+GBAOMCCE_01671	E	Amino acid transport and metabolism	ArgB	-
+GBAOMCCE_01672	E	Amino acid transport and metabolism	ArgJ	-
+GBAOMCCE_01673	E	Amino acid transport and metabolism	ArgC	-
+GBAOMCCE_01675	J	Translation, ribosomal structure and biogenesis	PheT	-
+GBAOMCCE_01676	J	Translation, ribosomal structure and biogenesis	PheS	-
+GBAOMCCE_01677	J	Translation, ribosomal structure and biogenesis	SpoU	-
+GBAOMCCE_01678	M	Cell wall/membrane/envelope biogenesis	LolC	-
+GBAOMCCE_01679	M	Cell wall/membrane/envelope biogenesis	LolD	-
+GBAOMCCE_01680	O	Posttranslational modification, protein turnover, chaperones	GsiA	-
+GBAOMCCE_01681	H	Coenzyme transport and metabolism	YkoE	-
+GBAOMCCE_01682	M	Cell wall/membrane/envelope biogenesis	PGRP	-
+GBAOMCCE_01684	T	Signal transduction mechanisms	ComP	-
+GBAOMCCE_01686	E	Amino acid transport and metabolism	ArgE	-
+GBAOMCCE_01688	C	Energy production and conversion	Lpd	-
+GBAOMCCE_01690	E	Amino acid transport and metabolism	GlnA	-
+GBAOMCCE_01691	H	Coenzyme transport and metabolism	YkoE	-
+GBAOMCCE_01692	D	Cell cycle control, cell division, chromosome partitioning	Mrp	-
+GBAOMCCE_01693	L	Replication, recombination and repair	Lig	-
+GBAOMCCE_01694	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+GBAOMCCE_01696	P	Inorganic ion transport and metabolism	EcfA2	-

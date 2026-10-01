@@ -1,0 +1,3296 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+OFOAEPEI_00003	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00007	P	Inorganic ion transport and metabolism	PstS	-
+OFOAEPEI_00008	P	Inorganic ion transport and metabolism	PstC	-
+OFOAEPEI_00009	P	Inorganic ion transport and metabolism	PstA	-
+OFOAEPEI_00010	P	Inorganic ion transport and metabolism	PstB	-
+OFOAEPEI_00011	P	Inorganic ion transport and metabolism	PhoU	-
+OFOAEPEI_00012	P	Inorganic ion transport and metabolism	NptA	-
+OFOAEPEI_00013	J	Translation, ribosomal structure and biogenesis	YbeY	-
+OFOAEPEI_00014	I	Lipid transport and metabolism	DgkA	-
+OFOAEPEI_00015	F	Nucleotide transport and metabolism	Cdd	-
+OFOAEPEI_00016	J	Translation, ribosomal structure and biogenesis	Era	-
+OFOAEPEI_00017	L	Replication, recombination and repair	RecO	-
+OFOAEPEI_00018	J	Translation, ribosomal structure and biogenesis	GRS1	-
+OFOAEPEI_00019	L	Replication, recombination and repair	DnaG	-
+OFOAEPEI_00020	K	Transcription	RpoD	-
+OFOAEPEI_00021	J	Translation, ribosomal structure and biogenesis	TrmK	-
+OFOAEPEI_00022	I	Lipid transport and metabolism	Idi	-
+OFOAEPEI_00023	I	Lipid transport and metabolism	IspH	-
+OFOAEPEI_00024	L	Replication, recombination and repair	SrmB	-
+OFOAEPEI_00025	L	Replication, recombination and repair	Nfo	-
+OFOAEPEI_00026	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_00027	I	Lipid transport and metabolism	IspG	-
+OFOAEPEI_00028	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+OFOAEPEI_00029	J	Translation, ribosomal structure and biogenesis	RpmG	-
+OFOAEPEI_00030	R	General function prediction only	GloB	-
+OFOAEPEI_00031	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_00032	N	Cell motility	GspE/PilB	-
+OFOAEPEI_00033	N	Cell motility	GspF/PilC	-
+OFOAEPEI_00034	X	Mobilome: prophages, transposons	ComGC	-
+OFOAEPEI_00037	X	Mobilome: prophages, transposons	ComGF	-
+OFOAEPEI_00040	J	Translation, ribosomal structure and biogenesis	Efp	-
+OFOAEPEI_00041	D	Cell cycle control, cell division, chromosome partitioning	ZipA	-
+OFOAEPEI_00042	F	Nucleotide transport and metabolism	Cmk	-
+OFOAEPEI_00043	J	Translation, ribosomal structure and biogenesis	Der	-
+OFOAEPEI_00044	C	Energy production and conversion	GpsA	-
+OFOAEPEI_00045	J	Translation, ribosomal structure and biogenesis	PrfC	-
+OFOAEPEI_00046	P	Inorganic ion transport and metabolism	Bfd	-
+OFOAEPEI_00047	D	Cell cycle control, cell division, chromosome partitioning	SpoIVA	-
+OFOAEPEI_00048	B	Chromatin structure and dynamics	HupA	-
+OFOAEPEI_00049	O	Posttranslational modification, protein turnover, chaperones	YugP	-
+OFOAEPEI_00053	K	Transcription	LytT	-
+OFOAEPEI_00055	K	Transcription	PadR	-
+OFOAEPEI_00056	H	Coenzyme transport and metabolism	GatD	-
+OFOAEPEI_00057	M	Cell wall/membrane/envelope biogenesis	MurD	-
+OFOAEPEI_00058	F	Nucleotide transport and metabolism	PurC	-
+OFOAEPEI_00059	F	Nucleotide transport and metabolism	PurB	-
+OFOAEPEI_00060	F	Nucleotide transport and metabolism	PyrG	-
+OFOAEPEI_00061	T	Signal transduction mechanisms	AmiR	-
+OFOAEPEI_00062	E	Amino acid transport and metabolism	GlnA	-
+OFOAEPEI_00063	F	Nucleotide transport and metabolism	PurA	-
+OFOAEPEI_00064	D	Cell cycle control, cell division, chromosome partitioning	Mrp	-
+OFOAEPEI_00065	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00066	J	Translation, ribosomal structure and biogenesis	TrmN6	-
+OFOAEPEI_00068	L	Replication, recombination and repair	DinP	-
+OFOAEPEI_00069	D	Cell cycle control, cell division, chromosome partitioning	Spo0A	-
+OFOAEPEI_00070	D	Cell cycle control, cell division, chromosome partitioning	SpoIVB	-
+OFOAEPEI_00071	L	Replication, recombination and repair	RecN	-
+OFOAEPEI_00072	J	Translation, ribosomal structure and biogenesis	YqxC	-
+OFOAEPEI_00073	H	Coenzyme transport and metabolism	Dxs	-
+OFOAEPEI_00074	H	Coenzyme transport and metabolism	IspA	-
+OFOAEPEI_00075	L	Replication, recombination and repair	XseB	-
+OFOAEPEI_00076	L	Replication, recombination and repair	XseA	-
+OFOAEPEI_00077	K	Transcription	NusB	-
+OFOAEPEI_00079	S	Function unknown	YloU	-
+OFOAEPEI_00080	D	Cell cycle control, cell division, chromosome partitioning	SpoIIIAH	-
+OFOAEPEI_00081	F	Nucleotide transport and metabolism	YjbM	-
+OFOAEPEI_00082	H	Coenzyme transport and metabolism	RibF	-
+OFOAEPEI_00083	J	Translation, ribosomal structure and biogenesis	TruB	-
+OFOAEPEI_00084	J	Translation, ribosomal structure and biogenesis	TtcA	-
+OFOAEPEI_00085	J	Translation, ribosomal structure and biogenesis	YhaM	-
+OFOAEPEI_00086	L	Replication, recombination and repair	YkoV	-
+OFOAEPEI_00087	L	Replication, recombination and repair	LigC	-
+OFOAEPEI_00088	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00090	V	Defense mechanisms	YadH	-
+OFOAEPEI_00091	K	Transcription	LytT	-
+OFOAEPEI_00094	J	Translation, ribosomal structure and biogenesis	AspS	-
+OFOAEPEI_00095	J	Translation, ribosomal structure and biogenesis	HisS	-
+OFOAEPEI_00096	K	Transcription	TACO1	-
+OFOAEPEI_00097	M	Cell wall/membrane/envelope biogenesis	WecH	-
+OFOAEPEI_00098	S	Function unknown	YitT	-
+OFOAEPEI_00099	J	Translation, ribosomal structure and biogenesis	LeuS	-
+OFOAEPEI_00101	E	Amino acid transport and metabolism	GltD	-
+OFOAEPEI_00102	H	Coenzyme transport and metabolism	Mcr1	-
+OFOAEPEI_00103	E	Amino acid transport and metabolism	AroD	-
+OFOAEPEI_00104	G	Carbohydrate transport and metabolism	DctP	-
+OFOAEPEI_00105	G	Carbohydrate transport and metabolism	DctQ	-
+OFOAEPEI_00106	G	Carbohydrate transport and metabolism	DctM	-
+OFOAEPEI_00107	G	Carbohydrate transport and metabolism	FucP	-
+OFOAEPEI_00108	E	Amino acid transport and metabolism	AroE	-
+OFOAEPEI_00109	C	Energy production and conversion	FadH	-
+OFOAEPEI_00110	K	Transcription	LysR	-
+OFOAEPEI_00111	E	Amino acid transport and metabolism	AroE	-
+OFOAEPEI_00112	E	Amino acid transport and metabolism	AroGA	-
+OFOAEPEI_00113	G	Carbohydrate transport and metabolism	PykF	-
+OFOAEPEI_00115	H	Coenzyme transport and metabolism	NIF3	-
+OFOAEPEI_00116	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_00118	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_00119	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_00120	R	General function prediction only	YgjP	-
+OFOAEPEI_00121	R	General function prediction only	YhcC	-
+OFOAEPEI_00122	E	Amino acid transport and metabolism	PuuD	-
+OFOAEPEI_00123	P	Inorganic ion transport and metabolism	YgaA	-
+OFOAEPEI_00124	F	Nucleotide transport and metabolism	NagD	-
+OFOAEPEI_00126	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_00127	K	Transcription	AcrR	-
+OFOAEPEI_00128	G	Carbohydrate transport and metabolism	ManC	-
+OFOAEPEI_00132	F	Nucleotide transport and metabolism	DeoA	-
+OFOAEPEI_00133	H	Coenzyme transport and metabolism	FolA	-
+OFOAEPEI_00134	J	Translation, ribosomal structure and biogenesis	RsuA	-
+OFOAEPEI_00135	D	Cell cycle control, cell division, chromosome partitioning	SpoVB	-
+OFOAEPEI_00137	P	Inorganic ion transport and metabolism	FepC	-
+OFOAEPEI_00138	P	Inorganic ion transport and metabolism	FepD	-
+OFOAEPEI_00139	P	Inorganic ion transport and metabolism	FepD	-
+OFOAEPEI_00140	P	Inorganic ion transport and metabolism	FecB	-
+OFOAEPEI_00142	E	Amino acid transport and metabolism	DapA	-
+OFOAEPEI_00143	H	Coenzyme transport and metabolism	CoaBC	-
+OFOAEPEI_00145	J	Translation, ribosomal structure and biogenesis	TyrS	-
+OFOAEPEI_00146	K	Transcription	PurR	-
+OFOAEPEI_00149	M	Cell wall/membrane/envelope biogenesis	MurC	-
+OFOAEPEI_00151	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_00152	J	Translation, ribosomal structure and biogenesis	TrmB	-
+OFOAEPEI_00153	E	Amino acid transport and metabolism	ArgE	-
+OFOAEPEI_00154	J	Translation, ribosomal structure and biogenesis	Pnp	-
+OFOAEPEI_00155	J	Translation, ribosomal structure and biogenesis	RpsO	-
+OFOAEPEI_00156	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_00158	H	Coenzyme transport and metabolism	HemN	-
+OFOAEPEI_00160	J	Translation, ribosomal structure and biogenesis	LepA	-
+OFOAEPEI_00162	K	Transcription	YozG	-
+OFOAEPEI_00163	J	Translation, ribosomal structure and biogenesis	Fmt	-
+OFOAEPEI_00165	D	Cell cycle control, cell division, chromosome partitioning	SpoIIP	-
+OFOAEPEI_00166	D	Cell cycle control, cell division, chromosome partitioning	Gpr	-
+OFOAEPEI_00167	J	Translation, ribosomal structure and biogenesis	RpsT	-
+OFOAEPEI_00168	D	Cell cycle control, cell division, chromosome partitioning	CYK3	-
+OFOAEPEI_00170	O	Posttranslational modification, protein turnover, chaperones	RseP	-
+OFOAEPEI_00171	I	Lipid transport and metabolism	Dxr	-
+OFOAEPEI_00172	I	Lipid transport and metabolism	CdsA	-
+OFOAEPEI_00173	I	Lipid transport and metabolism	UppS	-
+OFOAEPEI_00174	J	Translation, ribosomal structure and biogenesis	Frr	-
+OFOAEPEI_00175	F	Nucleotide transport and metabolism	PyrH	-
+OFOAEPEI_00176	J	Translation, ribosomal structure and biogenesis	Tsf	-
+OFOAEPEI_00177	J	Translation, ribosomal structure and biogenesis	RpsB	-
+OFOAEPEI_00179	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00180	J	Translation, ribosomal structure and biogenesis	TrmFO	-
+OFOAEPEI_00181	L	Replication, recombination and repair	TopA	-
+OFOAEPEI_00182	L	Replication, recombination and repair	Smf	-
+OFOAEPEI_00183	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+OFOAEPEI_00184	O	Posttranslational modification, protein turnover, chaperones	YbbJ	-
+OFOAEPEI_00186	L	Replication, recombination and repair	RnhB	-
+OFOAEPEI_00187	J	Translation, ribosomal structure and biogenesis	RbgA	-
+OFOAEPEI_00188	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+OFOAEPEI_00189	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+OFOAEPEI_00190	J	Translation, ribosomal structure and biogenesis	RplS	-
+OFOAEPEI_00191	L	Replication, recombination and repair	Udg4	-
+OFOAEPEI_00192	J	Translation, ribosomal structure and biogenesis	TrmD	-
+OFOAEPEI_00193	J	Translation, ribosomal structure and biogenesis	RimM	-
+OFOAEPEI_00194	R	General function prediction only	YlqC	-
+OFOAEPEI_00195	J	Translation, ribosomal structure and biogenesis	RpsP	-
+OFOAEPEI_00196	R	General function prediction only	YjdB	-
+OFOAEPEI_00197	G	Carbohydrate transport and metabolism	PemB	-
+OFOAEPEI_00198	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_00200	K	Transcription	RpoE	-
+OFOAEPEI_00201	C	Energy production and conversion	LdhA	-
+OFOAEPEI_00202	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+OFOAEPEI_00203	H	Coenzyme transport and metabolism	UbiE	-
+OFOAEPEI_00204	C	Energy production and conversion	NfnB	-
+OFOAEPEI_00206	H	Coenzyme transport and metabolism	ThiI	-
+OFOAEPEI_00207	E	Amino acid transport and metabolism	NifS	-
+OFOAEPEI_00208	D	Cell cycle control, cell division, chromosome partitioning	EzrA	-
+OFOAEPEI_00209	J	Translation, ribosomal structure and biogenesis	RpsD	-
+OFOAEPEI_00210	L	Replication, recombination and repair	Ssb	-
+OFOAEPEI_00211	R	General function prediction only	PqqL	-
+OFOAEPEI_00212	R	General function prediction only	PqqL	-
+OFOAEPEI_00213	F	Nucleotide transport and metabolism	NupQ	-
+OFOAEPEI_00214	F	Nucleotide transport and metabolism	NupP	-
+OFOAEPEI_00215	F	Nucleotide transport and metabolism	NupO	-
+OFOAEPEI_00216	T	Signal transduction mechanisms	Med	-
+OFOAEPEI_00217	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+OFOAEPEI_00218	J	Translation, ribosomal structure and biogenesis	RnjA	-
+OFOAEPEI_00219	J	Translation, ribosomal structure and biogenesis	MiaB	-
+OFOAEPEI_00220	C	Energy production and conversion	HdrA	-
+OFOAEPEI_00221	T	Signal transduction mechanisms	YmdB	-
+OFOAEPEI_00222	J	Translation, ribosomal structure and biogenesis	RnaY	-
+OFOAEPEI_00223	L	Replication, recombination and repair	RecA	-
+OFOAEPEI_00224	H	Coenzyme transport and metabolism	PncC	-
+OFOAEPEI_00225	I	Lipid transport and metabolism	PgsA	-
+OFOAEPEI_00226	D	Cell cycle control, cell division, chromosome partitioning	RodZ	-
+OFOAEPEI_00227	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+OFOAEPEI_00228	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+OFOAEPEI_00229	R	General function prediction only	YotM	-
+OFOAEPEI_00230	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+OFOAEPEI_00231	L	Replication, recombination and repair	Nth	-
+OFOAEPEI_00232	L	Replication, recombination and repair	DnaD	-
+OFOAEPEI_00234	F	Nucleotide transport and metabolism	MtnN	-
+OFOAEPEI_00235	R	General function prediction only		-
+OFOAEPEI_00236	J	Translation, ribosomal structure and biogenesis	RsfS	-
+OFOAEPEI_00237	H	Coenzyme transport and metabolism	NadD	-
+OFOAEPEI_00238	J	Translation, ribosomal structure and biogenesis	YhbY	-
+OFOAEPEI_00239	J	Translation, ribosomal structure and biogenesis	RbgA	-
+OFOAEPEI_00240	M	Cell wall/membrane/envelope biogenesis	YqeG	-
+OFOAEPEI_00241	K	Transcription	AcrR	-
+OFOAEPEI_00242	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_00243	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_00244	X	Mobilome: prophages, transposons		-
+OFOAEPEI_00245	D	Cell cycle control, cell division, chromosome partitioning	SigK	-
+OFOAEPEI_00247	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_00248	D	Cell cycle control, cell division, chromosome partitioning	SigF	-
+OFOAEPEI_00249	T	Signal transduction mechanisms	RsbW	-
+OFOAEPEI_00250	D	Cell cycle control, cell division, chromosome partitioning	SpoIIAA	-
+OFOAEPEI_00251	F	Nucleotide transport and metabolism	PurF	-
+OFOAEPEI_00252	E	Amino acid transport and metabolism	AsnB	-
+OFOAEPEI_00253	P	Inorganic ion transport and metabolism	AmtB	-
+OFOAEPEI_00254	E	Amino acid transport and metabolism	GlnA3	-
+OFOAEPEI_00255	E	Amino acid transport and metabolism	GdhA	-
+OFOAEPEI_00256	F	Nucleotide transport and metabolism	PurF	-
+OFOAEPEI_00257	E	Amino acid transport and metabolism	GltB2	-
+OFOAEPEI_00258	C	Energy production and conversion	FwdC	-
+OFOAEPEI_00259	E	Amino acid transport and metabolism	GlnA	-
+OFOAEPEI_00260	T	Signal transduction mechanisms	AmiR	-
+OFOAEPEI_00262	M	Cell wall/membrane/envelope biogenesis	DacC	-
+OFOAEPEI_00263	E	Amino acid transport and metabolism	AspA	-
+OFOAEPEI_00264	H	Coenzyme transport and metabolism	CysG2	-
+OFOAEPEI_00265	H	Coenzyme transport and metabolism	HemL	-
+OFOAEPEI_00266	H	Coenzyme transport and metabolism	HemB	-
+OFOAEPEI_00267	H	Coenzyme transport and metabolism	CysG	-
+OFOAEPEI_00268	H	Coenzyme transport and metabolism	HemC	-
+OFOAEPEI_00269	H	Coenzyme transport and metabolism	HemA	-
+OFOAEPEI_00270	P	Inorganic ion transport and metabolism	CysI	-
+OFOAEPEI_00271	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+OFOAEPEI_00272	K	Transcription	FadR	-
+OFOAEPEI_00274	M	Cell wall/membrane/envelope biogenesis	DltB	-
+OFOAEPEI_00276	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+OFOAEPEI_00277	H	Coenzyme transport and metabolism	FAU1	-
+OFOAEPEI_00278	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+OFOAEPEI_00279	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+OFOAEPEI_00280	E	Amino acid transport and metabolism	CsdA	-
+OFOAEPEI_00281	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+OFOAEPEI_00282	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+OFOAEPEI_00283	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+OFOAEPEI_00284	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+OFOAEPEI_00285	F	Nucleotide transport and metabolism	HinT	-
+OFOAEPEI_00286	J	Translation, ribosomal structure and biogenesis	HslR	-
+OFOAEPEI_00288	H	Coenzyme transport and metabolism	CoaD	-
+OFOAEPEI_00289	J	Translation, ribosomal structure and biogenesis	RsmD	-
+OFOAEPEI_00290	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+OFOAEPEI_00291	J	Translation, ribosomal structure and biogenesis	Def	-
+OFOAEPEI_00292	J	Translation, ribosomal structure and biogenesis	RnjA	-
+OFOAEPEI_00293	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+OFOAEPEI_00294	J	Translation, ribosomal structure and biogenesis	PheT	-
+OFOAEPEI_00295	J	Translation, ribosomal structure and biogenesis	PheS	-
+OFOAEPEI_00296	N	Cell motility	PilT/PilU	-
+OFOAEPEI_00297	N	Cell motility	GspE/PilB	-
+OFOAEPEI_00298	N	Cell motility	GspO/PilD	-
+OFOAEPEI_00299	N	Cell motility	GspO/PilD	-
+OFOAEPEI_00300	U	Intracellular trafficking, secretion, and vesicular transport	PulK	-
+OFOAEPEI_00302	N	Cell motility	GspM/PilN	-
+OFOAEPEI_00303	N	Cell motility	GspL/PilM	-
+OFOAEPEI_00304	N	Cell motility	GspF/PilC	-
+OFOAEPEI_00305	N	Cell motility	GspO/PilD	-
+OFOAEPEI_00307	J	Translation, ribosomal structure and biogenesis	SpoU	-
+OFOAEPEI_00308	J	Translation, ribosomal structure and biogenesis	IleS	-
+OFOAEPEI_00309	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+OFOAEPEI_00310	J	Translation, ribosomal structure and biogenesis	YlmH	-
+OFOAEPEI_00311	D	Cell cycle control, cell division, chromosome partitioning	SepF	-
+OFOAEPEI_00312	R	General function prediction only	YlmC	-
+OFOAEPEI_00313	D	Cell cycle control, cell division, chromosome partitioning	SigG	-
+OFOAEPEI_00314	D	Cell cycle control, cell division, chromosome partitioning	SigE	-
+OFOAEPEI_00317	H	Coenzyme transport and metabolism	CofE	-
+OFOAEPEI_00318	R	General function prediction only	YfcE	-
+OFOAEPEI_00319	D	Cell cycle control, cell division, chromosome partitioning	GerM	-
+OFOAEPEI_00320	M	Cell wall/membrane/envelope biogenesis	LdcB	-
+OFOAEPEI_00322	L	Replication, recombination and repair	UvrC	-
+OFOAEPEI_00323	J	Translation, ribosomal structure and biogenesis	RqcU	-
+OFOAEPEI_00324	F	Nucleotide transport and metabolism	CvpA	-
+OFOAEPEI_00325	L	Replication, recombination and repair	RnhC	-
+OFOAEPEI_00326	E	Amino acid transport and metabolism	PrdF	-
+OFOAEPEI_00327	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_00328	E	Amino acid transport and metabolism	AspB	-
+OFOAEPEI_00329	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_00330	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_00331	V	Defense mechanisms	RidA	-
+OFOAEPEI_00332	K	Transcription	YheO	-
+OFOAEPEI_00333	F	Nucleotide transport and metabolism	ComEB	-
+OFOAEPEI_00334	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+OFOAEPEI_00335	J	Translation, ribosomal structure and biogenesis	RluA	-
+OFOAEPEI_00336	M	Cell wall/membrane/envelope biogenesis	LspA	-
+OFOAEPEI_00337	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+OFOAEPEI_00338	K	Transcription	PadR	-
+OFOAEPEI_00341	R	General function prediction only	WbbJ	-
+OFOAEPEI_00343	S	Function unknown		-
+OFOAEPEI_00344	K	Transcription	PadR	-
+OFOAEPEI_00345	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00346	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00347	F	Nucleotide transport and metabolism	Dut	-
+OFOAEPEI_00349	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_00350	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_00352	H	Coenzyme transport and metabolism	EetB	-
+OFOAEPEI_00353	S	Function unknown		-
+OFOAEPEI_00355	M	Cell wall/membrane/envelope biogenesis	CapA	-
+OFOAEPEI_00356	M	Cell wall/membrane/envelope biogenesis	Tpp15	-
+OFOAEPEI_00357	C	Energy production and conversion	GlpK	-
+OFOAEPEI_00359	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_00360	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_00361	V	Defense mechanisms	SalY	-
+OFOAEPEI_00362	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_00363	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_00364	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_00365	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_00366	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_00369	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_00370	V	Defense mechanisms	YadH	-
+OFOAEPEI_00371	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00374	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00375	K	Transcription	YhcF	-
+OFOAEPEI_00376	X	Mobilome: prophages, transposons		-
+OFOAEPEI_00377	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_00378	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_00379	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_00380	K	Transcription		-
+OFOAEPEI_00381	S	Function unknown	RhuM	-
+OFOAEPEI_00382	V	Defense mechanisms		-
+OFOAEPEI_00383	V	Defense mechanisms	HsdS	-
+OFOAEPEI_00384	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00385	V	Defense mechanisms	HsdS	-
+OFOAEPEI_00386	V	Defense mechanisms	HsdS	-
+OFOAEPEI_00387	V	Defense mechanisms	HsdM	-
+OFOAEPEI_00388	K	Transcription	YozG	-
+OFOAEPEI_00389	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_00390	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_00391	F	Nucleotide transport and metabolism	GuaA2	-
+OFOAEPEI_00392	V	Defense mechanisms	NorM	-
+OFOAEPEI_00393	P	Inorganic ion transport and metabolism	SapB	-
+OFOAEPEI_00395	K	Transcription	ARO8	-
+OFOAEPEI_00396	H	Coenzyme transport and metabolism	ECF-S	-
+OFOAEPEI_00397	V	Defense mechanisms	NorM	-
+OFOAEPEI_00398	K	Transcription	AraC	-
+OFOAEPEI_00399	L	Replication, recombination and repair	Tag	-
+OFOAEPEI_00400	K	Transcription	MntR	-
+OFOAEPEI_00401	H	Coenzyme transport and metabolism	UbiE	-
+OFOAEPEI_00402	K	Transcription	AcrR	-
+OFOAEPEI_00403	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_00404	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_00405	K	Transcription	BglG	-
+OFOAEPEI_00407	E	Amino acid transport and metabolism	IlvD	-
+OFOAEPEI_00408	E	Amino acid transport and metabolism	IlvC	-
+OFOAEPEI_00409	E	Amino acid transport and metabolism	IlvH	-
+OFOAEPEI_00410	E	Amino acid transport and metabolism	IlvB	-
+OFOAEPEI_00411	E	Amino acid transport and metabolism	IlvA	-
+OFOAEPEI_00412	R	General function prediction only	Atu1564	-
+OFOAEPEI_00413	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+OFOAEPEI_00414	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00415	E	Amino acid transport and metabolism	HisJ	-
+OFOAEPEI_00416	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_00421	L	Replication, recombination and repair	CedB	-
+OFOAEPEI_00423	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_00425	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_00428	J	Translation, ribosomal structure and biogenesis	PasT	-
+OFOAEPEI_00429	K	Transcription	TfoX	-
+OFOAEPEI_00431	V	Defense mechanisms	ArdA	-
+OFOAEPEI_00433	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_00434	U	Intracellular trafficking, secretion, and vesicular transport	VirB6	-
+OFOAEPEI_00435	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+OFOAEPEI_00437	B	Chromatin structure and dynamics	AbrB	-
+OFOAEPEI_00440	K	Transcription	YobV	-
+OFOAEPEI_00441	V	Defense mechanisms	YajL	-
+OFOAEPEI_00442	K	Transcription	XRE	-
+OFOAEPEI_00443	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00444	V	Defense mechanisms	EfiE	-
+OFOAEPEI_00445	V	Defense mechanisms	EfiE	-
+OFOAEPEI_00447	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_00448	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_00449	K	Transcription	RpoE	-
+OFOAEPEI_00452	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00453	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_00454	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_00455	S	Function unknown	YitT	-
+OFOAEPEI_00456	E	Amino acid transport and metabolism	AsnB	-
+OFOAEPEI_00458	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+OFOAEPEI_00459	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+OFOAEPEI_00463	E	Amino acid transport and metabolism	CysH	-
+OFOAEPEI_00467	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_00475	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_00476	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+OFOAEPEI_00477	L	Replication, recombination and repair		-
+OFOAEPEI_00479	T	Signal transduction mechanisms	SpoT	-
+OFOAEPEI_00480	F	Nucleotide transport and metabolism	YjbM	-
+OFOAEPEI_00482	K	Transcription	HipB	-
+OFOAEPEI_00485	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+OFOAEPEI_00489	K	Transcription	PadR	-
+OFOAEPEI_00491	V	Defense mechanisms	VanZ	-
+OFOAEPEI_00493	K	Transcription	XRE	-
+OFOAEPEI_00497	K	Transcription	RpoE	-
+OFOAEPEI_00499	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_00500	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_00501	E	Amino acid transport and metabolism	AsnB	-
+OFOAEPEI_00503	C	Energy production and conversion	NfnB	-
+OFOAEPEI_00504	L	Replication, recombination and repair	RmuC	-
+OFOAEPEI_00505	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_00506	K	Transcription	ComK	-
+OFOAEPEI_00507	V	Defense mechanisms	RidA	-
+OFOAEPEI_00508	P	Inorganic ion transport and metabolism	MpfA	-
+OFOAEPEI_00511	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_00513	J	Translation, ribosomal structure and biogenesis	TrmL	-
+OFOAEPEI_00514	F	Nucleotide transport and metabolism	RdgB	-
+OFOAEPEI_00515	R	General function prediction only	YgiQ	-
+OFOAEPEI_00516	H	Coenzyme transport and metabolism	CotS	-
+OFOAEPEI_00517	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+OFOAEPEI_00518	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+OFOAEPEI_00519	C	Energy production and conversion	NatB	-
+OFOAEPEI_00521	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00522	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00523	K	Transcription	PurR	-
+OFOAEPEI_00524	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00525	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+OFOAEPEI_00527	S	Function unknown		-
+OFOAEPEI_00528	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+OFOAEPEI_00529	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+OFOAEPEI_00531	J	Translation, ribosomal structure and biogenesis	ThrS	-
+OFOAEPEI_00533	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_00534	S	Function unknown		-
+OFOAEPEI_00535	M	Cell wall/membrane/envelope biogenesis	LemA	-
+OFOAEPEI_00536	E	Amino acid transport and metabolism	AmpS	-
+OFOAEPEI_00537	G	Carbohydrate transport and metabolism	NagC	-
+OFOAEPEI_00539	G	Carbohydrate transport and metabolism	GlgA	-
+OFOAEPEI_00542	W	Extracellular structures	TadB	-
+OFOAEPEI_00544	W	Extracellular structures	CpaF/TadA	-
+OFOAEPEI_00549	G	Carbohydrate transport and metabolism	PykF	-
+OFOAEPEI_00550	G	Carbohydrate transport and metabolism	PfkA	-
+OFOAEPEI_00551	L	Replication, recombination and repair	DnaC	-
+OFOAEPEI_00552	L	Replication, recombination and repair	DnaB2	-
+OFOAEPEI_00553	H	Coenzyme transport and metabolism	CoaE	-
+OFOAEPEI_00554	L	Replication, recombination and repair	Nei	-
+OFOAEPEI_00555	L	Replication, recombination and repair	PolA	-
+OFOAEPEI_00556	P	Inorganic ion transport and metabolism	ZnuA	-
+OFOAEPEI_00557	O	Posttranslational modification, protein turnover, chaperones	SpoIVFB	-
+OFOAEPEI_00558	D	Cell cycle control, cell division, chromosome partitioning	SpoIVFA	-
+OFOAEPEI_00559	R	General function prediction only	PerM	-
+OFOAEPEI_00560	D	Cell cycle control, cell division, chromosome partitioning	MinD	-
+OFOAEPEI_00563	D	Cell cycle control, cell division, chromosome partitioning	MreC	-
+OFOAEPEI_00564	L	Replication, recombination and repair	RadC	-
+OFOAEPEI_00565	D	Cell cycle control, cell division, chromosome partitioning	DedD	-
+OFOAEPEI_00569	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_00571	Q	Secondary metabolites biosynthesis, transport and catabolism	PhaF	-
+OFOAEPEI_00572	H	Coenzyme transport and metabolism	AarF	-
+OFOAEPEI_00573	O	Posttranslational modification, protein turnover, chaperones	SIR2	-
+OFOAEPEI_00574	L	Replication, recombination and repair	SbcC	-
+OFOAEPEI_00575	L	Replication, recombination and repair	SbcD	-
+OFOAEPEI_00577	P	Inorganic ion transport and metabolism	NlpA	-
+OFOAEPEI_00578	E	Amino acid transport and metabolism	MetP	-
+OFOAEPEI_00579	E	Amino acid transport and metabolism	AbcC	-
+OFOAEPEI_00581	R	General function prediction only	YtcJ	-
+OFOAEPEI_00582	Q	Secondary metabolites biosynthesis, transport and catabolism	YvaK	-
+OFOAEPEI_00583	O	Posttranslational modification, protein turnover, chaperones	YdjI	-
+OFOAEPEI_00584	R	General function prediction only	TM2	-
+OFOAEPEI_00586	H	Coenzyme transport and metabolism	PncB	-
+OFOAEPEI_00587	H	Coenzyme transport and metabolism	PncA	-
+OFOAEPEI_00588	I	Lipid transport and metabolism	YxjI	-
+OFOAEPEI_00589	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_00590	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_00591	E	Amino acid transport and metabolism	GdhA	-
+OFOAEPEI_00594	F	Nucleotide transport and metabolism	Gmk	-
+OFOAEPEI_00595	J	Translation, ribosomal structure and biogenesis	RqcH	-
+OFOAEPEI_00597	R	General function prediction only		-
+OFOAEPEI_00598	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_00599	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_00600	I	Lipid transport and metabolism	PldB	-
+OFOAEPEI_00602	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_00603	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_00604	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_00605	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_00606	K	Transcription	GlpR	-
+OFOAEPEI_00607	E	Amino acid transport and metabolism	AsnA	-
+OFOAEPEI_00608	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_00614	C	Energy production and conversion	RnfB	-
+OFOAEPEI_00615	C	Energy production and conversion	RnfA	-
+OFOAEPEI_00616	C	Energy production and conversion	RnfE	-
+OFOAEPEI_00617	C	Energy production and conversion	RnfG	-
+OFOAEPEI_00618	C	Energy production and conversion	RnfD	-
+OFOAEPEI_00619	C	Energy production and conversion	RnfC	-
+OFOAEPEI_00620	H	Coenzyme transport and metabolism	ApbE	-
+OFOAEPEI_00622	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00623	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_00624	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_00625	K	Transcription	HipB	-
+OFOAEPEI_00629	E	Amino acid transport and metabolism	IlvE	-
+OFOAEPEI_00630	T	Signal transduction mechanisms	HDGYP	-
+OFOAEPEI_00631	J	Translation, ribosomal structure and biogenesis	ValS	-
+OFOAEPEI_00632	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_00633	M	Cell wall/membrane/envelope biogenesis	LysM	-
+OFOAEPEI_00635	V	Defense mechanisms	SdpI	-
+OFOAEPEI_00636	K	Transcription	ArsR	-
+OFOAEPEI_00637	V	Defense mechanisms	SdpI	-
+OFOAEPEI_00640	D	Cell cycle control, cell division, chromosome partitioning	EngB	-
+OFOAEPEI_00641	O	Posttranslational modification, protein turnover, chaperones	Lon	-
+OFOAEPEI_00642	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+OFOAEPEI_00644	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00645	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00647	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_00648	K	Transcription	HipB	-
+OFOAEPEI_00649	K	Transcription	XRE	-
+OFOAEPEI_00650	J	Translation, ribosomal structure and biogenesis	RaiA	-
+OFOAEPEI_00652	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_00654	O	Posttranslational modification, protein turnover, chaperones		-
+OFOAEPEI_00656	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+OFOAEPEI_00659	M	Cell wall/membrane/envelope biogenesis	LrgB	-
+OFOAEPEI_00660	R	General function prediction only	YohJ	-
+OFOAEPEI_00661	R	General function prediction only	YgiQ	-
+OFOAEPEI_00662	P	Inorganic ion transport and metabolism	CorA	-
+OFOAEPEI_00663	E	Amino acid transport and metabolism	EamA	-
+OFOAEPEI_00665	K	Transcription	YobV	-
+OFOAEPEI_00666	T	Signal transduction mechanisms	ANKYR	-
+OFOAEPEI_00668	L	Replication, recombination and repair	Uve	-
+OFOAEPEI_00669	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00670	K	Transcription	MarR	-
+OFOAEPEI_00671	R	General function prediction only	AaeB	-
+OFOAEPEI_00673	P	Inorganic ion transport and metabolism	KdpC	-
+OFOAEPEI_00674	P	Inorganic ion transport and metabolism	KdpB	-
+OFOAEPEI_00675	P	Inorganic ion transport and metabolism	KdpA	-
+OFOAEPEI_00676	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_00677	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_00678	P	Inorganic ion transport and metabolism	TrkG	-
+OFOAEPEI_00679	P	Inorganic ion transport and metabolism	TrkA	-
+OFOAEPEI_00680	P	Inorganic ion transport and metabolism	TrkA	-
+OFOAEPEI_00681	E	Amino acid transport and metabolism	Ald	-
+OFOAEPEI_00682	F	Nucleotide transport and metabolism	Udp	-
+OFOAEPEI_00683	S	Function unknown	YkvA	-
+OFOAEPEI_00684	T	Signal transduction mechanisms	UspA	-
+OFOAEPEI_00687	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00688	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_00689	G	Carbohydrate transport and metabolism	GpmA	-
+OFOAEPEI_00690	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00691	K	Transcription	YdeE	-
+OFOAEPEI_00692	K	Transcription	YdeE	-
+OFOAEPEI_00693	K	Transcription	MmcQ	-
+OFOAEPEI_00694	R	General function prediction only	YocR	-
+OFOAEPEI_00695	R	General function prediction only	YbhB	-
+OFOAEPEI_00696	H	Coenzyme transport and metabolism	PncA	-
+OFOAEPEI_00697	K	Transcription	YobV	-
+OFOAEPEI_00698	S	Function unknown	YycO	-
+OFOAEPEI_00703	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_00705	P	Inorganic ion transport and metabolism	Fur	-
+OFOAEPEI_00706	X	Mobilome: prophages, transposons		-
+OFOAEPEI_00708	R	General function prediction only	YbjT	-
+OFOAEPEI_00709	K	Transcription	MarR	-
+OFOAEPEI_00710	K	Transcription	PadR	-
+OFOAEPEI_00711	S	Function unknown		-
+OFOAEPEI_00712	S	Function unknown	YvlB	-
+OFOAEPEI_00715	L	Replication, recombination and repair	DinP	-
+OFOAEPEI_00716	K	Transcription	AcrR	-
+OFOAEPEI_00720	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00721	G	Carbohydrate transport and metabolism	PpsA	-
+OFOAEPEI_00722	K	Transcription	HipB	-
+OFOAEPEI_00723	S	Function unknown		-
+OFOAEPEI_00724	G	Carbohydrate transport and metabolism	Pgi	-
+OFOAEPEI_00725	R	General function prediction only	YabR	-
+OFOAEPEI_00726	R	General function prediction only	YuiD	-
+OFOAEPEI_00727	O	Posttranslational modification, protein turnover, chaperones	NifU	-
+OFOAEPEI_00728	L	Replication, recombination and repair	NdpA	-
+OFOAEPEI_00729	J	Translation, ribosomal structure and biogenesis	RnaY	-
+OFOAEPEI_00730	S	Function unknown		-
+OFOAEPEI_00733	V	Defense mechanisms	EsxA	-
+OFOAEPEI_00734	V	Defense mechanisms	EsxA	-
+OFOAEPEI_00736	T	Signal transduction mechanisms	FHA	-
+OFOAEPEI_00737	T	Signal transduction mechanisms	SPS1	-
+OFOAEPEI_00738	T	Signal transduction mechanisms	SPS1	-
+OFOAEPEI_00739	T	Signal transduction mechanisms	FHA	-
+OFOAEPEI_00742	G	Carbohydrate transport and metabolism	CelF	-
+OFOAEPEI_00743	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_00744	K	Transcription	Rnc	-
+OFOAEPEI_00745	L	Replication, recombination and repair	RecG	-
+OFOAEPEI_00746	F	Nucleotide transport and metabolism	RdgB	-
+OFOAEPEI_00747	P	Inorganic ion transport and metabolism	YecA	-
+OFOAEPEI_00748	D	Cell cycle control, cell division, chromosome partitioning	SkfB	-
+OFOAEPEI_00750	F	Nucleotide transport and metabolism	UraA	-
+OFOAEPEI_00751	P	Inorganic ion transport and metabolism	MgtA	-
+OFOAEPEI_00753	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+OFOAEPEI_00754	D	Cell cycle control, cell division, chromosome partitioning	FtsA	-
+OFOAEPEI_00756	G	Carbohydrate transport and metabolism	LytD	-
+OFOAEPEI_00758	J	Translation, ribosomal structure and biogenesis	RpmB	-
+OFOAEPEI_00759	F	Nucleotide transport and metabolism	Udk	-
+OFOAEPEI_00760	H	Coenzyme transport and metabolism	ThiN	-
+OFOAEPEI_00761	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_00762	J	Translation, ribosomal structure and biogenesis	RsgA	-
+OFOAEPEI_00763	T	Signal transduction mechanisms	SPS1	-
+OFOAEPEI_00764	T	Signal transduction mechanisms	PTC1	-
+OFOAEPEI_00765	J	Translation, ribosomal structure and biogenesis	RlmN	-
+OFOAEPEI_00769	O	Posttranslational modification, protein turnover, chaperones	TldD	-
+OFOAEPEI_00770	O	Posttranslational modification, protein turnover, chaperones	TldD	-
+OFOAEPEI_00771	K	Transcription	YdeE	-
+OFOAEPEI_00772	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_00773	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00774	V	Defense mechanisms	YadH	-
+OFOAEPEI_00776	S	Function unknown		-
+OFOAEPEI_00777	K	Transcription	HepA	-
+OFOAEPEI_00778	K	Transcription	HepA	-
+OFOAEPEI_00779	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_00780	S	Function unknown		-
+OFOAEPEI_00781	J	Translation, ribosomal structure and biogenesis	RsmB	-
+OFOAEPEI_00782	I	Lipid transport and metabolism	PgpB	-
+OFOAEPEI_00783	L	Replication, recombination and repair	PriA	-
+OFOAEPEI_00785	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_00786	T	Signal transduction mechanisms		-
+OFOAEPEI_00788	V	Defense mechanisms	NorM	-
+OFOAEPEI_00789	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_00790	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_00791	C	Energy production and conversion	FldA	-
+OFOAEPEI_00792	K	Transcription	ArsR	-
+OFOAEPEI_00793	C	Energy production and conversion	NfnB	-
+OFOAEPEI_00796	F	Nucleotide transport and metabolism	YjhB	-
+OFOAEPEI_00797	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00798	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_00799	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_00800	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_00801	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_00802	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_00804	H	Coenzyme transport and metabolism	UbiE	-
+OFOAEPEI_00807	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_00808	I	Lipid transport and metabolism	AdhE	-
+OFOAEPEI_00809	C	Energy production and conversion	Nar1	-
+OFOAEPEI_00810	P	Inorganic ion transport and metabolism		-
+OFOAEPEI_00811	H	Coenzyme transport and metabolism	NadE	-
+OFOAEPEI_00812	T	Signal transduction mechanisms		-
+OFOAEPEI_00817	P	Inorganic ion transport and metabolism		-
+OFOAEPEI_00818	C	Energy production and conversion	EutG	-
+OFOAEPEI_00820	R	General function prediction only	HdeD	-
+OFOAEPEI_00822	R	General function prediction only		-
+OFOAEPEI_00824	P	Inorganic ion transport and metabolism	CopZ	-
+OFOAEPEI_00825	C	Energy production and conversion	NapH	-
+OFOAEPEI_00826	S	Function unknown		-
+OFOAEPEI_00827	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_00828	S	Function unknown	YzzA	-
+OFOAEPEI_00829	K	Transcription	XRE	-
+OFOAEPEI_00830	E	Amino acid transport and metabolism	HIS2	-
+OFOAEPEI_00832	K	Transcription	XRE	-
+OFOAEPEI_00833	K	Transcription	AcrR	-
+OFOAEPEI_00834	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+OFOAEPEI_00836	M	Cell wall/membrane/envelope biogenesis	LicC	-
+OFOAEPEI_00837	P	Inorganic ion transport and metabolism	FbpB	-
+OFOAEPEI_00838	E	Amino acid transport and metabolism	PotA	-
+OFOAEPEI_00839	G	Carbohydrate transport and metabolism	AfuA	-
+OFOAEPEI_00841	I	Lipid transport and metabolism		-
+OFOAEPEI_00842	E	Amino acid transport and metabolism	PucG	-
+OFOAEPEI_00845	U	Intracellular trafficking, secretion, and vesicular transport	CVT17	-
+OFOAEPEI_00846	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+OFOAEPEI_00847	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_00848	F	Nucleotide transport and metabolism	NrdD	-
+OFOAEPEI_00849	D	Cell cycle control, cell division, chromosome partitioning	FisB	-
+OFOAEPEI_00850	P	Inorganic ion transport and metabolism	TrkA	-
+OFOAEPEI_00851	P	Inorganic ion transport and metabolism	TrkG	-
+OFOAEPEI_00852	C	Energy production and conversion	YotD	-
+OFOAEPEI_00853	E	Amino acid transport and metabolism	GlnA3	-
+OFOAEPEI_00854	P	Inorganic ion transport and metabolism	NptA	-
+OFOAEPEI_00855	P	Inorganic ion transport and metabolism	NptA	-
+OFOAEPEI_00856	V	Defense mechanisms	DUF89	-
+OFOAEPEI_00857	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_00858	R	General function prediction only	PerM	-
+OFOAEPEI_00859	H	Coenzyme transport and metabolism	NadE	-
+OFOAEPEI_00860	J	Translation, ribosomal structure and biogenesis	SpoU	-
+OFOAEPEI_00862	T	Signal transduction mechanisms	Oca4	-
+OFOAEPEI_00863	P	Inorganic ion transport and metabolism	PspE	-
+OFOAEPEI_00865	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+OFOAEPEI_00866	R	General function prediction only		-
+OFOAEPEI_00868	P	Inorganic ion transport and metabolism	YbhL	-
+OFOAEPEI_00869	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_00870	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_00872	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_00873	S	Function unknown	YaiI	-
+OFOAEPEI_00874	E	Amino acid transport and metabolism	IlvA	-
+OFOAEPEI_00876	T	Signal transduction mechanisms	HprK	-
+OFOAEPEI_00877	J	Translation, ribosomal structure and biogenesis	ProS	-
+OFOAEPEI_00878	J	Translation, ribosomal structure and biogenesis	RlhA	-
+OFOAEPEI_00879	J	Translation, ribosomal structure and biogenesis	RlhA	-
+OFOAEPEI_00881	P	Inorganic ion transport and metabolism	Fur	-
+OFOAEPEI_00884	X	Mobilome: prophages, transposons	ParE	-
+OFOAEPEI_00885	V	Defense mechanisms	StbD	-
+OFOAEPEI_00887	K	Transcription	RpoE	-
+OFOAEPEI_00892	K	Transcription	HipB	-
+OFOAEPEI_00893	K	Transcription	HipB	-
+OFOAEPEI_00894	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_00895	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_00896	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_00897	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_00900	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+OFOAEPEI_00901	G	Carbohydrate transport and metabolism	MalQ	-
+OFOAEPEI_00902	G	Carbohydrate transport and metabolism	GlgP	-
+OFOAEPEI_00903	K	Transcription	AcrR	-
+OFOAEPEI_00904	C	Energy production and conversion	FadH	-
+OFOAEPEI_00905	P	Inorganic ion transport and metabolism	ZupT	-
+OFOAEPEI_00906	T	Signal transduction mechanisms	PocR	-
+OFOAEPEI_00907	G	Carbohydrate transport and metabolism	UlaG	-
+OFOAEPEI_00908	C	Energy production and conversion	RutF	-
+OFOAEPEI_00913	C	Energy production and conversion	FumC	-
+OFOAEPEI_00914	C	Energy production and conversion	SfcA	-
+OFOAEPEI_00915	T	Signal transduction mechanisms	CpdA	-
+OFOAEPEI_00918	J	Translation, ribosomal structure and biogenesis	AnsA	-
+OFOAEPEI_00921	J	Translation, ribosomal structure and biogenesis	RlmK	-
+OFOAEPEI_00924	K	Transcription	YozG	-
+OFOAEPEI_00927	I	Lipid transport and metabolism	FakA	-
+OFOAEPEI_00928	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_00931	K	Transcription	HipB	-
+OFOAEPEI_00935	L	Replication, recombination and repair	UvrD	-
+OFOAEPEI_00936	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_00937	M	Cell wall/membrane/envelope biogenesis	UndP	-
+OFOAEPEI_00938	C	Energy production and conversion	NatA	-
+OFOAEPEI_00941	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_00942	P	Inorganic ion transport and metabolism	PhnE	-
+OFOAEPEI_00943	P	Inorganic ion transport and metabolism	PhnE	-
+OFOAEPEI_00944	P	Inorganic ion transport and metabolism	PhnC	-
+OFOAEPEI_00945	P	Inorganic ion transport and metabolism	PhnD	-
+OFOAEPEI_00946	K	Transcription	MngR	-
+OFOAEPEI_00948	C	Energy production and conversion	NatB	-
+OFOAEPEI_00949	R	General function prediction only	YhaQ	-
+OFOAEPEI_00950	K	Transcription	XRE	-
+OFOAEPEI_00952	R	General function prediction only	YgaE	-
+OFOAEPEI_00953	P	Inorganic ion transport and metabolism	MgtA	-
+OFOAEPEI_00954	M	Cell wall/membrane/envelope biogenesis	LapB	-
+OFOAEPEI_00955	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_00956	C	Energy production and conversion	PPX1	-
+OFOAEPEI_00958	K	Transcription	HipB	-
+OFOAEPEI_00959	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_00960	R	General function prediction only	PerM	-
+OFOAEPEI_00961	C	Energy production and conversion	PorA	-
+OFOAEPEI_00962	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_00968	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_00973	M	Cell wall/membrane/envelope biogenesis	MscK	-
+OFOAEPEI_00974	L	Replication, recombination and repair	SrmB	-
+OFOAEPEI_00976	K	Transcription	CspC	-
+OFOAEPEI_00978	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_00979	S	Function unknown	YdfK	-
+OFOAEPEI_00980	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_00981	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00982	J	Translation, ribosomal structure and biogenesis	EbsC	-
+OFOAEPEI_00983	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00984	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_00985	R	General function prediction only	YdhF	-
+OFOAEPEI_00986	G	Carbohydrate transport and metabolism	GalM	-
+OFOAEPEI_00987	X	Mobilome: prophages, transposons		-
+OFOAEPEI_00988	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_00989	G	Carbohydrate transport and metabolism	NagA	-
+OFOAEPEI_00990	C	Energy production and conversion	NorV	-
+OFOAEPEI_00991	K	Transcription	SoxR	-
+OFOAEPEI_00992	L	Replication, recombination and repair	YncB	-
+OFOAEPEI_00994	K	Transcription	HipB	-
+OFOAEPEI_00995	H	Coenzyme transport and metabolism	UbiE	-
+OFOAEPEI_00996	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+OFOAEPEI_00997	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+OFOAEPEI_00998	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+OFOAEPEI_00999	D	Cell cycle control, cell division, chromosome partitioning		-
+OFOAEPEI_01000	T	Signal transduction mechanisms	ACT	-
+OFOAEPEI_01002	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_01003	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_01004	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01005	M	Cell wall/membrane/envelope biogenesis	DacC	-
+OFOAEPEI_01006	G	Carbohydrate transport and metabolism	TktA2	-
+OFOAEPEI_01007	G	Carbohydrate transport and metabolism	TktA1	-
+OFOAEPEI_01008	K	Transcription	Tex	-
+OFOAEPEI_01009	U	Intracellular trafficking, secretion, and vesicular transport	DotG	-
+OFOAEPEI_01010	E	Amino acid transport and metabolism	PepD2	-
+OFOAEPEI_01012	X	Mobilome: prophages, transposons		-
+OFOAEPEI_01019	T	Signal transduction mechanisms	DarA	-
+OFOAEPEI_01020	K	Transcription	HxlR	-
+OFOAEPEI_01021	C	Energy production and conversion	CcdA	-
+OFOAEPEI_01022	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_01023	C	Energy production and conversion	Lpd	-
+OFOAEPEI_01024	L	Replication, recombination and repair	Udg4	-
+OFOAEPEI_01025	F	Nucleotide transport and metabolism	Dgt	-
+OFOAEPEI_01026	J	Translation, ribosomal structure and biogenesis	FusA	-
+OFOAEPEI_01027	V	Defense mechanisms	NorM	-
+OFOAEPEI_01029	C	Energy production and conversion	WrbA	-
+OFOAEPEI_01030	K	Transcription	AcrR	-
+OFOAEPEI_01031	F	Nucleotide transport and metabolism	PurF	-
+OFOAEPEI_01032	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01033	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01034	T	Signal transduction mechanisms	CitA	-
+OFOAEPEI_01035	K	Transcription	LytT	-
+OFOAEPEI_01036	K	Transcription	AcrR	-
+OFOAEPEI_01037	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_01038	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_01039	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01040	K	Transcription	Atl1	-
+OFOAEPEI_01041	V	Defense mechanisms	CAPP_A	-
+OFOAEPEI_01043	X	Mobilome: prophages, transposons		-
+OFOAEPEI_01044	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_01045	J	Translation, ribosomal structure and biogenesis	TrmO	-
+OFOAEPEI_01046	L	Replication, recombination and repair	DNA2	-
+OFOAEPEI_01050	V	Defense mechanisms	RES	-
+OFOAEPEI_01053	K	Transcription	YozG	-
+OFOAEPEI_01054	F	Nucleotide transport and metabolism	GuaA2	-
+OFOAEPEI_01055	F	Nucleotide transport and metabolism	NCS2	-
+OFOAEPEI_01056	E	Amino acid transport and metabolism	PepE	-
+OFOAEPEI_01057	E	Amino acid transport and metabolism	AspB	-
+OFOAEPEI_01058	E	Amino acid transport and metabolism	GltB2	-
+OFOAEPEI_01059	E	Amino acid transport and metabolism	DAP2	-
+OFOAEPEI_01060	O	Posttranslational modification, protein turnover, chaperones	CAL1	-
+OFOAEPEI_01061	T	Signal transduction mechanisms		-
+OFOAEPEI_01062	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_01063	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_01065	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_01067	X	Mobilome: prophages, transposons		-
+OFOAEPEI_01070	L	Replication, recombination and repair	YbjD	-
+OFOAEPEI_01071	L	Replication, recombination and repair	UvrD	-
+OFOAEPEI_01073	V	Defense mechanisms	HsdM	-
+OFOAEPEI_01074	J	Translation, ribosomal structure and biogenesis	TrmA	-
+OFOAEPEI_01075	S	Function unknown	BrkB	-
+OFOAEPEI_01077	C	Energy production and conversion	Ppa	-
+OFOAEPEI_01078	C	Energy production and conversion	LldD	-
+OFOAEPEI_01079	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_01080	P	Inorganic ion transport and metabolism	ZntA	-
+OFOAEPEI_01081	H	Coenzyme transport and metabolism	UbiE	-
+OFOAEPEI_01082	K	Transcription	ArsR	-
+OFOAEPEI_01083	G	Carbohydrate transport and metabolism	GlxK	-
+OFOAEPEI_01084	E	Amino acid transport and metabolism	AlsT	-
+OFOAEPEI_01085	V	Defense mechanisms	YajL	-
+OFOAEPEI_01086	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_01087	F	Nucleotide transport and metabolism	YjhB	-
+OFOAEPEI_01088	P	Inorganic ion transport and metabolism	CorA	-
+OFOAEPEI_01091	K	Transcription	YdeE	-
+OFOAEPEI_01092	R	General function prediction only	HdeD	-
+OFOAEPEI_01093	S	Function unknown	YeiH	-
+OFOAEPEI_01094	L	Replication, recombination and repair	AdaA	-
+OFOAEPEI_01096	E	Amino acid transport and metabolism	HisI2	-
+OFOAEPEI_01097	E	Amino acid transport and metabolism	HisI1	-
+OFOAEPEI_01098	E	Amino acid transport and metabolism	HisF	-
+OFOAEPEI_01099	E	Amino acid transport and metabolism	HisA	-
+OFOAEPEI_01100	E	Amino acid transport and metabolism	HisH	-
+OFOAEPEI_01101	E	Amino acid transport and metabolism	HisB2	-
+OFOAEPEI_01102	E	Amino acid transport and metabolism	HisC	-
+OFOAEPEI_01103	E	Amino acid transport and metabolism	HisD	-
+OFOAEPEI_01104	E	Amino acid transport and metabolism	HisG	-
+OFOAEPEI_01105	E	Amino acid transport and metabolism	HisZ	-
+OFOAEPEI_01107	K	Transcription	HipB	-
+OFOAEPEI_01108	R	General function prediction only		-
+OFOAEPEI_01110	L	Replication, recombination and repair	RarA	-
+OFOAEPEI_01111	F	Nucleotide transport and metabolism	XapA	-
+OFOAEPEI_01112	R	General function prediction only	WbbJ	-
+OFOAEPEI_01113	I	Lipid transport and metabolism	CaiA	-
+OFOAEPEI_01114	C	Energy production and conversion	NorV	-
+OFOAEPEI_01117	K	Transcription	AraC	-
+OFOAEPEI_01119	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+OFOAEPEI_01120	M	Cell wall/membrane/envelope biogenesis	MurF	-
+OFOAEPEI_01121	H	Coenzyme transport and metabolism	MenH	-
+OFOAEPEI_01122	E	Amino acid transport and metabolism	DadA	-
+OFOAEPEI_01123	V	Defense mechanisms	YadH	-
+OFOAEPEI_01128	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_01129	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_01130	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_01134	R	General function prediction only	ElaA	-
+OFOAEPEI_01135	V	Defense mechanisms	SdpI	-
+OFOAEPEI_01136	K	Transcription	SoxR	-
+OFOAEPEI_01137	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_01138	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01140	S	Function unknown	TVP38	-
+OFOAEPEI_01141	J	Translation, ribosomal structure and biogenesis	RnaY	-
+OFOAEPEI_01142	J	Translation, ribosomal structure and biogenesis	RlhA	-
+OFOAEPEI_01143	C	Energy production and conversion	YjjB	-
+OFOAEPEI_01144	C	Energy production and conversion	YjjP	-
+OFOAEPEI_01145	O	Posttranslational modification, protein turnover, chaperones	Tpx	-
+OFOAEPEI_01146	F	Nucleotide transport and metabolism	ComEB	-
+OFOAEPEI_01147	I	Lipid transport and metabolism	LCB5	-
+OFOAEPEI_01149	C	Energy production and conversion	Gph	-
+OFOAEPEI_01150	H	Coenzyme transport and metabolism	YigB	-
+OFOAEPEI_01151	V	Defense mechanisms	NorM	-
+OFOAEPEI_01152	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+OFOAEPEI_01153	T	Signal transduction mechanisms	EAL	-
+OFOAEPEI_01154	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+OFOAEPEI_01155	J	Translation, ribosomal structure and biogenesis	aMBF1	-
+OFOAEPEI_01156	H	Coenzyme transport and metabolism	UbiG	-
+OFOAEPEI_01157	H	Coenzyme transport and metabolism	UbiG	-
+OFOAEPEI_01159	L	Replication, recombination and repair	Nei	-
+OFOAEPEI_01160	T	Signal transduction mechanisms	Wzb	-
+OFOAEPEI_01163	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_01164	K	Transcription	HepA	-
+OFOAEPEI_01166	F	Nucleotide transport and metabolism	PyrR	-
+OFOAEPEI_01167	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_01168	R	General function prediction only	Gdt1	-
+OFOAEPEI_01169	E	Amino acid transport and metabolism	PepF	-
+OFOAEPEI_01170	T	Signal transduction mechanisms	YesN	-
+OFOAEPEI_01171	T	Signal transduction mechanisms	YesM	-
+OFOAEPEI_01172	G	Carbohydrate transport and metabolism	RbsB	-
+OFOAEPEI_01173	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_01174	R	General function prediction only	TPR	-
+OFOAEPEI_01175	G	Carbohydrate transport and metabolism	PtsA	-
+OFOAEPEI_01177	E	Amino acid transport and metabolism	AppF	-
+OFOAEPEI_01178	E	Amino acid transport and metabolism	DppD	-
+OFOAEPEI_01179	E	Amino acid transport and metabolism	DppC	-
+OFOAEPEI_01180	E	Amino acid transport and metabolism	DppB	-
+OFOAEPEI_01181	E	Amino acid transport and metabolism	DdpA	-
+OFOAEPEI_01182	G	Carbohydrate transport and metabolism	PfkA	-
+OFOAEPEI_01184	D	Cell cycle control, cell division, chromosome partitioning	SpoVAF	-
+OFOAEPEI_01185	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+OFOAEPEI_01186	C	Energy production and conversion	FadH	-
+OFOAEPEI_01187	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_01189	I	Lipid transport and metabolism	LicD	-
+OFOAEPEI_01190	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_01191	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_01193	K	Transcription	HipB	-
+OFOAEPEI_01194	K	Transcription	HipB	-
+OFOAEPEI_01195	E	Amino acid transport and metabolism	MnaT	-
+OFOAEPEI_01196	J	Translation, ribosomal structure and biogenesis	AsnS	-
+OFOAEPEI_01197	J	Translation, ribosomal structure and biogenesis	PrfA	-
+OFOAEPEI_01198	K	Transcription	Rex	-
+OFOAEPEI_01199	R	General function prediction only	ElaA	-
+OFOAEPEI_01201	E	Amino acid transport and metabolism	MetL1	-
+OFOAEPEI_01202	G	Carbohydrate transport and metabolism	NanE	-
+OFOAEPEI_01203	V	Defense mechanisms	MutT	-
+OFOAEPEI_01204	L	Replication, recombination and repair	MutY	-
+OFOAEPEI_01205	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+OFOAEPEI_01206	H	Coenzyme transport and metabolism	BioY	-
+OFOAEPEI_01207	H	Coenzyme transport and metabolism	BirA2	-
+OFOAEPEI_01208	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_01209	K	Transcription	GlxA	-
+OFOAEPEI_01210	P	Inorganic ion transport and metabolism	FetB	-
+OFOAEPEI_01211	P	Inorganic ion transport and metabolism	FetA	-
+OFOAEPEI_01212	E	Amino acid transport and metabolism	EamA	-
+OFOAEPEI_01214	E	Amino acid transport and metabolism	AsnB	-
+OFOAEPEI_01216	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_01217	Q	Secondary metabolites biosynthesis, transport and catabolism		-
+OFOAEPEI_01218	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+OFOAEPEI_01221	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+OFOAEPEI_01222	G	Carbohydrate transport and metabolism	PhoE	-
+OFOAEPEI_01223	E	Amino acid transport and metabolism	HIS2	-
+OFOAEPEI_01227	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01228	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01229	K	Transcription	SoxR	-
+OFOAEPEI_01230	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_01231	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_01233	G	Carbohydrate transport and metabolism	NagC	-
+OFOAEPEI_01234	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01235	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_01236	G	Carbohydrate transport and metabolism	MtlA	-
+OFOAEPEI_01237	R	General function prediction only	MviM	-
+OFOAEPEI_01238	K	Transcription	BglG	-
+OFOAEPEI_01240	N	Cell motility	FliH/SctL	-
+OFOAEPEI_01242	K	Transcription	PadR	-
+OFOAEPEI_01245	I	Lipid transport and metabolism	FabG	-
+OFOAEPEI_01247	K	Transcription	HipB	-
+OFOAEPEI_01248	E	Amino acid transport and metabolism	AzlD2	-
+OFOAEPEI_01249	E	Amino acid transport and metabolism	AzlC	-
+OFOAEPEI_01250	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01251	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01252	S	Function unknown		-
+OFOAEPEI_01254	S	Function unknown		-
+OFOAEPEI_01256	C	Energy production and conversion	YqdH	-
+OFOAEPEI_01257	R	General function prediction only	YocR	-
+OFOAEPEI_01258	C	Energy production and conversion	Gph	-
+OFOAEPEI_01259	C	Energy production and conversion	FadH	-
+OFOAEPEI_01260	C	Energy production and conversion	FadH	-
+OFOAEPEI_01261	K	Transcription	AraC	-
+OFOAEPEI_01262	J	Translation, ribosomal structure and biogenesis	GCD1	-
+OFOAEPEI_01263	K	Transcription	XRE	-
+OFOAEPEI_01266	K	Transcription	PhnO	-
+OFOAEPEI_01267	R	General function prediction only	WbbJ	-
+OFOAEPEI_01268	E	Amino acid transport and metabolism	ArgF	-
+OFOAEPEI_01269	K	Transcription	AcrR	-
+OFOAEPEI_01270	C	Energy production and conversion	FadH	-
+OFOAEPEI_01272	T	Signal transduction mechanisms	HDGYP	-
+OFOAEPEI_01273	T	Signal transduction mechanisms	Tar	-
+OFOAEPEI_01274	R	General function prediction only	MMPL	-
+OFOAEPEI_01275	K	Transcription	AcrR	-
+OFOAEPEI_01278	R	General function prediction only	YjdB	-
+OFOAEPEI_01279	R	General function prediction only	YjdB	-
+OFOAEPEI_01280	F	Nucleotide transport and metabolism	NagD	-
+OFOAEPEI_01281	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01282	C	Energy production and conversion	GldA	-
+OFOAEPEI_01283	G	Carbohydrate transport and metabolism	SgcC	-
+OFOAEPEI_01284	K	Transcription	BglG	-
+OFOAEPEI_01285	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01286	K	Transcription	LytT	-
+OFOAEPEI_01290	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01291	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_01292	K	Transcription	GlpR	-
+OFOAEPEI_01294	K	Transcription	BglG	-
+OFOAEPEI_01295	H	Coenzyme transport and metabolism	MenH	-
+OFOAEPEI_01297	K	Transcription	BglG	-
+OFOAEPEI_01298	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01299	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01300	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01301	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01302	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_01303	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01304	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_01305	T	Signal transduction mechanisms	YesN	-
+OFOAEPEI_01306	T	Signal transduction mechanisms	ComP	-
+OFOAEPEI_01307	G	Carbohydrate transport and metabolism	RbsB	-
+OFOAEPEI_01308	V	Defense mechanisms	NimA	-
+OFOAEPEI_01312	H	Coenzyme transport and metabolism	NadQ	-
+OFOAEPEI_01313	G	Carbohydrate transport and metabolism	TalA	-
+OFOAEPEI_01314	K	Transcription	GlpR	-
+OFOAEPEI_01317	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_01318	C	Energy production and conversion	PflD	-
+OFOAEPEI_01319	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01320	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_01321	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_01322	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01323	K	Transcription	BglG	-
+OFOAEPEI_01324	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_01325	K	Transcription	GlpR	-
+OFOAEPEI_01328	S	Function unknown	PPE	-
+OFOAEPEI_01329	K	Transcription	SPT5	-
+OFOAEPEI_01330	K	Transcription	SPT5	-
+OFOAEPEI_01331	N	Cell motility	GspM/PilN	-
+OFOAEPEI_01332	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_01336	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_01337	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01342	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_01343	C	Energy production and conversion	PflD	-
+OFOAEPEI_01344	G	Carbohydrate transport and metabolism	NanE	-
+OFOAEPEI_01345	K	Transcription	SoxR	-
+OFOAEPEI_01346	K	Transcription	SPT5	-
+OFOAEPEI_01347	Z	Cytoskeleton	CcmA	-
+OFOAEPEI_01353	K	Transcription	GlpR	-
+OFOAEPEI_01354	P	Inorganic ion transport and metabolism	MgtA	-
+OFOAEPEI_01356	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_01357	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+OFOAEPEI_01358	M	Cell wall/membrane/envelope biogenesis	SrtA	-
+OFOAEPEI_01361	L	Replication, recombination and repair	PriA	-
+OFOAEPEI_01362	S	Function unknown	YitT	-
+OFOAEPEI_01363	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_01364	K	Transcription	PspF	-
+OFOAEPEI_01365	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01366	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01367	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01368	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01369	T	Signal transduction mechanisms		-
+OFOAEPEI_01370	H	Coenzyme transport and metabolism	ThiD	-
+OFOAEPEI_01371	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_01372	O	Posttranslational modification, protein turnover, chaperones	YpwA	-
+OFOAEPEI_01373	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01374	R	General function prediction only	YczE	-
+OFOAEPEI_01375	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01376	E	Amino acid transport and metabolism	PepP	-
+OFOAEPEI_01377	R	General function prediction only		-
+OFOAEPEI_01378	R	General function prediction only		-
+OFOAEPEI_01379	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_01380	K	Transcription	BglG	-
+OFOAEPEI_01381	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_01382	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_01384	A	RNA processing and modification	YciV	-
+OFOAEPEI_01385	G	Carbohydrate transport and metabolism	NagC	-
+OFOAEPEI_01390	G	Carbohydrate transport and metabolism	RpiB	-
+OFOAEPEI_01391	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01392	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01393	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01394	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01395	K	Transcription	LevR	-
+OFOAEPEI_01396	G	Carbohydrate transport and metabolism	TktA2	-
+OFOAEPEI_01397	G	Carbohydrate transport and metabolism	TktA1	-
+OFOAEPEI_01398	C	Energy production and conversion	YqdH	-
+OFOAEPEI_01399	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_01400	G	Carbohydrate transport and metabolism	UlaD	-
+OFOAEPEI_01401	G	Carbohydrate transport and metabolism	ManA	-
+OFOAEPEI_01402	K	Transcription	GlpR	-
+OFOAEPEI_01403	R	General function prediction only	MviM	-
+OFOAEPEI_01405	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_01406	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_01407	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+OFOAEPEI_01408	C	Energy production and conversion	NhaC	-
+OFOAEPEI_01409	C	Energy production and conversion	NhaC	-
+OFOAEPEI_01413	S	Function unknown	RhuM	-
+OFOAEPEI_01414	R	General function prediction only	YesE	-
+OFOAEPEI_01416	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_01419	T	Signal transduction mechanisms	HDGYP	-
+OFOAEPEI_01420	T	Signal transduction mechanisms	CheY	-
+OFOAEPEI_01421	K	Transcription	MngR	-
+OFOAEPEI_01422	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_01423	E	Amino acid transport and metabolism	PucG	-
+OFOAEPEI_01424	P	Inorganic ion transport and metabolism	FbpB	-
+OFOAEPEI_01425	E	Amino acid transport and metabolism	PotA	-
+OFOAEPEI_01426	M	Cell wall/membrane/envelope biogenesis	RacX	-
+OFOAEPEI_01427	K	Transcription	HipB	-
+OFOAEPEI_01428	R	General function prediction only	ElaA	-
+OFOAEPEI_01430	M	Cell wall/membrane/envelope biogenesis	SMI1	-
+OFOAEPEI_01431	E	Amino acid transport and metabolism	TcyP	-
+OFOAEPEI_01432	J	Translation, ribosomal structure and biogenesis	TruA	-
+OFOAEPEI_01433	H	Coenzyme transport and metabolism	EcfT	-
+OFOAEPEI_01434	P	Inorganic ion transport and metabolism	EcfA2	-
+OFOAEPEI_01435	P	Inorganic ion transport and metabolism	EcfA2	-
+OFOAEPEI_01436	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_01437	R	General function prediction only	HdeD	-
+OFOAEPEI_01444	K	Transcription	CadC1	-
+OFOAEPEI_01445	V	Defense mechanisms	NorM	-
+OFOAEPEI_01446	K	Transcription	HxlR	-
+OFOAEPEI_01448	K	Transcription	HipB	-
+OFOAEPEI_01449	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_01450	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_01451	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_01453	C	Energy production and conversion	NatA	-
+OFOAEPEI_01456	R	General function prediction only	GvpP	-
+OFOAEPEI_01457	J	Translation, ribosomal structure and biogenesis	TrmR	-
+OFOAEPEI_01458	M	Cell wall/membrane/envelope biogenesis	CapA	-
+OFOAEPEI_01459	M	Cell wall/membrane/envelope biogenesis	LdcB	-
+OFOAEPEI_01460	M	Cell wall/membrane/envelope biogenesis	LdcB	-
+OFOAEPEI_01461	J	Translation, ribosomal structure and biogenesis	RplQ	-
+OFOAEPEI_01462	K	Transcription	RpoA	-
+OFOAEPEI_01463	J	Translation, ribosomal structure and biogenesis	RpsK	-
+OFOAEPEI_01464	J	Translation, ribosomal structure and biogenesis	RpsM	-
+OFOAEPEI_01465	J	Translation, ribosomal structure and biogenesis	InfA	-
+OFOAEPEI_01466	J	Translation, ribosomal structure and biogenesis	Map	-
+OFOAEPEI_01467	F	Nucleotide transport and metabolism	Adk	-
+OFOAEPEI_01468	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+OFOAEPEI_01469	J	Translation, ribosomal structure and biogenesis	RplO	-
+OFOAEPEI_01470	J	Translation, ribosomal structure and biogenesis	RpsE	-
+OFOAEPEI_01471	J	Translation, ribosomal structure and biogenesis	RplR	-
+OFOAEPEI_01472	J	Translation, ribosomal structure and biogenesis	RplF	-
+OFOAEPEI_01473	J	Translation, ribosomal structure and biogenesis	RpsH	-
+OFOAEPEI_01474	J	Translation, ribosomal structure and biogenesis	RpsN	-
+OFOAEPEI_01475	J	Translation, ribosomal structure and biogenesis	RplE	-
+OFOAEPEI_01476	J	Translation, ribosomal structure and biogenesis	RplX	-
+OFOAEPEI_01477	J	Translation, ribosomal structure and biogenesis	RplN	-
+OFOAEPEI_01478	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+OFOAEPEI_01479	J	Translation, ribosomal structure and biogenesis	RpmC	-
+OFOAEPEI_01480	J	Translation, ribosomal structure and biogenesis	RplP	-
+OFOAEPEI_01481	J	Translation, ribosomal structure and biogenesis	RpsC	-
+OFOAEPEI_01482	J	Translation, ribosomal structure and biogenesis	RplV	-
+OFOAEPEI_01483	J	Translation, ribosomal structure and biogenesis	RpsS	-
+OFOAEPEI_01484	J	Translation, ribosomal structure and biogenesis	RplB	-
+OFOAEPEI_01485	J	Translation, ribosomal structure and biogenesis	RplW	-
+OFOAEPEI_01486	J	Translation, ribosomal structure and biogenesis	RplD	-
+OFOAEPEI_01487	J	Translation, ribosomal structure and biogenesis	RplC	-
+OFOAEPEI_01488	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+OFOAEPEI_01489	N	Cell motility	TatD	-
+OFOAEPEI_01490	P	Inorganic ion transport and metabolism	TauB	-
+OFOAEPEI_01491	P	Inorganic ion transport and metabolism	TauA	-
+OFOAEPEI_01492	P	Inorganic ion transport and metabolism	TauC	-
+OFOAEPEI_01493	S	Function unknown	YbjQ	-
+OFOAEPEI_01495	J	Translation, ribosomal structure and biogenesis	TufA	-
+OFOAEPEI_01496	J	Translation, ribosomal structure and biogenesis	FusA	-
+OFOAEPEI_01497	J	Translation, ribosomal structure and biogenesis	RpsG	-
+OFOAEPEI_01498	J	Translation, ribosomal structure and biogenesis	RpsL	-
+OFOAEPEI_01499	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01500	E	Amino acid transport and metabolism	BrnQ	-
+OFOAEPEI_01504	L	Replication, recombination and repair	Lhr	-
+OFOAEPEI_01505	P	Inorganic ion transport and metabolism	SodA	-
+OFOAEPEI_01506	R	General function prediction only	YbdN	-
+OFOAEPEI_01507	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+OFOAEPEI_01509	K	Transcription	RpoC	-
+OFOAEPEI_01510	K	Transcription	RpoB	-
+OFOAEPEI_01511	J	Translation, ribosomal structure and biogenesis	RsmC	-
+OFOAEPEI_01512	J	Translation, ribosomal structure and biogenesis	RplL	-
+OFOAEPEI_01513	J	Translation, ribosomal structure and biogenesis	RplJ	-
+OFOAEPEI_01514	J	Translation, ribosomal structure and biogenesis	RplA	-
+OFOAEPEI_01515	J	Translation, ribosomal structure and biogenesis	RplK	-
+OFOAEPEI_01516	T	Signal transduction mechanisms	FrsA	-
+OFOAEPEI_01517	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_01519	R	General function prediction only	YfcE	-
+OFOAEPEI_01520	K	Transcription	HipB	-
+OFOAEPEI_01523	V	Defense mechanisms	EfiE	-
+OFOAEPEI_01524	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_01527	K	Transcription	RpoE	-
+OFOAEPEI_01528	R	General function prediction only	AAA	-
+OFOAEPEI_01529	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_01531	G	Carbohydrate transport and metabolism	UlaA	-
+OFOAEPEI_01532	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01533	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01534	K	Transcription	BglG	-
+OFOAEPEI_01535	C	Energy production and conversion	YqdH	-
+OFOAEPEI_01536	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01538	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_01539	K	Transcription	BglG	-
+OFOAEPEI_01540	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_01541	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_01542	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_01543	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01544	R	General function prediction only	AbgB	-
+OFOAEPEI_01545	E	Amino acid transport and metabolism	OppA	-
+OFOAEPEI_01546	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01547	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01548	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01549	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01550	K	Transcription	BglG	-
+OFOAEPEI_01551	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_01553	K	Transcription		-
+OFOAEPEI_01554	E	Amino acid transport and metabolism	DAP2	-
+OFOAEPEI_01555	F	Nucleotide transport and metabolism	Gmk	-
+OFOAEPEI_01556	E	Amino acid transport and metabolism	AppF	-
+OFOAEPEI_01557	E	Amino acid transport and metabolism	DppD	-
+OFOAEPEI_01558	E	Amino acid transport and metabolism	DppC	-
+OFOAEPEI_01559	E	Amino acid transport and metabolism	DppB	-
+OFOAEPEI_01560	T	Signal transduction mechanisms		-
+OFOAEPEI_01561	E	Amino acid transport and metabolism	LivF	-
+OFOAEPEI_01562	E	Amino acid transport and metabolism	LivG	-
+OFOAEPEI_01563	E	Amino acid transport and metabolism	LivM	-
+OFOAEPEI_01564	E	Amino acid transport and metabolism	LivH	-
+OFOAEPEI_01565	E	Amino acid transport and metabolism	LivK	-
+OFOAEPEI_01568	M	Cell wall/membrane/envelope biogenesis	MlaF	-
+OFOAEPEI_01569	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+OFOAEPEI_01572	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+OFOAEPEI_01574	K	Transcription	PhnO	-
+OFOAEPEI_01575	O	Posttranslational modification, protein turnover, chaperones	SpoIVFB	-
+OFOAEPEI_01576	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_01577	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_01578	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_01579	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01580	S	Function unknown	VanZ	-
+OFOAEPEI_01581	G	Carbohydrate transport and metabolism	TpiA	-
+OFOAEPEI_01582	G	Carbohydrate transport and metabolism	Pgk	-
+OFOAEPEI_01583	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_01585	K	Transcription	MmcQ	-
+OFOAEPEI_01587	F	Nucleotide transport and metabolism	GuaB	-
+OFOAEPEI_01588	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_01589	G	Carbohydrate transport and metabolism	UxaA	-
+OFOAEPEI_01591	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_01592	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_01593	P	Inorganic ion transport and metabolism	TrkA	-
+OFOAEPEI_01594	G	Carbohydrate transport and metabolism	MtlD	-
+OFOAEPEI_01595	C	Energy production and conversion	LdhA	-
+OFOAEPEI_01596	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_01598	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01599	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01600	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01601	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01602	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_01603	C	Energy production and conversion	LdhA	-
+OFOAEPEI_01605	C	Energy production and conversion	LdhA	-
+OFOAEPEI_01606	C	Energy production and conversion	YqdH	-
+OFOAEPEI_01607	A	RNA processing and modification	RraA	-
+OFOAEPEI_01608	C	Energy production and conversion	LdhA	-
+OFOAEPEI_01610	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_01611	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_01612	K	Transcription	PspF	-
+OFOAEPEI_01613	K	Transcription	AcrR	-
+OFOAEPEI_01614	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_01615	V	Defense mechanisms	YadH	-
+OFOAEPEI_01617	P	Inorganic ion transport and metabolism	Kch	-
+OFOAEPEI_01618	G	Carbohydrate transport and metabolism	MtlD	-
+OFOAEPEI_01619	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_01620	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01621	C	Energy production and conversion	LdhA	-
+OFOAEPEI_01622	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01623	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01624	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01625	K	Transcription	PspF	-
+OFOAEPEI_01626	V	Defense mechanisms	StbD	-
+OFOAEPEI_01627	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_01628	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01629	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01630	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01631	K	Transcription	PspF	-
+OFOAEPEI_01632	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01633	G	Carbohydrate transport and metabolism	GlgA	-
+OFOAEPEI_01634	G	Carbohydrate transport and metabolism	GlgC	-
+OFOAEPEI_01635	G	Carbohydrate transport and metabolism	GlgC	-
+OFOAEPEI_01636	R	General function prediction only	PhnK	-
+OFOAEPEI_01637	R	General function prediction only		-
+OFOAEPEI_01638	R	General function prediction only		-
+OFOAEPEI_01639	K	Transcription	SoxR	-
+OFOAEPEI_01640	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_01641	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01642	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_01643	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_01644	J	Translation, ribosomal structure and biogenesis	RlmH	-
+OFOAEPEI_01645	J	Translation, ribosomal structure and biogenesis	RnaY	-
+OFOAEPEI_01647	K	Transcription	AcrR	-
+OFOAEPEI_01648	R	General function prediction only		-
+OFOAEPEI_01649	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+OFOAEPEI_01650	H	Coenzyme transport and metabolism	PhnP	-
+OFOAEPEI_01651	L	Replication, recombination and repair	DnaB	-
+OFOAEPEI_01652	J	Translation, ribosomal structure and biogenesis	RplI	-
+OFOAEPEI_01653	T	Signal transduction mechanisms	GdpP	-
+OFOAEPEI_01654	S	Function unknown	YybS	-
+OFOAEPEI_01655	J	Translation, ribosomal structure and biogenesis	RpsR	-
+OFOAEPEI_01656	L	Replication, recombination and repair	Ssb	-
+OFOAEPEI_01657	J	Translation, ribosomal structure and biogenesis	RpsF	-
+OFOAEPEI_01661	S	Function unknown	YckC	-
+OFOAEPEI_01662	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_01663	E	Amino acid transport and metabolism	PepP	-
+OFOAEPEI_01664	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01665	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01666	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01667	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_01668	K	Transcription	BglG	-
+OFOAEPEI_01671	V	Defense mechanisms	NorM	-
+OFOAEPEI_01672	L	Replication, recombination and repair	SrmB	-
+OFOAEPEI_01673	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01674	G	Carbohydrate transport and metabolism	SgaU	-
+OFOAEPEI_01675	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01677	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01678	G	Carbohydrate transport and metabolism	UlaA	-
+OFOAEPEI_01679	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01680	G	Carbohydrate transport and metabolism	UlaG	-
+OFOAEPEI_01682	K	Transcription	GlpR	-
+OFOAEPEI_01684	I	Lipid transport and metabolism	IspD	-
+OFOAEPEI_01685	R	General function prediction only	GloB	-
+OFOAEPEI_01686	G	Carbohydrate transport and metabolism	SrlB	-
+OFOAEPEI_01687	G	Carbohydrate transport and metabolism	SrlE	-
+OFOAEPEI_01688	K	Transcription	DeoR	-
+OFOAEPEI_01689	E	Amino acid transport and metabolism		-
+OFOAEPEI_01690	G	Carbohydrate transport and metabolism	SrlB	-
+OFOAEPEI_01691	G	Carbohydrate transport and metabolism	SrlE	-
+OFOAEPEI_01692	G	Carbohydrate transport and metabolism	SrlA	-
+OFOAEPEI_01693	K	Transcription	GutM	-
+OFOAEPEI_01694	K	Transcription	DeoR	-
+OFOAEPEI_01695	E	Amino acid transport and metabolism	PepP	-
+OFOAEPEI_01696	M	Cell wall/membrane/envelope biogenesis	MscL	-
+OFOAEPEI_01697	R	General function prediction only	YqjQ	-
+OFOAEPEI_01698	P	Inorganic ion transport and metabolism	MgtE	-
+OFOAEPEI_01699	H	Coenzyme transport and metabolism	Mox	-
+OFOAEPEI_01700	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+OFOAEPEI_01701	G	Carbohydrate transport and metabolism	LhgO	-
+OFOAEPEI_01702	K	Transcription	PurR	-
+OFOAEPEI_01703	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+OFOAEPEI_01705	R	General function prediction only	VOC	-
+OFOAEPEI_01707	L	Replication, recombination and repair	DinP	-
+OFOAEPEI_01708	K	Transcription	LexA	-
+OFOAEPEI_01711	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01712	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_01714	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_01715	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_01720	S	Function unknown		-
+OFOAEPEI_01725	K	Transcription	YobV	-
+OFOAEPEI_01729	L	Replication, recombination and repair	Dcm	-
+OFOAEPEI_01731	L	Replication, recombination and repair	Vsr	-
+OFOAEPEI_01733	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01734	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_01735	K	Transcription	MarR	-
+OFOAEPEI_01736	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_01737	K	Transcription	SPT5	-
+OFOAEPEI_01738	R	General function prediction only	RssA	-
+OFOAEPEI_01740	C	Energy production and conversion	Pta	-
+OFOAEPEI_01741	H	Coenzyme transport and metabolism	FmnP	-
+OFOAEPEI_01742	O	Posttranslational modification, protein turnover, chaperones	MsrA	-
+OFOAEPEI_01743	G	Carbohydrate transport and metabolism	RbsK	-
+OFOAEPEI_01744	L	Replication, recombination and repair	RecQ	-
+OFOAEPEI_01745	K	Transcription	MngR	-
+OFOAEPEI_01746	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01747	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01748	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01749	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01750	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_01751	G	Carbohydrate transport and metabolism	NanE	-
+OFOAEPEI_01752	R	General function prediction only		-
+OFOAEPEI_01754	K	Transcription	RpiR	-
+OFOAEPEI_01755	H	Coenzyme transport and metabolism	FolC	-
+OFOAEPEI_01756	L	Replication, recombination and repair	Ung	-
+OFOAEPEI_01757	H	Coenzyme transport and metabolism	MocA	-
+OFOAEPEI_01758	C	Energy production and conversion	CoxL	-
+OFOAEPEI_01759	C	Energy production and conversion	CutS	-
+OFOAEPEI_01760	C	Energy production and conversion	CutB	-
+OFOAEPEI_01761	P	Inorganic ion transport and metabolism	FepC	-
+OFOAEPEI_01762	P	Inorganic ion transport and metabolism	FepD	-
+OFOAEPEI_01763	P	Inorganic ion transport and metabolism	FepB	-
+OFOAEPEI_01764	F	Nucleotide transport and metabolism	THEP1	-
+OFOAEPEI_01765	F	Nucleotide transport and metabolism	UraA	-
+OFOAEPEI_01768	O	Posttranslational modification, protein turnover, chaperones	YkoI	-
+OFOAEPEI_01769	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_01770	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01772	T	Signal transduction mechanisms	CitA	-
+OFOAEPEI_01775	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_01777	K	Transcription	LytT	-
+OFOAEPEI_01780	F	Nucleotide transport and metabolism	PsuG	-
+OFOAEPEI_01781	J	Translation, ribosomal structure and biogenesis	GCD2	-
+OFOAEPEI_01782	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_01783	K	Transcription	BglG	-
+OFOAEPEI_01784	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_01785	K	Transcription	RpiR	-
+OFOAEPEI_01786	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_01788	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01789	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01790	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01791	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01792	R	General function prediction only	MviM	-
+OFOAEPEI_01793	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01794	L	Replication, recombination and repair	AdaA	-
+OFOAEPEI_01795	S	Function unknown		-
+OFOAEPEI_01796	C	Energy production and conversion	MtbC1	-
+OFOAEPEI_01797	C	Energy production and conversion	MtbC1	-
+OFOAEPEI_01798	H	Coenzyme transport and metabolism	HemE	-
+OFOAEPEI_01799	H	Coenzyme transport and metabolism	HemE	-
+OFOAEPEI_01800	K	Transcription		-
+OFOAEPEI_01801	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01802	R	General function prediction only	YczE	-
+OFOAEPEI_01803	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_01804	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01805	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01806	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01807	K	Transcription	BglG	-
+OFOAEPEI_01808	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01811	K	Transcription		-
+OFOAEPEI_01813	S	Function unknown	YitT	-
+OFOAEPEI_01814	K	Transcription	BglG	-
+OFOAEPEI_01815	S	Function unknown	YckC	-
+OFOAEPEI_01816	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01817	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01819	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_01820	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_01821	R	General function prediction only		-
+OFOAEPEI_01822	E	Amino acid transport and metabolism	PepF	-
+OFOAEPEI_01823	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01824	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01825	M	Cell wall/membrane/envelope biogenesis	MupG	-
+OFOAEPEI_01826	E	Amino acid transport and metabolism	IaaA	-
+OFOAEPEI_01827	E	Amino acid transport and metabolism	ArgE	-
+OFOAEPEI_01828	P	Inorganic ion transport and metabolism	CutC	-
+OFOAEPEI_01829	R	General function prediction only	AbgB	-
+OFOAEPEI_01830	E	Amino acid transport and metabolism	LysA	-
+OFOAEPEI_01831	E	Amino acid transport and metabolism	MetL1	-
+OFOAEPEI_01832	E	Amino acid transport and metabolism	DapF	-
+OFOAEPEI_01833	E	Amino acid transport and metabolism	DapA	-
+OFOAEPEI_01834	E	Amino acid transport and metabolism	DapB	-
+OFOAEPEI_01835	E	Amino acid transport and metabolism	DapD	-
+OFOAEPEI_01836	K	Transcription	BglG	-
+OFOAEPEI_01837	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_01838	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_01839	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_01840	O	Posttranslational modification, protein turnover, chaperones	DraG	-
+OFOAEPEI_01845	R	General function prediction only	YIH1	-
+OFOAEPEI_01846	F	Nucleotide transport and metabolism	NPY1	-
+OFOAEPEI_01848	F	Nucleotide transport and metabolism	MtnN	-
+OFOAEPEI_01850	K	Transcription	RpoE	-
+OFOAEPEI_01851	K	Transcription	RpoE	-
+OFOAEPEI_01852	R	General function prediction only	Rnh1	-
+OFOAEPEI_01853	K	Transcription	Lrp	-
+OFOAEPEI_01854	E	Amino acid transport and metabolism	AspB	-
+OFOAEPEI_01856	V	Defense mechanisms	NorM	-
+OFOAEPEI_01857	K	Transcription	BglG	-
+OFOAEPEI_01858	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_01859	C	Energy production and conversion	EutG	-
+OFOAEPEI_01860	G	Carbohydrate transport and metabolism	TalA	-
+OFOAEPEI_01861	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01862	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01863	G	Carbohydrate transport and metabolism	PhoE	-
+OFOAEPEI_01864	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01865	K	Transcription	BglG	-
+OFOAEPEI_01867	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01868	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01869	G	Carbohydrate transport and metabolism	SgcC	-
+OFOAEPEI_01870	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01871	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01872	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01873	F	Nucleotide transport and metabolism	Tdk	-
+OFOAEPEI_01874	J	Translation, ribosomal structure and biogenesis	RpmE	-
+OFOAEPEI_01876	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+OFOAEPEI_01877	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_01878	K	Transcription	YhcF	-
+OFOAEPEI_01879	S	Function unknown		-
+OFOAEPEI_01880	K	Transcription	SoxR	-
+OFOAEPEI_01882	K	Transcription	SoxR	-
+OFOAEPEI_01883	K	Transcription	RpiR	-
+OFOAEPEI_01884	G	Carbohydrate transport and metabolism	CelF	-
+OFOAEPEI_01885	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_01888	C	Energy production and conversion	WrbA	-
+OFOAEPEI_01890	J	Translation, ribosomal structure and biogenesis	MetG	-
+OFOAEPEI_01891	C	Energy production and conversion	Ycf48	-
+OFOAEPEI_01893	R	General function prediction only		-
+OFOAEPEI_01894	C	Energy production and conversion	Hcp	-
+OFOAEPEI_01895	R	General function prediction only	QdoI	-
+OFOAEPEI_01896	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_01897	E	Amino acid transport and metabolism	DppA	-
+OFOAEPEI_01898	V	Defense mechanisms	MazG	-
+OFOAEPEI_01902	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_01904	A	RNA processing and modification	YciV	-
+OFOAEPEI_01905	K	Transcription	RPC10	-
+OFOAEPEI_01906	V	Defense mechanisms	VanZ	-
+OFOAEPEI_01907	G	Carbohydrate transport and metabolism	XynB2	-
+OFOAEPEI_01908	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_01909	M	Cell wall/membrane/envelope biogenesis	BtpA	-
+OFOAEPEI_01910	J	Translation, ribosomal structure and biogenesis	GCD2	-
+OFOAEPEI_01911	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_01912	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_01913	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_01914	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_01915	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_01916	K	Transcription	MngR	-
+OFOAEPEI_01917	G	Carbohydrate transport and metabolism	TktA2	-
+OFOAEPEI_01918	G	Carbohydrate transport and metabolism	TktA1	-
+OFOAEPEI_01919	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01920	G	Carbohydrate transport and metabolism	UlaA	-
+OFOAEPEI_01921	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01922	K	Transcription	BglG	-
+OFOAEPEI_01924	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_01926	K	Transcription	RpoE	-
+OFOAEPEI_01927	J	Translation, ribosomal structure and biogenesis	ArgS	-
+OFOAEPEI_01929	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+OFOAEPEI_01930	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+OFOAEPEI_01931	G	Carbohydrate transport and metabolism	YG	-
+OFOAEPEI_01932	G	Carbohydrate transport and metabolism	NagA	-
+OFOAEPEI_01934	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_01935	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_01937	T	Signal transduction mechanisms	DarA	-
+OFOAEPEI_01938	I	Lipid transport and metabolism	YjjU	-
+OFOAEPEI_01939	E	Amino acid transport and metabolism	DAP2	-
+OFOAEPEI_01940	J	Translation, ribosomal structure and biogenesis	GTP1	-
+OFOAEPEI_01942	K	Transcription	XRE	-
+OFOAEPEI_01943	S	Function unknown		-
+OFOAEPEI_01945	H	Coenzyme transport and metabolism	FolD	-
+OFOAEPEI_01946	J	Translation, ribosomal structure and biogenesis	Dtd	-
+OFOAEPEI_01947	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01948	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_01949	K	Transcription	RpoN	-
+OFOAEPEI_01950	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_01951	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01952	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_01954	G	Carbohydrate transport and metabolism	SgcC	-
+OFOAEPEI_01955	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_01956	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01957	K	Transcription	PspF	-
+OFOAEPEI_01959	C	Energy production and conversion	AtpC	-
+OFOAEPEI_01960	C	Energy production and conversion	AtpD	-
+OFOAEPEI_01961	C	Energy production and conversion	AtpG	-
+OFOAEPEI_01962	C	Energy production and conversion	AtpA	-
+OFOAEPEI_01963	C	Energy production and conversion	AtpH	-
+OFOAEPEI_01964	C	Energy production and conversion	AtpF	-
+OFOAEPEI_01965	C	Energy production and conversion	AtpE	-
+OFOAEPEI_01966	C	Energy production and conversion	AtpB	-
+OFOAEPEI_01968	F	Nucleotide transport and metabolism	Upp	-
+OFOAEPEI_01969	X	Mobilome: prophages, transposons		-
+OFOAEPEI_01974	H	Coenzyme transport and metabolism	YigB	-
+OFOAEPEI_01975	G	Carbohydrate transport and metabolism	GatZ	-
+OFOAEPEI_01977	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_01978	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_01979	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_01980	K	Transcription	BglG	-
+OFOAEPEI_01981	P	Inorganic ion transport and metabolism	KefB	-
+OFOAEPEI_01982	K	Transcription	LysR	-
+OFOAEPEI_01983	E	Amino acid transport and metabolism	GlyA	-
+OFOAEPEI_01985	X	Mobilome: prophages, transposons		-
+OFOAEPEI_01987	G	Carbohydrate transport and metabolism	RpiB	-
+OFOAEPEI_01994	S	Function unknown		-
+OFOAEPEI_01996	K	Transcription	DnrI	-
+OFOAEPEI_01997	K	Transcription	DnrI	-
+OFOAEPEI_01998	J	Translation, ribosomal structure and biogenesis	TsaC	-
+OFOAEPEI_01999	E	Amino acid transport and metabolism	PotE	-
+OFOAEPEI_02000	E	Amino acid transport and metabolism	LAP4	-
+OFOAEPEI_02002	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_02005	S	Function unknown	YbaN	-
+OFOAEPEI_02007	C	Energy production and conversion	CydC	-
+OFOAEPEI_02008	C	Energy production and conversion	CydD	-
+OFOAEPEI_02009	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_02010	G	Carbohydrate transport and metabolism	NanE	-
+OFOAEPEI_02011	G	Carbohydrate transport and metabolism	NagA	-
+OFOAEPEI_02012	K	Transcription	RpiR	-
+OFOAEPEI_02013	G	Carbohydrate transport and metabolism	UlaD	-
+OFOAEPEI_02014	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_02015	R	General function prediction only	YfdV	-
+OFOAEPEI_02016	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02018	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02019	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02020	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02021	K	Transcription	LevR	-
+OFOAEPEI_02022	S	Function unknown	YckC	-
+OFOAEPEI_02025	P	Inorganic ion transport and metabolism	TauE	-
+OFOAEPEI_02026	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_02028	R	General function prediction only	YfdV	-
+OFOAEPEI_02029	Q	Secondary metabolites biosynthesis, transport and catabolism	HutI	-
+OFOAEPEI_02030	H	Coenzyme transport and metabolism	MetK	-
+OFOAEPEI_02032	R	General function prediction only	YocR	-
+OFOAEPEI_02033	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_02034	E	Amino acid transport and metabolism	DapA	-
+OFOAEPEI_02035	G	Carbohydrate transport and metabolism	GutQ	-
+OFOAEPEI_02036	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_02037	G	Carbohydrate transport and metabolism	SrlB	-
+OFOAEPEI_02038	G	Carbohydrate transport and metabolism	SrlE	-
+OFOAEPEI_02039	G	Carbohydrate transport and metabolism	SrlE	-
+OFOAEPEI_02040	G	Carbohydrate transport and metabolism	SrlA	-
+OFOAEPEI_02041	K	Transcription	GutM	-
+OFOAEPEI_02042	K	Transcription	BglG	-
+OFOAEPEI_02043	G	Carbohydrate transport and metabolism	ChbG	-
+OFOAEPEI_02044	E	Amino acid transport and metabolism	DapA	-
+OFOAEPEI_02045	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02046	K	Transcription	CdaR	-
+OFOAEPEI_02047	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02048	G	Carbohydrate transport and metabolism	GutQ	-
+OFOAEPEI_02049	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_02050	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02051	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02052	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02053	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_02055	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02056	K	Transcription	MngR	-
+OFOAEPEI_02058	K	Transcription	PhnO	-
+OFOAEPEI_02060	K	Transcription	NiaR	-
+OFOAEPEI_02061	H	Coenzyme transport and metabolism	NadC	-
+OFOAEPEI_02062	H	Coenzyme transport and metabolism	NadB	-
+OFOAEPEI_02063	H	Coenzyme transport and metabolism	NadA	-
+OFOAEPEI_02065	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+OFOAEPEI_02066	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+OFOAEPEI_02067	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+OFOAEPEI_02068	J	Translation, ribosomal structure and biogenesis	RsmG	-
+OFOAEPEI_02069	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02070	M	Cell wall/membrane/envelope biogenesis	MurQ	-
+OFOAEPEI_02071	K	Transcription	RpiR	-
+OFOAEPEI_02073	K	Transcription	LytT	-
+OFOAEPEI_02074	G	Carbohydrate transport and metabolism	ChbG	-
+OFOAEPEI_02075	G	Carbohydrate transport and metabolism	ChbG	-
+OFOAEPEI_02076	R	General function prediction only	GloB	-
+OFOAEPEI_02077	M	Cell wall/membrane/envelope biogenesis	MurA	-
+OFOAEPEI_02078	S	Function unknown		-
+OFOAEPEI_02080	P	Inorganic ion transport and metabolism	ArsC	-
+OFOAEPEI_02081	K	Transcription	MntR	-
+OFOAEPEI_02083	N	Cell motility	TatD	-
+OFOAEPEI_02084	J	Translation, ribosomal structure and biogenesis	MnmE	-
+OFOAEPEI_02086	R	General function prediction only	YesE	-
+OFOAEPEI_02087	S	Function unknown		-
+OFOAEPEI_02088	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_02090	J	Translation, ribosomal structure and biogenesis	YmdB	-
+OFOAEPEI_02091	K	Transcription	MngR	-
+OFOAEPEI_02092	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02093	G	Carbohydrate transport and metabolism	AmyA	-
+OFOAEPEI_02094	K	Transcription	MngR	-
+OFOAEPEI_02095	O	Posttranslational modification, protein turnover, chaperones	DraG	-
+OFOAEPEI_02096	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02097	S	Function unknown		-
+OFOAEPEI_02098	E	Amino acid transport and metabolism	PrsA	-
+OFOAEPEI_02099	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+OFOAEPEI_02100	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_02101	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_02102	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02103	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_02104	I	Lipid transport and metabolism	IspE	-
+OFOAEPEI_02105	J	Translation, ribosomal structure and biogenesis	RsmA	-
+OFOAEPEI_02107	J	Translation, ribosomal structure and biogenesis	RnmV	-
+OFOAEPEI_02108	S	Function unknown	3D	-
+OFOAEPEI_02109	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_02110	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_02111	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02112	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_02113	C	Energy production and conversion	NfnB	-
+OFOAEPEI_02114	E	Amino acid transport and metabolism	HIS2	-
+OFOAEPEI_02115	S	Function unknown	YitT	-
+OFOAEPEI_02116	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02117	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_02118	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_02119	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_02120	K	Transcription	BglG	-
+OFOAEPEI_02121	V	Defense mechanisms	YadH	-
+OFOAEPEI_02122	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_02124	K	Transcription	LytT	-
+OFOAEPEI_02126	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_02127	R	General function prediction only		-
+OFOAEPEI_02128	C	Energy production and conversion	PflD	-
+OFOAEPEI_02129	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_02130	K	Transcription	GlpR	-
+OFOAEPEI_02131	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_02132	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_02133	S	Function unknown		-
+OFOAEPEI_02134	C	Energy production and conversion	PPX1	-
+OFOAEPEI_02136	T	Signal transduction mechanisms	CitA	-
+OFOAEPEI_02138	K	Transcription	LytT	-
+OFOAEPEI_02140	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02143	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_02146	H	Coenzyme transport and metabolism	ThiE	-
+OFOAEPEI_02147	H	Coenzyme transport and metabolism	ThiM	-
+OFOAEPEI_02148	H	Coenzyme transport and metabolism	ThiW	-
+OFOAEPEI_02150	K	Transcription	YhcF	-
+OFOAEPEI_02154	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_02156	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02157	I	Lipid transport and metabolism	Aes	-
+OFOAEPEI_02159	K	Transcription	RpoE	-
+OFOAEPEI_02161	M	Cell wall/membrane/envelope biogenesis	AidA	-
+OFOAEPEI_02162	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_02163	K	Transcription	HipB	-
+OFOAEPEI_02164	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_02165	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_02166	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02167	K	Transcription	HipB	-
+OFOAEPEI_02168	H	Coenzyme transport and metabolism	MetK	-
+OFOAEPEI_02170	V	Defense mechanisms	McrA	-
+OFOAEPEI_02171	R	General function prediction only		-
+OFOAEPEI_02172	L	Replication, recombination and repair	Mfd	-
+OFOAEPEI_02173	J	Translation, ribosomal structure and biogenesis	Pth	-
+OFOAEPEI_02176	F	Nucleotide transport and metabolism	NagD	-
+OFOAEPEI_02177	C	Energy production and conversion	GldA	-
+OFOAEPEI_02178	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02179	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02180	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02181	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02182	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02183	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02184	G	Carbohydrate transport and metabolism	XylB	-
+OFOAEPEI_02185	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02186	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02187	K	Transcription	BglG	-
+OFOAEPEI_02189	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_02191	J	Translation, ribosomal structure and biogenesis	MnmE	-
+OFOAEPEI_02192	H	Coenzyme transport and metabolism	ThiH	-
+OFOAEPEI_02193	H	Coenzyme transport and metabolism	BioB	-
+OFOAEPEI_02195	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_02196	R	General function prediction only		-
+OFOAEPEI_02197	R	General function prediction only	Jag	-
+OFOAEPEI_02198	M	Cell wall/membrane/envelope biogenesis	YidC	-
+OFOAEPEI_02199	A	RNA processing and modification	RnpA	-
+OFOAEPEI_02201	L	Replication, recombination and repair	DnaA	-
+OFOAEPEI_02202	L	Replication, recombination and repair	DnaN	-
+OFOAEPEI_02203	J	Translation, ribosomal structure and biogenesis	YbcJ	-
+OFOAEPEI_02204	L	Replication, recombination and repair	RecF	-
+OFOAEPEI_02205	L	Replication, recombination and repair	GyrB	-
+OFOAEPEI_02206	L	Replication, recombination and repair	GyrA	-
+OFOAEPEI_02207	J	Translation, ribosomal structure and biogenesis	SerS	-
+OFOAEPEI_02209	J	Translation, ribosomal structure and biogenesis	TadA	-
+OFOAEPEI_02210	L	Replication, recombination and repair	DnaX	-
+OFOAEPEI_02211	K	Transcription	YbaB	-
+OFOAEPEI_02212	L	Replication, recombination and repair	RecR	-
+OFOAEPEI_02214	S	Function unknown	YsdA	-
+OFOAEPEI_02215	R	General function prediction only	YjbK	-
+OFOAEPEI_02216	H	Coenzyme transport and metabolism	NadK	-
+OFOAEPEI_02217	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+OFOAEPEI_02218	L	Replication, recombination and repair	MutS	-
+OFOAEPEI_02219	L	Replication, recombination and repair	MutL	-
+OFOAEPEI_02220	J	Translation, ribosomal structure and biogenesis	MiaA	-
+OFOAEPEI_02221	J	Translation, ribosomal structure and biogenesis	TcdA	-
+OFOAEPEI_02222	C	Energy production and conversion	NfnB	-
+OFOAEPEI_02224	K	Transcription	PadR	-
+OFOAEPEI_02226	H	Coenzyme transport and metabolism	YggS	-
+OFOAEPEI_02227	F	Nucleotide transport and metabolism	Tmk	-
+OFOAEPEI_02228	L	Replication, recombination and repair	DnaX	-
+OFOAEPEI_02229	T	Signal transduction mechanisms	YaaT	-
+OFOAEPEI_02230	J	Translation, ribosomal structure and biogenesis	RsmI	-
+OFOAEPEI_02231	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_02232	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02233	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_02234	F	Nucleotide transport and metabolism	NrdD	-
+OFOAEPEI_02235	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_02236	K	Transcription	HipB	-
+OFOAEPEI_02238	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_02239	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_02240	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_02241	G	Carbohydrate transport and metabolism	MngB	-
+OFOAEPEI_02242	K	Transcription	BglG	-
+OFOAEPEI_02244	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_02246	H	Coenzyme transport and metabolism	CoaA	-
+OFOAEPEI_02247	S	Function unknown	YwaF	-
+OFOAEPEI_02248	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02249	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+OFOAEPEI_02250	E	Amino acid transport and metabolism	TyrA	-
+OFOAEPEI_02251	E	Amino acid transport and metabolism	AroA	-
+OFOAEPEI_02252	E	Amino acid transport and metabolism	AroGA	-
+OFOAEPEI_02253	E	Amino acid transport and metabolism	AroC	-
+OFOAEPEI_02254	E	Amino acid transport and metabolism	AroB	-
+OFOAEPEI_02255	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02257	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_02258	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_02259	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_02260	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_02261	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_02262	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_02263	H	Coenzyme transport and metabolism	PdxI	-
+OFOAEPEI_02264	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02265	K	Transcription	BglG	-
+OFOAEPEI_02267	I	Lipid transport and metabolism	Aes	-
+OFOAEPEI_02268	P	Inorganic ion transport and metabolism	SapB	-
+OFOAEPEI_02269	A	RNA processing and modification	YciV	-
+OFOAEPEI_02270	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02271	C	Energy production and conversion	EutG	-
+OFOAEPEI_02272	G	Carbohydrate transport and metabolism	IolB	-
+OFOAEPEI_02273	G	Carbohydrate transport and metabolism	IolD	-
+OFOAEPEI_02274	G	Carbohydrate transport and metabolism	RbsK	-
+OFOAEPEI_02275	G	Carbohydrate transport and metabolism	RbsB	-
+OFOAEPEI_02276	E	Amino acid transport and metabolism	PheA2	-
+OFOAEPEI_02277	E	Amino acid transport and metabolism	AspB	-
+OFOAEPEI_02281	F	Nucleotide transport and metabolism	PurE	-
+OFOAEPEI_02282	F	Nucleotide transport and metabolism	PurL1	-
+OFOAEPEI_02283	R	General function prediction only	YqiK	-
+OFOAEPEI_02284	F	Nucleotide transport and metabolism	PurM	-
+OFOAEPEI_02285	F	Nucleotide transport and metabolism	PurN	-
+OFOAEPEI_02286	F	Nucleotide transport and metabolism	PurH	-
+OFOAEPEI_02287	K	Transcription	LysR	-
+OFOAEPEI_02288	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02289	K	Transcription	HipB	-
+OFOAEPEI_02290	K	Transcription	AcrR	-
+OFOAEPEI_02291	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_02292	K	Transcription	RpoE	-
+OFOAEPEI_02294	D	Cell cycle control, cell division, chromosome partitioning	SpoVT	-
+OFOAEPEI_02295	J	Translation, ribosomal structure and biogenesis	HslR	-
+OFOAEPEI_02296	D	Cell cycle control, cell division, chromosome partitioning	YabP	-
+OFOAEPEI_02297	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+OFOAEPEI_02298	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_02299	K	Transcription	BglG	-
+OFOAEPEI_02300	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02301	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_02302	G	Carbohydrate transport and metabolism	GutQ	-
+OFOAEPEI_02303	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+OFOAEPEI_02304	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_02306	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_02307	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_02308	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_02310	F	Nucleotide transport and metabolism	AdeC	-
+OFOAEPEI_02311	K	Transcription	BglG	-
+OFOAEPEI_02312	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02313	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02314	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02315	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02316	K	Transcription	RpiR	-
+OFOAEPEI_02317	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02318	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02319	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_02320	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02321	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02322	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02324	K	Transcription	RpiR	-
+OFOAEPEI_02325	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02327	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_02328	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02329	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_02330	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_02331	K	Transcription	HipB	-
+OFOAEPEI_02332	H	Coenzyme transport and metabolism	RibD	-
+OFOAEPEI_02334	Q	Secondary metabolites biosynthesis, transport and catabolism	XpaC	-
+OFOAEPEI_02335	V	Defense mechanisms	YaaN	-
+OFOAEPEI_02336	M	Cell wall/membrane/envelope biogenesis	LemA	-
+OFOAEPEI_02337	S	Function unknown	YgcG	-
+OFOAEPEI_02338	K	Transcription	RpiR	-
+OFOAEPEI_02339	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02340	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02341	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02342	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02343	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02344	I	Lipid transport and metabolism	FabG	-
+OFOAEPEI_02345	K	Transcription	MngR	-
+OFOAEPEI_02346	R	General function prediction only	AAA	-
+OFOAEPEI_02347	C	Energy production and conversion	FldA	-
+OFOAEPEI_02348	R	General function prediction only	YurZ	-
+OFOAEPEI_02349	C	Energy production and conversion	FldA	-
+OFOAEPEI_02350	E	Amino acid transport and metabolism	OpuBA	-
+OFOAEPEI_02351	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+OFOAEPEI_02352	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+OFOAEPEI_02353	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+OFOAEPEI_02354	K	Transcription	IscR	-
+OFOAEPEI_02355	P	Inorganic ion transport and metabolism	PspE	-
+OFOAEPEI_02356	V	Defense mechanisms		-
+OFOAEPEI_02359	P	Inorganic ion transport and metabolism	MntP	-
+OFOAEPEI_02361	T	Signal transduction mechanisms	FrsA	-
+OFOAEPEI_02362	G	Carbohydrate transport and metabolism	GpmI	-
+OFOAEPEI_02363	K	Transcription	PspF	-
+OFOAEPEI_02364	K	Transcription	LevR	-
+OFOAEPEI_02365	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_02366	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_02367	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_02368	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02369	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02370	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02371	G	Carbohydrate transport and metabolism	NagC	-
+OFOAEPEI_02372	K	Transcription	BglG	-
+OFOAEPEI_02373	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_02374	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_02375	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_02376	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02377	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02378	R	General function prediction only	AAA_14	-
+OFOAEPEI_02379	K	Transcription	BglG	-
+OFOAEPEI_02380	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02381	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02382	K	Transcription	CdaR	-
+OFOAEPEI_02383	G	Carbohydrate transport and metabolism	GlxK	-
+OFOAEPEI_02384	G	Carbohydrate transport and metabolism	HpcH	-
+OFOAEPEI_02385	C	Energy production and conversion	AllD	-
+OFOAEPEI_02386	K	Transcription	MngR	-
+OFOAEPEI_02388	H	Coenzyme transport and metabolism	UbiG	-
+OFOAEPEI_02390	O	Posttranslational modification, protein turnover, chaperones	MsrB	-
+OFOAEPEI_02391	R	General function prediction only	YhbS	-
+OFOAEPEI_02392	L	Replication, recombination and repair	RarA	-
+OFOAEPEI_02393	P	Inorganic ion transport and metabolism	MntP	-
+OFOAEPEI_02394	M	Cell wall/membrane/envelope biogenesis	BamD	-
+OFOAEPEI_02395	M	Cell wall/membrane/envelope biogenesis	LolA	-
+OFOAEPEI_02396	I	Lipid transport and metabolism	IspF	-
+OFOAEPEI_02397	P	Inorganic ion transport and metabolism	Fur	-
+OFOAEPEI_02398	C	Energy production and conversion	YotD	-
+OFOAEPEI_02399	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_02400	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_02402	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_02404	G	Carbohydrate transport and metabolism	NagB	-
+OFOAEPEI_02405	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_02406	G	Carbohydrate transport and metabolism	LytD	-
+OFOAEPEI_02408	K	Transcription	PadR	-
+OFOAEPEI_02410	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_02411	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_02412	G	Carbohydrate transport and metabolism	UlaA	-
+OFOAEPEI_02413	G	Carbohydrate transport and metabolism	HpcH	-
+OFOAEPEI_02414	G	Carbohydrate transport and metabolism	GutQ	-
+OFOAEPEI_02415	E	Amino acid transport and metabolism	DapA	-
+OFOAEPEI_02417	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_02418	K	Transcription	BglG	-
+OFOAEPEI_02420	T	Signal transduction mechanisms	LuxS	-
+OFOAEPEI_02421	V	Defense mechanisms	NorM	-
+OFOAEPEI_02422	T	Signal transduction mechanisms	CitA	-
+OFOAEPEI_02423	R	General function prediction only	AAA_14	-
+OFOAEPEI_02424	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_02425	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_02426	E	Amino acid transport and metabolism	Ggt	-
+OFOAEPEI_02427	K	Transcription	LytT	-
+OFOAEPEI_02428	T	Signal transduction mechanisms	CitA	-
+OFOAEPEI_02429	K	Transcription	AgrB	-
+OFOAEPEI_02432	R	General function prediction only	MviM	-
+OFOAEPEI_02433	I	Lipid transport and metabolism	Tim44	-
+OFOAEPEI_02434	F	Nucleotide transport and metabolism	YjhB	-
+OFOAEPEI_02435	P	Inorganic ion transport and metabolism	PstS	-
+OFOAEPEI_02436	R	General function prediction only	YdhJ	-
+OFOAEPEI_02437	C	Energy production and conversion	WrbA	-
+OFOAEPEI_02438	C	Energy production and conversion	WrbA	-
+OFOAEPEI_02439	K	Transcription	AcrR	-
+OFOAEPEI_02440	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_02445	K	Transcription	XRE	-
+OFOAEPEI_02446	K	Transcription	LytT	-
+OFOAEPEI_02451	F	Nucleotide transport and metabolism	PurD	-
+OFOAEPEI_02452	F	Nucleotide transport and metabolism	MIS1	-
+OFOAEPEI_02453	R	General function prediction only	AAA_14	-
+OFOAEPEI_02454	K	Transcription	PspF	-
+OFOAEPEI_02455	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02456	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02457	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02458	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02459	C	Energy production and conversion	EutG	-
+OFOAEPEI_02460	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_02461	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_02465	J	Translation, ribosomal structure and biogenesis	Map	-
+OFOAEPEI_02466	K	Transcription	BglG	-
+OFOAEPEI_02467	K	Transcription	BglG	-
+OFOAEPEI_02468	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+OFOAEPEI_02469	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_02470	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_02471	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_02472	E	Amino acid transport and metabolism	MetC	-
+OFOAEPEI_02473	G	Carbohydrate transport and metabolism	NagA	-
+OFOAEPEI_02474	E	Amino acid transport and metabolism	PepB	-
+OFOAEPEI_02475	S	Function unknown	YckC	-
+OFOAEPEI_02476	E	Amino acid transport and metabolism	IlvB	-
+OFOAEPEI_02477	E	Amino acid transport and metabolism	IlvH	-
+OFOAEPEI_02479	K	Transcription	MngR	-
+OFOAEPEI_02480	K	Transcription	MngR	-
+OFOAEPEI_02481	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+OFOAEPEI_02482	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_02483	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_02484	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02485	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02486	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02487	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02488	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_02489	V	Defense mechanisms	NorM	-
+OFOAEPEI_02490	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02491	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_02492	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+OFOAEPEI_02493	J	Translation, ribosomal structure and biogenesis	PasT	-
+OFOAEPEI_02494	F	Nucleotide transport and metabolism	NrdD	-
+OFOAEPEI_02495	S	Function unknown	CwlO1	-
+OFOAEPEI_02496	M	Cell wall/membrane/envelope biogenesis	RfaL	-
+OFOAEPEI_02497	G	Carbohydrate transport and metabolism	ChbG	-
+OFOAEPEI_02498	K	Transcription	PspF	-
+OFOAEPEI_02499	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02500	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02501	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02503	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02504	H	Coenzyme transport and metabolism	NIF3	-
+OFOAEPEI_02505	T	Signal transduction mechanisms	Oca4	-
+OFOAEPEI_02506	H	Coenzyme transport and metabolism	NIF3	-
+OFOAEPEI_02507	K	Transcription	AraC	-
+OFOAEPEI_02508	I	Lipid transport and metabolism	YdiF	-
+OFOAEPEI_02509	I	Lipid transport and metabolism	MaoC	-
+OFOAEPEI_02510	H	Coenzyme transport and metabolism	PanE	-
+OFOAEPEI_02511	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_02512	E	Amino acid transport and metabolism	AroQ	-
+OFOAEPEI_02515	K	Transcription	AraC	-
+OFOAEPEI_02516	S	Function unknown	YwzB	-
+OFOAEPEI_02517	T	Signal transduction mechanisms	YesM	-
+OFOAEPEI_02518	T	Signal transduction mechanisms	YesN	-
+OFOAEPEI_02519	D	Cell cycle control, cell division, chromosome partitioning	SpoIID	-
+OFOAEPEI_02520	D	Cell cycle control, cell division, chromosome partitioning	SpoIIQ	-
+OFOAEPEI_02521	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+OFOAEPEI_02522	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+OFOAEPEI_02523	V	Defense mechanisms	MazF	-
+OFOAEPEI_02524	D	Cell cycle control, cell division, chromosome partitioning	SpoIIE	-
+OFOAEPEI_02530	J	Translation, ribosomal structure and biogenesis	TtcA	-
+OFOAEPEI_02531	F	Nucleotide transport and metabolism	HptA	-
+OFOAEPEI_02532	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+OFOAEPEI_02533	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_02534	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_02535	G	Carbohydrate transport and metabolism	MngB	-
+OFOAEPEI_02536	K	Transcription	RpiR	-
+OFOAEPEI_02537	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02538	G	Carbohydrate transport and metabolism	NagC	-
+OFOAEPEI_02539	K	Transcription	GlxA	-
+OFOAEPEI_02540	E	Amino acid transport and metabolism	EamA	-
+OFOAEPEI_02541	S	Function unknown		-
+OFOAEPEI_02542	K	Transcription	HipB	-
+OFOAEPEI_02543	V	Defense mechanisms	NorM	-
+OFOAEPEI_02544	K	Transcription	BglG	-
+OFOAEPEI_02545	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02546	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02547	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02548	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02549	I	Lipid transport and metabolism	FabG	-
+OFOAEPEI_02550	P	Inorganic ion transport and metabolism	TrkA	-
+OFOAEPEI_02552	H	Coenzyme transport and metabolism	FmnP	-
+OFOAEPEI_02553	S	Function unknown	YzzA	-
+OFOAEPEI_02554	O	Posttranslational modification, protein turnover, chaperones	HslO	-
+OFOAEPEI_02555	J	Translation, ribosomal structure and biogenesis	DusA	-
+OFOAEPEI_02556	E	Amino acid transport and metabolism	PepF	-
+OFOAEPEI_02557	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_02558	J	Translation, ribosomal structure and biogenesis	LysU	-
+OFOAEPEI_02559	T	Signal transduction mechanisms	SpoT	-
+OFOAEPEI_02567	R	General function prediction only	YfcE	-
+OFOAEPEI_02569	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_02572	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02575	V	Defense mechanisms	Cas2	-
+OFOAEPEI_02576	V	Defense mechanisms	Cas1	-
+OFOAEPEI_02577	V	Defense mechanisms	Cas4	-
+OFOAEPEI_02578	V	Defense mechanisms	Cas7	-
+OFOAEPEI_02579	V	Defense mechanisms	Cas8c	-
+OFOAEPEI_02582	V	Defense mechanisms	Cas3	-
+OFOAEPEI_02583	S	Function unknown	BH3996	-
+OFOAEPEI_02584	E	Amino acid transport and metabolism	DmpA	-
+OFOAEPEI_02585	V	Defense mechanisms	NorM	-
+OFOAEPEI_02586	L	Replication, recombination and repair	SrmB	-
+OFOAEPEI_02587	P	Inorganic ion transport and metabolism	FtnA	-
+OFOAEPEI_02588	K	Transcription	SoxR	-
+OFOAEPEI_02589	O	Posttranslational modification, protein turnover, chaperones	CcmA	-
+OFOAEPEI_02591	K	Transcription	PurR	-
+OFOAEPEI_02592	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_02593	S	Function unknown		-
+OFOAEPEI_02594	K	Transcription	RpoE	-
+OFOAEPEI_02595	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_02596	S	Function unknown	YitT	-
+OFOAEPEI_02597	G	Carbohydrate transport and metabolism	Rpe	-
+OFOAEPEI_02598	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_02599	K	Transcription	BglG	-
+OFOAEPEI_02600	E	Amino acid transport and metabolism	ArgE	-
+OFOAEPEI_02601	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_02604	K	Transcription	CsgD	-
+OFOAEPEI_02605	J	Translation, ribosomal structure and biogenesis	PrfA	-
+OFOAEPEI_02606	J	Translation, ribosomal structure and biogenesis	HemK	-
+OFOAEPEI_02607	R	General function prediction only	YhaK	-
+OFOAEPEI_02608	P	Inorganic ion transport and metabolism	CusA	-
+OFOAEPEI_02609	J	Translation, ribosomal structure and biogenesis	MnmG	-
+OFOAEPEI_02610	M	Cell wall/membrane/envelope biogenesis	LdcB	-
+OFOAEPEI_02611	K	Transcription	RpiR	-
+OFOAEPEI_02612	G	Carbohydrate transport and metabolism	YqeC	-
+OFOAEPEI_02613	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02614	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02615	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02616	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02617	C	Energy production and conversion	LdhA	-
+OFOAEPEI_02618	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_02619	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_02621	R	General function prediction only	MviM	-
+OFOAEPEI_02622	F	Nucleotide transport and metabolism	CmkB	-
+OFOAEPEI_02624	V	Defense mechanisms	SunT	-
+OFOAEPEI_02625	L	Replication, recombination and repair	RecB	-
+OFOAEPEI_02626	L	Replication, recombination and repair	AddB	-
+OFOAEPEI_02629	K	Transcription	PspF	-
+OFOAEPEI_02630	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02631	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02632	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02633	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02634	R	General function prediction only	AbgB	-
+OFOAEPEI_02635	G	Carbohydrate transport and metabolism	Gnd	-
+OFOAEPEI_02636	D	Cell cycle control, cell division, chromosome partitioning	Spo0A	-
+OFOAEPEI_02637	K	Transcription	HepA	-
+OFOAEPEI_02638	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02639	O	Posttranslational modification, protein turnover, chaperones	ImmA	-
+OFOAEPEI_02640	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02643	K	Transcription	RpoE	-
+OFOAEPEI_02644	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_02645	D	Cell cycle control, cell division, chromosome partitioning	GerAC	-
+OFOAEPEI_02646	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02647	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_02648	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02650	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_02651	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+OFOAEPEI_02652	M	Cell wall/membrane/envelope biogenesis	TolA	-
+OFOAEPEI_02653	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_02655	V	Defense mechanisms	ArdA	-
+OFOAEPEI_02659	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_02661	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_02662	L	Replication, recombination and repair	CedB	-
+OFOAEPEI_02667	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_02669	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02671	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+OFOAEPEI_02672	K	Transcription	NusG	-
+OFOAEPEI_02673	M	Cell wall/membrane/envelope biogenesis	WecE	-
+OFOAEPEI_02674	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+OFOAEPEI_02675	R	General function prediction only	WbbJ	-
+OFOAEPEI_02676	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+OFOAEPEI_02677	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_02679	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+OFOAEPEI_02680	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_02681	G	Carbohydrate transport and metabolism	WcaE	-
+OFOAEPEI_02682	M	Cell wall/membrane/envelope biogenesis	Glf	-
+OFOAEPEI_02683	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+OFOAEPEI_02685	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+OFOAEPEI_02686	M	Cell wall/membrane/envelope biogenesis	RmlA1	-
+OFOAEPEI_02688	R	General function prediction only	MviM	-
+OFOAEPEI_02689	M	Cell wall/membrane/envelope biogenesis	WecE	-
+OFOAEPEI_02690	I	Lipid transport and metabolism	AccC	-
+OFOAEPEI_02691	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+OFOAEPEI_02693	H	Coenzyme transport and metabolism	RibN	-
+OFOAEPEI_02695	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_02697	G	Carbohydrate transport and metabolism	YG	-
+OFOAEPEI_02698	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+OFOAEPEI_02699	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02701	D	Cell cycle control, cell division, chromosome partitioning	ATS1	-
+OFOAEPEI_02702	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02703	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_02704	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_02705	K	Transcription	HipB	-
+OFOAEPEI_02708	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+OFOAEPEI_02709	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+OFOAEPEI_02713	K	Transcription	LytT	-
+OFOAEPEI_02715	K	Transcription	LevR	-
+OFOAEPEI_02716	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_02717	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02718	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02719	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02720	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02721	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+OFOAEPEI_02722	M	Cell wall/membrane/envelope biogenesis	GalE	-
+OFOAEPEI_02723	L	Replication, recombination and repair	ComFA	-
+OFOAEPEI_02724	R	General function prediction only	ComFC	-
+OFOAEPEI_02725	K	Transcription	CspC	-
+OFOAEPEI_02726	K	Transcription	CspC	-
+OFOAEPEI_02728	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+OFOAEPEI_02729	J	Translation, ribosomal structure and biogenesis	PrfA	-
+OFOAEPEI_02730	M	Cell wall/membrane/envelope biogenesis	Acm	-
+OFOAEPEI_02731	C	Energy production and conversion	YqdH	-
+OFOAEPEI_02732	K	Transcription	GlpR	-
+OFOAEPEI_02733	C	Energy production and conversion	NhaC	-
+OFOAEPEI_02734	E	Amino acid transport and metabolism	MthN	-
+OFOAEPEI_02735	E	Amino acid transport and metabolism	MtnA	-
+OFOAEPEI_02736	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_02737	G	Carbohydrate transport and metabolism	XylB	-
+OFOAEPEI_02738	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_02739	S	Function unknown	YitT	-
+OFOAEPEI_02740	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+OFOAEPEI_02741	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+OFOAEPEI_02742	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_02743	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+OFOAEPEI_02744	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+OFOAEPEI_02745	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+OFOAEPEI_02746	L	Replication, recombination and repair	UvrB	-
+OFOAEPEI_02747	R	General function prediction only	PerM	-
+OFOAEPEI_02748	L	Replication, recombination and repair	YaaA	-
+OFOAEPEI_02749	S	Function unknown		-
+OFOAEPEI_02750	S	Function unknown		-
+OFOAEPEI_02751	O	Posttranslational modification, protein turnover, chaperones	Pcp	-
+OFOAEPEI_02752	E	Amino acid transport and metabolism	YtfP	-
+OFOAEPEI_02753	F	Nucleotide transport and metabolism	YbbK	-
+OFOAEPEI_02754	T	Signal transduction mechanisms	PtsH	-
+OFOAEPEI_02755	G	Carbohydrate transport and metabolism	ManB	-
+OFOAEPEI_02756	G	Carbohydrate transport and metabolism	GlgB	-
+OFOAEPEI_02757	C	Energy production and conversion	GpsA	-
+OFOAEPEI_02758	G	Carbohydrate transport and metabolism	LmbE	-
+OFOAEPEI_02759	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+OFOAEPEI_02760	G	Carbohydrate transport and metabolism	TagG	-
+OFOAEPEI_02761	G	Carbohydrate transport and metabolism	TagH	-
+OFOAEPEI_02762	M	Cell wall/membrane/envelope biogenesis	TagD	-
+OFOAEPEI_02763	M	Cell wall/membrane/envelope biogenesis	TagB	-
+OFOAEPEI_02764	M	Cell wall/membrane/envelope biogenesis	TagB	-
+OFOAEPEI_02765	M	Cell wall/membrane/envelope biogenesis	TagB	-
+OFOAEPEI_02766	S	Function unknown	YfhO	-
+OFOAEPEI_02767	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02769	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_02770	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_02771	I	Lipid transport and metabolism	GtrA	-
+OFOAEPEI_02772	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+OFOAEPEI_02775	G	Carbohydrate transport and metabolism	GlgP	-
+OFOAEPEI_02776	R	General function prediction only	AbgB	-
+OFOAEPEI_02777	G	Carbohydrate transport and metabolism	PulA	-
+OFOAEPEI_02778	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_02779	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_02781	K	Transcription	RpoE	-
+OFOAEPEI_02783	L	Replication, recombination and repair	UvrA	-
+OFOAEPEI_02784	T	Signal transduction mechanisms	HprK	-
+OFOAEPEI_02785	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+OFOAEPEI_02786	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+OFOAEPEI_02787	P	Inorganic ion transport and metabolism	Rubr	-
+OFOAEPEI_02789	K	Transcription	RpoE	-
+OFOAEPEI_02791	K	Transcription	PurR	-
+OFOAEPEI_02792	C	Energy production and conversion	DcuC	-
+OFOAEPEI_02793	F	Nucleotide transport and metabolism	URH1	-
+OFOAEPEI_02794	G	Carbohydrate transport and metabolism	RbsK	-
+OFOAEPEI_02795	R	General function prediction only	YhbS	-
+OFOAEPEI_02796	T	Signal transduction mechanisms	RapZ	-
+OFOAEPEI_02797	G	Carbohydrate transport and metabolism	CofD	-
+OFOAEPEI_02798	K	Transcription	WhiA	-
+OFOAEPEI_02800	R	General function prediction only	PerM	-
+OFOAEPEI_02801	R	General function prediction only	Eis	-
+OFOAEPEI_02803	M	Cell wall/membrane/envelope biogenesis	AgaS	-
+OFOAEPEI_02804	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_02805	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+OFOAEPEI_02806	K	Transcription	AraC	-
+OFOAEPEI_02807	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_02808	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02809	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02812	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_02813	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_02814	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02815	I	Lipid transport and metabolism	YciA	-
+OFOAEPEI_02816	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+OFOAEPEI_02817	G	Carbohydrate transport and metabolism	GapA	-
+OFOAEPEI_02818	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_02820	J	Translation, ribosomal structure and biogenesis	CysS	-
+OFOAEPEI_02821	J	Translation, ribosomal structure and biogenesis	MrnC	-
+OFOAEPEI_02822	J	Translation, ribosomal structure and biogenesis	SpoU	-
+OFOAEPEI_02823	K	Transcription	RpoE	-
+OFOAEPEI_02824	J	Translation, ribosomal structure and biogenesis	RpmG	-
+OFOAEPEI_02825	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+OFOAEPEI_02826	K	Transcription	NusG	-
+OFOAEPEI_02828	F	Nucleotide transport and metabolism	NagD	-
+OFOAEPEI_02829	G	Carbohydrate transport and metabolism	Eno	-
+OFOAEPEI_02830	E	Amino acid transport and metabolism	PotE	-
+OFOAEPEI_02831	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+OFOAEPEI_02832	K	Transcription	VacB	-
+OFOAEPEI_02833	M	Cell wall/membrane/envelope biogenesis	CapA	-
+OFOAEPEI_02834	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+OFOAEPEI_02837	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02839	R	General function prediction only		-
+OFOAEPEI_02842	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_02844	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_02845	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_02846	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_02847	K	Transcription	YdeE	-
+OFOAEPEI_02848	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_02849	K	Transcription	XRE	-
+OFOAEPEI_02850	E	Amino acid transport and metabolism	ArgE	-
+OFOAEPEI_02851	F	Nucleotide transport and metabolism	NCS2	-
+OFOAEPEI_02852	F	Nucleotide transport and metabolism	AdeC	-
+OFOAEPEI_02853	R	General function prediction only	YidJ	-
+OFOAEPEI_02856	K	Transcription	IscR	-
+OFOAEPEI_02857	S	Function unknown	YhgE	-
+OFOAEPEI_02860	P	Inorganic ion transport and metabolism	CotJC	-
+OFOAEPEI_02862	K	Transcription	SoxR	-
+OFOAEPEI_02863	K	Transcription	HipB	-
+OFOAEPEI_02864	P	Inorganic ion transport and metabolism	MgtA	-
+OFOAEPEI_02865	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_02866	C	Energy production and conversion	Pta	-
+OFOAEPEI_02867	S	Function unknown	YuzA	-
+OFOAEPEI_02868	H	Coenzyme transport and metabolism	UbiG	-
+OFOAEPEI_02869	V	Defense mechanisms	NorM	-
+OFOAEPEI_02870	K	Transcription	SoxR	-
+OFOAEPEI_02874	X	Mobilome: prophages, transposons		-
+OFOAEPEI_02875	C	Energy production and conversion	Nar1	-
+OFOAEPEI_02876	E	Amino acid transport and metabolism	GltD	-
+OFOAEPEI_02877	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_02878	K	Transcription	RpiR	-
+OFOAEPEI_02879	S	Function unknown	Ree1	-
+OFOAEPEI_02880	R	General function prediction only	PhnK	-
+OFOAEPEI_02881	R	General function prediction only		-
+OFOAEPEI_02882	R	General function prediction only		-
+OFOAEPEI_02883	H	Coenzyme transport and metabolism	BtuR	-
+OFOAEPEI_02884	J	Translation, ribosomal structure and biogenesis	EbsC	-
+OFOAEPEI_02885	K	Transcription	YobV	-
+OFOAEPEI_02887	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_02888	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_02889	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_02890	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_02891	K	Transcription	BglG	-
+OFOAEPEI_02892	S	Function unknown	YckC	-
+OFOAEPEI_02894	E	Amino acid transport and metabolism	AlsT	-
+OFOAEPEI_02896	R	General function prediction only	YejR	-
+OFOAEPEI_02897	S	Function unknown	YcgQ	-
+OFOAEPEI_02898	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_02899	E	Amino acid transport and metabolism	HIS2	-
+OFOAEPEI_02900	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02901	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_02903	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_02904	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+OFOAEPEI_02910	K	Transcription	AcrR	-
+OFOAEPEI_02913	E	Amino acid transport and metabolism	TrpA	-
+OFOAEPEI_02914	E	Amino acid transport and metabolism	TrpB	-
+OFOAEPEI_02915	E	Amino acid transport and metabolism	TrpF	-
+OFOAEPEI_02916	E	Amino acid transport and metabolism	TrpC	-
+OFOAEPEI_02917	E	Amino acid transport and metabolism	TrpD	-
+OFOAEPEI_02918	E	Amino acid transport and metabolism	PabA	-
+OFOAEPEI_02919	E	Amino acid transport and metabolism	TrpE	-
+OFOAEPEI_02920	E	Amino acid transport and metabolism	TrpE	-
+OFOAEPEI_02923	R	General function prediction only	YtcJ	-
+OFOAEPEI_02924	E	Amino acid transport and metabolism	HisJ	-
+OFOAEPEI_02925	E	Amino acid transport and metabolism	HisM	-
+OFOAEPEI_02926	E	Amino acid transport and metabolism	GlnQ	-
+OFOAEPEI_02928	L	Replication, recombination and repair	SplB	-
+OFOAEPEI_02929	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_02930	V	Defense mechanisms	MA1133	-
+OFOAEPEI_02931	K	Transcription	YobV	-
+OFOAEPEI_02932	C	Energy production and conversion	SsuE	-
+OFOAEPEI_02933	H	Coenzyme transport and metabolism	ECF-S	-
+OFOAEPEI_02934	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_02935	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02936	Z	Cytoskeleton	CcmA	-
+OFOAEPEI_02937	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_02939	R	General function prediction only	AbgB	-
+OFOAEPEI_02941	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_02942	K	Transcription	AraC	-
+OFOAEPEI_02944	F	Nucleotide transport and metabolism	RCL	-
+OFOAEPEI_02945	R	General function prediction only		-
+OFOAEPEI_02948	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_02949	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+OFOAEPEI_02950	T	Signal transduction mechanisms		-
+OFOAEPEI_02951	U	Intracellular trafficking, secretion, and vesicular transport	DotG	-
+OFOAEPEI_02953	K	Transcription	PadR	-
+OFOAEPEI_02954	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_02955	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02958	S	Function unknown		-
+OFOAEPEI_02959	R	General function prediction only	Zpr1	-
+OFOAEPEI_02960	S	Function unknown		-
+OFOAEPEI_02961	V	Defense mechanisms	YoaR	-
+OFOAEPEI_02964	Q	Secondary metabolites biosynthesis, transport and catabolism	YciI	-
+OFOAEPEI_02965	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02966	K	Transcription	MarR	-
+OFOAEPEI_02967	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_02968	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_02969	I	Lipid transport and metabolism	DegV	-
+OFOAEPEI_02970	J	Translation, ribosomal structure and biogenesis	RplM	-
+OFOAEPEI_02971	J	Translation, ribosomal structure and biogenesis	RpsI	-
+OFOAEPEI_02972	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02973	J	Translation, ribosomal structure and biogenesis	IleS	-
+OFOAEPEI_02974	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_02975	R	General function prediction only		-
+OFOAEPEI_02981	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_02982	K	Transcription	HipB	-
+OFOAEPEI_02985	R	General function prediction only	WbbJ	-
+OFOAEPEI_02986	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_02987	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_02988	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_02989	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02990	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_02991	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_02992	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_02993	S	Function unknown	YajG	-
+OFOAEPEI_02994	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_02995	R	General function prediction only		-
+OFOAEPEI_02996	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_02998	R	General function prediction only		-
+OFOAEPEI_02999	L	Replication, recombination and repair	SbmC	-
+OFOAEPEI_03000	L	Replication, recombination and repair	AdaB	-
+OFOAEPEI_03001	J	Translation, ribosomal structure and biogenesis	Tgt	-
+OFOAEPEI_03002	J	Translation, ribosomal structure and biogenesis	YhhQ	-
+OFOAEPEI_03005	K	Transcription	SPT5	-
+OFOAEPEI_03006	L	Replication, recombination and repair	UvrA	-
+OFOAEPEI_03007	C	Energy production and conversion	GldA	-
+OFOAEPEI_03008	H	Coenzyme transport and metabolism	FolA	-
+OFOAEPEI_03009	K	Transcription	LexA	-
+OFOAEPEI_03010	L	Replication, recombination and repair	DinP	-
+OFOAEPEI_03011	H	Coenzyme transport and metabolism	QueE	-
+OFOAEPEI_03012	K	Transcription	FadR	-
+OFOAEPEI_03013	C	Energy production and conversion	FadH	-
+OFOAEPEI_03014	K	Transcription	AraC	-
+OFOAEPEI_03015	J	Translation, ribosomal structure and biogenesis	Def	-
+OFOAEPEI_03016	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_03017	H	Coenzyme transport and metabolism	PduO	-
+OFOAEPEI_03020	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_03021	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_03022	M	Cell wall/membrane/envelope biogenesis	DacC	-
+OFOAEPEI_03023	K	Transcription	YhcF	-
+OFOAEPEI_03024	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03026	M	Cell wall/membrane/envelope biogenesis	PGRP	-
+OFOAEPEI_03028	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_03030	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_03034	T	Signal transduction mechanisms	HipA	-
+OFOAEPEI_03039	R	General function prediction only	MMP0363	-
+OFOAEPEI_03040	R	General function prediction only	MMP0362	-
+OFOAEPEI_03041	O	Posttranslational modification, protein turnover, chaperones	YebA	-
+OFOAEPEI_03042	R	General function prediction only	FlK	-
+OFOAEPEI_03043	P	Inorganic ion transport and metabolism	CotJC	-
+OFOAEPEI_03045	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_03048	V	Defense mechanisms	YajL	-
+OFOAEPEI_03049	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03050	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_03051	P	Inorganic ion transport and metabolism	MpfA	-
+OFOAEPEI_03052	I	Lipid transport and metabolism	PgsA	-
+OFOAEPEI_03055	A	RNA processing and modification	YciV	-
+OFOAEPEI_03056	K	Transcription	GlpR	-
+OFOAEPEI_03057	G	Carbohydrate transport and metabolism	UlaD	-
+OFOAEPEI_03058	K	Transcription	RpiR	-
+OFOAEPEI_03059	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_03061	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03062	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03065	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_03066	G	Carbohydrate transport and metabolism	ManA	-
+OFOAEPEI_03067	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_03068	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03069	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03070	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03073	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+OFOAEPEI_03074	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_03075	K	Transcription	MngR	-
+OFOAEPEI_03077	S	Function unknown		-
+OFOAEPEI_03078	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03081	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+OFOAEPEI_03082	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_03083	K	Transcription	MngR	-
+OFOAEPEI_03084	G	Carbohydrate transport and metabolism	OxdD	-
+OFOAEPEI_03085	G	Carbohydrate transport and metabolism	OxdD	-
+OFOAEPEI_03086	G	Carbohydrate transport and metabolism	ManA	-
+OFOAEPEI_03087	K	Transcription	MngR	-
+OFOAEPEI_03088	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_03089	T	Signal transduction mechanisms	EAL	-
+OFOAEPEI_03090	K	Transcription	RpoN	-
+OFOAEPEI_03091	K	Transcription	PspF	-
+OFOAEPEI_03092	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_03093	M	Cell wall/membrane/envelope biogenesis	BtpA	-
+OFOAEPEI_03094	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03095	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03096	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03098	I	Lipid transport and metabolism	YjjU	-
+OFOAEPEI_03100	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03101	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03102	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03103	G	Carbohydrate transport and metabolism	ManA	-
+OFOAEPEI_03104	K	Transcription	GlpR	-
+OFOAEPEI_03105	G	Carbohydrate transport and metabolism	FruK	-
+OFOAEPEI_03106	G	Carbohydrate transport and metabolism	RpiA	-
+OFOAEPEI_03107	R	General function prediction only	MviM	-
+OFOAEPEI_03108	O	Posttranslational modification, protein turnover, chaperones	AslB	-
+OFOAEPEI_03110	P	Inorganic ion transport and metabolism	MntP	-
+OFOAEPEI_03111	K	Transcription	GlpR	-
+OFOAEPEI_03112	Q	Secondary metabolites biosynthesis, transport and catabolism	PaaI	-
+OFOAEPEI_03113	I	Lipid transport and metabolism	Aes	-
+OFOAEPEI_03114	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_03115	T	Signal transduction mechanisms		-
+OFOAEPEI_03116	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_03117	H	Coenzyme transport and metabolism	PncA	-
+OFOAEPEI_03118	Q	Secondary metabolites biosynthesis, transport and catabolism	EntF	-
+OFOAEPEI_03119	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_03120	K	Transcription	BglG	-
+OFOAEPEI_03121	K	Transcription	AraC	-
+OFOAEPEI_03122	G	Carbohydrate transport and metabolism	GalK	-
+OFOAEPEI_03123	G	Carbohydrate transport and metabolism	GalM	-
+OFOAEPEI_03126	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_03127	K	Transcription	XRE	-
+OFOAEPEI_03128	S	Function unknown		-
+OFOAEPEI_03129	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03130	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+OFOAEPEI_03131	H	Coenzyme transport and metabolism	UbiG	-
+OFOAEPEI_03134	R	General function prediction only	GloB	-
+OFOAEPEI_03135	H	Coenzyme transport and metabolism	MenH	-
+OFOAEPEI_03136	E	Amino acid transport and metabolism	Asd	-
+OFOAEPEI_03137	E	Amino acid transport and metabolism	MetL1	-
+OFOAEPEI_03138	E	Amino acid transport and metabolism	ThrA	-
+OFOAEPEI_03139	E	Amino acid transport and metabolism	ThrC	-
+OFOAEPEI_03140	E	Amino acid transport and metabolism	ThrB	-
+OFOAEPEI_03141	R	General function prediction only	PheB	-
+OFOAEPEI_03142	S	Function unknown		-
+OFOAEPEI_03143	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+OFOAEPEI_03145	O	Posttranslational modification, protein turnover, chaperones	SoxW	-
+OFOAEPEI_03146	V	Defense mechanisms	YokD	-
+OFOAEPEI_03147	V	Defense mechanisms	MsrC	-
+OFOAEPEI_03148	M	Cell wall/membrane/envelope biogenesis	CotF	-
+OFOAEPEI_03150	F	Nucleotide transport and metabolism	YgaC	-
+OFOAEPEI_03154	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+OFOAEPEI_03155	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+OFOAEPEI_03156	J	Translation, ribosomal structure and biogenesis	TsaE	-
+OFOAEPEI_03157	J	Translation, ribosomal structure and biogenesis	TsaB	-
+OFOAEPEI_03158	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_03159	J	Translation, ribosomal structure and biogenesis	TsaD	-
+OFOAEPEI_03161	M	Cell wall/membrane/envelope biogenesis	LolA	-
+OFOAEPEI_03162	V	Defense mechanisms	MazF	-
+OFOAEPEI_03167	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_03168	K	Transcription	IscR	-
+OFOAEPEI_03169	K	Transcription	IscR	-
+OFOAEPEI_03170	E	Amino acid transport and metabolism	CysK	-
+OFOAEPEI_03172	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_03173	C	Energy production and conversion	Gph	-
+OFOAEPEI_03174	G	Carbohydrate transport and metabolism	MelB	-
+OFOAEPEI_03175	R	General function prediction only	YpzJ	-
+OFOAEPEI_03176	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_03178	K	Transcription	BglG	-
+OFOAEPEI_03179	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_03180	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_03181	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_03182	G	Carbohydrate transport and metabolism	FrwB	-
+OFOAEPEI_03183	G	Carbohydrate transport and metabolism	FrwC	-
+OFOAEPEI_03184	S	Function unknown		-
+OFOAEPEI_03185	G	Carbohydrate transport and metabolism	RpiB	-
+OFOAEPEI_03186	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_03187	G	Carbohydrate transport and metabolism	DAK1	-
+OFOAEPEI_03188	S	Function unknown		-
+OFOAEPEI_03189	K	Transcription	Atl1	-
+OFOAEPEI_03190	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_03191	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_03192	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_03196	M	Cell wall/membrane/envelope biogenesis	MupG	-
+OFOAEPEI_03197	K	Transcription	MngR	-
+OFOAEPEI_03198	T	Signal transduction mechanisms	YesN	-
+OFOAEPEI_03201	I	Lipid transport and metabolism	Cls	-
+OFOAEPEI_03202	K	Transcription	DnrI	-
+OFOAEPEI_03206	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_03208	I	Lipid transport and metabolism	YjjU	-
+OFOAEPEI_03211	E	Amino acid transport and metabolism	MetH2	-
+OFOAEPEI_03212	E	Amino acid transport and metabolism	MetH1	-
+OFOAEPEI_03213	F	Nucleotide transport and metabolism	Ndk	-
+OFOAEPEI_03214	J	Translation, ribosomal structure and biogenesis	RlmK	-
+OFOAEPEI_03215	J	Translation, ribosomal structure and biogenesis	AlaX	-
+OFOAEPEI_03216	M	Cell wall/membrane/envelope biogenesis	Lpp	-
+OFOAEPEI_03219	X	Mobilome: prophages, transposons	Srso17	-
+OFOAEPEI_03220	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+OFOAEPEI_03221	K	Transcription	BglG	-
+OFOAEPEI_03222	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_03223	G	Carbohydrate transport and metabolism	PtsN	-
+OFOAEPEI_03224	G	Carbohydrate transport and metabolism	SgaB	-
+OFOAEPEI_03225	G	Carbohydrate transport and metabolism	SgcC	-
+OFOAEPEI_03226	R	General function prediction only	MviM	-
+OFOAEPEI_03227	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_03228	H	Coenzyme transport and metabolism	PnuC	-
+OFOAEPEI_03229	F	Nucleotide transport and metabolism	XapA	-
+OFOAEPEI_03230	K	Transcription	BglG	-
+OFOAEPEI_03231	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_03232	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_03233	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03234	M	Cell wall/membrane/envelope biogenesis	Cps2a	-
+OFOAEPEI_03235	L	Replication, recombination and repair	UvrD	-
+OFOAEPEI_03236	L	Replication, recombination and repair	Lig	-
+OFOAEPEI_03237	R	General function prediction only	CamS	-
+OFOAEPEI_03238	J	Translation, ribosomal structure and biogenesis	GatC	-
+OFOAEPEI_03239	J	Translation, ribosomal structure and biogenesis	GatA	-
+OFOAEPEI_03240	J	Translation, ribosomal structure and biogenesis	GatB	-
+OFOAEPEI_03241	P	Inorganic ion transport and metabolism	CopZ	-
+OFOAEPEI_03242	J	Translation, ribosomal structure and biogenesis	TrmA	-
+OFOAEPEI_03243	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_03246	L	Replication, recombination and repair	XerC	-
+OFOAEPEI_03247	L	Replication, recombination and repair	ComEA	-
+OFOAEPEI_03249	K	Transcription	RpoE	-
+OFOAEPEI_03250	I	Lipid transport and metabolism	UppP	-
+OFOAEPEI_03251	V	Defense mechanisms	EfiE	-
+OFOAEPEI_03252	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03253	K	Transcription	HipB	-
+OFOAEPEI_03255	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_03256	K	Transcription	HipB	-
+OFOAEPEI_03261	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03263	V	Defense mechanisms	YadH	-
+OFOAEPEI_03264	E	Amino acid transport and metabolism	MnaT	-
+OFOAEPEI_03266	E	Amino acid transport and metabolism	ProC	-
+OFOAEPEI_03267	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_03268	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_03269	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_03270	H	Coenzyme transport and metabolism	ThiC	-
+OFOAEPEI_03271	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_03275	K	Transcription	MarR	-
+OFOAEPEI_03276	V	Defense mechanisms	NorM	-
+OFOAEPEI_03278	G	Carbohydrate transport and metabolism	MtlA	-
+OFOAEPEI_03279	K	Transcription	BglG	-
+OFOAEPEI_03280	G	Carbohydrate transport and metabolism	MtlA2	-
+OFOAEPEI_03281	G	Carbohydrate transport and metabolism	FruK	-
+OFOAEPEI_03282	E	Amino acid transport and metabolism	Tdh	-
+OFOAEPEI_03283	J	Translation, ribosomal structure and biogenesis	DhhP	-
+OFOAEPEI_03284	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_03285	C	Energy production and conversion	Nar1	-
+OFOAEPEI_03286	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_03287	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_03288	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_03289	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_03290	H	Coenzyme transport and metabolism	NIF3	-
+OFOAEPEI_03291	K	Transcription	BglG	-
+OFOAEPEI_03292	M	Cell wall/membrane/envelope biogenesis	MurI	-
+OFOAEPEI_03293	E	Amino acid transport and metabolism	LAP4	-
+OFOAEPEI_03294	K	Transcription	HepA	-
+OFOAEPEI_03295	G	Carbohydrate transport and metabolism	RbsK	-
+OFOAEPEI_03296	G	Carbohydrate transport and metabolism	SacC	-
+OFOAEPEI_03297	I	Lipid transport and metabolism	Aes	-
+OFOAEPEI_03298	I	Lipid transport and metabolism	Aes	-
+OFOAEPEI_03299	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_03300	K	Transcription	BglG	-
+OFOAEPEI_03301	G	Carbohydrate transport and metabolism	NagE	-
+OFOAEPEI_03303	J	Translation, ribosomal structure and biogenesis	GlnS	-
+OFOAEPEI_03304	K	Transcription	LevR	-
+OFOAEPEI_03305	K	Transcription	PspF	-
+OFOAEPEI_03306	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03307	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03308	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_03309	G	Carbohydrate transport and metabolism	Eda	-
+OFOAEPEI_03310	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03311	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_03312	E	Amino acid transport and metabolism	IlvE	-
+OFOAEPEI_03313	M	Cell wall/membrane/envelope biogenesis	Alr	-
+OFOAEPEI_03314	S	Function unknown	YitT	-
+OFOAEPEI_03317	Q	Secondary metabolites biosynthesis, transport and catabolism	PaaI	-
+OFOAEPEI_03318	K	Transcription	LysR	-
+OFOAEPEI_03322	E	Amino acid transport and metabolism	PepP	-
+OFOAEPEI_03324	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+OFOAEPEI_03325	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_03326	K	Transcription	AcrR	-
+OFOAEPEI_03328	R	General function prediction only	MMPL	-
+OFOAEPEI_03329	M	Cell wall/membrane/envelope biogenesis	GumC	-
+OFOAEPEI_03330	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_03331	M	Cell wall/membrane/envelope biogenesis	BepA	-
+OFOAEPEI_03332	G	Carbohydrate transport and metabolism	MalK	-
+OFOAEPEI_03333	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_03335	E	Amino acid transport and metabolism	AzlC	-
+OFOAEPEI_03336	E	Amino acid transport and metabolism	AzlD	-
+OFOAEPEI_03337	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+OFOAEPEI_03338	K	Transcription	LysR	-
+OFOAEPEI_03339	H	Coenzyme transport and metabolism	SerC	-
+OFOAEPEI_03340	H	Coenzyme transport and metabolism	SerA	-
+OFOAEPEI_03341	L	Replication, recombination and repair	TopA	-
+OFOAEPEI_03342	H	Coenzyme transport and metabolism	Cof	-
+OFOAEPEI_03343	K	Transcription	PadR	-
+OFOAEPEI_03345	T	Signal transduction mechanisms	CdaA	-
+OFOAEPEI_03346	T	Signal transduction mechanisms	YbbR	-
+OFOAEPEI_03347	G	Carbohydrate transport and metabolism	ManB	-
+OFOAEPEI_03348	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_03349	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_03350	P	Inorganic ion transport and metabolism	AslA	-
+OFOAEPEI_03352	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_03353	G	Carbohydrate transport and metabolism	UgpA	-
+OFOAEPEI_03354	G	Carbohydrate transport and metabolism	UgpE	-
+OFOAEPEI_03357	G	Carbohydrate transport and metabolism	MalK	-
+OFOAEPEI_03359	X	Mobilome: prophages, transposons	RAYT	-
+OFOAEPEI_03361	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_03362	K	Transcription	SoxR	-
+OFOAEPEI_03363	V	Defense mechanisms	NorM	-
+OFOAEPEI_03364	G	Carbohydrate transport and metabolism	YcjR	-
+OFOAEPEI_03365	K	Transcription	GlpR	-
+OFOAEPEI_03366	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_03367	C	Energy production and conversion	EutG	-
+OFOAEPEI_03368	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03369	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03370	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03371	E	Amino acid transport and metabolism	Dcg1	-
+OFOAEPEI_03372	R	General function prediction only	QdoI	-
+OFOAEPEI_03373	G	Carbohydrate transport and metabolism	Fba	-
+OFOAEPEI_03374	G	Carbohydrate transport and metabolism	OtnK	-
+OFOAEPEI_03375	E	Amino acid transport and metabolism	AraD	-
+OFOAEPEI_03376	R	General function prediction only	YczE	-
+OFOAEPEI_03377	J	Translation, ribosomal structure and biogenesis	RnaY	-
+OFOAEPEI_03378	K	Transcription	CspC	-
+OFOAEPEI_03379	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+OFOAEPEI_03380	V	Defense mechanisms	AmpC	-
+OFOAEPEI_03381	E	Amino acid transport and metabolism	PepF	-
+OFOAEPEI_03382	G	Carbohydrate transport and metabolism	LytD	-
+OFOAEPEI_03383	K	Transcription	FrmR	-
+OFOAEPEI_03384	P	Inorganic ion transport and metabolism	ZntA	-
+OFOAEPEI_03386	S	Function unknown	RhuM	-
+OFOAEPEI_03387	S	Function unknown	RhuM	-
+OFOAEPEI_03388	F	Nucleotide transport and metabolism	NrdA	-
+OFOAEPEI_03389	F	Nucleotide transport and metabolism	NrdB	-
+OFOAEPEI_03390	F	Nucleotide transport and metabolism	NrdI	-
+OFOAEPEI_03391	C	Energy production and conversion	Mdh	-
+OFOAEPEI_03392	C	Energy production and conversion	Mdh	-
+OFOAEPEI_03393	E	Amino acid transport and metabolism	IaaA	-
+OFOAEPEI_03394	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_03395	C	Energy production and conversion	NfnB	-
+OFOAEPEI_03396	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_03397	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_03399	K	Transcription	RpoE	-
+OFOAEPEI_03400	C	Energy production and conversion	RutF	-
+OFOAEPEI_03402	R	General function prediction only	PerM	-
+OFOAEPEI_03403	S	Function unknown		-
+OFOAEPEI_03404	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_03405	K	Transcription	MarR	-
+OFOAEPEI_03406	T	Signal transduction mechanisms	ANKYR	-
+OFOAEPEI_03407	J	Translation, ribosomal structure and biogenesis	FusA	-
+OFOAEPEI_03408	G	Carbohydrate transport and metabolism	NagA	-
+OFOAEPEI_03409	G	Carbohydrate transport and metabolism	BadF	-
+OFOAEPEI_03410	K	Transcription	PurR	-
+OFOAEPEI_03411	G	Carbohydrate transport and metabolism	CelF	-
+OFOAEPEI_03412	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_03413	G	Carbohydrate transport and metabolism	UgpA	-
+OFOAEPEI_03414	G	Carbohydrate transport and metabolism	UgpE	-
+OFOAEPEI_03415	G	Carbohydrate transport and metabolism	MalK	-
+OFOAEPEI_03416	G	Carbohydrate transport and metabolism	LigW	-
+OFOAEPEI_03418	E	Amino acid transport and metabolism	DmpA	-
+OFOAEPEI_03419	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_03421	R	General function prediction only	YjdB	-
+OFOAEPEI_03423	E	Amino acid transport and metabolism	ArgA	-
+OFOAEPEI_03424	S	Function unknown		-
+OFOAEPEI_03425	G	Carbohydrate transport and metabolism	Pgl	-
+OFOAEPEI_03426	G	Carbohydrate transport and metabolism	Gnd	-
+OFOAEPEI_03427	G	Carbohydrate transport and metabolism	Zwf	-
+OFOAEPEI_03428	G	Carbohydrate transport and metabolism	RpiA	-
+OFOAEPEI_03429	K	Transcription	YhcF	-
+OFOAEPEI_03430	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03437	L	Replication, recombination and repair	PriA	-
+OFOAEPEI_03439	S	Function unknown	YwaF	-
+OFOAEPEI_03440	C	Energy production and conversion	YotD	-
+OFOAEPEI_03441	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_03442	J	Translation, ribosomal structure and biogenesis	RsmB	-
+OFOAEPEI_03443	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_03444	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_03445	R	General function prediction only	AaeB	-
+OFOAEPEI_03446	T	Signal transduction mechanisms		-
+OFOAEPEI_03447	L	Replication, recombination and repair	Ung	-
+OFOAEPEI_03448	K	Transcription	HipB	-
+OFOAEPEI_03450	R	General function prediction only		-
+OFOAEPEI_03451	R	General function prediction only		-
+OFOAEPEI_03452	K	Transcription	AcrR	-
+OFOAEPEI_03453	K	Transcription	SoxR	-
+OFOAEPEI_03456	S	Function unknown	YitT	-
+OFOAEPEI_03459	K	Transcription	PhnO	-
+OFOAEPEI_03460	H	Coenzyme transport and metabolism	CoaX	-
+OFOAEPEI_03461	H	Coenzyme transport and metabolism	CoaBC	-
+OFOAEPEI_03462	F	Nucleotide transport and metabolism	NnrE	-
+OFOAEPEI_03463	C	Energy production and conversion	EutG	-
+OFOAEPEI_03464	J	Translation, ribosomal structure and biogenesis	HflX	-
+OFOAEPEI_03466	P	Inorganic ion transport and metabolism	DsrA	-
+OFOAEPEI_03467	H	Coenzyme transport and metabolism	Mcr1	-
+OFOAEPEI_03468	C	Energy production and conversion	SdhB	-
+OFOAEPEI_03469	I	Lipid transport and metabolism	AcpP	-
+OFOAEPEI_03470	I	Lipid transport and metabolism	AccB	-
+OFOAEPEI_03471	I	Lipid transport and metabolism	PccA	-
+OFOAEPEI_03472	I	Lipid transport and metabolism	AccD	-
+OFOAEPEI_03473	I	Lipid transport and metabolism	AccA	-
+OFOAEPEI_03474	I	Lipid transport and metabolism	FabH	-
+OFOAEPEI_03475	R	General function prediction only	YrpB	-
+OFOAEPEI_03476	R	General function prediction only	YrpB	-
+OFOAEPEI_03477	I	Lipid transport and metabolism	FabD	-
+OFOAEPEI_03478	I	Lipid transport and metabolism	FabG	-
+OFOAEPEI_03479	I	Lipid transport and metabolism	FabB	-
+OFOAEPEI_03480	I	Lipid transport and metabolism	FabA	-
+OFOAEPEI_03481	I	Lipid transport and metabolism	AcpS	-
+OFOAEPEI_03482	I	Lipid transport and metabolism	PlsC	-
+OFOAEPEI_03483	R	General function prediction only		-
+OFOAEPEI_03484	P	Inorganic ion transport and metabolism	PhnG	-
+OFOAEPEI_03485	P	Inorganic ion transport and metabolism	PhnH	-
+OFOAEPEI_03486	P	Inorganic ion transport and metabolism	PhnI	-
+OFOAEPEI_03487	P	Inorganic ion transport and metabolism	PhnJ	-
+OFOAEPEI_03488	P	Inorganic ion transport and metabolism	PhnK	-
+OFOAEPEI_03489	P	Inorganic ion transport and metabolism	PhnM	-
+OFOAEPEI_03490	R	General function prediction only	WbbJ	-
+OFOAEPEI_03491	P	Inorganic ion transport and metabolism	PhnL	-
+OFOAEPEI_03492	A	RNA processing and modification	YciV	-
+OFOAEPEI_03493	G	Carbohydrate transport and metabolism	SuhB	-
+OFOAEPEI_03494	M	Cell wall/membrane/envelope biogenesis	BepA	-
+OFOAEPEI_03495	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_03496	S	Function unknown	YdeI	-
+OFOAEPEI_03497	T	Signal transduction mechanisms	ACT-7	-
+OFOAEPEI_03498	K	Transcription	HipB	-
+OFOAEPEI_03500	X	Mobilome: prophages, transposons	IS285	-
+OFOAEPEI_03502	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_03503	K	Transcription	HipB	-
+OFOAEPEI_03504	H	Coenzyme transport and metabolism	RibE	-
+OFOAEPEI_03505	H	Coenzyme transport and metabolism	RibA	-
+OFOAEPEI_03506	H	Coenzyme transport and metabolism	RibC	-
+OFOAEPEI_03507	H	Coenzyme transport and metabolism	RibD1	-
+OFOAEPEI_03508	K	Transcription	XRE	-
+OFOAEPEI_03513	K	Transcription	PadR	-
+OFOAEPEI_03514	S	Function unknown		-
+OFOAEPEI_03515	S	Function unknown	YvlB	-
+OFOAEPEI_03517	G	Carbohydrate transport and metabolism	AmyA	-
+OFOAEPEI_03518	O	Posttranslational modification, protein turnover, chaperones	IbpA	-
+OFOAEPEI_03520	R	General function prediction only	YtcJ	-
+OFOAEPEI_03521	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_03522	G	Carbohydrate transport and metabolism	ProP	-
+OFOAEPEI_03523	K	Transcription	BglG	-
+OFOAEPEI_03524	T	Signal transduction mechanisms		-
+OFOAEPEI_03525	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_03527	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_03528	K	Transcription	AlpA	-
+OFOAEPEI_03529	V	Defense mechanisms	MazF	-
+OFOAEPEI_03530	K	Transcription	RpoE	-
+OFOAEPEI_03532	K	Transcription	CsgD	-
+OFOAEPEI_03533	K	Transcription	XRE	-
+OFOAEPEI_03534	K	Transcription	YdeE	-
+OFOAEPEI_03536	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_03537	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03538	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_03539	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_03542	K	Transcription	HipB	-
+OFOAEPEI_03543	L	Replication, recombination and repair	NicK	-
+OFOAEPEI_03544	M	Cell wall/membrane/envelope biogenesis	CutF	-
+OFOAEPEI_03545	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_03546	R	General function prediction only	YgiQ	-
+OFOAEPEI_03547	K	Transcription	HxlR	-
+OFOAEPEI_03548	R	General function prediction only	ElaA	-
+OFOAEPEI_03549	H	Coenzyme transport and metabolism	MetK	-
+OFOAEPEI_03550	F	Nucleotide transport and metabolism	NPY1	-
+OFOAEPEI_03552	P	Inorganic ion transport and metabolism	ArsC	-
+OFOAEPEI_03553	K	Transcription	HxlR	-
+OFOAEPEI_03554	C	Energy production and conversion	NfnB	-
+OFOAEPEI_03555	K	Transcription	ArsR	-
+OFOAEPEI_03556	P	Inorganic ion transport and metabolism	ZntA	-
+OFOAEPEI_03557	P	Inorganic ion transport and metabolism	ZntA	-
+OFOAEPEI_03558	P	Inorganic ion transport and metabolism	ZntA	-
+OFOAEPEI_03559	P	Inorganic ion transport and metabolism	CopZ	-
+OFOAEPEI_03560	K	Transcription	FrmR	-
+OFOAEPEI_03561	K	Transcription	AraC	-
+OFOAEPEI_03562	V	Defense mechanisms	NorM	-
+OFOAEPEI_03563	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_03564	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_03566	M	Cell wall/membrane/envelope biogenesis	MltE	-
+OFOAEPEI_03569	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_03570	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_03572	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+OFOAEPEI_03575	L	Replication, recombination and repair	SpoIVCA	-
+OFOAEPEI_03577	L	Replication, recombination and repair	DnaC	-
+OFOAEPEI_03581	S	Function unknown		-
+OFOAEPEI_03583	K	Transcription	RpoE	-
+OFOAEPEI_03584	K	Transcription	RpoE	-
+OFOAEPEI_03585	R	General function prediction only	YqjQ	-
+OFOAEPEI_03586	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_03587	K	Transcription	YozG	-
+OFOAEPEI_03590	X	Mobilome: prophages, transposons	YkfC	-
+OFOAEPEI_03593	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+OFOAEPEI_03597	R	General function prediction only	MviM	-
+OFOAEPEI_03598	R	General function prediction only		-
+OFOAEPEI_03599	K	Transcription	MngR	-
+OFOAEPEI_03600	K	Transcription	FadR	-
+OFOAEPEI_03601	T	Signal transduction mechanisms		-
+OFOAEPEI_03602	T	Signal transduction mechanisms		-
+OFOAEPEI_03603	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_03604	G	Carbohydrate transport and metabolism	UgpB	-
+OFOAEPEI_03605	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_03606	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03607	K	Transcription	AcrR	-
+OFOAEPEI_03608	H	Coenzyme transport and metabolism	MenH	-
+OFOAEPEI_03609	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_03610	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_03612	R	General function prediction only	YfcE	-
+OFOAEPEI_03613	R	General function prediction only	BtlA	-
+OFOAEPEI_03615	L	Replication, recombination and repair	RpnC	-
+OFOAEPEI_03616	O	Posttranslational modification, protein turnover, chaperones	SERPIN	-
+OFOAEPEI_03617	E	Amino acid transport and metabolism	LeuC	-
+OFOAEPEI_03618	C	Energy production and conversion	GltA	-
+OFOAEPEI_03619	C	Energy production and conversion	LeuB	-
+OFOAEPEI_03621	E	Amino acid transport and metabolism	ProA	-
+OFOAEPEI_03622	E	Amino acid transport and metabolism	ProB	-
+OFOAEPEI_03623	O	Posttranslational modification, protein turnover, chaperones	HtpG	-
+OFOAEPEI_03626	K	Transcription	HipB	-
+OFOAEPEI_03627	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_03628	C	Energy production and conversion	PflD	-
+OFOAEPEI_03629	E	Amino acid transport and metabolism	ProC	-
+OFOAEPEI_03630	P	Inorganic ion transport and metabolism	TauE	-
+OFOAEPEI_03631	H	Coenzyme transport and metabolism	YigB	-
+OFOAEPEI_03632	J	Translation, ribosomal structure and biogenesis	TrmA	-
+OFOAEPEI_03635	V	Defense mechanisms	SdpI	-
+OFOAEPEI_03637	C	Energy production and conversion	Gph	-
+OFOAEPEI_03638	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_03639	F	Nucleotide transport and metabolism	DeoD	-
+OFOAEPEI_03640	G	Carbohydrate transport and metabolism	DeoB	-
+OFOAEPEI_03642	L	Replication, recombination and repair	DinG	-
+OFOAEPEI_03643	J	Translation, ribosomal structure and biogenesis	RluA	-
+OFOAEPEI_03644	P	Inorganic ion transport and metabolism	KefB	-
+OFOAEPEI_03646	C	Energy production and conversion	NtpC	-
+OFOAEPEI_03647	C	Energy production and conversion	NtpI	-
+OFOAEPEI_03649	C	Energy production and conversion	NtpF	-
+OFOAEPEI_03650	C	Energy production and conversion	NtpE	-
+OFOAEPEI_03651	C	Energy production and conversion	NtpA	-
+OFOAEPEI_03652	C	Energy production and conversion	NtpB	-
+OFOAEPEI_03653	C	Energy production and conversion	NtpD	-
+OFOAEPEI_03654	O	Posttranslational modification, protein turnover, chaperones	Fra	-
+OFOAEPEI_03662	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_03663	K	Transcription	YozG	-
+OFOAEPEI_03664	K	Transcription	YozG	-
+OFOAEPEI_03666	X	Mobilome: prophages, transposons	KilAC	-
+OFOAEPEI_03668	K	Transcription	HipB	-
+OFOAEPEI_03669	K	Transcription	HipB	-
+OFOAEPEI_03670	K	Transcription	XRE	-
+OFOAEPEI_03673	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03680	L	Replication, recombination and repair	Slr0479	-
+OFOAEPEI_03682	L	Replication, recombination and repair	PolA	-
+OFOAEPEI_03683	X	Mobilome: prophages, transposons	PriRep1	-
+OFOAEPEI_03686	K	Transcription	HepA	-
+OFOAEPEI_03690	V	Defense mechanisms	McrA	-
+OFOAEPEI_03692	S	Function unknown	YjcR	-
+OFOAEPEI_03693	X	Mobilome: prophages, transposons	XtmB	-
+OFOAEPEI_03699	X	Mobilome: prophages, transposons	gp36	-
+OFOAEPEI_03707	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03709	X	Mobilome: prophages, transposons	PblB	-
+OFOAEPEI_03714	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03715	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_03716	K	Transcription	HipB	-
+OFOAEPEI_03717	O	Posttranslational modification, protein turnover, chaperones	ImmA	-
+OFOAEPEI_03721	T	Signal transduction mechanisms		-
+OFOAEPEI_03722	R	General function prediction only		-
+OFOAEPEI_03723	O	Posttranslational modification, protein turnover, chaperones	NosY	-
+OFOAEPEI_03725	K	Transcription	YhcF	-
+OFOAEPEI_03726	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03727	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_03728	P	Inorganic ion transport and metabolism	ECM27	-
+OFOAEPEI_03729	C	Energy production and conversion	WrbA	-
+OFOAEPEI_03730	C	Energy production and conversion	WrbA	-
+OFOAEPEI_03731	K	Transcription	AcrR	-
+OFOAEPEI_03732	H	Coenzyme transport and metabolism	HemG	-
+OFOAEPEI_03733	R	General function prediction only		-
+OFOAEPEI_03734	L	Replication, recombination and repair	PolC	-
+OFOAEPEI_03735	P	Inorganic ion transport and metabolism	ClcA	-
+OFOAEPEI_03736	R	General function prediction only	GrpB	-
+OFOAEPEI_03737	J	Translation, ribosomal structure and biogenesis	MraZ	-
+OFOAEPEI_03738	J	Translation, ribosomal structure and biogenesis	RmsH	-
+OFOAEPEI_03739	D	Cell cycle control, cell division, chromosome partitioning	FtsL2	-
+OFOAEPEI_03740	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+OFOAEPEI_03741	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+OFOAEPEI_03742	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_03743	T	Signal transduction mechanisms	BaeS	-
+OFOAEPEI_03744	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03745	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_03747	K	Transcription	SoxR	-
+OFOAEPEI_03748	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+OFOAEPEI_03749	M	Cell wall/membrane/envelope biogenesis	MurE	-
+OFOAEPEI_03750	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+OFOAEPEI_03751	M	Cell wall/membrane/envelope biogenesis	MurD	-
+OFOAEPEI_03752	I	Lipid transport and metabolism	UppP	-
+OFOAEPEI_03753	R	General function prediction only	YhfF	-
+OFOAEPEI_03754	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_03755	R	General function prediction only		-
+OFOAEPEI_03756	J	Translation, ribosomal structure and biogenesis	TrpS	-
+OFOAEPEI_03757	P	Inorganic ion transport and metabolism	ArsC	-
+OFOAEPEI_03761	P	Inorganic ion transport and metabolism	YraQ	-
+OFOAEPEI_03762	R	General function prediction only	TPR	-
+OFOAEPEI_03763	L	Replication, recombination and repair	SRAP	-
+OFOAEPEI_03764	P	Inorganic ion transport and metabolism	TauC	-
+OFOAEPEI_03765	R	General function prediction only	YhbS	-
+OFOAEPEI_03766	H	Coenzyme transport and metabolism	FmnP	-
+OFOAEPEI_03768	T	Signal transduction mechanisms	TypA	-
+OFOAEPEI_03769	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_03771	R	General function prediction only		-
+OFOAEPEI_03772	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_03773	K	Transcription	ArsR	-
+OFOAEPEI_03774	K	Transcription	HxlR	-
+OFOAEPEI_03776	K	Transcription	HipB	-
+OFOAEPEI_03777	E	Amino acid transport and metabolism	PotA	-
+OFOAEPEI_03778	E	Amino acid transport and metabolism	PotB	-
+OFOAEPEI_03779	E	Amino acid transport and metabolism	PotD	-
+OFOAEPEI_03781	K	Transcription	LysR	-
+OFOAEPEI_03782	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_03783	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_03784	E	Amino acid transport and metabolism	PepD2	-
+OFOAEPEI_03785	T	Signal transduction mechanisms	BltR2	-
+OFOAEPEI_03786	M	Cell wall/membrane/envelope biogenesis	MurF	-
+OFOAEPEI_03787	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+OFOAEPEI_03788	M	Cell wall/membrane/envelope biogenesis	Alr	-
+OFOAEPEI_03789	M	Cell wall/membrane/envelope biogenesis	WecH	-
+OFOAEPEI_03790	R	General function prediction only		-
+OFOAEPEI_03794	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_03795	S	Function unknown	VanZ	-
+OFOAEPEI_03796	E	Amino acid transport and metabolism	HisJ	-
+OFOAEPEI_03797	E	Amino acid transport and metabolism	HisM	-
+OFOAEPEI_03798	E	Amino acid transport and metabolism	GlnQ	-
+OFOAEPEI_03800	G	Carbohydrate transport and metabolism	SuhB	-
+OFOAEPEI_03802	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+OFOAEPEI_03803	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+OFOAEPEI_03804	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+OFOAEPEI_03805	J	Translation, ribosomal structure and biogenesis	YhaM	-
+OFOAEPEI_03806	K	Transcription	BglG	-
+OFOAEPEI_03807	E	Amino acid transport and metabolism	FrvX	-
+OFOAEPEI_03808	G	Carbohydrate transport and metabolism	CelC	-
+OFOAEPEI_03809	G	Carbohydrate transport and metabolism	CelA	-
+OFOAEPEI_03810	G	Carbohydrate transport and metabolism	CelB	-
+OFOAEPEI_03811	E	Amino acid transport and metabolism	PepP	-
+OFOAEPEI_03812	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_03814	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_03815	M	Cell wall/membrane/envelope biogenesis	BamD	-
+OFOAEPEI_03816	S	Function unknown	YcfL	-
+OFOAEPEI_03818	J	Translation, ribosomal structure and biogenesis	MiaB	-
+OFOAEPEI_03819	L	Replication, recombination and repair	Mug	-
+OFOAEPEI_03820	K	Transcription	PhnO	-
+OFOAEPEI_03821	T	Signal transduction mechanisms		-
+OFOAEPEI_03822	M	Cell wall/membrane/envelope biogenesis	Acm	-
+OFOAEPEI_03827	J	Translation, ribosomal structure and biogenesis	InfC	-
+OFOAEPEI_03828	J	Translation, ribosomal structure and biogenesis	RpmI	-
+OFOAEPEI_03829	J	Translation, ribosomal structure and biogenesis	RplT	-
+OFOAEPEI_03830	K	Transcription	MarR	-
+OFOAEPEI_03831	R	General function prediction only	RssA	-
+OFOAEPEI_03832	G	Carbohydrate transport and metabolism	GatZ	-
+OFOAEPEI_03833	T	Signal transduction mechanisms	PAS	-
+OFOAEPEI_03834	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_03835	J	Translation, ribosomal structure and biogenesis	RluA	-
+OFOAEPEI_03836	C	Energy production and conversion	SORL	-
+OFOAEPEI_03837	K	Transcription	GlpR	-
+OFOAEPEI_03838	C	Energy production and conversion	PflD	-
+OFOAEPEI_03839	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_03840	G	Carbohydrate transport and metabolism	TalA	-
+OFOAEPEI_03841	I	Lipid transport and metabolism	MmsB	-
+OFOAEPEI_03842	D	Cell cycle control, cell division, chromosome partitioning	SpoVV	-
+OFOAEPEI_03843	P	Inorganic ion transport and metabolism	FieF	-
+OFOAEPEI_03844	K	Transcription	FadR	-
+OFOAEPEI_03845	K	Transcription	SoxR	-
+OFOAEPEI_03846	D	Cell cycle control, cell division, chromosome partitioning	Spo0A	-
+OFOAEPEI_03847	F	Nucleotide transport and metabolism	YfiH	-
+OFOAEPEI_03848	K	Transcription	HrcA	-
+OFOAEPEI_03849	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+OFOAEPEI_03850	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+OFOAEPEI_03851	G	Carbohydrate transport and metabolism	PgaB	-
+OFOAEPEI_03852	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+OFOAEPEI_03853	X	Mobilome: prophages, transposons	TnpB	-
+OFOAEPEI_03854	M	Cell wall/membrane/envelope biogenesis	LolC	-
+OFOAEPEI_03855	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03856	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03857	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_03858	T	Signal transduction mechanisms	KdpD	-
+OFOAEPEI_03863	G	Carbohydrate transport and metabolism	ManA	-
+OFOAEPEI_03867	F	Nucleotide transport and metabolism	DeoC	-
+OFOAEPEI_03868	E	Amino acid transport and metabolism	LeuA	-
+OFOAEPEI_03869	E	Amino acid transport and metabolism	LeuC	-
+OFOAEPEI_03870	E	Amino acid transport and metabolism	LeuD	-
+OFOAEPEI_03871	C	Energy production and conversion	LeuB	-
+OFOAEPEI_03872	Q	Secondary metabolites biosynthesis, transport and catabolism	HutI	-
+OFOAEPEI_03873	H	Coenzyme transport and metabolism	LplA	-
+OFOAEPEI_03874	K	Transcription	LysR	-
+OFOAEPEI_03875	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_03876	P	Inorganic ion transport and metabolism	ChrA	-
+OFOAEPEI_03878	J	Translation, ribosomal structure and biogenesis	PcnB	-
+OFOAEPEI_03879	Q	Secondary metabolites biosynthesis, transport and catabolism	SmtA	-
+OFOAEPEI_03880	G	Carbohydrate transport and metabolism	YcjU	-
+OFOAEPEI_03881	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+OFOAEPEI_03885	L	Replication, recombination and repair	YaaA	-
+OFOAEPEI_03886	P	Inorganic ion transport and metabolism	CutC	-
+OFOAEPEI_03889	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+OFOAEPEI_03890	T	Signal transduction mechanisms	GGDEF	-
+OFOAEPEI_03891	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_03892	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_03893	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_03894	P	Inorganic ion transport and metabolism		-
+OFOAEPEI_03895	R	General function prediction only	PaaY	-
+OFOAEPEI_03896	P	Inorganic ion transport and metabolism	CotJC	-
+OFOAEPEI_03898	E	Amino acid transport and metabolism	CysK	-
+OFOAEPEI_03899	E	Amino acid transport and metabolism	CysE	-
+OFOAEPEI_03901	K	Transcription	PadR	-
+OFOAEPEI_03903	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03906	K	Transcription	MarR	-
+OFOAEPEI_03907	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_03908	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+OFOAEPEI_03911	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_03912	V	Defense mechanisms	SdpI	-
+OFOAEPEI_03913	K	Transcription	ArsR	-
+OFOAEPEI_03914	S	Function unknown		-
+OFOAEPEI_03915	S	Function unknown	YvlB	-
+OFOAEPEI_03916	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+OFOAEPEI_03917	M	Cell wall/membrane/envelope biogenesis	MurG	-
+OFOAEPEI_03918	M	Cell wall/membrane/envelope biogenesis	MurB	-
+OFOAEPEI_03919	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+OFOAEPEI_03920	S	Function unknown	YloU	-
+OFOAEPEI_03921	I	Lipid transport and metabolism	FakA	-
+OFOAEPEI_03922	C	Energy production and conversion	YqdH	-
+OFOAEPEI_03923	R	General function prediction only		-
+OFOAEPEI_03924	K	Transcription	LysR	-
+OFOAEPEI_03926	K	Transcription	SoxR	-
+OFOAEPEI_03928	C	Energy production and conversion	WrbA	-
+OFOAEPEI_03930	E	Amino acid transport and metabolism	MalY	-
+OFOAEPEI_03931	M	Cell wall/membrane/envelope biogenesis	LolD	-
+OFOAEPEI_03932	R	General function prediction only	FN3	-
+OFOAEPEI_03933	M	Cell wall/membrane/envelope biogenesis	LptC	-
+OFOAEPEI_03934	E	Amino acid transport and metabolism	MET17	-
+OFOAEPEI_03935	P	Inorganic ion transport and metabolism	Rubr	-
+OFOAEPEI_03936	K	Transcription	MntR	-
+OFOAEPEI_03937	P	Inorganic ion transport and metabolism	CopZ	-
+OFOAEPEI_03939	C	Energy production and conversion	FldA	-
+OFOAEPEI_03940	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_03941	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_03942	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_03945	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03946	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03947	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03948	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03949	S	Function unknown		-
+OFOAEPEI_03950	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_03951	K	Transcription	BglG	-
+OFOAEPEI_03953	M	Cell wall/membrane/envelope biogenesis	PGRP	-
+OFOAEPEI_03954	E	Amino acid transport and metabolism	HisM	-
+OFOAEPEI_03955	E	Amino acid transport and metabolism	GlnQ	-
+OFOAEPEI_03956	E	Amino acid transport and metabolism	HisJ	-
+OFOAEPEI_03957	X	Mobilome: prophages, transposons		-
+OFOAEPEI_03959	M	Cell wall/membrane/envelope biogenesis	ClfA	-
+OFOAEPEI_03960	P	Inorganic ion transport and metabolism	CynT	-
+OFOAEPEI_03961	G	Carbohydrate transport and metabolism	RbsK	-
+OFOAEPEI_03962	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+OFOAEPEI_03963	G	Carbohydrate transport and metabolism	PtsG1	-
+OFOAEPEI_03964	G	Carbohydrate transport and metabolism	BglB	-
+OFOAEPEI_03965	K	Transcription	BglG	-
+OFOAEPEI_03966	K	Transcription	MngR	-
+OFOAEPEI_03967	G	Carbohydrate transport and metabolism	ManX	-
+OFOAEPEI_03968	M	Cell wall/membrane/envelope biogenesis	BtpA	-
+OFOAEPEI_03969	G	Carbohydrate transport and metabolism	AgaB	-
+OFOAEPEI_03970	G	Carbohydrate transport and metabolism	ManY	-
+OFOAEPEI_03971	G	Carbohydrate transport and metabolism	ManZ	-
+OFOAEPEI_03972	J	Translation, ribosomal structure and biogenesis	RlmK	-
+OFOAEPEI_03973	T	Signal transduction mechanisms	KapD	-
+OFOAEPEI_03976	F	Nucleotide transport and metabolism	PyrB	-
+OFOAEPEI_03977	F	Nucleotide transport and metabolism	AllB	-
+OFOAEPEI_03978	E	Amino acid transport and metabolism	CarA	-
+OFOAEPEI_03979	E	Amino acid transport and metabolism	CarB	-
+OFOAEPEI_03980	H	Coenzyme transport and metabolism	Mcr1	-
+OFOAEPEI_03981	F	Nucleotide transport and metabolism	PyrD	-
+OFOAEPEI_03982	F	Nucleotide transport and metabolism	PyrF	-
+OFOAEPEI_03983	F	Nucleotide transport and metabolism	PyrE	-
+OFOAEPEI_03984	E	Amino acid transport and metabolism	CarA	-
+OFOAEPEI_03985	E	Amino acid transport and metabolism	CarB	-
+OFOAEPEI_03986	P	Inorganic ion transport and metabolism	TauC	-
+OFOAEPEI_03987	P	Inorganic ion transport and metabolism	TauA	-
+OFOAEPEI_03988	P	Inorganic ion transport and metabolism	TauC	-
+OFOAEPEI_03989	P	Inorganic ion transport and metabolism	TauB	-
+OFOAEPEI_03990	K	Transcription	CdaR	-
+OFOAEPEI_03991	G	Carbohydrate transport and metabolism	UhpC	-
+OFOAEPEI_03992	F	Nucleotide transport and metabolism	Udp	-
+OFOAEPEI_03993	I	Lipid transport and metabolism	FabG	-
+OFOAEPEI_03994	C	Energy production and conversion	PflD	-
+OFOAEPEI_03995	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+OFOAEPEI_03996	G	Carbohydrate transport and metabolism	Fba1	-
+OFOAEPEI_03998	P	Inorganic ion transport and metabolism		-
+OFOAEPEI_03999	C	Energy production and conversion	Pta	-
+OFOAEPEI_04000	K	Transcription	LysR	-
+OFOAEPEI_04001	E	Amino acid transport and metabolism	CdsB	-
+OFOAEPEI_04002	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+OFOAEPEI_04003	C	Energy production and conversion	LdhA	-
+OFOAEPEI_04004	M	Cell wall/membrane/envelope biogenesis	MurB	-
+OFOAEPEI_04005	K	Transcription	SoxR	-
+OFOAEPEI_04007	M	Cell wall/membrane/envelope biogenesis	PGRP	-
+OFOAEPEI_04008	R	General function prediction only	arAAA	-
+OFOAEPEI_04010	O	Posttranslational modification, protein turnover, chaperones	YebA	-
+OFOAEPEI_04011	N	Cell motility	GspF/PilC	-
+OFOAEPEI_04016	N	Cell motility	PilT/PilU	-
+OFOAEPEI_04017	N	Cell motility	PilT/PilU	-
+OFOAEPEI_04018	S	Function unknown		-
+OFOAEPEI_04019	T	Signal transduction mechanisms	PAS	-
+OFOAEPEI_04021	C	Energy production and conversion	AIM24	-
+OFOAEPEI_04022	R	General function prediction only	MviM	-
+OFOAEPEI_04023	E	Amino acid transport and metabolism	MET17	-
+OFOAEPEI_04024	E	Amino acid transport and metabolism	MetA	-
+OFOAEPEI_04025	R	General function prediction only		-
+OFOAEPEI_04026	R	General function prediction only		-
+OFOAEPEI_04027	P	Inorganic ion transport and metabolism	FeoA	-
+OFOAEPEI_04028	P	Inorganic ion transport and metabolism	FeoB	-
+OFOAEPEI_04029	I	Lipid transport and metabolism	PaaJ	-
+OFOAEPEI_04030	I	Lipid transport and metabolism	PaaJ	-
+OFOAEPEI_04031	I	Lipid transport and metabolism	CaiA	-
+OFOAEPEI_04032	C	Energy production and conversion	FixA	-
+OFOAEPEI_04033	C	Energy production and conversion	FixB	-
+OFOAEPEI_04034	I	Lipid transport and metabolism	FadB	-
+OFOAEPEI_04035	I	Lipid transport and metabolism	CaiD	-
+OFOAEPEI_04036	I	Lipid transport and metabolism	YdiF	-
+OFOAEPEI_04037	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04038	E	Amino acid transport and metabolism	GLY1	-
+OFOAEPEI_04039	R	General function prediction only	YfcE	-
+OFOAEPEI_04040	R	General function prediction only	TPR	-
+OFOAEPEI_04041	G	Carbohydrate transport and metabolism	AraJ	-
+OFOAEPEI_04042	C	Energy production and conversion	NfnB	-
+OFOAEPEI_04043	E	Amino acid transport and metabolism	MnaT	-
+OFOAEPEI_04045	R	General function prediction only	YbbA	-
+OFOAEPEI_04046	I	Lipid transport and metabolism	YhhN	-
+OFOAEPEI_04047	O	Posttranslational modification, protein turnover, chaperones	GrxC	-
+OFOAEPEI_04048	I	Lipid transport and metabolism	AccC	-
+OFOAEPEI_04049	E	Amino acid transport and metabolism	ArgG	-
+OFOAEPEI_04050	E	Amino acid transport and metabolism	ArgH	-
+OFOAEPEI_04051	E	Amino acid transport and metabolism	ArgC	-
+OFOAEPEI_04052	E	Amino acid transport and metabolism	ArgJ	-
+OFOAEPEI_04053	E	Amino acid transport and metabolism	ArgB	-
+OFOAEPEI_04054	E	Amino acid transport and metabolism	ArgD	-
+OFOAEPEI_04055	E	Amino acid transport and metabolism	ArgF	-
+OFOAEPEI_04056	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+OFOAEPEI_04058	F	Nucleotide transport and metabolism	Apt	-
+OFOAEPEI_04059	E	Amino acid transport and metabolism	EamA	-
+OFOAEPEI_04060	C	Energy production and conversion	Nar1	-
+OFOAEPEI_04062	S	Function unknown	YneF	-
+OFOAEPEI_04063	M	Cell wall/membrane/envelope biogenesis	MrcB	-
+OFOAEPEI_04065	E	Amino acid transport and metabolism	OpuBA	-
+OFOAEPEI_04066	M	Cell wall/membrane/envelope biogenesis	OsmF	-
+OFOAEPEI_04067	K	Transcription	MarR	-
+OFOAEPEI_04068	V	Defense mechanisms	NorM	-
+OFOAEPEI_04074	J	Translation, ribosomal structure and biogenesis	MnmA	-
+OFOAEPEI_04075	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+OFOAEPEI_04076	L	Replication, recombination and repair	RecD	-
+OFOAEPEI_04078	R	General function prediction only	PerM	-
+OFOAEPEI_04079	J	Translation, ribosomal structure and biogenesis	AlaS	-
+OFOAEPEI_04080	S	Function unknown		-
+OFOAEPEI_04081	J	Translation, ribosomal structure and biogenesis	YqgF	-
+OFOAEPEI_04082	S	Function unknown	YrzB	-
+OFOAEPEI_04083	M	Cell wall/membrane/envelope biogenesis	MltG	-
+OFOAEPEI_04084	F	Nucleotide transport and metabolism	Udk	-
+OFOAEPEI_04085	K	Transcription	GreA	-
+OFOAEPEI_04086	L	Replication, recombination and repair	ComEA	-
+OFOAEPEI_04087	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+OFOAEPEI_04088	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_04089	L	Replication, recombination and repair	HolA	-
+OFOAEPEI_04090	E	Amino acid transport and metabolism	SdaA	-
+OFOAEPEI_04091	C	Energy production and conversion	FldA	-
+OFOAEPEI_04092	L	Replication, recombination and repair	YhbQ	-
+OFOAEPEI_04093	U	Intracellular trafficking, secretion, and vesicular transport	YqfA	-
+OFOAEPEI_04094	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+OFOAEPEI_04095	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+OFOAEPEI_04096	K	Transcription	YlxM	-
+OFOAEPEI_04097	C	Energy production and conversion	AckA	-
+OFOAEPEI_04098	A	RNA processing and modification	NrnA	-
+OFOAEPEI_04100	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+OFOAEPEI_04101	M	Cell wall/membrane/envelope biogenesis	WzzB	-
+OFOAEPEI_04102	L	Replication, recombination and repair	DnaE	-
+OFOAEPEI_04103	R	General function prediction only	YhbS	-
+OFOAEPEI_04104	J	Translation, ribosomal structure and biogenesis	RplU	-
+OFOAEPEI_04105	J	Translation, ribosomal structure and biogenesis	Prp	-
+OFOAEPEI_04106	J	Translation, ribosomal structure and biogenesis	RpmA	-
+OFOAEPEI_04107	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+OFOAEPEI_04109	T	Signal transduction mechanisms	SPS1	-
+OFOAEPEI_04110	T	Signal transduction mechanisms	SPS1	-
+OFOAEPEI_04112	L	Replication, recombination and repair	XthA	-
+OFOAEPEI_04114	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04115	L	Replication, recombination and repair	RuvA	-
+OFOAEPEI_04116	L	Replication, recombination and repair	RuvB	-
+OFOAEPEI_04118	S	Function unknown	YcaP	-
+OFOAEPEI_04119	D	Cell cycle control, cell division, chromosome partitioning	SpoVB	-
+OFOAEPEI_04121	U	Intracellular trafficking, secretion, and vesicular transport	SecD	-
+OFOAEPEI_04122	L	Replication, recombination and repair	RecJ	-
+OFOAEPEI_04123	F	Nucleotide transport and metabolism	Apt	-
+OFOAEPEI_04124	T	Signal transduction mechanisms	SpoT	-
+OFOAEPEI_04125	J	Translation, ribosomal structure and biogenesis	RimI	-
+OFOAEPEI_04129	E	Amino acid transport and metabolism	MnaT	-
+OFOAEPEI_04130	M	Cell wall/membrane/envelope biogenesis	ElyC	-
+OFOAEPEI_04131	J	Translation, ribosomal structure and biogenesis	TmcAL	-
+OFOAEPEI_04132	I	Lipid transport and metabolism	PldB	-
+OFOAEPEI_04133	J	Translation, ribosomal structure and biogenesis	YceD	-
+OFOAEPEI_04134	J	Translation, ribosomal structure and biogenesis	RpmF	-
+OFOAEPEI_04135	J	Translation, ribosomal structure and biogenesis	RimP	-
+OFOAEPEI_04136	K	Transcription	NusA	-
+OFOAEPEI_04137	A	RNA processing and modification	RnpM	-
+OFOAEPEI_04138	J	Translation, ribosomal structure and biogenesis	Rpl7Ae	-
+OFOAEPEI_04139	J	Translation, ribosomal structure and biogenesis	InfB	-
+OFOAEPEI_04140	J	Translation, ribosomal structure and biogenesis	RbfA	-
+OFOAEPEI_04141	T	Signal transduction mechanisms	YesN	-
+OFOAEPEI_04142	T	Signal transduction mechanisms	ComP	-
+OFOAEPEI_04143	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_04144	V	Defense mechanisms	YadH	-
+OFOAEPEI_04145	V	Defense mechanisms	YadH	-
+OFOAEPEI_04146	P	Inorganic ion transport and metabolism	MgtA	-
+OFOAEPEI_04147	J	Translation, ribosomal structure and biogenesis	Uup	-
+OFOAEPEI_04152	M	Cell wall/membrane/envelope biogenesis	YdcZ	-
+OFOAEPEI_04153	M	Cell wall/membrane/envelope biogenesis	YdcZ	-
+OFOAEPEI_04154	T	Signal transduction mechanisms	Crp	-
+OFOAEPEI_04156	I	Lipid transport and metabolism	PlsY	-
+OFOAEPEI_04157	L	Replication, recombination and repair	GyrB	-
+OFOAEPEI_04158	L	Replication, recombination and repair	GyrA	-
+OFOAEPEI_04159	K	Transcription	RpoN	-
+OFOAEPEI_04160	L	Replication, recombination and repair	MutS	-
+OFOAEPEI_04161	L	Replication, recombination and repair	TopA	-
+OFOAEPEI_04162	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_04163	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+OFOAEPEI_04164	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_04165	J	Translation, ribosomal structure and biogenesis	RimL	-
+OFOAEPEI_04167	V	Defense mechanisms	MutT	-
+OFOAEPEI_04168	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_04169	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+OFOAEPEI_04170	D	Cell cycle control, cell division, chromosome partitioning	SpoVAC	-
+OFOAEPEI_04171	D	Cell cycle control, cell division, chromosome partitioning	SpoVAD	-
+OFOAEPEI_04172	D	Cell cycle control, cell division, chromosome partitioning	SpoVAEB	-
+OFOAEPEI_04173	D	Cell cycle control, cell division, chromosome partitioning	SpoVAF	-
+OFOAEPEI_04175	L	Replication, recombination and repair	ScpA	-
+OFOAEPEI_04176	K	Transcription	ScpB	-
+OFOAEPEI_04177	M	Cell wall/membrane/envelope biogenesis	DacC	-
+OFOAEPEI_04178	R	General function prediction only	SpmA	-
+OFOAEPEI_04179	S	Function unknown	SpmB	-
+OFOAEPEI_04180	D	Cell cycle control, cell division, chromosome partitioning	SepF	-
+OFOAEPEI_04181	J	Translation, ribosomal structure and biogenesis	RsuA	-
+OFOAEPEI_04182	J	Translation, ribosomal structure and biogenesis	RsmE	-
+OFOAEPEI_04184	J	Translation, ribosomal structure and biogenesis	MiaB	-
+OFOAEPEI_04185	M	Cell wall/membrane/envelope biogenesis	MurE	-
+OFOAEPEI_04186	J	Translation, ribosomal structure and biogenesis	RpsU	-
+OFOAEPEI_04187	J	Translation, ribosomal structure and biogenesis	RbbA	-
+OFOAEPEI_04189	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_04190	K	Transcription	LexA	-
+OFOAEPEI_04191	K	Transcription	XRE	-
+OFOAEPEI_04192	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04194	K	Transcription	IclR	-
+OFOAEPEI_04197	M	Cell wall/membrane/envelope biogenesis	LptD	-
+OFOAEPEI_04199	D	Cell cycle control, cell division, chromosome partitioning	DivIVA	-
+OFOAEPEI_04202	L	Replication, recombination and repair	YbjD	-
+OFOAEPEI_04204	H	Coenzyme transport and metabolism	PhnP	-
+OFOAEPEI_04208	L	Replication, recombination and repair	RusA	-
+OFOAEPEI_04213	L	Replication, recombination and repair	DnaB	-
+OFOAEPEI_04216	V	Defense mechanisms	HsdM	-
+OFOAEPEI_04218	L	Replication, recombination and repair	Ssb	-
+OFOAEPEI_04222	S	Function unknown	CwlO1	-
+OFOAEPEI_04224	J	Translation, ribosomal structure and biogenesis	Nob1	-
+OFOAEPEI_04225	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_04229	M	Cell wall/membrane/envelope biogenesis	AidA	-
+OFOAEPEI_04232	M	Cell wall/membrane/envelope biogenesis		-
+OFOAEPEI_04235	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04240	D	Cell cycle control, cell division, chromosome partitioning	YqfD	-
+OFOAEPEI_04241	T	Signal transduction mechanisms	PhoH	-
+OFOAEPEI_04242	T	Signal transduction mechanisms	OmpR	-
+OFOAEPEI_04243	T	Signal transduction mechanisms	WalK	-
+OFOAEPEI_04244	X	Mobilome: prophages, transposons	Tra8	-
+OFOAEPEI_04252	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+OFOAEPEI_04262	X	Mobilome: prophages, transposons	PblB	-
+OFOAEPEI_04263	X	Mobilome: prophages, transposons	YomH	-
+OFOAEPEI_04264	P	Inorganic ion transport and metabolism	XkdP	-
+OFOAEPEI_04279	V	Defense mechanisms	Csa3	-
+OFOAEPEI_04281	K	Transcription	CsgD	-
+OFOAEPEI_04282	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_04304	B	Chromatin structure and dynamics	HupA	-
+OFOAEPEI_04315	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_04317	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_04324	S	Function unknown	3D	-
+OFOAEPEI_04325	H	Coenzyme transport and metabolism	CoaE	-
+OFOAEPEI_04327	L	Replication, recombination and repair	DnaB	-
+OFOAEPEI_04328	L	Replication, recombination and repair	DnaG	-
+OFOAEPEI_04331	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04332	X	Mobilome: prophages, transposons	KilAC	-
+OFOAEPEI_04333	L	Replication, recombination and repair	UvrD	-
+OFOAEPEI_04337	L	Replication, recombination and repair	Slr0479	-
+OFOAEPEI_04338	R	General function prediction only	YmaB	-
+OFOAEPEI_04340	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+OFOAEPEI_04344	L	Replication, recombination and repair	DnaE	-
+OFOAEPEI_04349	L	Replication, recombination and repair	Dcm	-
+OFOAEPEI_04351	R	General function prediction only		-
+OFOAEPEI_04353	R	General function prediction only		-
+OFOAEPEI_04357	L	Replication, recombination and repair	FimB	-
+OFOAEPEI_04358	L	Replication, recombination and repair	XerD	-
+OFOAEPEI_04360	K	Transcription	LexA	-
+OFOAEPEI_04362	X	Mobilome: prophages, transposons	KilAC	-
+OFOAEPEI_04366	M	Cell wall/membrane/envelope biogenesis	LptD	-
+OFOAEPEI_04371	L	Replication, recombination and repair	YbjD	-
+OFOAEPEI_04373	H	Coenzyme transport and metabolism	PhnP	-
+OFOAEPEI_04377	L	Replication, recombination and repair	RusA	-
+OFOAEPEI_04381	L	Replication, recombination and repair	DnaB	-
+OFOAEPEI_04384	E	Amino acid transport and metabolism	CysH	-
+OFOAEPEI_04385	E	Amino acid transport and metabolism	CysH	-
+OFOAEPEI_04388	R	General function prediction only	ASCH	-
+OFOAEPEI_04389	L	Replication, recombination and repair	Ssb	-
+OFOAEPEI_04397	L	Replication, recombination and repair	Mcm2	-
+OFOAEPEI_04410	X	Mobilome: prophages, transposons		-
+OFOAEPEI_04422	S	Function unknown	CwlO1	-
+OFOAEPEI_04425	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+OFOAEPEI_04429	M	Cell wall/membrane/envelope biogenesis	AidA	-
+OFOAEPEI_04432	M	Cell wall/membrane/envelope biogenesis		-

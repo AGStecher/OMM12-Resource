@@ -1,0 +1,423 @@
+Region	Contig	Locus_Tag	Gene_Name	Product	Start	End	Strand	Gene_Kind	Gene_Functions
+region001	CP065314.1	IFBJBKOH_00314	rbsB_2	Ribose import binding protein RbsB	329519	330437	-	transport	transport (smcogs) SMCOG1205: ABC transporter, carbohydrate uptake
+region001	CP065314.1	IFBJBKOH_00315	rbsC_2	Ribose import permease protein RbsC	330505	331162	-	transport	transport (smcogs) SMCOG1113: inner-membrane translocator
+region001	CP065314.1	IFBJBKOH_00316	rbsC_3	Ribose import permease protein RbsC	331158	331443	-	other	
+region001	CP065314.1	IFBJBKOH_00317	rbsA_1	Ribose import ATP-binding protein RbsA	331442	332153	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region001	CP065314.1	IFBJBKOH_00318	IFBJBKOH_00318_gene	hypothetical protein	332136	332406	-	other	
+region001	CP065314.1	IFBJBKOH_00319	metK_1	S-adenosylmethionine synthase	332479	332854	-	other	
+region001	CP065314.1	IFBJBKOH_00320	IFBJBKOH_00320_gene	hypothetical protein	333107	333338	-	other	
+region001	CP065314.1	IFBJBKOH_00321	IFBJBKOH_00321_gene	hypothetical protein	333297	333567	-	other	
+region001	CP065314.1	IFBJBKOH_00322	IFBJBKOH_00322_gene	hypothetical protein	333573	334323	-	other	
+region001	CP065314.1	IFBJBKOH_00323	IFBJBKOH_00323_gene	hypothetical protein	334312	334549	-	other	
+region001	CP065314.1	IFBJBKOH_00324	IFBJBKOH_00324_gene	Insertion sequence IS5376 putative ATP-binding protein	334795	335542	-	other	other (smcogs) SMCOG1151: transposase
+region001	CP065314.1	IFBJBKOH_00325	IFBJBKOH_00325_gene	hypothetical protein	335531	337088	-	other	other (smcogs) SMCOG1213: transposase
+region001	CP065314.1	IFBJBKOH_00326	sfp_1	4'-phosphopantetheinyl transferase Sfp	337856	338525	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1012: 4'-phosphopantetheinyl transferase
+region001	CP065314.1	IFBJBKOH_00327	IFBJBKOH_00327_gene	hypothetical protein	338584	339868	-	other	other (smcogs) SMCOG1229: transposase
+region001	CP065314.1	IFBJBKOH_00328	lgrE_1	Linear gramicidin dehydrogenase LgrE	339971	340682	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Thioesterase; biosynthetic-additional (smcogs) SMCOG1004: thioesterase
+region001	CP065314.1	IFBJBKOH_00329	IFBJBKOH_00329_gene	hypothetical protein	340959	342087	+	other	other (smcogs) SMCOG1229: transposase
+region001	CP065314.1	IFBJBKOH_00330	IFBJBKOH_00330_gene	hypothetical protein	342349	343807	+	other	
+region001	CP065314.1	IFBJBKOH_00331	IFBJBKOH_00331_gene	hypothetical protein	344026	345157	-	other	
+region001	CP065314.1	IFBJBKOH_00332	IFBJBKOH_00332_gene	hypothetical protein	345200	346268	-	other	
+region001	CP065314.1	IFBJBKOH_00333	IFBJBKOH_00333_gene	Putative multidrug export ATP-binding/permease protein	346340	348044	-	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region001	CP065314.1	IFBJBKOH_00334	tycC_1	Tyrocidine synthase 3	348124	352465	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region001	CP065314.1	IFBJBKOH_00335	tycB_1	Tyrocidine synthase 2	352490	359522	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region001	CP065314.1	IFBJBKOH_00336	tycC_2	Tyrocidine synthase 3	359815	372382	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region001	CP065314.1	IFBJBKOH_00337	IFBJBKOH_00337_gene	hypothetical protein	372546	374166	-	other	
+region001	CP065314.1	IFBJBKOH_00338	IFBJBKOH_00338_gene	hypothetical protein	374442	374805	-	other	
+region001	CP065314.1	IFBJBKOH_00339	IFBJBKOH_00339_gene	hypothetical protein	374797	375169	-	other	
+region001	CP065314.1	IFBJBKOH_00340	pksJ_1	Polyketide synthase PksJ	375281	379592	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region001	CP065314.1	IFBJBKOH_00341	IFBJBKOH_00341_gene	hypothetical protein	379903	380143	+	other	
+region001	CP065314.1	IFBJBKOH_00342	IFBJBKOH_00342_gene	hypothetical protein	380183	381059	+	other	other (smcogs) SMCOG1242: transposase
+region001	CP065314.1	IFBJBKOH_00343	acpP_2	Acyl carrier protein	381189	381423	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) PP-binding_2
+region001	CP065314.1	IFBJBKOH_00344	IFBJBKOH_00344_gene	Long-chain-fatty-acid--CoA ligase FadD15	381487	383026	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region001	CP065314.1	IFBJBKOH_00345	IFBJBKOH_00345_gene	hypothetical protein	383460	383865	+	other	
+region001	CP065314.1	IFBJBKOH_00346	IFBJBKOH_00346_gene	hypothetical protein	385474	385723	+	other	
+region001	CP065314.1	IFBJBKOH_00347	IFBJBKOH_00347_gene	hypothetical protein	386440	386584	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region001	CP065314.1	IFBJBKOH_00348	agrB_1	Accessory gene regulator protein B	386867	387440	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region001	CP065314.1	IFBJBKOH_00349	IFBJBKOH_00349_gene	hypothetical protein	387590	389120	+	other	
+region001	CP065314.1	IFBJBKOH_00350	IFBJBKOH_00350_gene	hypothetical protein	389200	389644	-	other	
+region001	CP065314.1	IFBJBKOH_00351	IFBJBKOH_00351_gene	hypothetical protein	389671	389824	-	other	
+region001	CP065314.1	IFBJBKOH_00352	IFBJBKOH_00352_gene	hypothetical protein	389879	390965	-	other	
+region001	CP065314.1	IFBJBKOH_00353	ytrB_2	ABC transporter ATP-binding protein YtrB	391427	391574	-	other	
+region001	CP065314.1	IFBJBKOH_00354	rbsD_1	D-ribose pyranase	391601	392018	-	other	
+region001	CP065314.1	IFBJBKOH_00355	rbsK_1	Ribokinase	392066	392960	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1276: PfkB domain protein
+region001	CP065314.1	IFBJBKOH_00356	degA_1	HTH-type transcriptional regulator DegA	393040	394018	-	regulatory	regulatory (smcogs) SMCOG1078: LacI family transcription regulator
+region001	CP065314.1	IFBJBKOH_00357	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC	394312	395530	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Flavoprotein
+region001	CP065314.1	IFBJBKOH_00358	coaX	Type III pantothenate kinase	395622	396396	+	other	
+region001	CP065314.1	IFBJBKOH_00359	IFBJBKOH_00359_gene	Non-reducing end alpha-L-arabinofuranosidase BoGH43A	396455	397970	-	other	
+region001	CP065314.1	IFBJBKOH_00360	araQ_1	L-arabinose transport system permease protein AraQ	398466	399306	-	transport	transport (smcogs) SMCOG1069: putative ABC transporter permease protein
+region002	CP065314.1	IFBJBKOH_00578	xerC_3	Tyrosine recombinase XerC	600909	601695	-	other	
+region002	CP065314.1	IFBJBKOH_00579	IFBJBKOH_00579_gene	hypothetical protein	602018	603575	+	other	other (smcogs) SMCOG1213: transposase
+region002	CP065314.1	IFBJBKOH_00580	IFBJBKOH_00580_gene	Insertion sequence IS5376 putative ATP-binding protein	603564	604311	+	other	other (smcogs) SMCOG1151: transposase
+region002	CP065314.1	IFBJBKOH_00581	IFBJBKOH_00581_gene	hypothetical protein	604430	604736	-	other	
+region002	CP065314.1	IFBJBKOH_00582	yhcG_1	Putative nuclease YhcG	604980	605973	-	other	
+region002	CP065314.1	IFBJBKOH_00583	IFBJBKOH_00583_gene	hypothetical protein	606012	606234	-	other	
+region002	CP065314.1	IFBJBKOH_00584	IFBJBKOH_00584_gene	hypothetical protein	606199	610315	-	other	
+region002	CP065314.1	IFBJBKOH_00585	IFBJBKOH_00585_gene	hypothetical protein	610808	611102	-	other	
+region002	CP065314.1	IFBJBKOH_00586	yeeO_2	putative FMN/FAD exporter YeeO	611227	612574	-	transport	transport (smcogs) SMCOG1086: MATE efflux family protein
+region002	CP065314.1	IFBJBKOH_00587	IFBJBKOH_00587_gene	hypothetical protein	612602	613193	-	other	
+region002	CP065314.1	IFBJBKOH_00588	msbA_2	Lipid A export ATP-binding/permease protein MsbA	613354	615091	-	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region002	CP065314.1	IFBJBKOH_00589	IFBJBKOH_00589_gene	putative ABC transporter ATP-binding protein	615078	616851	-	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region002	CP065314.1	IFBJBKOH_00590	IFBJBKOH_00590_gene	hypothetical protein	616906	617497	-	other	
+region002	CP065314.1	IFBJBKOH_00591	IFBJBKOH_00591_gene	hypothetical protein	617651	617954	-	other	
+region002	CP065314.1	IFBJBKOH_00592	IFBJBKOH_00592_gene	Methylmalonyl-CoA carboxyltransferase 12S subunit	618290	618701	-	other	
+region002	CP065314.1	IFBJBKOH_00593	accD5	putative propionyl-CoA carboxylase beta chain 5	619072	619225	-	other	
+region002	CP065314.1	IFBJBKOH_00594	fabD_1	Malonyl CoA-acyl carrier protein transacylase	619255	620176	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PKS_AT; biosynthetic-additional (smcogs) SMCOG1021: malonyl CoA-acyl carrier protein transacylase
+region002	CP065314.1	IFBJBKOH_00595	lgrE_2	Linear gramicidin dehydrogenase LgrE	620166	620895	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Thioesterase; biosynthetic-additional (smcogs) SMCOG1004: thioesterase
+region002	CP065314.1	IFBJBKOH_00596	grsB	Gramicidin S synthase 2	620896	623395	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS-like: PP-binding; biosynthetic (rule-based-clusters) NRPS-like: AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region002	CP065314.1	IFBJBKOH_00597	pksN_1	Polyketide synthase PksN	623397	626961	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (rule-based-clusters) PKS_KS; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) Condensation; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region002	CP065314.1	IFBJBKOH_00598	cmdD	Chondramide synthase cmdD	626985	629061	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Condensation; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region002	CP065314.1	IFBJBKOH_00599	pksM	Polyketide synthase PksM	629074	633631	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (rule-based-clusters) PKS_KS; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region002	CP065314.1	IFBJBKOH_00600	srfAA	Surfactin synthase subunit 1	633623	634994	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Condensation; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region002	CP065314.1	IFBJBKOH_00601	tycC_3	Tyrocidine synthase 3	635103	640098	-	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region002	CP065314.1	IFBJBKOH_00602	IFBJBKOH_00602_gene	hypothetical protein	640098	640947	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region002	CP065314.1	IFBJBKOH_00603	pikAV	Thioesterase PikA5	640956	641706	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Thioesterase; biosynthetic-additional (smcogs) SMCOG1004: thioesterase
+region002	CP065314.1	IFBJBKOH_00604	agrB_2	Accessory gene regulator protein B	642118	642691	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region002	CP065314.1	IFBJBKOH_00605	IFBJBKOH_00605_gene	hypothetical protein	642692	642848	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region002	CP065314.1	IFBJBKOH_00606	IFBJBKOH_00606_gene	hypothetical protein	642995	644297	-	other	
+region002	CP065314.1	IFBJBKOH_00607	ypdB_2	Transcriptional regulatory protein YpdB	644293	645025	-	other	
+region002	CP065314.1	IFBJBKOH_00608	clgR	Transcriptional regulator ClgR	645125	645446	-	other	other (smcogs) SMCOG1148: hypothetical protein
+region002	CP065314.1	IFBJBKOH_00609	IFBJBKOH_00609_gene	hypothetical protein	646013	646289	-	other	
+region002	CP065314.1	IFBJBKOH_00610	IFBJBKOH_00610_gene	hypothetical protein	646301	647150	-	other	
+region002	CP065314.1	IFBJBKOH_00611	spoVG_1	Putative septation protein SpoVG	647231	647636	-	other	
+region002	CP065314.1	IFBJBKOH_00612	IFBJBKOH_00612_gene	hypothetical protein	647635	647800	-	other	
+region002	CP065314.1	IFBJBKOH_00613	uvrD1	ATP-dependent DNA helicase UvrD1	647954	649892	-	other	
+region002	CP065314.1	IFBJBKOH_00614	recF_1	DNA replication and repair protein RecF	649876	651892	-	other	
+region002	CP065314.1	IFBJBKOH_00615	IFBJBKOH_00615_gene	hypothetical protein	651882	652572	-	other	
+region002	CP065314.1	IFBJBKOH_00616	IFBJBKOH_00616_gene	hypothetical protein	652561	653857	-	other	
+region002	CP065314.1	IFBJBKOH_00617	IFBJBKOH_00617_gene	hypothetical protein	654277	655102	-	other	
+region002	CP065314.1	IFBJBKOH_00618	IFBJBKOH_00618_gene	hypothetical protein	655139	655739	-	other	
+region002	CP065314.1	IFBJBKOH_00619	IFBJBKOH_00619_gene	hypothetical protein	655735	657988	-	other	
+region002	CP065314.1	IFBJBKOH_00620	xerD_2	Tyrosine recombinase XerD	657971	659144	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region002	CP065314.1	IFBJBKOH_00621	IFBJBKOH_00621_gene	hypothetical protein	659227	659449	-	other	
+region003	CP065314.1	IFBJBKOH_01338	stp_1	Serine/threonine phosphatase stp	1360614	1361454	-	other	
+region003	CP065314.1	IFBJBKOH_01339	IFBJBKOH_01339_gene	hypothetical protein	1361467	1362001	-	other	
+region003	CP065314.1	IFBJBKOH_01340	IFBJBKOH_01340_gene	hypothetical protein	1362074	1362629	-	other	
+region003	CP065314.1	IFBJBKOH_01341	dnaJ_1	Chaperone protein DnaJ	1362648	1363092	-	other	
+region003	CP065314.1	IFBJBKOH_01342	IFBJBKOH_01342_gene	hypothetical protein	1363155	1363584	-	other	
+region003	CP065314.1	IFBJBKOH_01343	IFBJBKOH_01343_gene	hypothetical protein	1363611	1364043	-	other	
+region003	CP065314.1	IFBJBKOH_01344	IFBJBKOH_01344_gene	hypothetical protein	1364119	1366297	-	other	
+region003	CP065314.1	IFBJBKOH_01345	IFBJBKOH_01345_gene	hypothetical protein	1366514	1368347	-	other	
+region003	CP065314.1	IFBJBKOH_01346	IFBJBKOH_01346_gene	hypothetical protein	1368372	1368645	-	other	
+region003	CP065314.1	IFBJBKOH_01347	IFBJBKOH_01347_gene	hypothetical protein	1369183	1369546	+	other	
+region003	CP065314.1	IFBJBKOH_01348	agrB_3	Accessory gene regulator protein B	1369602	1370169	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region003	CP065314.1	IFBJBKOH_01349	IFBJBKOH_01349_gene	hypothetical protein	1370168	1370330	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region003	CP065314.1	IFBJBKOH_01350	IFBJBKOH_01350_gene	hypothetical protein	1370435	1371758	-	other	
+region003	CP065314.1	IFBJBKOH_01351	rcsC_1	Sensor histidine kinase RcsC	1371762	1372632	-	other	
+region003	CP065314.1	IFBJBKOH_01352	IFBJBKOH_01352_gene	hypothetical protein	1373331	1374186	+	other	other (smcogs) SMCOG1237: transposase
+region003	CP065314.1	IFBJBKOH_01353	IFBJBKOH_01353_gene	hypothetical protein	1374614	1375241	-	other	
+region003	CP065314.1	IFBJBKOH_01354	IFBJBKOH_01354_gene	hypothetical protein	1375265	1376258	-	other	
+region003	CP065314.1	IFBJBKOH_01355	ltrA_11	Group II intron-encoded protein LtrA	1376578	1378366	-	other	
+region003	CP065314.1	IFBJBKOH_01356	IFBJBKOH_01356_gene	hypothetical protein	1378971	1379640	-	other	
+region004	CP065314.1	IFBJBKOH_01692	ribH	6,7-dimethyl-8-ribityllumazine synthase	1716236	1716755	+	other	
+region004	CP065314.1	IFBJBKOH_01693	IFBJBKOH_01693_gene	hypothetical protein	1716643	1716949	-	other	
+region004	CP065314.1	IFBJBKOH_01694	IFBJBKOH_01694_gene	hypothetical protein	1716908	1717202	-	other	
+region004	CP065314.1	IFBJBKOH_01695	ydjJ_1	putative zinc-type alcohol dehydrogenase-like protein YdjJ	1717201	1717393	-	other	
+region004	CP065314.1	IFBJBKOH_01696	IFBJBKOH_01696_gene	hypothetical protein	1717444	1718302	+	other	other (smcogs) SMCOG1213: transposase
+region004	CP065314.1	IFBJBKOH_01697	IFBJBKOH_01697_gene	hypothetical protein	1718276	1718759	+	other	
+region004	CP065314.1	IFBJBKOH_01698	pccB_1	Propionyl-CoA carboxylase beta chain	1719523	1720876	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1059: acetyl-CoA carboxylase, carboxyl transferase,
+region004	CP065314.1	IFBJBKOH_01699	IFBJBKOH_01699_gene	hypothetical protein	1720890	1721133	-	other	
+region004	CP065314.1	IFBJBKOH_01700	IFBJBKOH_01700_gene	hypothetical protein	1721179	1721890	-	other	
+region004	CP065314.1	IFBJBKOH_01701	mepA_6	Multidrug export protein MepA	1721973	1722528	-	transport	transport (smcogs) SMCOG1086: MATE efflux family protein
+region004	CP065314.1	IFBJBKOH_01702	IFBJBKOH_01702_gene	hypothetical protein	1722560	1722827	-	other	
+region004	CP065314.1	IFBJBKOH_01703	IFBJBKOH_01703_gene	hypothetical protein	1723665	1724649	+	other	other (smcogs) SMCOG1229: transposase
+region004	CP065314.1	IFBJBKOH_01704	IFBJBKOH_01704_gene	hypothetical protein	1724655	1724904	+	other	
+region004	CP065314.1	IFBJBKOH_01705	IFBJBKOH_01705_gene	hypothetical protein	1725201	1725345	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region004	CP065314.1	IFBJBKOH_01706	IFBJBKOH_01706_gene	hypothetical protein	1726352	1726703	+	other	
+region004	CP065314.1	IFBJBKOH_01707	IFBJBKOH_01707_gene	hypothetical protein	1726808	1727135	+	other	
+region004	CP065314.1	IFBJBKOH_01708	IFBJBKOH_01708_gene	Insertion sequence IS5376 putative ATP-binding protein	1727254	1728001	-	other	other (smcogs) SMCOG1151: transposase
+region004	CP065314.1	IFBJBKOH_01709	IFBJBKOH_01709_gene	hypothetical protein	1727990	1729547	-	other	other (smcogs) SMCOG1213: transposase
+region004	CP065314.1	IFBJBKOH_01710	IFBJBKOH_01710_gene	hypothetical protein	1729933	1730212	-	other	
+region004	CP065314.1	IFBJBKOH_01711	IFBJBKOH_01711_gene	hypothetical protein	1730847	1731054	+	other	
+region004	CP065314.1	IFBJBKOH_01712	IFBJBKOH_01712_gene	hypothetical protein	1731053	1731350	+	other	
+region004	CP065314.1	IFBJBKOH_01713	agrB_4	Accessory gene regulator protein B	1731532	1732093	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region004	CP065314.1	IFBJBKOH_01714	IFBJBKOH_01714_gene	hypothetical protein	1732119	1733400	-	other	
+region004	CP065314.1	IFBJBKOH_01715	agrA	Accessory gene regulator A	1733386	1734136	-	other	
+region004	CP065314.1	IFBJBKOH_01716	IFBJBKOH_01716_gene	hypothetical protein	1734688	1735417	-	other	
+region004	CP065314.1	IFBJBKOH_01717	nrdG	Anaerobic ribonucleoside-triphosphate reductase-activating protein	1735543	1736080	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Fer4_12; biosynthetic-additional (rule-based-clusters) QueE
+region004	CP065314.1	IFBJBKOH_01718	nrdD_2	Anaerobic ribonucleoside-triphosphate reductase	1736081	1738241	-	other	
+region004	CP065314.1	IFBJBKOH_01719	IFBJBKOH_01719_gene	hypothetical protein	1738715	1738898	+	other	
+region004	CP065314.1	IFBJBKOH_01720	bmr3	Multidrug resistance protein 3	1738992	1740432	-	transport	transport (smcogs) SMCOG1005: Drug resistance transporter, EmrB/QacA
+region004	CP065314.1	IFBJBKOH_01721	IFBJBKOH_01721_gene	hypothetical protein	1740743	1740983	+	other	
+region004	CP065314.1	IFBJBKOH_01722	IFBJBKOH_01722_gene	hypothetical protein	1741023	1741899	+	other	other (smcogs) SMCOG1242: transposase
+region005	CP065314.1	IFBJBKOH_02368	IFBJBKOH_02368_gene	hypothetical protein	2403666	2405562	-	other	
+region005	CP065314.1	IFBJBKOH_02369	stp_2	Serine/threonine phosphatase stp	2405611	2406451	-	other	
+region005	CP065314.1	IFBJBKOH_02370	IFBJBKOH_02370_gene	hypothetical protein	2406464	2406998	-	other	
+region005	CP065314.1	IFBJBKOH_02371	IFBJBKOH_02371_gene	hypothetical protein	2407071	2407626	-	other	
+region005	CP065314.1	IFBJBKOH_02372	dnaJ_2	Chaperone protein DnaJ	2407645	2408089	-	other	
+region005	CP065314.1	IFBJBKOH_02373	IFBJBKOH_02373_gene	hypothetical protein	2408152	2408581	-	other	
+region005	CP065314.1	IFBJBKOH_02374	IFBJBKOH_02374_gene	hypothetical protein	2408608	2409040	-	other	
+region005	CP065314.1	IFBJBKOH_02375	IFBJBKOH_02375_gene	hypothetical protein	2409116	2411294	-	other	
+region005	CP065314.1	IFBJBKOH_02376	IFBJBKOH_02376_gene	hypothetical protein	2411374	2411476	-	other	
+region005	CP065314.1	IFBJBKOH_02377	IFBJBKOH_02377_gene	hypothetical protein	2411478	2413314	-	other	
+region005	CP065314.1	IFBJBKOH_02378	agrB_5	Accessory gene regulator protein B	2413625	2414216	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region005	CP065314.1	IFBJBKOH_02379	IFBJBKOH_02379_gene	hypothetical protein	2414234	2414408	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region005	CP065314.1	IFBJBKOH_02380	IFBJBKOH_02380_gene	hypothetical protein	2414477	2415779	-	other	
+region005	CP065314.1	IFBJBKOH_02381	lytR_2	Sensory transduction protein LytR	2415753	2416605	-	other	
+region005	CP065314.1	IFBJBKOH_02382	immR_3	HTH-type transcriptional regulator ImmR	2416775	2417144	+	other	other (smcogs) SMCOG1148: hypothetical protein
+region005	CP065314.1	IFBJBKOH_02383	IFBJBKOH_02383_gene	hypothetical protein	2417293	2417566	-	other	
+region005	CP065314.1	IFBJBKOH_02384	IFBJBKOH_02384_gene	hypothetical protein	2418130	2418514	-	other	
+region005	CP065314.1	IFBJBKOH_02385	IFBJBKOH_02385_gene	hypothetical protein	2418519	2419584	-	other	
+region005	CP065314.1	IFBJBKOH_02386	IFBJBKOH_02386_gene	hypothetical protein	2419733	2420930	-	other	
+region005	CP065314.1	IFBJBKOH_02387	IFBJBKOH_02387_gene	hypothetical protein	2421490	2422849	+	other	
+region005	CP065314.1	IFBJBKOH_02388	IFBJBKOH_02388_gene	hypothetical protein	2423218	2423500	+	other	
+region005	CP065314.1	IFBJBKOH_02389	IFBJBKOH_02389_gene	hypothetical protein	2423561	2423921	+	other	
+region006	CP065314.1	IFBJBKOH_02540	rpsJ	30S ribosomal protein S10	2554472	2554790	-	other	
+region006	CP065314.1	IFBJBKOH_02541	lytA_9	Autolysin	2555261	2556617	-	other	
+region006	CP065314.1	IFBJBKOH_02542	rlmK	Ribosomal RNA large subunit methyltransferase K	2556869	2557730	+	other	
+region006	CP065314.1	IFBJBKOH_02543	IFBJBKOH_02543_gene	hypothetical protein	2557810	2558116	-	other	
+region006	CP065314.1	IFBJBKOH_02544	aprX_1	Serine protease AprX	2558727	2559618	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_S8; biosynthetic-additional (smcogs) SMCOG1075: alkaline serine protease, subtilase family
+region006	CP065314.1	IFBJBKOH_02545	ade_2	Adenine deaminase	2559751	2561518	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Amidohydro_1
+region006	CP065314.1	IFBJBKOH_02547	IFBJBKOH_02547_gene	D-ribitol-5-phosphate phosphatase	2562167	2562785	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) HAD_2
+region006	CP065314.1	IFBJBKOH_02548	yajC_2	Sec translocon accessory complex subunit YajC	2562890	2563169	-	other	
+region006	CP065314.1	IFBJBKOH_02549	tgt	Queuine tRNA-ribosyltransferase	2563216	2564377	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) bTGT
+region006	CP065314.1	IFBJBKOH_02550	albA_2	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA	2564390	2565791	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic (rule-based-clusters) ranthipeptide: Ranthipeptide_rSAM_RRE; biosynthetic (rule-based-clusters) ranthipeptide: TIGR04085; biosynthetic (rule-based-clusters) darobactin: PF04055; biosynthetic (rule-based-clusters) darobactin: darobactin_rSAM; biosynthetic (rule-based-clusters) darobactin: TIGR04085; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12
+region006	CP065314.1	IFBJBKOH_02551	IFBJBKOH_02551_gene	hypothetical protein	2565916	2566063	-	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: SCIFF; biosynthetic (rule-based-clusters) ranthipeptide: TIGR03973
+region006	CP065314.1	IFBJBKOH_02552	IFBJBKOH_02552_gene	hypothetical protein	2566233	2566593	+	other	
+region006	CP065314.1	IFBJBKOH_02553	lspA_1	Lipoprotein signal peptidase	2566683	2567181	-	other	
+region006	CP065314.1	IFBJBKOH_02554	IFBJBKOH_02554_gene	hypothetical protein	2567299	2569051	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_S8; biosynthetic-additional (smcogs) SMCOG1075: alkaline serine protease, subtilase family
+region006	CP065314.1	IFBJBKOH_02555	clpX_2	ATP-dependent Clp protease ATP-binding subunit ClpX	2569095	2570529	-	other	
+region006	CP065314.1	IFBJBKOH_02556	htrB	Serine protease Do-like HtrB	2570662	2572090	-	other	
+region006	CP065314.1	IFBJBKOH_02557	tagU_1	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	2572266	2574690	-	other	
+region007	CP065314.1	IFBJBKOH_02740	IFBJBKOH_02740_gene	hypothetical protein	2769168	2769600	+	other	
+region007	CP065314.1	IFBJBKOH_02741	IFBJBKOH_02741_gene	hypothetical protein	2769418	2769820	-	other	
+region007	CP065314.1	IFBJBKOH_02742	IFBJBKOH_02742_gene	hypothetical protein	2769800	2770133	-	other	
+region007	CP065314.1	IFBJBKOH_02743	IFBJBKOH_02743_gene	hypothetical protein	2770220	2770589	-	other	
+region007	CP065314.1	IFBJBKOH_02744	IFBJBKOH_02744_gene	hypothetical protein	2770585	2771602	-	other	
+region007	CP065314.1	IFBJBKOH_02745	IFBJBKOH_02745_gene	hypothetical protein	2771675	2771876	-	other	
+region007	CP065314.1	IFBJBKOH_02746	IFBJBKOH_02746_gene	hypothetical protein	2771898	2773143	-	other	
+region007	CP065314.1	IFBJBKOH_02747	IFBJBKOH_02747_gene	hypothetical protein	2773219	2774068	-	other	
+region007	CP065314.1	IFBJBKOH_02748	IFBJBKOH_02748_gene	hypothetical protein	2774052	2775450	-	other	
+region007	CP065314.1	IFBJBKOH_02749	IFBJBKOH_02749_gene	hypothetical protein	2775430	2776117	-	other	
+region007	CP065314.1	IFBJBKOH_02750	IFBJBKOH_02750_gene	hypothetical protein	2776128	2776329	-	other	
+region007	CP065314.1	IFBJBKOH_02751	IFBJBKOH_02751_gene	hypothetical protein	2776585	2776825	+	other	
+region007	CP065314.1	IFBJBKOH_02752	IFBJBKOH_02752_gene	hypothetical protein	2776865	2777372	+	other	other (smcogs) SMCOG1242: transposase
+region007	CP065314.1	IFBJBKOH_02753	IFBJBKOH_02753_gene	hypothetical protein	2777424	2777736	+	other	
+region007	CP065314.1	IFBJBKOH_02754	IFBJBKOH_02754_gene	hypothetical protein	2777822	2778470	-	other	
+region007	CP065314.1	IFBJBKOH_02755	agrB_6	Accessory gene regulator protein B	2778612	2779143	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region007	CP065314.1	IFBJBKOH_02756	IFBJBKOH_02756_gene	hypothetical protein	2779155	2779851	-	other	
+region007	CP065314.1	IFBJBKOH_02757	natR_2	Transcriptional regulatory protein NatR	2779879	2780584	-	other	
+region007	CP065314.1	IFBJBKOH_02758	IFBJBKOH_02758_gene	hypothetical protein	2780549	2781893	-	other	
+region007	CP065314.1	IFBJBKOH_02759	rarA_1	Replication-associated recombination protein A	2782458	2783775	-	other	
+region007	CP065314.1	IFBJBKOH_02760	pgdA	Peptidoglycan-N-acetylglucosamine deacetylase	2783788	2784517	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1235: polysaccharide deacetylase
+region007	CP065314.1	IFBJBKOH_02761	toxA_6	Toxin A	2784708	2786340	-	other	
+region007	CP065314.1	IFBJBKOH_02762	toxB	Toxin B	2786430	2787492	-	other	
+region008	CP065314.1	IFBJBKOH_04053	mexR_2	Multidrug resistance operon repressor	4055819	4056329	-	other	
+region008	CP065314.1	IFBJBKOH_04054	rbsK_3	Ribokinase	4056321	4057110	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1276: PfkB domain protein
+region008	CP065314.1	IFBJBKOH_04055	tcyC_3	L-cystine import ATP-binding protein TcyC	4057122	4057854	-	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region008	CP065314.1	IFBJBKOH_04056	tcyB_2	L-cystine transport system permease protein TcyB	4057865	4058390	-	transport	transport (smcogs) SMCOG1096: polar amino acid ABC transporter, inner membrane
+region008	CP065314.1	IFBJBKOH_04057	IFBJBKOH_04057_gene	hypothetical protein	4058554	4059463	+	other	other (smcogs) SMCOG1237: transposase
+region008	CP065314.1	IFBJBKOH_04058	IFBJBKOH_04058_gene	hypothetical protein	4059499	4060189	+	other	other (smcogs) SMCOG1237: transposase
+region008	CP065314.1	IFBJBKOH_04059	IFBJBKOH_04059_gene	hypothetical protein	4060864	4061653	+	other	
+region008	CP065314.1	IFBJBKOH_04060	IFBJBKOH_04060_gene	hypothetical protein	4062046	4062307	+	other	
+region008	CP065314.1	IFBJBKOH_04061	immR_8	HTH-type transcriptional regulator ImmR	4062376	4062691	-	other	other (smcogs) SMCOG1148: hypothetical protein
+region008	CP065314.1	IFBJBKOH_04062	lytR_3	Sensory transduction protein LytR	4062881	4063643	+	other	
+region008	CP065314.1	IFBJBKOH_04063	IFBJBKOH_04063_gene	hypothetical protein	4063651	4064968	+	other	
+region008	CP065314.1	IFBJBKOH_04064	IFBJBKOH_04064_gene	hypothetical protein	4065042	4065219	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region008	CP065314.1	IFBJBKOH_04065	agrB_7	Accessory gene regulator protein B	4065231	4065822	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region008	CP065314.1	IFBJBKOH_04066	IFBJBKOH_04066_gene	hypothetical protein	4066363	4068202	+	other	
+region008	CP065314.1	IFBJBKOH_04067	IFBJBKOH_04067_gene	hypothetical protein	4068416	4070597	+	other	
+region008	CP065314.1	IFBJBKOH_04068	IFBJBKOH_04068_gene	hypothetical protein	4070671	4071103	+	other	
+region008	CP065314.1	IFBJBKOH_04069	IFBJBKOH_04069_gene	hypothetical protein	4071129	4071558	+	other	
+region008	CP065314.1	IFBJBKOH_04070	dnaJ_3	Chaperone protein DnaJ	4071630	4072077	+	other	
+region008	CP065314.1	IFBJBKOH_04071	IFBJBKOH_04071_gene	hypothetical protein	4072153	4072708	+	other	
+region008	CP065314.1	IFBJBKOH_04072	IFBJBKOH_04072_gene	hypothetical protein	4072788	4073322	+	other	
+region008	CP065314.1	IFBJBKOH_04073	stp_3	Serine/threonine phosphatase stp	4073342	4074182	+	other	
+region009	CP065314.1	IFBJBKOH_04723	IFBJBKOH_04723_gene	Multifunctional alkaline phosphatase superfamily protein	4710268	4711759	+	other	
+region009	CP065314.1	IFBJBKOH_04724	lacF_8	Lactose transport system permease protein LacF	4711778	4712723	+	transport	transport (smcogs) SMCOG1067: putative ABC transporter permease protein
+region009	CP065314.1	IFBJBKOH_04725	araQ_19	L-arabinose transport system permease protein AraQ	4712738	4713563	+	transport	transport (smcogs) SMCOG1069: putative ABC transporter permease protein
+region009	CP065314.1	IFBJBKOH_04726	msmE_6	Multiple sugar-binding protein	4713645	4715166	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1143: sugar-binding lipoprotein
+region009	CP065314.1	IFBJBKOH_04727	IFBJBKOH_04727_gene	hypothetical protein	4716109	4716424	-	other	
+region009	CP065314.1	IFBJBKOH_04728	IFBJBKOH_04728_gene	hypothetical protein	4716861	4717182	+	other	
+region009	CP065314.1	IFBJBKOH_04729	IFBJBKOH_04729_gene	hypothetical protein	4717168	4717576	+	other	
+region009	CP065314.1	IFBJBKOH_04730	IFBJBKOH_04730_gene	hypothetical protein	4718095	4718209	-	other	
+region009	CP065314.1	IFBJBKOH_04731	IFBJBKOH_04731_gene	hypothetical protein	4718356	4718596	+	other	
+region009	CP065314.1	IFBJBKOH_04732	IFBJBKOH_04732_gene	hypothetical protein	4718567	4718795	+	other	
+region009	CP065314.1	IFBJBKOH_04733	IFBJBKOH_04733_gene	hypothetical protein	4719026	4724318	+	other	
+region009	CP065314.1	IFBJBKOH_04734	IFBJBKOH_04734_gene	hypothetical protein	4724354	4724537	-	other	
+region009	CP065314.1	IFBJBKOH_04735	IFBJBKOH_04735_gene	hypothetical protein	4725046	4726381	-	other	other (smcogs) SMCOG1237: transposase
+region009	CP065314.1	IFBJBKOH_04736	spo0A_7	Stage 0 sporulation protein A	4726765	4727131	+	other	
+region009	CP065314.1	IFBJBKOH_04737	msbA_3	Lipid A export ATP-binding/permease protein MsbA	4727441	4729139	-	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region009	CP065314.1	IFBJBKOH_04738	lgrE_3	Linear gramicidin dehydrogenase LgrE	4729383	4730148	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Thioesterase; biosynthetic-additional (rule-based-clusters) Abhydrolase_6; biosynthetic-additional (smcogs) SMCOG1004: thioesterase
+region009	CP065314.1	IFBJBKOH_04739	angR_1	Anguibactin system regulator	4730152	4733296	+	biosynthetic	biosynthetic (rule-based-clusters) NRPS-like: PP-binding; biosynthetic (rule-based-clusters) NRPS-like: AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region009	CP065314.1	IFBJBKOH_04740	mbtB_1	Phenyloxazoline synthase MbtB	4733320	4734808	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Condensation; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region009	CP065314.1	IFBJBKOH_04741	sfp_3	4'-phosphopantetheinyl transferase Sfp	4734818	4735466	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1012: 4'-phosphopantetheinyl transferase
+region009	CP065314.1	IFBJBKOH_04742	ppsD	Plipastatin synthase subunit D	4735462	4742515	+	biosynthetic	biosynthetic (rule-based-clusters) NRPS: Condensation; biosynthetic (rule-based-clusters) NRPS: AMP-binding; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region009	CP065314.1	IFBJBKOH_04743	tycB_2	Tyrocidine synthase 2	4742511	4743273	+	biosynthetic	biosynthetic (rule-based-clusters) NRPS-like: PP-binding; biosynthetic (rule-based-clusters) NRPS-like: AMP-binding
+region009	CP065314.1	IFBJBKOH_04744	IFBJBKOH_04744_gene	hypothetical protein	4743286	4744363	+	other	
+region009	CP065314.1	IFBJBKOH_04745	IFBJBKOH_04745_gene	hypothetical protein	4744365	4745451	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) GFO_IDH_MocA; other (smcogs) SMCOG1099: hypothetical protein
+region009	CP065314.1	IFBJBKOH_04746	mbtB_2	Phenyloxazoline synthase MbtB	4745453	4747004	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Condensation; biosynthetic-additional (smcogs) SMCOG1127: condensation domain-containing protein
+region009	CP065314.1	IFBJBKOH_04747	angR_2	Anguibactin system regulator	4747030	4748065	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region009	CP065314.1	IFBJBKOH_04748	IFBJBKOH_04748_gene	hypothetical protein	4748128	4748623	+	other	other (smcogs) SMCOG1229: transposase
+region009	CP065314.1	IFBJBKOH_04749	IFBJBKOH_04749_gene	hypothetical protein	4748778	4749378	+	other	other (smcogs) SMCOG1229: transposase
+region009	CP065314.1	IFBJBKOH_04750	IFBJBKOH_04750_gene	hypothetical protein	4750059	4752000	+	other	
+region009	CP065314.1	IFBJBKOH_04751	linA_2	Lincosamide resistance protein	4752158	4752704	+	other	
+region009	CP065314.1	IFBJBKOH_04752	IFBJBKOH_04752_gene	hypothetical protein	4752685	4752907	+	other	
+region009	CP065314.1	IFBJBKOH_04753	IFBJBKOH_04753_gene	hypothetical protein	4753181	4753349	+	other	
+region009	CP065314.1	IFBJBKOH_04754	IFBJBKOH_04754_gene	hypothetical protein	4753813	4755184	+	other	
+region009	CP065314.1	IFBJBKOH_04755	hutI_3	Imidazolonepropionase	4755322	4756480	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Amidohydro_1
+region009	CP065314.1	IFBJBKOH_04756	kdgT_4	2-keto-3-deoxygluconate permease	4756515	4757463	-	other	
+region009	CP065314.1	IFBJBKOH_04757	IFBJBKOH_04757_gene	Limonene hydroxylase	4757765	4759385	-	regulatory	regulatory (smcogs) SMCOG1112: sigma-54 dependent trancsriptional regulator
+region009	CP065314.1	IFBJBKOH_04758	otnK	3-oxo-tetronate kinase	4759513	4760785	+	other	
+region009	CP065314.1	IFBJBKOH_04759	otnC_2	3-oxo-tetronate 4-phosphate decarboxylase	4760781	4761372	+	other	
+region009	CP065314.1	IFBJBKOH_04760	arcB_1	Aerobic respiration control sensor protein ArcB	4761422	4761815	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region010	CP065314.1	IFBJBKOH_05299	IFBJBKOH_05299_gene	hypothetical protein	5289161	5289632	+	other	
+region010	CP065314.1	IFBJBKOH_05300	IFBJBKOH_05300_gene	hypothetical protein	5289647	5291177	+	other	
+region010	CP065314.1	IFBJBKOH_05301	IFBJBKOH_05301_gene	hypothetical protein	5291169	5292003	+	other	
+region010	CP065314.1	IFBJBKOH_05302	pehX	Exo-poly-alpha-D-galacturonosidase	5292107	5294204	+	other	
+region010	CP065314.1	IFBJBKOH_05303	yteR_2	Unsaturated rhamnogalacturonyl hydrolase YteR	5294259	5295381	+	other	
+region010	CP065314.1	IFBJBKOH_05304	IFBJBKOH_05304_gene	Alkaline shock protein 23	5295829	5296213	+	other	
+region010	CP065314.1	IFBJBKOH_05305	nusB	Transcription antitermination protein NusB	5296468	5297023	+	other	
+region010	CP065314.1	IFBJBKOH_05306	xseA	Exodeoxyribonuclease 7 large subunit	5297032	5298319	+	other	
+region010	CP065314.1	IFBJBKOH_05307	xseB	Exodeoxyribonuclease 7 small subunit	5298322	5298556	+	other	
+region010	CP065314.1	IFBJBKOH_05308	IFBJBKOH_05308_gene	Farnesyl diphosphate synthase	5298548	5299460	+	biosynthetic	biosynthetic (rule-based-clusters) terpene-precursor: PT_FPPS_like; biosynthetic-additional (smcogs) SMCOG1182: Polyprenyl synthetase
+region010	CP065314.1	IFBJBKOH_05309	dxs_7	1-deoxy-D-xylulose-5-phosphate synthase	5299479	5301390	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) DXP_synthase_N; biosynthetic-additional (rule-based-clusters) TPP_enzyme_C; biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region010	CP065314.1	IFBJBKOH_05310	tlyA	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA	5301521	5302334	+	other	
+region010	CP065314.1	IFBJBKOH_05311	nadK	NAD kinase	5302395	5303238	+	other	
+region010	CP065314.1	IFBJBKOH_05312	argR	Arginine repressor	5303289	5303742	+	other	
+region010	CP065314.1	IFBJBKOH_05313	recN	DNA repair protein RecN	5303759	5305418	+	other	
+region010	CP065314.1	IFBJBKOH_05314	spoIVB	SpoIVB peptidase	5305569	5306847	+	other	
+region010	CP065314.1	IFBJBKOH_05315	IFBJBKOH_05315_gene	hypothetical protein	5307199	5307421	-	other	
+region010	CP065314.1	IFBJBKOH_05316	cas5d_2	CRISPR pre-crRNA endoribonuclease Cas5d	5307594	5308257	+	other	
+region011	CP065314.1	IFBJBKOH_06272	IFBJBKOH_06272_gene	hypothetical protein	6292218	6292401	-	other	
+region011	CP065314.1	IFBJBKOH_06273	IFBJBKOH_06273_gene	hypothetical protein	6292372	6292810	-	other	
+region011	CP065314.1	IFBJBKOH_06274	IFBJBKOH_06274_gene	hypothetical protein	6293121	6293361	+	other	
+region011	CP065314.1	IFBJBKOH_06275	IFBJBKOH_06275_gene	hypothetical protein	6293401	6294277	+	other	other (smcogs) SMCOG1242: transposase
+region011	CP065314.1	IFBJBKOH_06276	xerD_33	Tyrosine recombinase XerD	6295092	6296688	-	other	other (smcogs) SMCOG1077: phage integrase family protein
+region011	CP065314.1	IFBJBKOH_06277	walR_3	Transcriptional regulatory protein WalR	6297175	6297874	+	regulatory	resistance (resist) vanR; regulatory (smcogs) SMCOG1008: response regulator
+region011	CP065314.1	IFBJBKOH_06278	IFBJBKOH_06278_gene	hypothetical protein	6297901	6298414	+	other	
+region011	CP065314.1	IFBJBKOH_06279	walK_4	Sensor histidine kinase WalK	6298429	6299494	+	regulatory	resistance (resist) vanS; regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region011	CP065314.1	IFBJBKOH_06280	yxlF_5	putative ABC transporter ATP-binding protein YxlF	6299640	6300528	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region011	CP065314.1	IFBJBKOH_06281	IFBJBKOH_06281_gene	hypothetical protein	6300529	6301771	+	other	
+region011	CP065314.1	IFBJBKOH_06282	IFBJBKOH_06282_gene	Anaerobic sulfatase-maturating enzyme	6301897	6303448	+	biosynthetic	biosynthetic (rule-based-clusters) RRE-containing: Other_Sactipeptide_rSAM_RRE; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) PF04055; biosynthetic-additional (rule-based-clusters) Fer4_12
+region011	CP065314.1	IFBJBKOH_06283	IFBJBKOH_06283_gene	Putative multidrug export ATP-binding/permease protein	6303785	6305570	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region011	CP065314.1	IFBJBKOH_06284	IFBJBKOH_06284_gene	hypothetical protein	6305553	6305736	+	other	
+region011	CP065314.1	IFBJBKOH_06285	IFBJBKOH_06285_gene	hypothetical protein	6306956	6308522	-	other	
+region011	CP065314.1	IFBJBKOH_06286	IFBJBKOH_06286_gene	hypothetical protein	6308846	6309107	-	other	
+region011	CP065314.1	IFBJBKOH_06287	xre_2	HTH-type transcriptional regulator Xre	6309293	6309668	+	other	
+region011	CP065314.1	IFBJBKOH_06288	natR_4	Transcriptional regulatory protein NatR	6309673	6310402	+	other	
+region011	CP065314.1	IFBJBKOH_06289	IFBJBKOH_06289_gene	hypothetical protein	6310388	6311705	+	other	
+region011	CP065314.1	IFBJBKOH_06290	IFBJBKOH_06290_gene	hypothetical protein	6311805	6312207	+	other	
+region011	CP065314.1	IFBJBKOH_06291	IFBJBKOH_06291_gene	hypothetical protein	6312365	6312515	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region011	CP065314.1	IFBJBKOH_06292	agrB_8	Accessory gene regulator protein B	6312516	6313107	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region011	CP065314.1	IFBJBKOH_06293	IFBJBKOH_06293_gene	hypothetical protein	6313355	6313814	+	other	
+region011	CP065314.1	IFBJBKOH_06294	IFBJBKOH_06294_gene	hypothetical protein	6313785	6314037	+	other	
+region011	CP065314.1	IFBJBKOH_06295	IFBJBKOH_06295_gene	hypothetical protein	6314451	6314640	+	other	
+region011	CP065314.1	IFBJBKOH_06296	IFBJBKOH_06296_gene	hypothetical protein	6314746	6314914	+	other	
+region011	CP065314.1	IFBJBKOH_06297	Int-Tn_8	Transposase from transposon Tn916	6314960	6316202	+	other	other (smcogs) SMCOG1077: phage integrase family protein
+region011	CP065314.1	IFBJBKOH_06298	metG_3	Methionine--tRNA ligase	6316341	6316878	+	other	
+region011	CP065314.1	IFBJBKOH_06299	IFBJBKOH_06299_gene	hypothetical protein	6317362	6317491	+	other	
+region011	CP065314.1	IFBJBKOH_06300	IFBJBKOH_06300_gene	hypothetical protein	6317539	6318835	+	transport	transport (smcogs) SMCOG1020: major facilitator transporter
+region011	CP065314.1	IFBJBKOH_06301	mutM	Formamidopyrimidine-DNA glycosylase	6318812	6319163	+	other	
+region011	CP065314.1	IFBJBKOH_06302	metK_3	S-adenosylmethionine synthase	6319668	6320643	+	other	
+region011	CP065314.1	IFBJBKOH_06303	IFBJBKOH_06303_gene	hypothetical protein	6320849	6321875	-	other	
+region012	CP065314.1	IFBJBKOH_06368	mdh	NAD-dependent methanol dehydrogenase	6390878	6392030	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Fe-ADH
+region012	CP065314.1	IFBJBKOH_06369	dapA_6	4-hydroxy-tetrahydrodipicolinate synthase	6392054	6392939	+	other	
+region012	CP065314.1	IFBJBKOH_06370	IFBJBKOH_06370_gene	hypothetical protein	6392977	6393361	+	other	
+region012	CP065314.1	IFBJBKOH_06371	yhjX_2	putative MFS-type transporter YhjX	6393484	6394210	+	transport	transport (smcogs) SMCOG1137: Major facilitator superfamily MFS 1
+region012	CP065314.1	IFBJBKOH_06372	fbaA_7	putative fructose-bisphosphate aldolase	6394224	6395061	+	other	
+region012	CP065314.1	IFBJBKOH_06373	IFBJBKOH_06373_gene	hypothetical protein	6395467	6395728	+	other	
+region012	CP065314.1	IFBJBKOH_06374	rhsC_7	Putative deoxyribonuclease RhsC	6395777	6397016	+	other	
+region012	CP065314.1	IFBJBKOH_06375	IFBJBKOH_06375_gene	hypothetical protein	6397171	6398629	-	other	
+region012	CP065314.1	IFBJBKOH_06376	IFBJBKOH_06376_gene	hypothetical protein	6398800	6398908	+	other	
+region012	CP065314.1	IFBJBKOH_06377	IFBJBKOH_06377_gene	hypothetical protein	6399146	6399782	+	other	
+region012	CP065314.1	IFBJBKOH_06378	IFBJBKOH_06378_gene	hypothetical protein	6399921	6400491	+	other	
+region012	CP065314.1	IFBJBKOH_06379	agrB_9	Accessory gene regulator protein B	6400644	6401235	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region012	CP065314.1	IFBJBKOH_06380	IFBJBKOH_06380_gene	hypothetical protein	6401231	6401336	+	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: TIGR04223
+region012	CP065314.1	IFBJBKOH_06381	IFBJBKOH_06381_gene	hypothetical protein	6401473	6402013	+	other	
+region012	CP065314.1	IFBJBKOH_06382	natR_5	Transcriptional regulatory protein NatR	6402065	6402785	+	other	
+region012	CP065314.1	IFBJBKOH_06383	IFBJBKOH_06383_gene	hypothetical protein	6402781	6404074	+	other	
+region012	CP065314.1	IFBJBKOH_06384	msbA_4	Lipid A export ATP-binding/permease protein MsbA	6404505	6406179	+	transport	transport (smcogs) SMCOG1288: ABC transporter related protein
+region012	CP065314.1	IFBJBKOH_06385	chuR_1	Anaerobic sulfatase-maturating enzyme	6406190	6407597	+	biosynthetic	biosynthetic (rule-based-clusters) ranthipeptide: PF04055; biosynthetic (rule-based-clusters) ranthipeptide: Other_Sactipeptide_rSAM_RRE; biosynthetic (rule-based-clusters) ranthipeptide: TIGR04085; biosynthetic-additional (rule-based-clusters) PTHR43273; biosynthetic-additional (rule-based-clusters) Fer4_12; biosynthetic-additional (rule-based-clusters) QueE
+region012	CP065314.1	IFBJBKOH_06386	IFBJBKOH_06386_gene	hypothetical protein	6407593	6408679	+	other	
+region012	CP065314.1	IFBJBKOH_06387	IFBJBKOH_06387_gene	hypothetical protein	6408693	6408942	+	other	
+region012	CP065314.1	IFBJBKOH_06388	IFBJBKOH_06388_gene	hypothetical protein	6409044	6409227	+	other	
+region012	CP065314.1	IFBJBKOH_06389	IFBJBKOH_06389_gene	hypothetical protein	6409339	6409522	+	other	
+region012	CP065314.1	IFBJBKOH_06390	epr	Minor extracellular protease Epr	6409796	6410888	+	other	
+region012	CP065314.1	IFBJBKOH_06391	regX3_3	Sensory transduction protein regX3	6410908	6411574	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region012	CP065314.1	IFBJBKOH_06392	phoR_5	Alkaline phosphatase synthesis sensor protein PhoR	6411557	6412991	+	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region012	CP065314.1	IFBJBKOH_06393	IFBJBKOH_06393_gene	hypothetical protein	6413077	6413611	+	other	
+region012	CP065314.1	IFBJBKOH_06394	sigK_1	ECF RNA polymerase sigma factor SigK	6414081	6414642	+	regulatory	regulatory (smcogs) SMCOG1032: RNA polymerase, sigma-24 subunit, ECF subfamily
+region012	CP065314.1	IFBJBKOH_06395	IFBJBKOH_06395_gene	hypothetical protein	6414631	6415117	+	other	
+region012	CP065314.1	IFBJBKOH_06396	IFBJBKOH_06396_gene	Insertion sequence IS5376 putative ATP-binding protein	6415196	6415943	-	other	other (smcogs) SMCOG1151: transposase
+region012	CP065314.1	IFBJBKOH_06397	IFBJBKOH_06397_gene	hypothetical protein	6415932	6417489	-	other	other (smcogs) SMCOG1213: transposase
+region013	CP065314.1	IFBJBKOH_06709	adhE_5	Aldehyde-alcohol dehydrogenase	6746915	6748031	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Fe-ADH
+region013	CP065314.1	IFBJBKOH_06710	btsS_11	Sensor histidine kinase BtsS	6748205	6749537	+	other	
+region013	CP065314.1	IFBJBKOH_06711	uvrY	Response regulator UvrY	6749539	6750568	+	regulatory	regulatory (smcogs) SMCOG1016: LuxR family DNA-binding response regulator
+region013	CP065314.1	IFBJBKOH_06712	IFBJBKOH_06712_gene	putative protein	6750624	6751152	+	other	
+region013	CP065314.1	IFBJBKOH_06713	rpmF	50S ribosomal protein L32	6751155	6751335	+	other	
+region013	CP065314.1	IFBJBKOH_06714	ruvB_2	Holliday junction ATP-dependent DNA helicase RuvB	6751951	6752950	+	other	
+region013	CP065314.1	IFBJBKOH_06715	IFBJBKOH_06715_gene	hypothetical protein	6752990	6753221	+	other	
+region013	CP065314.1	IFBJBKOH_06716	IFBJBKOH_06716_gene	hypothetical protein	6753207	6753678	+	other	
+region013	CP065314.1	IFBJBKOH_06717	IFBJBKOH_06717_gene	hypothetical protein	6753723	6754020	+	other	
+region013	CP065314.1	IFBJBKOH_06724	IFBJBKOH_06724_gene	hypothetical protein	6755934	6756054	+	other	
+region013	CP065314.1	IFBJBKOH_06727	IFBJBKOH_06727_gene	hypothetical protein	6756344	6756602	+	other	
+region013	CP065314.1	IFBJBKOH_06728	IFBJBKOH_06728_gene	hypothetical protein	6756666	6757161	+	other	
+region013	CP065314.1	IFBJBKOH_06729	IFBJBKOH_06729_gene	hypothetical protein	6757334	6757874	+	other	
+region013	CP065314.1	IFBJBKOH_06730	IFBJBKOH_06730_gene	hypothetical protein	6758018	6758825	+	other	
+region013	CP065314.1	IFBJBKOH_06731	ybeZ	PhoH-like protein	6758861	6759341	+	other	
+region013	CP065314.1	IFBJBKOH_06732	IFBJBKOH_06732_gene	hypothetical protein	6759417	6759702	-	other	
+region013	CP065314.1	IFBJBKOH_06733	xkdM_2	Phage-like element PBSX protein XkdM	6759868	6760387	+	other	
+region013	CP065314.1	IFBJBKOH_06734	yqbN_2	putative protein YqbN	6760374	6760755	+	other	
+region013	CP065314.1	IFBJBKOH_06735	IFBJBKOH_06735_gene	hypothetical protein	6760824	6760968	+	other	
+region013	CP065314.1	IFBJBKOH_06736	accD_2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	6761291	6762131	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1059: acetyl-CoA carboxylase, carboxyl transferase,
+region013	CP065314.1	IFBJBKOH_06737	accA	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	6762149	6762977	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1059: acetyl-CoA carboxylase, carboxyl transferase,
+region013	CP065314.1	IFBJBKOH_06738	accB_2	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	6762993	6763494	+	other	
+region013	CP065314.1	IFBJBKOH_06739	cfiB	2-oxoglutarate carboxylase small subunit	6763486	6764848	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) RimK; biosynthetic-additional (rule-based-clusters) ATP-grasp_3; biosynthetic-additional (rule-based-clusters) ATP-grasp; biosynthetic-additional (rule-based-clusters) Dala_Dala_lig_C; biosynthetic-additional (smcogs) SMCOG1090: acetyl-CoA carboxylase biotin carboxylase
+region013	CP065314.1	IFBJBKOH_06740	sfp_4	4'-phosphopantetheinyl transferase Sfp	6764876	6765569	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1012: 4'-phosphopantetheinyl transferase
+region013	CP065314.1	IFBJBKOH_06741	nusG_3	Transcription termination/antitermination protein NusG	6765607	6766132	+	other	
+region013	CP065314.1	IFBJBKOH_06742	baeD	Polyketide biosynthesis acyltransferase BaeD	6766304	6767249	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: PKS_AT; biosynthetic-additional (smcogs) SMCOG1021: malonyl CoA-acyl carrier protein transacylase
+region013	CP065314.1	IFBJBKOH_06743	acpK	Polyketide biosynthesis acyl-carrier-protein AcpK	6767325	6767574	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region013	CP065314.1	IFBJBKOH_06744	pksE	Polyketide biosynthesis protein PksE	6767604	6769857	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: PKS_AT; biosynthetic-additional (smcogs) SMCOG1021: malonyl CoA-acyl carrier protein transacylase
+region013	CP065314.1	IFBJBKOH_06745	pksF	Polyketide biosynthesis malonyl-ACP decarboxylase PksF	6769899	6771186	+	biosynthetic	biosynthetic (rule-based-clusters) PKS-like: t2pks2; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region013	CP065314.1	IFBJBKOH_06746	pksI	Putative polyketide biosynthesis enoyl-CoA isomerase PksI	6771178	6771940	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1023: enoyl-CoA hydratase
+region013	CP065314.1	IFBJBKOH_06747	IFBJBKOH_06747_gene	hypothetical protein	6772083	6772353	+	other	
+region013	CP065314.1	IFBJBKOH_06748	novN	Decarbamoylnovobiocin carbamoyltransferase	6772380	6774162	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Carbam_trans_N
+region013	CP065314.1	IFBJBKOH_06749	IFBJBKOH_06749_gene	hypothetical protein	6774185	6774788	+	other	
+region013	CP065314.1	IFBJBKOH_06750	pksG	Polyketide biosynthesis 3-hydroxy-3-methylglutaryl-ACP synthase PksG	6774839	6776072	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1043: hydroxymethylglutaryl-CoA synthase
+region013	CP065314.1	IFBJBKOH_06751	pksH	putative polyketide biosynthesis enoyl-CoA hydratase PksH	6776093	6776855	+	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1023: enoyl-CoA hydratase
+region013	CP065314.1	IFBJBKOH_06752	pksJ_2	Polyketide synthase PksJ	6776856	6778581	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) AMP-binding; biosynthetic-additional (smcogs) SMCOG1002: AMP-dependent synthetase and ligase
+region013	CP065314.1	IFBJBKOH_06753	pksN_2	Polyketide synthase PksN	6778619	6798149	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: ATd; biosynthetic (rule-based-clusters) transAT-PKS: PP-binding; biosynthetic (rule-based-clusters) transAT-PKS: tra_KS; biosynthetic (rule-based-clusters) transAT-PKS: PKS_KS; biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (smcogs) SMCOG1256: FkbH like protein
+region013	CP065314.1	IFBJBKOH_06754	pksL	Polyketide synthase PksL	6798162	6808158	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: tra_KS; biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (rule-based-clusters) ATd; biosynthetic-additional (smcogs) SMCOG1047: phosphopantetheine-binding domain-containing protein
+region013	CP065314.1	IFBJBKOH_06755	pksN_3	Polyketide synthase PksN	6808150	6820309	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: tra_KS; biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (rule-based-clusters) ATd; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region013	CP065314.1	IFBJBKOH_06756	pksN_4	Polyketide synthase PksN	6820342	6830338	+	biosynthetic	biosynthetic (rule-based-clusters) transAT-PKS: tra_KS; biosynthetic-additional (rule-based-clusters) ATd; biosynthetic-additional (rule-based-clusters) adh_short; biosynthetic-additional (rule-based-clusters) PP-binding; biosynthetic-additional (rule-based-clusters) ketoacyl-synt; biosynthetic-additional (smcogs) SMCOG1022: Beta-ketoacyl synthase
+region013	CP065314.1	IFBJBKOH_06757	IFBJBKOH_06757_gene	hypothetical protein	6830351	6830663	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region013	CP065314.1	IFBJBKOH_06758	IFBJBKOH_06758_gene	hypothetical protein	6830655	6831627	+	other	
+region013	CP065314.1	IFBJBKOH_06759	IFBJBKOH_06759_gene	hypothetical protein	6831671	6831983	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PP-binding
+region013	CP065314.1	IFBJBKOH_06760	IFBJBKOH_06760_gene	hypothetical protein	6831975	6832947	+	other	
+region013	CP065314.1	IFBJBKOH_06761	fabH_2	3-oxoacyl-[acyl-carrier-protein] synthase 3	6832959	6833955	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) fabH; biosynthetic-additional (smcogs) SMCOG1084: 3-oxoacyl-(acyl carrier protein) synthase III
+region013	CP065314.1	IFBJBKOH_06762	fabH_3	3-oxoacyl-[acyl-carrier-protein] synthase 3	6833968	6834937	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) fabH; biosynthetic-additional (smcogs) SMCOG1084: 3-oxoacyl-(acyl carrier protein) synthase III
+region013	CP065314.1	IFBJBKOH_06763	lgrD	Linear gramicidin synthase subunit D	6834975	6836142	+	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) NAD_binding_4
+region013	CP065314.1	IFBJBKOH_06764	tetA	Tetracycline resistance protein, class C	6836187	6837366	-	transport	resistance (resist) tet_MFS_efflux; transport (smcogs) SMCOG1184: major facilitator transporter
+region013	CP065314.1	IFBJBKOH_06765	ppsA_2	Phosphoenolpyruvate synthase	6837355	6839935	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) PPDK_N
+region013	CP065314.1	IFBJBKOH_06766	kstR2_3	HTH-type transcriptional repressor KstR2	6839950	6840544	-	regulatory	regulatory (smcogs) SMCOG1057: TetR family transcriptional regulator
+region013	CP065314.1	IFBJBKOH_06767	IFBJBKOH_06767_gene	Insertion sequence IS5376 putative ATP-binding protein	6841342	6841612	-	other	
+region013	CP065314.1	IFBJBKOH_06768	IFBJBKOH_06768_gene	hypothetical protein	6841862	6842324	-	other	
+region013	CP065314.1	IFBJBKOH_06769	IFBJBKOH_06769_gene	hypothetical protein	6842471	6843104	+	other	
+region013	CP065314.1	IFBJBKOH_06770	IFBJBKOH_06770_gene	hypothetical protein	6843152	6843248	+	other	
+region013	CP065314.1	IFBJBKOH_06771	IFBJBKOH_06771_gene	hypothetical protein	6843261	6844014	+	other	
+region013	CP065314.1	IFBJBKOH_06772	fldZ	Cinnamate reductase	6844368	6846405	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Pyr_redox_2; biosynthetic-additional (smcogs) SMCOG1217: NADH:flavin oxidoreductase/NADH oxidase
+region013	CP065314.1	IFBJBKOH_06773	IFBJBKOH_06773_gene	hypothetical protein	6847353	6847581	+	other	
+region013	CP065314.1	IFBJBKOH_06774	IFBJBKOH_06774_gene	hypothetical protein	6847614	6847920	+	other	
+region013	CP065314.1	IFBJBKOH_06775	IFBJBKOH_06775_gene	hypothetical protein	6847953	6848730	+	other	
+region013	CP065314.1	IFBJBKOH_06776	IFBJBKOH_06776_gene	hypothetical protein	6848692	6849382	+	other	
+region014	CP065314.1	IFBJBKOH_06951	dxs_10	1-deoxy-D-xylulose-5-phosphate synthase	7028959	7029577	-	biosynthetic-additional	biosynthetic-additional (smcogs) SMCOG1110: 1-deoxy-D-xylulose-5-phosphate synthase
+region014	CP065314.1	IFBJBKOH_06952	tkt_4	Transketolase	7029573	7029885	-	other	
+region014	CP065314.1	IFBJBKOH_06953	tktA_4	Transketolase 1	7029906	7030263	-	other	
+region014	CP065314.1	IFBJBKOH_06954	glcC	Glc operon transcriptional activator	7030490	7031186	+	regulatory	regulatory (smcogs) SMCOG1071: GntR family transcriptional regulator
+region014	CP065314.1	IFBJBKOH_06955	IFBJBKOH_06955_gene	hypothetical protein	7031185	7031332	+	other	
+region014	CP065314.1	IFBJBKOH_06956	IFBJBKOH_06956_gene	hypothetical protein	7031350	7031557	-	other	
+region014	CP065314.1	IFBJBKOH_06957	spo0A_11	Stage 0 sporulation protein A	7032018	7032471	-	other	
+region014	CP065314.1	IFBJBKOH_06958	IFBJBKOH_06958_gene	hypothetical protein	7032433	7032853	-	other	
+region014	CP065314.1	IFBJBKOH_06959	IFBJBKOH_06959_gene	Insertion sequence IS5376 putative ATP-binding protein	7033232	7033979	-	other	other (smcogs) SMCOG1151: transposase
+region014	CP065314.1	IFBJBKOH_06960	IFBJBKOH_06960_gene	hypothetical protein	7033968	7035525	-	other	other (smcogs) SMCOG1213: transposase
+region014	CP065314.1	IFBJBKOH_06961	IFBJBKOH_06961_gene	hypothetical protein	7036668	7037343	-	other	
+region014	CP065314.1	IFBJBKOH_06962	agrB_10	Accessory gene regulator protein B	7037373	7037913	-	biosynthetic	biosynthetic (rule-based-clusters) cyclic-lactone-autoinducer: AgrB
+region014	CP065314.1	IFBJBKOH_06963	IFBJBKOH_06963_gene	hypothetical protein	7038227	7039508	-	other	
+region014	CP065314.1	IFBJBKOH_06964	lytR_5	Sensory transduction protein LytR	7039500	7040229	-	other	
+region014	CP065314.1	IFBJBKOH_06965	IFBJBKOH_06965_gene	hypothetical protein	7040290	7040482	-	other	
+region014	CP065314.1	IFBJBKOH_06966	regX3_4	Sensory transduction protein regX3	7041032	7041719	+	regulatory	regulatory (smcogs) SMCOG1008: response regulator
+region014	CP065314.1	IFBJBKOH_06967	phoR_7	Alkaline phosphatase synthesis sensor protein PhoR	7041727	7042771	+	regulatory	regulatory (smcogs) SMCOG1003: sensor histidine kinase
+region014	CP065314.1	IFBJBKOH_06968	macB_3	Macrolide export ATP-binding/permease protein MacB	7042873	7043557	+	transport	transport (smcogs) SMCOG1000: ABC transporter ATP-binding protein
+region014	CP065314.1	IFBJBKOH_06969	IFBJBKOH_06969_gene	hypothetical protein	7043553	7045353	+	other	
+region014	CP065314.1	IFBJBKOH_06970	apr	Subtilisin	7046229	7047888	-	biosynthetic-additional	biosynthetic-additional (rule-based-clusters) Peptidase_S8

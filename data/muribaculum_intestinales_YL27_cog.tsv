@@ -1,0 +1,1962 @@
+locus_tag	COG_category	Description	Preferred_name	PFAMs
+AGCHAMHE_00002	T	Signal transduction mechanisms	CitB	-
+AGCHAMHE_00003	O	Posttranslational modification, protein turnover, chaperones	RIC	-
+AGCHAMHE_00004	J	Translation, ribosomal structure and biogenesis	ValS	-
+AGCHAMHE_00005	C	Energy production and conversion	RnfA	-
+AGCHAMHE_00006	C	Energy production and conversion	RnfE	-
+AGCHAMHE_00007	C	Energy production and conversion	RnfG	-
+AGCHAMHE_00008	C	Energy production and conversion	RnfD	-
+AGCHAMHE_00009	C	Energy production and conversion	RnfC	-
+AGCHAMHE_00010	C	Energy production and conversion	RnfB	-
+AGCHAMHE_00011	T	Signal transduction mechanisms	RseC	-
+AGCHAMHE_00012	S	Function unknown		-
+AGCHAMHE_00013	F	Nucleotide transport and metabolism	PurA	-
+AGCHAMHE_00014	P	Inorganic ion transport and metabolism	Fur	-
+AGCHAMHE_00015	J	Translation, ribosomal structure and biogenesis	RqcU	-
+AGCHAMHE_00016	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+AGCHAMHE_00017	E	Amino acid transport and metabolism	GdhA	-
+AGCHAMHE_00019	R	General function prediction only	Eis	-
+AGCHAMHE_00020	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_00021	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+AGCHAMHE_00022	M	Cell wall/membrane/envelope biogenesis	TonB	-
+AGCHAMHE_00028	O	Posttranslational modification, protein turnover, chaperones	YbbJ	-
+AGCHAMHE_00033	O	Posttranslational modification, protein turnover, chaperones	Dcp	-
+AGCHAMHE_00034	R	General function prediction only	YafD	-
+AGCHAMHE_00035	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+AGCHAMHE_00036	O	Posttranslational modification, protein turnover, chaperones	GlpG	-
+AGCHAMHE_00037	B	Chromatin structure and dynamics	HupA	-
+AGCHAMHE_00040	F	Nucleotide transport and metabolism	Adk	-
+AGCHAMHE_00041	F	Nucleotide transport and metabolism	HptA	-
+AGCHAMHE_00042	H	Coenzyme transport and metabolism	PncC	-
+AGCHAMHE_00043	J	Translation, ribosomal structure and biogenesis	TsaD	-
+AGCHAMHE_00044	F	Nucleotide transport and metabolism	NnrD	-
+AGCHAMHE_00046	G	Carbohydrate transport and metabolism	SacC	-
+AGCHAMHE_00048	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_00049	T	Signal transduction mechanisms	KdpD	-
+AGCHAMHE_00050	G	Carbohydrate transport and metabolism	RbsB	-
+AGCHAMHE_00051	G	Carbohydrate transport and metabolism	SacC	-
+AGCHAMHE_00052	G	Carbohydrate transport and metabolism	FucP	-
+AGCHAMHE_00053	G	Carbohydrate transport and metabolism	RbsK	-
+AGCHAMHE_00055	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_00056	F	Nucleotide transport and metabolism	PurF	-
+AGCHAMHE_00057	E	Amino acid transport and metabolism	GltD	-
+AGCHAMHE_00058	E	Amino acid transport and metabolism	GltB3	-
+AGCHAMHE_00059	E	Amino acid transport and metabolism	GlnA3	-
+AGCHAMHE_00060	E	Amino acid transport and metabolism	AspB	-
+AGCHAMHE_00061	E	Amino acid transport and metabolism	DapF	-
+AGCHAMHE_00062	S	Function unknown		-
+AGCHAMHE_00063	H	Coenzyme transport and metabolism	SerC	-
+AGCHAMHE_00064	H	Coenzyme transport and metabolism	SerA	-
+AGCHAMHE_00067	S	Function unknown	NPCBM	-
+AGCHAMHE_00068	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_00070	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_00071	G	Carbohydrate transport and metabolism	YicI	-
+AGCHAMHE_00072	T	Signal transduction mechanisms	KdpD	-
+AGCHAMHE_00073	T	Signal transduction mechanisms	OmpR	-
+AGCHAMHE_00074	O	Posttranslational modification, protein turnover, chaperones	GroES	-
+AGCHAMHE_00075	O	Posttranslational modification, protein turnover, chaperones	GroEL	-
+AGCHAMHE_00076	J	Translation, ribosomal structure and biogenesis	YicC	-
+AGCHAMHE_00077	F	Nucleotide transport and metabolism	Gmk	-
+AGCHAMHE_00078	H	Coenzyme transport and metabolism	NadD	-
+AGCHAMHE_00080	C	Energy production and conversion	FldA	-
+AGCHAMHE_00085	G	Carbohydrate transport and metabolism	YcjR	-
+AGCHAMHE_00086	L	Replication, recombination and repair	DinP	-
+AGCHAMHE_00087	G	Carbohydrate transport and metabolism	PpsA	-
+AGCHAMHE_00088	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+AGCHAMHE_00089	E	Amino acid transport and metabolism	DAP2	-
+AGCHAMHE_00091	J	Translation, ribosomal structure and biogenesis	MiaA	-
+AGCHAMHE_00092	R	General function prediction only	PqqL	-
+AGCHAMHE_00093	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+AGCHAMHE_00094	K	Transcription	AraC	-
+AGCHAMHE_00096	R	General function prediction only	WbbJ	-
+AGCHAMHE_00097	Q	Secondary metabolites biosynthesis, transport and catabolism	ARA1	-
+AGCHAMHE_00098	C	Energy production and conversion	YqdH	-
+AGCHAMHE_00099	E	Amino acid transport and metabolism	ArgA	-
+AGCHAMHE_00100	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00102	K	Transcription	AraC	-
+AGCHAMHE_00103	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_00104	R	General function prediction only	YncE	-
+AGCHAMHE_00106	R	General function prediction only		-
+AGCHAMHE_00107	R	General function prediction only	YohJ	-
+AGCHAMHE_00108	M	Cell wall/membrane/envelope biogenesis	LrgB	-
+AGCHAMHE_00109	J	Translation, ribosomal structure and biogenesis	PrfA	-
+AGCHAMHE_00110	F	Nucleotide transport and metabolism	PyrF	-
+AGCHAMHE_00111	G	Carbohydrate transport and metabolism	Pgk	-
+AGCHAMHE_00112	J	Translation, ribosomal structure and biogenesis	TrmA	-
+AGCHAMHE_00113	I	Lipid transport and metabolism	FabI	-
+AGCHAMHE_00114	R	General function prediction only	YocR	-
+AGCHAMHE_00115	R	General function prediction only	YocR	-
+AGCHAMHE_00116	G	Carbohydrate transport and metabolism	Ega3	-
+AGCHAMHE_00117	J	Translation, ribosomal structure and biogenesis	Uup	-
+AGCHAMHE_00120	I	Lipid transport and metabolism	PldB	-
+AGCHAMHE_00121	J	Translation, ribosomal structure and biogenesis	AlaS	-
+AGCHAMHE_00122	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+AGCHAMHE_00123	K	Transcription	SoxR	-
+AGCHAMHE_00124	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_00125	H	Coenzyme transport and metabolism	QueD	-
+AGCHAMHE_00126	H	Coenzyme transport and metabolism	QueE	-
+AGCHAMHE_00128	S	Function unknown	YdeI	-
+AGCHAMHE_00129	R	General function prediction only	Sel1	-
+AGCHAMHE_00131	L	Replication, recombination and repair	Udg4	-
+AGCHAMHE_00133	R	General function prediction only	Sel1	-
+AGCHAMHE_00135	K	Transcription	TfoX	-
+AGCHAMHE_00136	Q	Secondary metabolites biosynthesis, transport and catabolism	CatE	-
+AGCHAMHE_00138	Q	Secondary metabolites biosynthesis, transport and catabolism	YciI	-
+AGCHAMHE_00139	V	Defense mechanisms	YajL	-
+AGCHAMHE_00143	S	Function unknown		-
+AGCHAMHE_00144	K	Transcription	YobV	-
+AGCHAMHE_00145	J	Translation, ribosomal structure and biogenesis	RtcB	-
+AGCHAMHE_00147	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00148	J	Translation, ribosomal structure and biogenesis	TsaB	-
+AGCHAMHE_00149	J	Translation, ribosomal structure and biogenesis	RlmH	-
+AGCHAMHE_00150	H	Coenzyme transport and metabolism	HemN	-
+AGCHAMHE_00151	L	Replication, recombination and repair	AddB	-
+AGCHAMHE_00152	L	Replication, recombination and repair	DnaX	-
+AGCHAMHE_00153	E	Amino acid transport and metabolism	MetF	-
+AGCHAMHE_00154	L	Replication, recombination and repair	DnaG	-
+AGCHAMHE_00156	P	Inorganic ion transport and metabolism	TrkA	-
+AGCHAMHE_00157	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_00164	I	Lipid transport and metabolism	FAA1	-
+AGCHAMHE_00165	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_00166	L	Replication, recombination and repair	AdaB	-
+AGCHAMHE_00167	L	Replication, recombination and repair	GyrA	-
+AGCHAMHE_00169	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+AGCHAMHE_00171	A	RNA processing and modification	Rnd	-
+AGCHAMHE_00172	H	Coenzyme transport and metabolism	BioD	-
+AGCHAMHE_00173	S	Function unknown		-
+AGCHAMHE_00174	H	Coenzyme transport and metabolism	BioF	-
+AGCHAMHE_00175	H	Coenzyme transport and metabolism	NadC	-
+AGCHAMHE_00176	I	Lipid transport and metabolism	FabD	-
+AGCHAMHE_00177	K	Transcription	Rho	-
+AGCHAMHE_00178	F	Nucleotide transport and metabolism	PyrD	-
+AGCHAMHE_00179	H	Coenzyme transport and metabolism	Mcr1	-
+AGCHAMHE_00180	U	Intracellular trafficking, secretion, and vesicular transport	TatA	-
+AGCHAMHE_00181	U	Intracellular trafficking, secretion, and vesicular transport	TatC	-
+AGCHAMHE_00182	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_00183	M	Cell wall/membrane/envelope biogenesis	Alr	-
+AGCHAMHE_00186	S	Function unknown	YeaO	-
+AGCHAMHE_00187	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+AGCHAMHE_00188	M	Cell wall/membrane/envelope biogenesis	LolA	-
+AGCHAMHE_00189	D	Cell cycle control, cell division, chromosome partitioning	FtsK	-
+AGCHAMHE_00190	G	Carbohydrate transport and metabolism	Rpe	-
+AGCHAMHE_00191	M	Cell wall/membrane/envelope biogenesis	DedA	-
+AGCHAMHE_00192	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00193	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00194	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00200	K	Transcription	AlpA	-
+AGCHAMHE_00202	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00203	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00205	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00206	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00207	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00208	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00213	J	Translation, ribosomal structure and biogenesis	Uup	-
+AGCHAMHE_00218	H	Coenzyme transport and metabolism	QueD	-
+AGCHAMHE_00221	I	Lipid transport and metabolism	FadL	-
+AGCHAMHE_00222	J	Translation, ribosomal structure and biogenesis	HisS	-
+AGCHAMHE_00223	H	Coenzyme transport and metabolism	FolP	-
+AGCHAMHE_00224	T	Signal transduction mechanisms	CdaA	-
+AGCHAMHE_00225	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_00226	J	Translation, ribosomal structure and biogenesis	Efp	-
+AGCHAMHE_00228	C	Energy production and conversion	NorV	-
+AGCHAMHE_00229	L	Replication, recombination and repair	Mug	-
+AGCHAMHE_00231	I	Lipid transport and metabolism	Sbm1	-
+AGCHAMHE_00232	I	Lipid transport and metabolism	Sbm1	-
+AGCHAMHE_00233	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00234	J	Translation, ribosomal structure and biogenesis	MiaB	-
+AGCHAMHE_00235	I	Lipid transport and metabolism	LpxP	-
+AGCHAMHE_00236	G	Carbohydrate transport and metabolism	WcaE	-
+AGCHAMHE_00237	L	Replication, recombination and repair	EndA	-
+AGCHAMHE_00239	M	Cell wall/membrane/envelope biogenesis	Lgt	-
+AGCHAMHE_00240	R	General function prediction only	MviM	-
+AGCHAMHE_00241	C	Energy production and conversion	AckA	-
+AGCHAMHE_00242	C	Energy production and conversion	Pta	-
+AGCHAMHE_00243	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+AGCHAMHE_00244	M	Cell wall/membrane/envelope biogenesis	RfbD	-
+AGCHAMHE_00245	J	Translation, ribosomal structure and biogenesis	PrfC	-
+AGCHAMHE_00248	E	Amino acid transport and metabolism	DapA	-
+AGCHAMHE_00249	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+AGCHAMHE_00250	G	Carbohydrate transport and metabolism	Chb	-
+AGCHAMHE_00254	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_00255	R	General function prediction only		-
+AGCHAMHE_00256	C	Energy production and conversion	NapH	-
+AGCHAMHE_00258	M	Cell wall/membrane/envelope biogenesis	LysM	-
+AGCHAMHE_00260	Q	Secondary metabolites biosynthesis, transport and catabolism	DLH	-
+AGCHAMHE_00261	M	Cell wall/membrane/envelope biogenesis	SIMPL	-
+AGCHAMHE_00263	M	Cell wall/membrane/envelope biogenesis	RfbC	-
+AGCHAMHE_00264	O	Posttranslational modification, protein turnover, chaperones	TrxB	-
+AGCHAMHE_00265	V	Defense mechanisms	AhpC	-
+AGCHAMHE_00267	V	Defense mechanisms	RidA	-
+AGCHAMHE_00268	F	Nucleotide transport and metabolism	NrdA	-
+AGCHAMHE_00269	C	Energy production and conversion	NfnB	-
+AGCHAMHE_00270	L	Replication, recombination and repair	RecR	-
+AGCHAMHE_00271	J	Translation, ribosomal structure and biogenesis	RimL	-
+AGCHAMHE_00272	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+AGCHAMHE_00273	O	Posttranslational modification, protein turnover, chaperones	HflB	-
+AGCHAMHE_00274	J	Translation, ribosomal structure and biogenesis	RsfS	-
+AGCHAMHE_00275	M	Cell wall/membrane/envelope biogenesis	LolC	-
+AGCHAMHE_00276	E	Amino acid transport and metabolism	AspB	-
+AGCHAMHE_00277	H	Coenzyme transport and metabolism	RibA	-
+AGCHAMHE_00278	M	Cell wall/membrane/envelope biogenesis	LptF	-
+AGCHAMHE_00279	V	Defense mechanisms	CreD	-
+AGCHAMHE_00280	K	Transcription	AraC	-
+AGCHAMHE_00281	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+AGCHAMHE_00283	J	Translation, ribosomal structure and biogenesis	RpsP	-
+AGCHAMHE_00284	G	Carbohydrate transport and metabolism	PpsA	-
+AGCHAMHE_00285	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00286	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00287	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00289	L	Replication, recombination and repair	DnaG	-
+AGCHAMHE_00291	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00292	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00293	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00294	K	Transcription		-
+AGCHAMHE_00297	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00298	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00299	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+AGCHAMHE_00300	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00301	R	General function prediction only	YgiQ	-
+AGCHAMHE_00302	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+AGCHAMHE_00303	K	Transcription	HepA	-
+AGCHAMHE_00305	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00306	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00309	J	Translation, ribosomal structure and biogenesis	RqcU	-
+AGCHAMHE_00310	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00315	R	General function prediction only		-
+AGCHAMHE_00319	K	Transcription	RPC10	-
+AGCHAMHE_00320	B	Chromatin structure and dynamics	HupA	-
+AGCHAMHE_00321	L	Replication, recombination and repair	Tag	-
+AGCHAMHE_00323	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00324	I	Lipid transport and metabolism	MenE	-
+AGCHAMHE_00325	I	Lipid transport and metabolism	AcpP	-
+AGCHAMHE_00326	P	Inorganic ion transport and metabolism	Fes	-
+AGCHAMHE_00327	R	General function prediction only		-
+AGCHAMHE_00328	I	Lipid transport and metabolism	Aes	-
+AGCHAMHE_00329	Q	Secondary metabolites biosynthesis, transport and catabolism		-
+AGCHAMHE_00330	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00331	I	Lipid transport and metabolism	FabA	-
+AGCHAMHE_00333	M	Cell wall/membrane/envelope biogenesis	LolA	-
+AGCHAMHE_00334	H	Coenzyme transport and metabolism	RibN	-
+AGCHAMHE_00335	I	Lipid transport and metabolism	FabB	-
+AGCHAMHE_00336	I	Lipid transport and metabolism	AcpP	-
+AGCHAMHE_00337	I	Lipid transport and metabolism	FabB	-
+AGCHAMHE_00338	I	Lipid transport and metabolism	FadM	-
+AGCHAMHE_00339	I	Lipid transport and metabolism		-
+AGCHAMHE_00340	R	General function prediction only		-
+AGCHAMHE_00341	I	Lipid transport and metabolism	AcpP	-
+AGCHAMHE_00344	I	Lipid transport and metabolism	FabB	-
+AGCHAMHE_00345	I	Lipid transport and metabolism	FabG	-
+AGCHAMHE_00346	R	General function prediction only		-
+AGCHAMHE_00347	M	Cell wall/membrane/envelope biogenesis	RrrD	-
+AGCHAMHE_00349	L	Replication, recombination and repair	DnaG	-
+AGCHAMHE_00353	H	Coenzyme transport and metabolism	HemJ	-
+AGCHAMHE_00357	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00359	U	Intracellular trafficking, secretion, and vesicular transport	VirB4	-
+AGCHAMHE_00365	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+AGCHAMHE_00366	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_00370	X	Mobilome: prophages, transposons	YkfC	-
+AGCHAMHE_00372	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+AGCHAMHE_00374	L	Replication, recombination and repair		-
+AGCHAMHE_00375	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_00379	L	Replication, recombination and repair	TopA	-
+AGCHAMHE_00381	K	Transcription	AlpA	-
+AGCHAMHE_00382	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00385	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00387	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00388	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00390	P	Inorganic ion transport and metabolism	YraQ	-
+AGCHAMHE_00395	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00399	R	General function prediction only		-
+AGCHAMHE_00402	K	Transcription	RPC10	-
+AGCHAMHE_00403	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_00404	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_00405	B	Chromatin structure and dynamics	HupA	-
+AGCHAMHE_00406	L	Replication, recombination and repair	Tag	-
+AGCHAMHE_00408	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00409	I	Lipid transport and metabolism	MenE	-
+AGCHAMHE_00410	I	Lipid transport and metabolism	AcpP	-
+AGCHAMHE_00411	P	Inorganic ion transport and metabolism	Fes	-
+AGCHAMHE_00412	R	General function prediction only		-
+AGCHAMHE_00413	I	Lipid transport and metabolism	Aes	-
+AGCHAMHE_00414	X	Mobilome: prophages, transposons	Srso17	-
+AGCHAMHE_00415	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00418	K	Transcription		-
+AGCHAMHE_00420	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00421	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00424	H	Coenzyme transport and metabolism	FolD	-
+AGCHAMHE_00425	M	Cell wall/membrane/envelope biogenesis	CapA	-
+AGCHAMHE_00426	H	Coenzyme transport and metabolism	LplA	-
+AGCHAMHE_00427	E	Amino acid transport and metabolism	GcvT	-
+AGCHAMHE_00428	E	Amino acid transport and metabolism	GcvH	-
+AGCHAMHE_00429	E	Amino acid transport and metabolism	GcvP1	-
+AGCHAMHE_00431	E	Amino acid transport and metabolism	GcvP2	-
+AGCHAMHE_00432	C	Energy production and conversion	Lpd	-
+AGCHAMHE_00433	L	Replication, recombination and repair	RecD	-
+AGCHAMHE_00434	G	Carbohydrate transport and metabolism	Pgu1	-
+AGCHAMHE_00435	L	Replication, recombination and repair	DinP	-
+AGCHAMHE_00437	H	Coenzyme transport and metabolism	MenB	-
+AGCHAMHE_00438	M	Cell wall/membrane/envelope biogenesis	RspA	-
+AGCHAMHE_00439	I	Lipid transport and metabolism	MenE	-
+AGCHAMHE_00440	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_00441	E	Amino acid transport and metabolism	AroE	-
+AGCHAMHE_00442	S	Function unknown	YeiH	-
+AGCHAMHE_00443	U	Intracellular trafficking, secretion, and vesicular transport	ComEC	-
+AGCHAMHE_00444	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_00445	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_00448	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_00449	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_00450	E	Amino acid transport and metabolism	AsnA	-
+AGCHAMHE_00453	D	Cell cycle control, cell division, chromosome partitioning	GerD	-
+AGCHAMHE_00454	U	Intracellular trafficking, secretion, and vesicular transport	ZliS	-
+AGCHAMHE_00458	V	Defense mechanisms	PenP	-
+AGCHAMHE_00459	R	General function prediction only	YggE	-
+AGCHAMHE_00461	O	Posttranslational modification, protein turnover, chaperones	HslJ	-
+AGCHAMHE_00463	J	Translation, ribosomal structure and biogenesis	YmdB	-
+AGCHAMHE_00464	S	Function unknown	YdbT	-
+AGCHAMHE_00466	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00467	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00468	K	Transcription	MmcQ	-
+AGCHAMHE_00469	L	Replication, recombination and repair	Tag	-
+AGCHAMHE_00470	S	Function unknown	YvlB	-
+AGCHAMHE_00471	M	Cell wall/membrane/envelope biogenesis	SanA	-
+AGCHAMHE_00475	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00477	K	Transcription		-
+AGCHAMHE_00483	T	Signal transduction mechanisms	HipA	-
+AGCHAMHE_00484	K	Transcription	XRE	-
+AGCHAMHE_00487	L	Replication, recombination and repair	DNA2	-
+AGCHAMHE_00488	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_00489	L	Replication, recombination and repair	RecD	-
+AGCHAMHE_00490	K	Transcription		-
+AGCHAMHE_00492	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00493	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00494	R	General function prediction only		-
+AGCHAMHE_00495	R	General function prediction only	arAAA	-
+AGCHAMHE_00496	J	Translation, ribosomal structure and biogenesis	RnaY	-
+AGCHAMHE_00497	K	Transcription	AlpA	-
+AGCHAMHE_00499	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00500	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00501	R	General function prediction only		-
+AGCHAMHE_00505	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00506	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00507	K	Transcription		-
+AGCHAMHE_00508	S	Function unknown	RhuM	-
+AGCHAMHE_00509	E	Amino acid transport and metabolism	Tdh	-
+AGCHAMHE_00510	J	Translation, ribosomal structure and biogenesis	PIWI	-
+AGCHAMHE_00511	L	Replication, recombination and repair	PolB	-
+AGCHAMHE_00513	V	Defense mechanisms	McrB	-
+AGCHAMHE_00514	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00515	V	Defense mechanisms	McrB	-
+AGCHAMHE_00516	L	Replication, recombination and repair	Dcm	-
+AGCHAMHE_00517	L	Replication, recombination and repair	Dcm	-
+AGCHAMHE_00518	L	Replication, recombination and repair	Vsr	-
+AGCHAMHE_00523	K	Transcription	AlpA	-
+AGCHAMHE_00525	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00526	K	Transcription	AlpA	-
+AGCHAMHE_00527	J	Translation, ribosomal structure and biogenesis	MnmE	-
+AGCHAMHE_00528	F	Nucleotide transport and metabolism	NUC1	-
+AGCHAMHE_00529	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00531	G	Carbohydrate transport and metabolism	FbpC	-
+AGCHAMHE_00532	G	Carbohydrate transport and metabolism	NagA	-
+AGCHAMHE_00533	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00534	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_00537	C	Energy production and conversion	FrhB	-
+AGCHAMHE_00538	M	Cell wall/membrane/envelope biogenesis	WcaK	-
+AGCHAMHE_00539	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_00541	K	Transcription	NusG	-
+AGCHAMHE_00542	S	Function unknown	YeiH	-
+AGCHAMHE_00549	T	Signal transduction mechanisms	SPS1	-
+AGCHAMHE_00550	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00551	T	Signal transduction mechanisms	SPS1	-
+AGCHAMHE_00554	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+AGCHAMHE_00555	R	General function prediction only	MJ0435	-
+AGCHAMHE_00556	V	Defense mechanisms	HEPN	-
+AGCHAMHE_00557	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00558	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_00560	I	Lipid transport and metabolism	LicD	-
+AGCHAMHE_00561	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_00562	E	Amino acid transport and metabolism	OCDMu	-
+AGCHAMHE_00563	I	Lipid transport and metabolism		-
+AGCHAMHE_00564	K	Transcription	NusG	-
+AGCHAMHE_00565	C	Energy production and conversion	Mdh	-
+AGCHAMHE_00566	P	Inorganic ion transport and metabolism	CzcD	-
+AGCHAMHE_00567	P	Inorganic ion transport and metabolism	ZntA	-
+AGCHAMHE_00568	E	Amino acid transport and metabolism	MetL1	-
+AGCHAMHE_00569	E	Amino acid transport and metabolism	LysA	-
+AGCHAMHE_00570	G	Carbohydrate transport and metabolism	XynB2	-
+AGCHAMHE_00573	T	Signal transduction mechanisms	Tar	-
+AGCHAMHE_00574	O	Posttranslational modification, protein turnover, chaperones	YfmG	-
+AGCHAMHE_00577	L	Replication, recombination and repair	SrmB	-
+AGCHAMHE_00578	D	Cell cycle control, cell division, chromosome partitioning	DedD	-
+AGCHAMHE_00579	H	Coenzyme transport and metabolism	FolE	-
+AGCHAMHE_00580	G	Carbohydrate transport and metabolism	FucP	-
+AGCHAMHE_00581	M	Cell wall/membrane/envelope biogenesis	TagD	-
+AGCHAMHE_00582	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+AGCHAMHE_00583	P	Inorganic ion transport and metabolism	SodA	-
+AGCHAMHE_00584	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_00585	P	Inorganic ion transport and metabolism	CusA	-
+AGCHAMHE_00586	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_00588	K	Transcription	HipB	-
+AGCHAMHE_00590	L	Replication, recombination and repair	UvrA	-
+AGCHAMHE_00591	M	Cell wall/membrane/envelope biogenesis	MltE	-
+AGCHAMHE_00593	I	Lipid transport and metabolism	YjjU	-
+AGCHAMHE_00595	L	Replication, recombination and repair	YraN	-
+AGCHAMHE_00596	J	Translation, ribosomal structure and biogenesis	DusA	-
+AGCHAMHE_00597	P	Inorganic ion transport and metabolism	TrkG	-
+AGCHAMHE_00598	P	Inorganic ion transport and metabolism	TrkA	-
+AGCHAMHE_00599	H	Coenzyme transport and metabolism	Dxs	-
+AGCHAMHE_00602	R	General function prediction only	MMPL	-
+AGCHAMHE_00603	R	General function prediction only	GvpP	-
+AGCHAMHE_00605	G	Carbohydrate transport and metabolism	Eda	-
+AGCHAMHE_00606	G	Carbohydrate transport and metabolism	RbsK	-
+AGCHAMHE_00607	J	Translation, ribosomal structure and biogenesis	Uup	-
+AGCHAMHE_00608	R	General function prediction only	YeaQ	-
+AGCHAMHE_00610	V	Defense mechanisms		-
+AGCHAMHE_00611	L	Replication, recombination and repair	HolA	-
+AGCHAMHE_00613	S	Function unknown	DoxX	-
+AGCHAMHE_00614	G	Carbohydrate transport and metabolism	TpiA	-
+AGCHAMHE_00615	R	General function prediction only	HdeD	-
+AGCHAMHE_00616	R	General function prediction only	YqjQ	-
+AGCHAMHE_00617	O	Posttranslational modification, protein turnover, chaperones	ArgK	-
+AGCHAMHE_00618	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00619	M	Cell wall/membrane/envelope biogenesis	WecH	-
+AGCHAMHE_00620	G	Carbohydrate transport and metabolism	NolL	-
+AGCHAMHE_00621	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00626	R	General function prediction only	WbbJ	-
+AGCHAMHE_00627	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_00630	K	Transcription	NusG	-
+AGCHAMHE_00631	C	Energy production and conversion	PorB	-
+AGCHAMHE_00632	C	Energy production and conversion	PorA	-
+AGCHAMHE_00633	F	Nucleotide transport and metabolism	AllB	-
+AGCHAMHE_00634	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00635	E	Amino acid transport and metabolism	AspB	-
+AGCHAMHE_00638	C	Energy production and conversion	NfnB	-
+AGCHAMHE_00639	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00641	L	Replication, recombination and repair	SurE	-
+AGCHAMHE_00644	C	Energy production and conversion	NfnB	-
+AGCHAMHE_00645	G	Carbohydrate transport and metabolism	PemB	-
+AGCHAMHE_00646	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_00647	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_00649	I	Lipid transport and metabolism	CaiA	-
+AGCHAMHE_00650	C	Energy production and conversion	FixB	-
+AGCHAMHE_00651	C	Energy production and conversion	FixA	-
+AGCHAMHE_00652	F	Nucleotide transport and metabolism	PurF	-
+AGCHAMHE_00653	F	Nucleotide transport and metabolism	PurL1	-
+AGCHAMHE_00654	O	Posttranslational modification, protein turnover, chaperones	Tig	-
+AGCHAMHE_00655	O	Posttranslational modification, protein turnover, chaperones	ClpP	-
+AGCHAMHE_00656	O	Posttranslational modification, protein turnover, chaperones	ClpX	-
+AGCHAMHE_00657	L	Replication, recombination and repair	RecQ	-
+AGCHAMHE_00658	F	Nucleotide transport and metabolism	PurU	-
+AGCHAMHE_00659	E	Amino acid transport and metabolism	HisH	-
+AGCHAMHE_00660	E	Amino acid transport and metabolism	HisA	-
+AGCHAMHE_00661	E	Amino acid transport and metabolism	HisF	-
+AGCHAMHE_00662	E	Amino acid transport and metabolism	HisI1	-
+AGCHAMHE_00663	D	Cell cycle control, cell division, chromosome partitioning	FtsE	-
+AGCHAMHE_00664	G	Carbohydrate transport and metabolism	AmyA	-
+AGCHAMHE_00667	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_00668	M	Cell wall/membrane/envelope biogenesis	MltF	-
+AGCHAMHE_00670	M	Cell wall/membrane/envelope biogenesis	LapB	-
+AGCHAMHE_00671	J	Translation, ribosomal structure and biogenesis	GlnS	-
+AGCHAMHE_00672	H	Coenzyme transport and metabolism	PncA	-
+AGCHAMHE_00673	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_00674	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_00675	V	Defense mechanisms	SalY	-
+AGCHAMHE_00676	V	Defense mechanisms	SalY	-
+AGCHAMHE_00677	M	Cell wall/membrane/envelope biogenesis	LolD	-
+AGCHAMHE_00680	E	Amino acid transport and metabolism	RhtB	-
+AGCHAMHE_00681	R	General function prediction only	YgiQ	-
+AGCHAMHE_00682	L	Replication, recombination and repair	UvrB	-
+AGCHAMHE_00685	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00687	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00688	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00690	R	General function prediction only		-
+AGCHAMHE_00692	K	Transcription	RocR	-
+AGCHAMHE_00694	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00695	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00696	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00697	R	General function prediction only	YhcG	-
+AGCHAMHE_00709	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00711	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00716	L	Replication, recombination and repair	DnaG	-
+AGCHAMHE_00722	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_00723	T	Signal transduction mechanisms	KdpD	-
+AGCHAMHE_00724	T	Signal transduction mechanisms	OmpR	-
+AGCHAMHE_00726	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00728	K	Transcription	AlpA	-
+AGCHAMHE_00729	L	Replication, recombination and repair	RepA	-
+AGCHAMHE_00730	F	Nucleotide transport and metabolism	Tdk	-
+AGCHAMHE_00736	I	Lipid transport and metabolism	Idi	-
+AGCHAMHE_00737	L	Replication, recombination and repair	TopA	-
+AGCHAMHE_00739	R	General function prediction only	YabN	-
+AGCHAMHE_00742	G	Carbohydrate transport and metabolism	NanH	-
+AGCHAMHE_00743	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_00744	F	Nucleotide transport and metabolism	PurH	-
+AGCHAMHE_00745	D	Cell cycle control, cell division, chromosome partitioning	MreB	-
+AGCHAMHE_00746	D	Cell cycle control, cell division, chromosome partitioning	MreC	-
+AGCHAMHE_00748	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+AGCHAMHE_00749	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+AGCHAMHE_00750	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_00752	H	Coenzyme transport and metabolism	MenD	-
+AGCHAMHE_00753	F	Nucleotide transport and metabolism	Cdd	-
+AGCHAMHE_00755	P	Inorganic ion transport and metabolism	ArsB	-
+AGCHAMHE_00756	J	Translation, ribosomal structure and biogenesis	TrmA	-
+AGCHAMHE_00757	R	General function prediction only	CYTH	-
+AGCHAMHE_00758	L	Replication, recombination and repair	GyrB	-
+AGCHAMHE_00759	H	Coenzyme transport and metabolism	CoaD	-
+AGCHAMHE_00760	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+AGCHAMHE_00761	J	Translation, ribosomal structure and biogenesis	HflX	-
+AGCHAMHE_00763	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+AGCHAMHE_00764	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00765	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_00766	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_00768	C	Energy production and conversion	LeuB	-
+AGCHAMHE_00769	E	Amino acid transport and metabolism	LeuD	-
+AGCHAMHE_00770	E	Amino acid transport and metabolism	LeuC	-
+AGCHAMHE_00771	E	Amino acid transport and metabolism	LeuA	-
+AGCHAMHE_00772	C	Energy production and conversion	NatB	-
+AGCHAMHE_00773	R	General function prediction only	YhaQ	-
+AGCHAMHE_00774	J	Translation, ribosomal structure and biogenesis	PrmA	-
+AGCHAMHE_00775	C	Energy production and conversion	YotD	-
+AGCHAMHE_00778	V	Defense mechanisms	PenP	-
+AGCHAMHE_00779	K	Transcription	HxlR	-
+AGCHAMHE_00780	K	Transcription	HxlR	-
+AGCHAMHE_00781	V	Defense mechanisms	YajL	-
+AGCHAMHE_00783	J	Translation, ribosomal structure and biogenesis	YqgF	-
+AGCHAMHE_00784	J	Translation, ribosomal structure and biogenesis	Def	-
+AGCHAMHE_00785	J	Translation, ribosomal structure and biogenesis	Uup	-
+AGCHAMHE_00786	J	Translation, ribosomal structure and biogenesis	AsnS	-
+AGCHAMHE_00787	J	Translation, ribosomal structure and biogenesis	RsuA	-
+AGCHAMHE_00788	P	Inorganic ion transport and metabolism	Fur	-
+AGCHAMHE_00789	I	Lipid transport and metabolism	Aes	-
+AGCHAMHE_00800	I	Lipid transport and metabolism	FadL	-
+AGCHAMHE_00802	R	General function prediction only	PqqL	-
+AGCHAMHE_00803	M	Cell wall/membrane/envelope biogenesis	KdsB	-
+AGCHAMHE_00804	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+AGCHAMHE_00805	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_00806	N	Cell motility	TatD	-
+AGCHAMHE_00807	H	Coenzyme transport and metabolism	IspA	-
+AGCHAMHE_00809	L	Replication, recombination and repair	DnaQ	-
+AGCHAMHE_00810	I	Lipid transport and metabolism	IspH	-
+AGCHAMHE_00811	F	Nucleotide transport and metabolism	Cmk	-
+AGCHAMHE_00813	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_00815	K	Transcription	AlpA	-
+AGCHAMHE_00816	L	Replication, recombination and repair		-
+AGCHAMHE_00819	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00820	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00822	J	Translation, ribosomal structure and biogenesis	YafQ	-
+AGCHAMHE_00823	K	Transcription	Arc	-
+AGCHAMHE_00824	U	Intracellular trafficking, secretion, and vesicular transport	VirD4	-
+AGCHAMHE_00827	V	Defense mechanisms	AbiF	-
+AGCHAMHE_00828	M	Cell wall/membrane/envelope biogenesis	FlgJ	-
+AGCHAMHE_00829	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00830	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00832	L	Replication, recombination and repair	YrdD	-
+AGCHAMHE_00835	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+AGCHAMHE_00838	P	Inorganic ion transport and metabolism	Fiu	-
+AGCHAMHE_00840	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00841	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00842	T	Signal transduction mechanisms	FIDO	-
+AGCHAMHE_00844	S	Function unknown	RhuM	-
+AGCHAMHE_00845	T	Signal transduction mechanisms	NACHT	-
+AGCHAMHE_00849	V	Defense mechanisms	YeeA	-
+AGCHAMHE_00850	K	Transcription	HepA	-
+AGCHAMHE_00851	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00853	V	Defense mechanisms	CAPP_A	-
+AGCHAMHE_00855	T	Signal transduction mechanisms	SpoT	-
+AGCHAMHE_00856	K	Transcription		-
+AGCHAMHE_00857	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00861	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+AGCHAMHE_00862	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00863	H	Coenzyme transport and metabolism	HemN	-
+AGCHAMHE_00869	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00870	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00876	R	General function prediction only	AAA_14	-
+AGCHAMHE_00880	R	General function prediction only	YncE	-
+AGCHAMHE_00882	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_00883	P	Inorganic ion transport and metabolism	FepB	-
+AGCHAMHE_00884	P	Inorganic ion transport and metabolism	FepD	-
+AGCHAMHE_00885	P	Inorganic ion transport and metabolism	FepC	-
+AGCHAMHE_00886	S	Function unknown		-
+AGCHAMHE_00887	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00888	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00892	J	Translation, ribosomal structure and biogenesis	RimI	-
+AGCHAMHE_00893	K	Transcription		-
+AGCHAMHE_00894	L	Replication, recombination and repair	TopA	-
+AGCHAMHE_00896	V	Defense mechanisms	NimA	-
+AGCHAMHE_00898	R	General function prediction only	QdoI	-
+AGCHAMHE_00901	C	Energy production and conversion	Hcp	-
+AGCHAMHE_00902	S	Function unknown	YeaO	-
+AGCHAMHE_00905	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00910	H	Coenzyme transport and metabolism	ThiF	-
+AGCHAMHE_00911	K	Transcription	AcrR	-
+AGCHAMHE_00912	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00922	T	Signal transduction mechanisms	ANKYR	-
+AGCHAMHE_00929	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00937	T	Signal transduction mechanisms	BaeS	-
+AGCHAMHE_00939	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_00940	H	Coenzyme transport and metabolism	FolA	-
+AGCHAMHE_00941	V	Defense mechanisms	PP2433	-
+AGCHAMHE_00942	K	Transcription	AlpA	-
+AGCHAMHE_00943	K	Transcription	AlpA	-
+AGCHAMHE_00944	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00945	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_00947	J	Translation, ribosomal structure and biogenesis	PrfA	-
+AGCHAMHE_00948	J	Translation, ribosomal structure and biogenesis	RtcB	-
+AGCHAMHE_00950	J	Translation, ribosomal structure and biogenesis	RtcB	-
+AGCHAMHE_00952	K	Transcription	YobV	-
+AGCHAMHE_00956	E	Amino acid transport and metabolism	HisB2	-
+AGCHAMHE_00957	E	Amino acid transport and metabolism	HisC	-
+AGCHAMHE_00958	E	Amino acid transport and metabolism	HisD	-
+AGCHAMHE_00959	E	Amino acid transport and metabolism	HisG	-
+AGCHAMHE_00960	M	Cell wall/membrane/envelope biogenesis	DltB	-
+AGCHAMHE_00961	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_00962	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_00963	H	Coenzyme transport and metabolism	MenF	-
+AGCHAMHE_00964	J	Translation, ribosomal structure and biogenesis	MiaB	-
+AGCHAMHE_00965	U	Intracellular trafficking, secretion, and vesicular transport	FtsY	-
+AGCHAMHE_00972	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00973	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00975	R	General function prediction only		-
+AGCHAMHE_00977	X	Mobilome: prophages, transposons		-
+AGCHAMHE_00978	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_00983	V	Defense mechanisms	AbiEi	-
+AGCHAMHE_00984	V	Defense mechanisms		-
+AGCHAMHE_00994	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_00995	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_00998	J	Translation, ribosomal structure and biogenesis	GCD1	-
+AGCHAMHE_00999	R	General function prediction only	AmgK	-
+AGCHAMHE_01000	E	Amino acid transport and metabolism	EamA	-
+AGCHAMHE_01001	O	Posttranslational modification, protein turnover, chaperones	PflA	-
+AGCHAMHE_01002	F	Nucleotide transport and metabolism	NrdD	-
+AGCHAMHE_01003	O	Posttranslational modification, protein turnover, chaperones	YdiL	-
+AGCHAMHE_01004	M	Cell wall/membrane/envelope biogenesis	LptA	-
+AGCHAMHE_01005	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+AGCHAMHE_01007	O	Posttranslational modification, protein turnover, chaperones	SurA	-
+AGCHAMHE_01008	F	Nucleotide transport and metabolism	GuaB	-
+AGCHAMHE_01012	U	Intracellular trafficking, secretion, and vesicular transport	CVT17	-
+AGCHAMHE_01013	R	General function prediction only	RhsA	-
+AGCHAMHE_01014	G	Carbohydrate transport and metabolism	Pgu1	-
+AGCHAMHE_01015	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_01016	C	Energy production and conversion	YotD	-
+AGCHAMHE_01017	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01018	G	Carbohydrate transport and metabolism	UxaC	-
+AGCHAMHE_01019	G	Carbohydrate transport and metabolism	UxaA	-
+AGCHAMHE_01020	G	Carbohydrate transport and metabolism	MtlD	-
+AGCHAMHE_01021	G	Carbohydrate transport and metabolism	PemB	-
+AGCHAMHE_01022	G	Carbohydrate transport and metabolism	XynB2	-
+AGCHAMHE_01029	K	Transcription	RpoE	-
+AGCHAMHE_01030	L	Replication, recombination and repair	RarA	-
+AGCHAMHE_01032	P	Inorganic ion transport and metabolism	PstS	-
+AGCHAMHE_01033	M	Cell wall/membrane/envelope biogenesis	LapB	-
+AGCHAMHE_01037	R	General function prediction only	RssA	-
+AGCHAMHE_01038	E	Amino acid transport and metabolism	SerB	-
+AGCHAMHE_01039	G	Carbohydrate transport and metabolism	BadF	-
+AGCHAMHE_01040	S	Function unknown	YdbS	-
+AGCHAMHE_01041	S	Function unknown	YdbT	-
+AGCHAMHE_01042	S	Function unknown		-
+AGCHAMHE_01043	C	Energy production and conversion	ACH1	-
+AGCHAMHE_01045	G	Carbohydrate transport and metabolism	YicI	-
+AGCHAMHE_01046	O	Posttranslational modification, protein turnover, chaperones	HslJ	-
+AGCHAMHE_01047	H	Coenzyme transport and metabolism	PhnP	-
+AGCHAMHE_01048	M	Cell wall/membrane/envelope biogenesis	MurB	-
+AGCHAMHE_01050	E	Amino acid transport and metabolism	PreP	-
+AGCHAMHE_01051	U	Intracellular trafficking, secretion, and vesicular transport	SecA	-
+AGCHAMHE_01052	T	Signal transduction mechanisms	AtaC	-
+AGCHAMHE_01053	U	Intracellular trafficking, secretion, and vesicular transport	MMP0360	-
+AGCHAMHE_01054	L	Replication, recombination and repair	Mfd	-
+AGCHAMHE_01055	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+AGCHAMHE_01056	P	Inorganic ion transport and metabolism	NosD	-
+AGCHAMHE_01057	G	Carbohydrate transport and metabolism	Chb	-
+AGCHAMHE_01058	N	Cell motility	PilF	-
+AGCHAMHE_01059	E	Amino acid transport and metabolism	HIS2	-
+AGCHAMHE_01060	E	Amino acid transport and metabolism	MetA	-
+AGCHAMHE_01061	R	General function prediction only	WbbJ	-
+AGCHAMHE_01062	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+AGCHAMHE_01066	J	Translation, ribosomal structure and biogenesis	RpsT	-
+AGCHAMHE_01069	J	Translation, ribosomal structure and biogenesis	GRS1	-
+AGCHAMHE_01070	M	Cell wall/membrane/envelope biogenesis	LemA	-
+AGCHAMHE_01071	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+AGCHAMHE_01072	L	Replication, recombination and repair	DnaX	-
+AGCHAMHE_01073	J	Translation, ribosomal structure and biogenesis	Fmt	-
+AGCHAMHE_01074	J	Translation, ribosomal structure and biogenesis	RpmA	-
+AGCHAMHE_01075	J	Translation, ribosomal structure and biogenesis	RplU	-
+AGCHAMHE_01076	S	Function unknown		-
+AGCHAMHE_01077	L	Replication, recombination and repair	RuvC	-
+AGCHAMHE_01080	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_01081	O	Posttranslational modification, protein turnover, chaperones	DsbD	-
+AGCHAMHE_01082	J	Translation, ribosomal structure and biogenesis	RluA	-
+AGCHAMHE_01083	L	Replication, recombination and repair	TopA	-
+AGCHAMHE_01084	G	Carbohydrate transport and metabolism	AraJ	-
+AGCHAMHE_01085	K	Transcription	Rex	-
+AGCHAMHE_01087	N	Cell motility	FlgD	-
+AGCHAMHE_01088	V	Defense mechanisms	Nit1	-
+AGCHAMHE_01089	E	Amino acid transport and metabolism	AguA	-
+AGCHAMHE_01092	E	Amino acid transport and metabolism	UreA	-
+AGCHAMHE_01093	E	Amino acid transport and metabolism	UreB	-
+AGCHAMHE_01094	E	Amino acid transport and metabolism	UreC	-
+AGCHAMHE_01095	O	Posttranslational modification, protein turnover, chaperones	UreE	-
+AGCHAMHE_01096	O	Posttranslational modification, protein turnover, chaperones	UreF	-
+AGCHAMHE_01097	O	Posttranslational modification, protein turnover, chaperones	HypB	-
+AGCHAMHE_01098	O	Posttranslational modification, protein turnover, chaperones	UreH	-
+AGCHAMHE_01099	E	Amino acid transport and metabolism	Utp	-
+AGCHAMHE_01100	G	Carbohydrate transport and metabolism	GpmA	-
+AGCHAMHE_01101	D	Cell cycle control, cell division, chromosome partitioning	CrcB	-
+AGCHAMHE_01102	G	Carbohydrate transport and metabolism	GlgP	-
+AGCHAMHE_01103	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_01104	G	Carbohydrate transport and metabolism	NagC	-
+AGCHAMHE_01107	C	Energy production and conversion	AppC	-
+AGCHAMHE_01108	C	Energy production and conversion	AppB	-
+AGCHAMHE_01109	U	Intracellular trafficking, secretion, and vesicular transport	TamB	-
+AGCHAMHE_01110	S	Function unknown	YeiB	-
+AGCHAMHE_01111	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_01113	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01114	T	Signal transduction mechanisms	CitB	-
+AGCHAMHE_01115	R	General function prediction only	ElaA	-
+AGCHAMHE_01117	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_01118	R	General function prediction only	FN3	-
+AGCHAMHE_01119	J	Translation, ribosomal structure and biogenesis	GCD1	-
+AGCHAMHE_01120	G	Carbohydrate transport and metabolism	GalM	-
+AGCHAMHE_01121	G	Carbohydrate transport and metabolism	GalK	-
+AGCHAMHE_01122	L	Replication, recombination and repair	RecD	-
+AGCHAMHE_01123	P	Inorganic ion transport and metabolism	ECM27	-
+AGCHAMHE_01124	R	General function prediction only	PerM	-
+AGCHAMHE_01125	G	Carbohydrate transport and metabolism	AfuC	-
+AGCHAMHE_01126	G	Carbohydrate transport and metabolism	GlgA	-
+AGCHAMHE_01132	F	Nucleotide transport and metabolism	PreA	-
+AGCHAMHE_01133	C	Energy production and conversion	PorA	-
+AGCHAMHE_01134	C	Energy production and conversion	PorB	-
+AGCHAMHE_01135	C	Energy production and conversion	PorC	-
+AGCHAMHE_01136	T	Signal transduction mechanisms	PhoH	-
+AGCHAMHE_01137	F	Nucleotide transport and metabolism	PurC	-
+AGCHAMHE_01138	H	Coenzyme transport and metabolism	UbiE	-
+AGCHAMHE_01139	F	Nucleotide transport and metabolism	PurB	-
+AGCHAMHE_01141	U	Intracellular trafficking, secretion, and vesicular transport	TolB	-
+AGCHAMHE_01146	S	Function unknown	BrkB	-
+AGCHAMHE_01147	R	General function prediction only	WbbJ	-
+AGCHAMHE_01148	M	Cell wall/membrane/envelope biogenesis	MrcA	-
+AGCHAMHE_01149	C	Energy production and conversion	NfnB	-
+AGCHAMHE_01150	J	Translation, ribosomal structure and biogenesis	TyrS	-
+AGCHAMHE_01152	O	Posttranslational modification, protein turnover, chaperones	CpxP	-
+AGCHAMHE_01153	O	Posttranslational modification, protein turnover, chaperones	Lon	-
+AGCHAMHE_01154	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01157	O	Posttranslational modification, protein turnover, chaperones	Bcp	-
+AGCHAMHE_01158	E	Amino acid transport and metabolism	IlvA	-
+AGCHAMHE_01159	F	Nucleotide transport and metabolism	PyrE	-
+AGCHAMHE_01160	S	Function unknown	SRPBCC	-
+AGCHAMHE_01161	E	Amino acid transport and metabolism	ArgH	-
+AGCHAMHE_01163	J	Translation, ribosomal structure and biogenesis	RpmE	-
+AGCHAMHE_01164	C	Energy production and conversion	OadA1	-
+AGCHAMHE_01168	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01169	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01172	E	Amino acid transport and metabolism	PepD2	-
+AGCHAMHE_01173	J	Translation, ribosomal structure and biogenesis	MiaA	-
+AGCHAMHE_01174	C	Energy production and conversion	YotD	-
+AGCHAMHE_01175	C	Energy production and conversion	NapF	-
+AGCHAMHE_01176	J	Translation, ribosomal structure and biogenesis	RqcU	-
+AGCHAMHE_01178	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_01179	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_01180	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_01181	P	Inorganic ion transport and metabolism	NorB	-
+AGCHAMHE_01182	C	Energy production and conversion	GlpC	-
+AGCHAMHE_01183	C	Energy production and conversion	LutB	-
+AGCHAMHE_01184	C	Energy production and conversion	LutC	-
+AGCHAMHE_01186	J	Translation, ribosomal structure and biogenesis	RpmG	-
+AGCHAMHE_01187	J	Translation, ribosomal structure and biogenesis	RpmB	-
+AGCHAMHE_01188	J	Translation, ribosomal structure and biogenesis	YhhQ	-
+AGCHAMHE_01190	U	Intracellular trafficking, secretion, and vesicular transport	ExbD	-
+AGCHAMHE_01191	U	Intracellular trafficking, secretion, and vesicular transport	TolQ	-
+AGCHAMHE_01192	H	Coenzyme transport and metabolism	PdxJ	-
+AGCHAMHE_01193	T	Signal transduction mechanisms		-
+AGCHAMHE_01194	H	Coenzyme transport and metabolism	NadK	-
+AGCHAMHE_01195	O	Posttranslational modification, protein turnover, chaperones	YfmG	-
+AGCHAMHE_01196	P	Inorganic ion transport and metabolism	AmtB	-
+AGCHAMHE_01197	L	Replication, recombination and repair	PriA	-
+AGCHAMHE_01198	G	Carbohydrate transport and metabolism	MalQ	-
+AGCHAMHE_01199	G	Carbohydrate transport and metabolism	Chb	-
+AGCHAMHE_01200	E	Amino acid transport and metabolism	EamA	-
+AGCHAMHE_01201	I	Lipid transport and metabolism	LCB5	-
+AGCHAMHE_01202	G	Carbohydrate transport and metabolism	GDB1	-
+AGCHAMHE_01203	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_01204	G	Carbohydrate transport and metabolism		-
+AGCHAMHE_01205	J	Translation, ribosomal structure and biogenesis	RlhA	-
+AGCHAMHE_01206	P	Inorganic ion transport and metabolism	ModF	-
+AGCHAMHE_01207	T	Signal transduction mechanisms	SrkA	-
+AGCHAMHE_01208	H	Coenzyme transport and metabolism	PdxA	-
+AGCHAMHE_01209	I	Lipid transport and metabolism		-
+AGCHAMHE_01210	E	Amino acid transport and metabolism	LysX	-
+AGCHAMHE_01211	I	Lipid transport and metabolism	PgsA	-
+AGCHAMHE_01212	H	Coenzyme transport and metabolism	YigB	-
+AGCHAMHE_01213	I	Lipid transport and metabolism	INO1	-
+AGCHAMHE_01215	M	Cell wall/membrane/envelope biogenesis	Wza	-
+AGCHAMHE_01216	M	Cell wall/membrane/envelope biogenesis	GumC	-
+AGCHAMHE_01217	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+AGCHAMHE_01218	E	Amino acid transport and metabolism	GltD	-
+AGCHAMHE_01219	H	Coenzyme transport and metabolism	Mcr1	-
+AGCHAMHE_01221	N	Cell motility	BcsA	-
+AGCHAMHE_01225	D	Cell cycle control, cell division, chromosome partitioning	ParA	-
+AGCHAMHE_01226	D	Cell cycle control, cell division, chromosome partitioning	Spo0J	-
+AGCHAMHE_01228	M	Cell wall/membrane/envelope biogenesis	MltF	-
+AGCHAMHE_01229	S	Function unknown		-
+AGCHAMHE_01230	K	Transcription	RpoE	-
+AGCHAMHE_01234	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01235	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01236	X	Mobilome: prophages, transposons	IS5	-
+AGCHAMHE_01237	J	Translation, ribosomal structure and biogenesis	RimL	-
+AGCHAMHE_01238	Q	Secondary metabolites biosynthesis, transport and catabolism	PptA	-
+AGCHAMHE_01240	Q	Secondary metabolites biosynthesis, transport and catabolism	YciI	-
+AGCHAMHE_01242	R	General function prediction only		-
+AGCHAMHE_01244	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01245	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01247	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01248	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01249	R	General function prediction only		-
+AGCHAMHE_01256	R	General function prediction only		-
+AGCHAMHE_01258	K	Transcription	HipB	-
+AGCHAMHE_01259	T	Signal transduction mechanisms	HipA	-
+AGCHAMHE_01260	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01261	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01262	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_01264	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_01266	T	Signal transduction mechanisms	BaeS	-
+AGCHAMHE_01267	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_01268	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01270	S	Function unknown		-
+AGCHAMHE_01271	E	Amino acid transport and metabolism	TyrA	-
+AGCHAMHE_01272	E	Amino acid transport and metabolism	AroGA	-
+AGCHAMHE_01273	E	Amino acid transport and metabolism	AspB	-
+AGCHAMHE_01274	E	Amino acid transport and metabolism	PheA2	-
+AGCHAMHE_01277	P	Inorganic ion transport and metabolism	CynT	-
+AGCHAMHE_01278	K	Transcription	RpoE	-
+AGCHAMHE_01279	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_01281	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01282	R	General function prediction only	HrgA	-
+AGCHAMHE_01286	P	Inorganic ion transport and metabolism	NosD	-
+AGCHAMHE_01287	G	Carbohydrate transport and metabolism	YicI	-
+AGCHAMHE_01288	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_01289	V	Defense mechanisms	AcrB	-
+AGCHAMHE_01290	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_01291	G	Carbohydrate transport and metabolism	BglS	-
+AGCHAMHE_01292	E	Amino acid transport and metabolism	MetL1	-
+AGCHAMHE_01293	G	Carbohydrate transport and metabolism	ApgM	-
+AGCHAMHE_01294	E	Amino acid transport and metabolism	ThrC	-
+AGCHAMHE_01295	L	Replication, recombination and repair	AlkD	-
+AGCHAMHE_01296	H	Coenzyme transport and metabolism	ThiH	-
+AGCHAMHE_01298	R	General function prediction only	PerM	-
+AGCHAMHE_01299	P	Inorganic ion transport and metabolism	NarK	-
+AGCHAMHE_01300	T	Signal transduction mechanisms	TypA	-
+AGCHAMHE_01301	E	Amino acid transport and metabolism	TrpA	-
+AGCHAMHE_01302	E	Amino acid transport and metabolism	TrpF	-
+AGCHAMHE_01303	E	Amino acid transport and metabolism	TrpC	-
+AGCHAMHE_01304	E	Amino acid transport and metabolism	TrpD	-
+AGCHAMHE_01305	E	Amino acid transport and metabolism	PabA	-
+AGCHAMHE_01306	E	Amino acid transport and metabolism	TrpE	-
+AGCHAMHE_01307	E	Amino acid transport and metabolism	TrpB	-
+AGCHAMHE_01308	F	Nucleotide transport and metabolism	SsnA	-
+AGCHAMHE_01309	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01310	E	Amino acid transport and metabolism	CysK	-
+AGCHAMHE_01311	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_01312	T	Signal transduction mechanisms	CitB	-
+AGCHAMHE_01319	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01320	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01321	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01322	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01323	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01331	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01332	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01333	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01337	R	General function prediction only		-
+AGCHAMHE_01339	M	Cell wall/membrane/envelope biogenesis	LptB	-
+AGCHAMHE_01340	F	Nucleotide transport and metabolism	Udk	-
+AGCHAMHE_01341	M	Cell wall/membrane/envelope biogenesis	MlaE	-
+AGCHAMHE_01342	M	Cell wall/membrane/envelope biogenesis	MlaF	-
+AGCHAMHE_01343	R	General function prediction only		-
+AGCHAMHE_01344	P	Inorganic ion transport and metabolism	OprP	-
+AGCHAMHE_01345	F	Nucleotide transport and metabolism	PurT	-
+AGCHAMHE_01346	K	Transcription	LytT	-
+AGCHAMHE_01347	T	Signal transduction mechanisms	LytS	-
+AGCHAMHE_01348	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01349	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+AGCHAMHE_01350	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01352	R	General function prediction only	ElsH	-
+AGCHAMHE_01353	U	Intracellular trafficking, secretion, and vesicular transport	Srp	-
+AGCHAMHE_01354	H	Coenzyme transport and metabolism	PanD	-
+AGCHAMHE_01355	H	Coenzyme transport and metabolism	PanC	-
+AGCHAMHE_01356	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01358	G	Carbohydrate transport and metabolism	ChiA	-
+AGCHAMHE_01363	G	Carbohydrate transport and metabolism	PfkA	-
+AGCHAMHE_01364	F	Nucleotide transport and metabolism	UshA	-
+AGCHAMHE_01365	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_01366	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_01367	E	Amino acid transport and metabolism	GdhA	-
+AGCHAMHE_01368	O	Posttranslational modification, protein turnover, chaperones	MsrA	-
+AGCHAMHE_01370	P	Inorganic ion transport and metabolism	PitA	-
+AGCHAMHE_01373	T	Signal transduction mechanisms	WalK	-
+AGCHAMHE_01374	T	Signal transduction mechanisms	OmpR	-
+AGCHAMHE_01375	E	Amino acid transport and metabolism	Tdh	-
+AGCHAMHE_01377	J	Translation, ribosomal structure and biogenesis	RimI	-
+AGCHAMHE_01378	J	Translation, ribosomal structure and biogenesis	RimL	-
+AGCHAMHE_01379	L	Replication, recombination and repair	YaaA	-
+AGCHAMHE_01381	H	Coenzyme transport and metabolism	PncB	-
+AGCHAMHE_01382	G	Carbohydrate transport and metabolism	GalA	-
+AGCHAMHE_01383	K	Transcription		-
+AGCHAMHE_01384	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_01385	M	Cell wall/membrane/envelope biogenesis	Gmd	-
+AGCHAMHE_01386	M	Cell wall/membrane/envelope biogenesis	RfbB	-
+AGCHAMHE_01387	H	Coenzyme transport and metabolism	YjbQ	-
+AGCHAMHE_01388	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_01389	P	Inorganic ion transport and metabolism	CopZ	-
+AGCHAMHE_01390	P	Inorganic ion transport and metabolism	MpfA	-
+AGCHAMHE_01394	S	Function unknown	YvlB	-
+AGCHAMHE_01395	P	Inorganic ion transport and metabolism	ECM27	-
+AGCHAMHE_01396	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01397	O	Posttranslational modification, protein turnover, chaperones	IscU	-
+AGCHAMHE_01398	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_01400	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_01402	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01403	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01404	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01405	R	General function prediction only	AAA_14	-
+AGCHAMHE_01407	J	Translation, ribosomal structure and biogenesis	RloC	-
+AGCHAMHE_01408	K	Transcription	AlpA	-
+AGCHAMHE_01409	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01418	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01420	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01421	S	Function unknown	RhuM	-
+AGCHAMHE_01422	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01423	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01429	F	Nucleotide transport and metabolism	CvpA	-
+AGCHAMHE_01430	U	Intracellular trafficking, secretion, and vesicular transport	DotG	-
+AGCHAMHE_01434	K	Transcription	AlpA	-
+AGCHAMHE_01438	R	General function prediction only	AAA_14	-
+AGCHAMHE_01439	A	RNA processing and modification	YciV	-
+AGCHAMHE_01440	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01441	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01443	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01447	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01449	M	Cell wall/membrane/envelope biogenesis	LapB	-
+AGCHAMHE_01450	H	Coenzyme transport and metabolism	PdxI	-
+AGCHAMHE_01454	P	Inorganic ion transport and metabolism	Kup	-
+AGCHAMHE_01456	K	Transcription	HepA	-
+AGCHAMHE_01457	J	Translation, ribosomal structure and biogenesis	LepA	-
+AGCHAMHE_01458	G	Carbohydrate transport and metabolism	GlxK	-
+AGCHAMHE_01460	C	Energy production and conversion	NhaA	-
+AGCHAMHE_01462	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_01463	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01469	I	Lipid transport and metabolism	FadM	-
+AGCHAMHE_01470	L	Replication, recombination and repair	Smf	-
+AGCHAMHE_01471	F	Nucleotide transport and metabolism	Udp	-
+AGCHAMHE_01472	M	Cell wall/membrane/envelope biogenesis	LptF	-
+AGCHAMHE_01473	J	Translation, ribosomal structure and biogenesis	Tgt	-
+AGCHAMHE_01474	G	Carbohydrate transport and metabolism	PemB	-
+AGCHAMHE_01475	T	Signal transduction mechanisms		-
+AGCHAMHE_01476	L	Replication, recombination and repair	PolA	-
+AGCHAMHE_01477	H	Coenzyme transport and metabolism	IspA	-
+AGCHAMHE_01478	T	Signal transduction mechanisms	CitB	-
+AGCHAMHE_01479	O	Posttranslational modification, protein turnover, chaperones	RIC	-
+AGCHAMHE_01480	H	Coenzyme transport and metabolism	FAU1	-
+AGCHAMHE_01481	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+AGCHAMHE_01482	F	Nucleotide transport and metabolism	ComEB	-
+AGCHAMHE_01483	K	Transcription	CsgD	-
+AGCHAMHE_01484	R	General function prediction only	YfeH	-
+AGCHAMHE_01485	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_01486	J	Translation, ribosomal structure and biogenesis	MiaB	-
+AGCHAMHE_01487	C	Energy production and conversion	ACH1	-
+AGCHAMHE_01489	E	Amino acid transport and metabolism	AroB	-
+AGCHAMHE_01490	G	Carbohydrate transport and metabolism	YcjU	-
+AGCHAMHE_01491	M	Cell wall/membrane/envelope biogenesis	AsmA	-
+AGCHAMHE_01493	I	Lipid transport and metabolism	Aes	-
+AGCHAMHE_01494	R	General function prediction only	YqjQ	-
+AGCHAMHE_01496	I	Lipid transport and metabolism	PlsC	-
+AGCHAMHE_01497	M	Cell wall/membrane/envelope biogenesis	TonB	-
+AGCHAMHE_01498	H	Coenzyme transport and metabolism	FolC	-
+AGCHAMHE_01499	P	Inorganic ion transport and metabolism	ChrA	-
+AGCHAMHE_01500	P	Inorganic ion transport and metabolism	ChrA	-
+AGCHAMHE_01501	L	Replication, recombination and repair	EndA	-
+AGCHAMHE_01502	I	Lipid transport and metabolism	PgpB	-
+AGCHAMHE_01503	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+AGCHAMHE_01504	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_01505	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_01506	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+AGCHAMHE_01508	R	General function prediction only	TPR	-
+AGCHAMHE_01509	F	Nucleotide transport and metabolism	Dut	-
+AGCHAMHE_01510	L	Replication, recombination and repair	DnaA	-
+AGCHAMHE_01511	M	Cell wall/membrane/envelope biogenesis	MlaD	-
+AGCHAMHE_01512	M	Cell wall/membrane/envelope biogenesis	AmiC	-
+AGCHAMHE_01515	K	Transcription	RpoE	-
+AGCHAMHE_01517	M	Cell wall/membrane/envelope biogenesis	Skp	-
+AGCHAMHE_01518	E	Amino acid transport and metabolism	PepD2	-
+AGCHAMHE_01520	C	Energy production and conversion	SdhB	-
+AGCHAMHE_01521	C	Energy production and conversion	SdhA	-
+AGCHAMHE_01522	L	Replication, recombination and repair	DnaG	-
+AGCHAMHE_01526	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_01527	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+AGCHAMHE_01528	I	Lipid transport and metabolism	Dxr	-
+AGCHAMHE_01529	O	Posttranslational modification, protein turnover, chaperones	RseP	-
+AGCHAMHE_01530	J	Translation, ribosomal structure and biogenesis	RlmK	-
+AGCHAMHE_01532	J	Translation, ribosomal structure and biogenesis	PheS	-
+AGCHAMHE_01533	L	Replication, recombination and repair	Nth	-
+AGCHAMHE_01534	P	Inorganic ion transport and metabolism	YadS	-
+AGCHAMHE_01535	I	Lipid transport and metabolism	GtrA	-
+AGCHAMHE_01536	R	General function prediction only	RssA	-
+AGCHAMHE_01537	G	Carbohydrate transport and metabolism	AmyA	-
+AGCHAMHE_01538	E	Amino acid transport and metabolism	PrsA	-
+AGCHAMHE_01540	H	Coenzyme transport and metabolism	ThiF	-
+AGCHAMHE_01541	G	Carbohydrate transport and metabolism	NolL	-
+AGCHAMHE_01543	O	Posttranslational modification, protein turnover, chaperones	SmpB	-
+AGCHAMHE_01546	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01547	G	Carbohydrate transport and metabolism	BglS	-
+AGCHAMHE_01550	R	General function prediction only	Zeta	-
+AGCHAMHE_01554	O	Posttranslational modification, protein turnover, chaperones	DnaK	-
+AGCHAMHE_01555	E	Amino acid transport and metabolism	HppD	-
+AGCHAMHE_01556	I	Lipid transport and metabolism	MmdA	-
+AGCHAMHE_01558	I	Lipid transport and metabolism	AccB	-
+AGCHAMHE_01559	C	Energy production and conversion	OadB	-
+AGCHAMHE_01562	J	Translation, ribosomal structure and biogenesis	AspS	-
+AGCHAMHE_01563	H	Coenzyme transport and metabolism	NIF3	-
+AGCHAMHE_01564	R	General function prediction only	DR0291	-
+AGCHAMHE_01566	C	Energy production and conversion	NhaC	-
+AGCHAMHE_01567	G	Carbohydrate transport and metabolism	YvrE	-
+AGCHAMHE_01568	J	Translation, ribosomal structure and biogenesis	RpsU	-
+AGCHAMHE_01569	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01570	J	Translation, ribosomal structure and biogenesis	RaiA	-
+AGCHAMHE_01571	T	Signal transduction mechanisms		-
+AGCHAMHE_01573	L	Replication, recombination and repair	RuvA	-
+AGCHAMHE_01574	E	Amino acid transport and metabolism		-
+AGCHAMHE_01575	L	Replication, recombination and repair	XseB	-
+AGCHAMHE_01576	L	Replication, recombination and repair	XseA	-
+AGCHAMHE_01578	L	Replication, recombination and repair	SrmB	-
+AGCHAMHE_01579	J	Translation, ribosomal structure and biogenesis	Der	-
+AGCHAMHE_01581	P	Inorganic ion transport and metabolism	PhoA	-
+AGCHAMHE_01582	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_01583	O	Posttranslational modification, protein turnover, chaperones	YfmG	-
+AGCHAMHE_01585	D	Cell cycle control, cell division, chromosome partitioning	DamX	-
+AGCHAMHE_01590	C	Energy production and conversion	PorA	-
+AGCHAMHE_01592	C	Energy production and conversion	GlpA	-
+AGCHAMHE_01593	E	Amino acid transport and metabolism	GlpB	-
+AGCHAMHE_01594	C	Energy production and conversion	GlpC	-
+AGCHAMHE_01595	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01596	I	Lipid transport and metabolism	UgpQ	-
+AGCHAMHE_01597	O	Posttranslational modification, protein turnover, chaperones	AslB	-
+AGCHAMHE_01598	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_01599	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01601	G	Carbohydrate transport and metabolism		-
+AGCHAMHE_01602	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_01603	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01604	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01606	M	Cell wall/membrane/envelope biogenesis	BamB	-
+AGCHAMHE_01608	I	Lipid transport and metabolism	UgpQ	-
+AGCHAMHE_01609	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01611	H	Coenzyme transport and metabolism	YggS	-
+AGCHAMHE_01612	G	Carbohydrate transport and metabolism	FucP	-
+AGCHAMHE_01613	G	Carbohydrate transport and metabolism	TktA	-
+AGCHAMHE_01616	T	Signal transduction mechanisms	UspA	-
+AGCHAMHE_01618	W	Extracellular structures	TadD	-
+AGCHAMHE_01620	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+AGCHAMHE_01621	P	Inorganic ion transport and metabolism	ChlD	-
+AGCHAMHE_01622	P	Inorganic ion transport and metabolism	ChlD	-
+AGCHAMHE_01624	R	General function prediction only	MMP0362	-
+AGCHAMHE_01625	R	General function prediction only	MMP0363	-
+AGCHAMHE_01626	P	Inorganic ion transport and metabolism	XkdP	-
+AGCHAMHE_01627	B	Chromatin structure and dynamics	HupA	-
+AGCHAMHE_01628	O	Posttranslational modification, protein turnover, chaperones	PepO	-
+AGCHAMHE_01629	J	Translation, ribosomal structure and biogenesis	Uup	-
+AGCHAMHE_01630	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_01631	C	Energy production and conversion	YqdH	-
+AGCHAMHE_01632	M	Cell wall/membrane/envelope biogenesis	YidC	-
+AGCHAMHE_01633	F	Nucleotide transport and metabolism	PyrG	-
+AGCHAMHE_01634	E	Amino acid transport and metabolism	ArgB	-
+AGCHAMHE_01635	J	Translation, ribosomal structure and biogenesis	PrfA	-
+AGCHAMHE_01636	I	Lipid transport and metabolism	FAA1	-
+AGCHAMHE_01637	J	Translation, ribosomal structure and biogenesis	RplT	-
+AGCHAMHE_01638	J	Translation, ribosomal structure and biogenesis	RpmI	-
+AGCHAMHE_01639	J	Translation, ribosomal structure and biogenesis	InfC	-
+AGCHAMHE_01640	J	Translation, ribosomal structure and biogenesis	ThrS	-
+AGCHAMHE_01642	F	Nucleotide transport and metabolism	GuaA2	-
+AGCHAMHE_01643	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01644	G	Carbohydrate transport and metabolism	Pgu1	-
+AGCHAMHE_01647	H	Coenzyme transport and metabolism	BtuB	-
+AGCHAMHE_01653	T	Signal transduction mechanisms	OmpR	-
+AGCHAMHE_01654	T	Signal transduction mechanisms	WalK	-
+AGCHAMHE_01655	M	Cell wall/membrane/envelope biogenesis	NanM	-
+AGCHAMHE_01656	M	Cell wall/membrane/envelope biogenesis	BamA	-
+AGCHAMHE_01657	U	Intracellular trafficking, secretion, and vesicular transport	TamB	-
+AGCHAMHE_01659	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01660	E	Amino acid transport and metabolism	DapA	-
+AGCHAMHE_01661	G	Carbohydrate transport and metabolism	YihS	-
+AGCHAMHE_01663	G	Carbohydrate transport and metabolism	AraJ	-
+AGCHAMHE_01664	G	Carbohydrate transport and metabolism	XylA	-
+AGCHAMHE_01665	G	Carbohydrate transport and metabolism	XylB	-
+AGCHAMHE_01666	H	Coenzyme transport and metabolism	NadQ	-
+AGCHAMHE_01667	E	Amino acid transport and metabolism	ProA	-
+AGCHAMHE_01669	E	Amino acid transport and metabolism	ProB	-
+AGCHAMHE_01670	I	Lipid transport and metabolism	Acs	-
+AGCHAMHE_01671	S	Function unknown		-
+AGCHAMHE_01673	M	Cell wall/membrane/envelope biogenesis	FmhB	-
+AGCHAMHE_01674	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_01675	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_01676	V	Defense mechanisms	YajL	-
+AGCHAMHE_01677	I	Lipid transport and metabolism	YndB	-
+AGCHAMHE_01680	J	Translation, ribosomal structure and biogenesis	RplS	-
+AGCHAMHE_01681	R	General function prediction only	PqqL	-
+AGCHAMHE_01682	J	Translation, ribosomal structure and biogenesis	DusA	-
+AGCHAMHE_01684	S	Function unknown		-
+AGCHAMHE_01685	R	General function prediction only		-
+AGCHAMHE_01686	I	Lipid transport and metabolism	LicD	-
+AGCHAMHE_01687	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_01688	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_01689	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_01690	G	Carbohydrate transport and metabolism	MelB	-
+AGCHAMHE_01692	D	Cell cycle control, cell division, chromosome partitioning	SpoIID	-
+AGCHAMHE_01693	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_01694	D	Cell cycle control, cell division, chromosome partitioning	Mrp	-
+AGCHAMHE_01695	J	Translation, ribosomal structure and biogenesis	TrmB	-
+AGCHAMHE_01697	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01700	X	Mobilome: prophages, transposons	IS5	-
+AGCHAMHE_01702	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01703	H	Coenzyme transport and metabolism	PanB	-
+AGCHAMHE_01704	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+AGCHAMHE_01705	C	Energy production and conversion	SfcA	-
+AGCHAMHE_01707	J	Translation, ribosomal structure and biogenesis	Pnp	-
+AGCHAMHE_01708	M	Cell wall/membrane/envelope biogenesis	MurI	-
+AGCHAMHE_01709	M	Cell wall/membrane/envelope biogenesis	Skp	-
+AGCHAMHE_01710	M	Cell wall/membrane/envelope biogenesis	Skp	-
+AGCHAMHE_01711	M	Cell wall/membrane/envelope biogenesis	BamA	-
+AGCHAMHE_01712	I	Lipid transport and metabolism	UppS	-
+AGCHAMHE_01713	M	Cell wall/membrane/envelope biogenesis	LomR	-
+AGCHAMHE_01716	M	Cell wall/membrane/envelope biogenesis	NlpC	-
+AGCHAMHE_01717	M	Cell wall/membrane/envelope biogenesis	Acm	-
+AGCHAMHE_01718	H	Coenzyme transport and metabolism	MenA	-
+AGCHAMHE_01719	L	Replication, recombination and repair	YbjD	-
+AGCHAMHE_01726	J	Translation, ribosomal structure and biogenesis	FusA	-
+AGCHAMHE_01727	E	Amino acid transport and metabolism	ArgF	-
+AGCHAMHE_01728	P	Inorganic ion transport and metabolism	FocA	-
+AGCHAMHE_01729	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+AGCHAMHE_01732	F	Nucleotide transport and metabolism	Udk	-
+AGCHAMHE_01733	G	Carbohydrate transport and metabolism	XynB2	-
+AGCHAMHE_01734	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_01735	G	Carbohydrate transport and metabolism	PemB	-
+AGCHAMHE_01736	G	Carbohydrate transport and metabolism	PelB	-
+AGCHAMHE_01737	G	Carbohydrate transport and metabolism	PelB	-
+AGCHAMHE_01739	R	General function prediction only	FN3	-
+AGCHAMHE_01741	M	Cell wall/membrane/envelope biogenesis	YcbK	-
+AGCHAMHE_01742	P	Inorganic ion transport and metabolism	MpfA	-
+AGCHAMHE_01743	M	Cell wall/membrane/envelope biogenesis	LptC	-
+AGCHAMHE_01744	I	Lipid transport and metabolism	FadL	-
+AGCHAMHE_01745	H	Coenzyme transport and metabolism	CoaX	-
+AGCHAMHE_01747	D	Cell cycle control, cell division, chromosome partitioning	FtsB	-
+AGCHAMHE_01748	O	Posttranslational modification, protein turnover, chaperones		-
+AGCHAMHE_01749	K	Transcription	RpoE	-
+AGCHAMHE_01750	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_01751	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01755	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_01756	G	Carbohydrate transport and metabolism	Pgu1	-
+AGCHAMHE_01757	G	Carbohydrate transport and metabolism	Pgu1	-
+AGCHAMHE_01758	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_01759	I	Lipid transport and metabolism	UgpQ	-
+AGCHAMHE_01760	I	Lipid transport and metabolism	UgpQ	-
+AGCHAMHE_01761	R	General function prediction only	ElsH	-
+AGCHAMHE_01763	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01764	K	Transcription	RpoE	-
+AGCHAMHE_01765	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_01766	J	Translation, ribosomal structure and biogenesis	ArgS	-
+AGCHAMHE_01767	P	Inorganic ion transport and metabolism	YbhL	-
+AGCHAMHE_01768	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01773	X	Mobilome: prophages, transposons	RAYT	-
+AGCHAMHE_01774	M	Cell wall/membrane/envelope biogenesis	BamD	-
+AGCHAMHE_01775	K	Transcription	RpoZ	-
+AGCHAMHE_01776	J	Translation, ribosomal structure and biogenesis	RpsO	-
+AGCHAMHE_01777	P	Inorganic ion transport and metabolism	KefB	-
+AGCHAMHE_01778	J	Translation, ribosomal structure and biogenesis	RlmN	-
+AGCHAMHE_01780	G	Carbohydrate transport and metabolism	YicI	-
+AGCHAMHE_01783	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_01784	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_01785	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01787	P	Inorganic ion transport and metabolism	MpfA	-
+AGCHAMHE_01789	H	Coenzyme transport and metabolism	Sfp	-
+AGCHAMHE_01790	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_01792	M	Cell wall/membrane/envelope biogenesis	GlmU	-
+AGCHAMHE_01793	E	Amino acid transport and metabolism	Asd	-
+AGCHAMHE_01794	G	Carbohydrate transport and metabolism	LpqC	-
+AGCHAMHE_01795	J	Translation, ribosomal structure and biogenesis	RsmD	-
+AGCHAMHE_01798	C	Energy production and conversion	PckA	-
+AGCHAMHE_01801	L	Replication, recombination and repair	Nfo	-
+AGCHAMHE_01807	E	Amino acid transport and metabolism	HisC	-
+AGCHAMHE_01808	E	Amino acid transport and metabolism	OCDMu	-
+AGCHAMHE_01809	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_01810	G	Carbohydrate transport and metabolism	Eno	-
+AGCHAMHE_01811	J	Translation, ribosomal structure and biogenesis	RplQ	-
+AGCHAMHE_01812	K	Transcription	RpoA	-
+AGCHAMHE_01813	J	Translation, ribosomal structure and biogenesis	RpsD	-
+AGCHAMHE_01814	J	Translation, ribosomal structure and biogenesis	RpsK	-
+AGCHAMHE_01815	J	Translation, ribosomal structure and biogenesis	RpsM	-
+AGCHAMHE_01816	J	Translation, ribosomal structure and biogenesis	RpmJ	-
+AGCHAMHE_01817	J	Translation, ribosomal structure and biogenesis	InfA	-
+AGCHAMHE_01818	J	Translation, ribosomal structure and biogenesis	Map	-
+AGCHAMHE_01819	U	Intracellular trafficking, secretion, and vesicular transport	SecY	-
+AGCHAMHE_01820	J	Translation, ribosomal structure and biogenesis	RplO	-
+AGCHAMHE_01821	J	Translation, ribosomal structure and biogenesis	RpmD	-
+AGCHAMHE_01822	J	Translation, ribosomal structure and biogenesis	RpsE	-
+AGCHAMHE_01823	J	Translation, ribosomal structure and biogenesis	RplR	-
+AGCHAMHE_01824	J	Translation, ribosomal structure and biogenesis	RplF	-
+AGCHAMHE_01825	J	Translation, ribosomal structure and biogenesis	RpsH	-
+AGCHAMHE_01826	J	Translation, ribosomal structure and biogenesis	RpsN	-
+AGCHAMHE_01827	J	Translation, ribosomal structure and biogenesis	RplE	-
+AGCHAMHE_01828	J	Translation, ribosomal structure and biogenesis	RplX	-
+AGCHAMHE_01829	J	Translation, ribosomal structure and biogenesis	RplN	-
+AGCHAMHE_01830	J	Translation, ribosomal structure and biogenesis	RpsQ	-
+AGCHAMHE_01831	J	Translation, ribosomal structure and biogenesis	RpmC	-
+AGCHAMHE_01832	J	Translation, ribosomal structure and biogenesis	RplP	-
+AGCHAMHE_01833	J	Translation, ribosomal structure and biogenesis	RpsC	-
+AGCHAMHE_01834	J	Translation, ribosomal structure and biogenesis	RplV	-
+AGCHAMHE_01835	J	Translation, ribosomal structure and biogenesis	RpsS	-
+AGCHAMHE_01836	J	Translation, ribosomal structure and biogenesis	RplB	-
+AGCHAMHE_01837	J	Translation, ribosomal structure and biogenesis	RplW	-
+AGCHAMHE_01838	J	Translation, ribosomal structure and biogenesis	RplD	-
+AGCHAMHE_01839	J	Translation, ribosomal structure and biogenesis	RplC	-
+AGCHAMHE_01840	J	Translation, ribosomal structure and biogenesis	RpsJ	-
+AGCHAMHE_01841	J	Translation, ribosomal structure and biogenesis	FusA	-
+AGCHAMHE_01842	J	Translation, ribosomal structure and biogenesis	RpsG	-
+AGCHAMHE_01843	J	Translation, ribosomal structure and biogenesis	RpsL	-
+AGCHAMHE_01844	I	Lipid transport and metabolism	Psd	-
+AGCHAMHE_01845	I	Lipid transport and metabolism	PssA	-
+AGCHAMHE_01847	G	Carbohydrate transport and metabolism	GlpF	-
+AGCHAMHE_01848	H	Coenzyme transport and metabolism	Cof	-
+AGCHAMHE_01849	G	Carbohydrate transport and metabolism	PfkA	-
+AGCHAMHE_01850	L	Replication, recombination and repair	DnaB	-
+AGCHAMHE_01854	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_01855	P	Inorganic ion transport and metabolism	FtnA	-
+AGCHAMHE_01856	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_01857	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01859	S	Function unknown	YfhO	-
+AGCHAMHE_01860	M	Cell wall/membrane/envelope biogenesis	KdtA	-
+AGCHAMHE_01861	J	Translation, ribosomal structure and biogenesis	GlnS	-
+AGCHAMHE_01862	T	Signal transduction mechanisms	BaeS	-
+AGCHAMHE_01863	E	Amino acid transport and metabolism	IlvC	-
+AGCHAMHE_01864	I	Lipid transport and metabolism	FatA	-
+AGCHAMHE_01865	E	Amino acid transport and metabolism	IlvH	-
+AGCHAMHE_01866	E	Amino acid transport and metabolism	IlvB	-
+AGCHAMHE_01867	E	Amino acid transport and metabolism	IlvD	-
+AGCHAMHE_01869	R	General function prediction only	ElsH	-
+AGCHAMHE_01870	R	General function prediction only	ElsH	-
+AGCHAMHE_01871	R	General function prediction only	ElsH	-
+AGCHAMHE_01873	S	Function unknown		-
+AGCHAMHE_01875	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01877	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_01879	R	General function prediction only	MviM	-
+AGCHAMHE_01880	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_01881	K	Transcription	PurR	-
+AGCHAMHE_01882	E	Amino acid transport and metabolism	Tdh	-
+AGCHAMHE_01883	E	Amino acid transport and metabolism	PutP	-
+AGCHAMHE_01886	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01890	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_01892	J	Translation, ribosomal structure and biogenesis	QueG	-
+AGCHAMHE_01893	G	Carbohydrate transport and metabolism	PgaB	-
+AGCHAMHE_01894	M	Cell wall/membrane/envelope biogenesis	ArnT	-
+AGCHAMHE_01895	I	Lipid transport and metabolism	FadL	-
+AGCHAMHE_01897	I	Lipid transport and metabolism	IspF	-
+AGCHAMHE_01898	H	Coenzyme transport and metabolism	PduO	-
+AGCHAMHE_01900	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_01903	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+AGCHAMHE_01905	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01906	L	Replication, recombination and repair	DnaC	-
+AGCHAMHE_01907	R	General function prediction only		-
+AGCHAMHE_01908	K	Transcription	MntR	-
+AGCHAMHE_01909	X	Mobilome: prophages, transposons		-
+AGCHAMHE_01911	D	Cell cycle control, cell division, chromosome partitioning	Smc	-
+AGCHAMHE_01915	R	General function prediction only	YbjL	-
+AGCHAMHE_01917	V	Defense mechanisms	AmpC	-
+AGCHAMHE_01918	M	Cell wall/membrane/envelope biogenesis	MscS	-
+AGCHAMHE_01919	F	Nucleotide transport and metabolism	PurN	-
+AGCHAMHE_01921	M	Cell wall/membrane/envelope biogenesis	GlmS	-
+AGCHAMHE_01922	R	General function prediction only	YejR	-
+AGCHAMHE_01923	K	Transcription	ArgR	-
+AGCHAMHE_01924	E	Amino acid transport and metabolism	ArgA	-
+AGCHAMHE_01925	E	Amino acid transport and metabolism	ArgG	-
+AGCHAMHE_01926	E	Amino acid transport and metabolism	ArgC	-
+AGCHAMHE_01927	E	Amino acid transport and metabolism	ArgD	-
+AGCHAMHE_01928	E	Amino acid transport and metabolism	ProC	-
+AGCHAMHE_01929	L	Replication, recombination and repair	Ssb	-
+AGCHAMHE_01933	K	Transcription	RpoE	-
+AGCHAMHE_01934	T	Signal transduction mechanisms	SPS1	-
+AGCHAMHE_01936	G	Carbohydrate transport and metabolism	GlgB	-
+AGCHAMHE_01937	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_01938	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_01946	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_01947	S	Function unknown	AF0785	-
+AGCHAMHE_01948	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_01949	L	Replication, recombination and repair	RuvB	-
+AGCHAMHE_01950	M	Cell wall/membrane/envelope biogenesis	RfaF	-
+AGCHAMHE_01952	E	Amino acid transport and metabolism	MetE	-
+AGCHAMHE_01954	G	Carbohydrate transport and metabolism	AmyA	-
+AGCHAMHE_01955	F	Nucleotide transport and metabolism	Tdk	-
+AGCHAMHE_01956	G	Carbohydrate transport and metabolism	NanQ	-
+AGCHAMHE_01958	V	Defense mechanisms	NorM	-
+AGCHAMHE_01959	S	Function unknown	YeiB	-
+AGCHAMHE_01960	D	Cell cycle control, cell division, chromosome partitioning	CpoB	-
+AGCHAMHE_01961	H	Coenzyme transport and metabolism	RibF	-
+AGCHAMHE_01962	J	Translation, ribosomal structure and biogenesis	Dtd	-
+AGCHAMHE_01963	V	Defense mechanisms	MazG	-
+AGCHAMHE_01964	E	Amino acid transport and metabolism	DapB	-
+AGCHAMHE_01965	U	Intracellular trafficking, secretion, and vesicular transport	LepB	-
+AGCHAMHE_01967	M	Cell wall/membrane/envelope biogenesis	MscS	-
+AGCHAMHE_01969	G	Carbohydrate transport and metabolism	UxuA	-
+AGCHAMHE_01970	I	Lipid transport and metabolism	FabG	-
+AGCHAMHE_01972	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_01973	H	Coenzyme transport and metabolism	RibC	-
+AGCHAMHE_01974	F	Nucleotide transport and metabolism	PpnN	-
+AGCHAMHE_01976	H	Coenzyme transport and metabolism	HemD	-
+AGCHAMHE_01977	A	RNA processing and modification	RnpA	-
+AGCHAMHE_01978	N	Cell motility	TatD	-
+AGCHAMHE_01979	S	Function unknown		-
+AGCHAMHE_01980	R	General function prediction only	AAA	-
+AGCHAMHE_01982	S	Function unknown		-
+AGCHAMHE_01983	J	Translation, ribosomal structure and biogenesis	RnaY	-
+AGCHAMHE_01984	E	Amino acid transport and metabolism	IlvE	-
+AGCHAMHE_01985	J	Translation, ribosomal structure and biogenesis	LysU	-
+AGCHAMHE_01986	C	Energy production and conversion	GpsA	-
+AGCHAMHE_01987	G	Carbohydrate transport and metabolism	Pgi	-
+AGCHAMHE_01990	V	Defense mechanisms	CatA	-
+AGCHAMHE_01992	H	Coenzyme transport and metabolism	NadA	-
+AGCHAMHE_01993	J	Translation, ribosomal structure and biogenesis	LeuS	-
+AGCHAMHE_01995	F	Nucleotide transport and metabolism	RdgB	-
+AGCHAMHE_01996	T	Signal transduction mechanisms		-
+AGCHAMHE_01997	G	Carbohydrate transport and metabolism	NolL	-
+AGCHAMHE_01998	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_02002	H	Coenzyme transport and metabolism	NadB	-
+AGCHAMHE_02004	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_02005	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_02006	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_02007	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+AGCHAMHE_02008	M	Cell wall/membrane/envelope biogenesis	RfaJ	-
+AGCHAMHE_02009	G	Carbohydrate transport and metabolism	XynB2	-
+AGCHAMHE_02010	O	Posttranslational modification, protein turnover, chaperones	PepO	-
+AGCHAMHE_02011	G	Carbohydrate transport and metabolism	RpiB	-
+AGCHAMHE_02012	M	Cell wall/membrane/envelope biogenesis	MdlB	-
+AGCHAMHE_02013	C	Energy production and conversion	NapH	-
+AGCHAMHE_02014	F	Nucleotide transport and metabolism	ThyA	-
+AGCHAMHE_02015	H	Coenzyme transport and metabolism	FolA	-
+AGCHAMHE_02016	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02021	J	Translation, ribosomal structure and biogenesis	Bud32	-
+AGCHAMHE_02022	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_02023	R	General function prediction only	SpmA	-
+AGCHAMHE_02024	J	Translation, ribosomal structure and biogenesis	YbeY	-
+AGCHAMHE_02025	J	Translation, ribosomal structure and biogenesis	MnmG	-
+AGCHAMHE_02026	F	Nucleotide transport and metabolism	Apt	-
+AGCHAMHE_02027	L	Replication, recombination and repair	UvrC	-
+AGCHAMHE_02028	M	Cell wall/membrane/envelope biogenesis	GumC	-
+AGCHAMHE_02030	M	Cell wall/membrane/envelope biogenesis	Wza	-
+AGCHAMHE_02031	M	Cell wall/membrane/envelope biogenesis	RfbX	-
+AGCHAMHE_02033	M	Cell wall/membrane/envelope biogenesis	WecB	-
+AGCHAMHE_02034	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_02035	E	Amino acid transport and metabolism	Lys9	-
+AGCHAMHE_02036	M	Cell wall/membrane/envelope biogenesis	MscL	-
+AGCHAMHE_02037	G	Carbohydrate transport and metabolism	GapA	-
+AGCHAMHE_02039	J	Translation, ribosomal structure and biogenesis	Gcd14	-
+AGCHAMHE_02041	F	Nucleotide transport and metabolism	Upp	-
+AGCHAMHE_02042	H	Coenzyme transport and metabolism	YigB	-
+AGCHAMHE_02045	L	Replication, recombination and repair	RecA	-
+AGCHAMHE_02046	K	Transcription	Lrp	-
+AGCHAMHE_02047	E	Amino acid transport and metabolism	MET17	-
+AGCHAMHE_02048	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_02049	E	Amino acid transport and metabolism	MalY	-
+AGCHAMHE_02050	T	Signal transduction mechanisms	SpoT	-
+AGCHAMHE_02051	T	Signal transduction mechanisms	PgpH	-
+AGCHAMHE_02053	O	Posttranslational modification, protein turnover, chaperones	AprE	-
+AGCHAMHE_02054	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+AGCHAMHE_02057	E	Amino acid transport and metabolism	PepC	-
+AGCHAMHE_02058	J	Translation, ribosomal structure and biogenesis	TcdA	-
+AGCHAMHE_02059	M	Cell wall/membrane/envelope biogenesis	LolD	-
+AGCHAMHE_02062	J	Translation, ribosomal structure and biogenesis	CysS	-
+AGCHAMHE_02063	L	Replication, recombination and repair	RecD	-
+AGCHAMHE_02064	K	Transcription	Lrp	-
+AGCHAMHE_02065	U	Intracellular trafficking, secretion, and vesicular transport	SecG	-
+AGCHAMHE_02068	K	Transcription	RocR	-
+AGCHAMHE_02069	R	General function prediction only	Alr0228	-
+AGCHAMHE_02070	O	Posttranslational modification, protein turnover, chaperones	CtpA	-
+AGCHAMHE_02072	L	Replication, recombination and repair	GyrA	-
+AGCHAMHE_02073	I	Lipid transport and metabolism	FadM	-
+AGCHAMHE_02074	J	Translation, ribosomal structure and biogenesis	QueA	-
+AGCHAMHE_02075	H	Coenzyme transport and metabolism	ApbE	-
+AGCHAMHE_02076	L	Replication, recombination and repair	RnhB	-
+AGCHAMHE_02077	T	Signal transduction mechanisms	OmpR	-
+AGCHAMHE_02078	P	Inorganic ion transport and metabolism	NptA	-
+AGCHAMHE_02079	M	Cell wall/membrane/envelope biogenesis	YxeI	-
+AGCHAMHE_02081	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+AGCHAMHE_02083	A	RNA processing and modification	PBP1	-
+AGCHAMHE_02084	K	Transcription	AraC	-
+AGCHAMHE_02086	M	Cell wall/membrane/envelope biogenesis	AglD2	-
+AGCHAMHE_02088	M	Cell wall/membrane/envelope biogenesis	PldA	-
+AGCHAMHE_02091	O	Posttranslational modification, protein turnover, chaperones	YifB	-
+AGCHAMHE_02092	J	Translation, ribosomal structure and biogenesis	SpoU	-
+AGCHAMHE_02093	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_02095	F	Nucleotide transport and metabolism	DeoC	-
+AGCHAMHE_02097	M	Cell wall/membrane/envelope biogenesis	WcaG	-
+AGCHAMHE_02098	M	Cell wall/membrane/envelope biogenesis	LptD	-
+AGCHAMHE_02099	M	Cell wall/membrane/envelope biogenesis	RhaM	-
+AGCHAMHE_02100	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_02101	F	Nucleotide transport and metabolism	PyrB	-
+AGCHAMHE_02102	F	Nucleotide transport and metabolism	PyrI	-
+AGCHAMHE_02103	C	Energy production and conversion	RutF	-
+AGCHAMHE_02104	E	Amino acid transport and metabolism	GlyA	-
+AGCHAMHE_02112	R	General function prediction only	Rnh1	-
+AGCHAMHE_02113	E	Amino acid transport and metabolism	Ald	-
+AGCHAMHE_02114	E	Amino acid transport and metabolism	AroK	-
+AGCHAMHE_02115	R	General function prediction only	YqeY	-
+AGCHAMHE_02116	J	Translation, ribosomal structure and biogenesis	SerS	-
+AGCHAMHE_02117	T	Signal transduction mechanisms	YwqE	-
+AGCHAMHE_02119	M	Cell wall/membrane/envelope biogenesis	GumC	-
+AGCHAMHE_02120	K	Transcription		-
+AGCHAMHE_02121	T	Signal transduction mechanisms	LuxS	-
+AGCHAMHE_02122	F	Nucleotide transport and metabolism	MtnN	-
+AGCHAMHE_02124	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02126	M	Cell wall/membrane/envelope biogenesis	YdiY	-
+AGCHAMHE_02127	S	Function unknown		-
+AGCHAMHE_02132	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+AGCHAMHE_02133	J	Translation, ribosomal structure and biogenesis	Era	-
+AGCHAMHE_02134	M	Cell wall/membrane/envelope biogenesis	CpsB	-
+AGCHAMHE_02135	H	Coenzyme transport and metabolism	PhnP	-
+AGCHAMHE_02136	J	Translation, ribosomal structure and biogenesis	RsmI	-
+AGCHAMHE_02137	D	Cell cycle control, cell division, chromosome partitioning	FtsZ	-
+AGCHAMHE_02138	D	Cell cycle control, cell division, chromosome partitioning	FtsA	-
+AGCHAMHE_02139	D	Cell cycle control, cell division, chromosome partitioning	FtsQ	-
+AGCHAMHE_02140	M	Cell wall/membrane/envelope biogenesis	MurC	-
+AGCHAMHE_02141	M	Cell wall/membrane/envelope biogenesis	MurG	-
+AGCHAMHE_02142	D	Cell cycle control, cell division, chromosome partitioning	FtsW	-
+AGCHAMHE_02143	M	Cell wall/membrane/envelope biogenesis	MurD	-
+AGCHAMHE_02144	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+AGCHAMHE_02145	M	Cell wall/membrane/envelope biogenesis	MurE	-
+AGCHAMHE_02146	D	Cell cycle control, cell division, chromosome partitioning	FtsI	-
+AGCHAMHE_02148	J	Translation, ribosomal structure and biogenesis	RmsH	-
+AGCHAMHE_02150	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_02153	K	Transcription		-
+AGCHAMHE_02154	J	Translation, ribosomal structure and biogenesis	QueFC	-
+AGCHAMHE_02155	E	Amino acid transport and metabolism	PepD	-
+AGCHAMHE_02156	M	Cell wall/membrane/envelope biogenesis	RfaB	-
+AGCHAMHE_02157	D	Cell cycle control, cell division, chromosome partitioning	SkfB	-
+AGCHAMHE_02158	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_02159	H	Coenzyme transport and metabolism	BtuB	-
+AGCHAMHE_02160	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02162	C	Energy production and conversion	PepCK	-
+AGCHAMHE_02163	K	Transcription	RpoE	-
+AGCHAMHE_02164	J	Translation, ribosomal structure and biogenesis	RsmA	-
+AGCHAMHE_02165	P	Inorganic ion transport and metabolism	MgtE	-
+AGCHAMHE_02166	O	Posttranslational modification, protein turnover, chaperones	SlpA	-
+AGCHAMHE_02167	O	Posttranslational modification, protein turnover, chaperones	SIR2	-
+AGCHAMHE_02168	V	Defense mechanisms	HEPN	-
+AGCHAMHE_02169	R	General function prediction only	MJ0435	-
+AGCHAMHE_02171	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_02172	L	Replication, recombination and repair	MutS	-
+AGCHAMHE_02173	U	Intracellular trafficking, secretion, and vesicular transport	SecD	-
+AGCHAMHE_02174	H	Coenzyme transport and metabolism	MetK	-
+AGCHAMHE_02175	T	Signal transduction mechanisms		-
+AGCHAMHE_02179	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02182	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_02183	X	Mobilome: prophages, transposons		-
+AGCHAMHE_02184	R	General function prediction only		-
+AGCHAMHE_02185	K	Transcription	GreA	-
+AGCHAMHE_02186	F	Nucleotide transport and metabolism	HinT	-
+AGCHAMHE_02188	J	Translation, ribosomal structure and biogenesis	Tyw1	-
+AGCHAMHE_02189	M	Cell wall/membrane/envelope biogenesis	LdcA	-
+AGCHAMHE_02190	E	Amino acid transport and metabolism	CysE	-
+AGCHAMHE_02191	J	Translation, ribosomal structure and biogenesis	RlmL	-
+AGCHAMHE_02192	F	Nucleotide transport and metabolism	PurD	-
+AGCHAMHE_02194	H	Coenzyme transport and metabolism	SerA	-
+AGCHAMHE_02195	I	Lipid transport and metabolism	CaiB	-
+AGCHAMHE_02196	E	Amino acid transport and metabolism	IlvB	-
+AGCHAMHE_02197	R	General function prediction only	YfdV	-
+AGCHAMHE_02199	G	Carbohydrate transport and metabolism	BglS	-
+AGCHAMHE_02200	V	Defense mechanisms	AcrB	-
+AGCHAMHE_02202	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_02203	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_02204	R	General function prediction only	YfaS	-
+AGCHAMHE_02205	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02206	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02207	E	Amino acid transport and metabolism	CarB	-
+AGCHAMHE_02210	U	Intracellular trafficking, secretion, and vesicular transport	YopM	-
+AGCHAMHE_02211	J	Translation, ribosomal structure and biogenesis	TrmD	-
+AGCHAMHE_02212	L	Replication, recombination and repair	RecF	-
+AGCHAMHE_02213	R	General function prediction only		-
+AGCHAMHE_02214	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_02215	X	Mobilome: prophages, transposons		-
+AGCHAMHE_02216	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02221	C	Energy production and conversion	NuoA	-
+AGCHAMHE_02222	C	Energy production and conversion	NuoB	-
+AGCHAMHE_02223	C	Energy production and conversion	NuoD	-
+AGCHAMHE_02224	C	Energy production and conversion	NuoH	-
+AGCHAMHE_02225	C	Energy production and conversion	AtpD	-
+AGCHAMHE_02226	C	Energy production and conversion	AtpC	-
+AGCHAMHE_02227	C	Energy production and conversion	AtpB	-
+AGCHAMHE_02228	C	Energy production and conversion	AtpE	-
+AGCHAMHE_02229	C	Energy production and conversion	AtpF	-
+AGCHAMHE_02230	C	Energy production and conversion	AtpH	-
+AGCHAMHE_02231	C	Energy production and conversion	AtpA	-
+AGCHAMHE_02232	C	Energy production and conversion	AtpG	-
+AGCHAMHE_02233	C	Energy production and conversion	NuoI	-
+AGCHAMHE_02234	C	Energy production and conversion	NuoJ	-
+AGCHAMHE_02235	C	Energy production and conversion	NuoK	-
+AGCHAMHE_02236	C	Energy production and conversion	NuoL	-
+AGCHAMHE_02237	C	Energy production and conversion	NuoM	-
+AGCHAMHE_02238	C	Energy production and conversion	NuoN	-
+AGCHAMHE_02241	H	Coenzyme transport and metabolism	RibE	-
+AGCHAMHE_02242	G	Carbohydrate transport and metabolism	RbsK	-
+AGCHAMHE_02243	G	Carbohydrate transport and metabolism	GutQ	-
+AGCHAMHE_02245	J	Translation, ribosomal structure and biogenesis	RplM	-
+AGCHAMHE_02246	J	Translation, ribosomal structure and biogenesis	RpsI	-
+AGCHAMHE_02247	J	Translation, ribosomal structure and biogenesis	RpsB	-
+AGCHAMHE_02248	J	Translation, ribosomal structure and biogenesis	Tsf	-
+AGCHAMHE_02252	M	Cell wall/membrane/envelope biogenesis	GumC	-
+AGCHAMHE_02253	P	Inorganic ion transport and metabolism	SapB	-
+AGCHAMHE_02254	P	Inorganic ion transport and metabolism	RosB	-
+AGCHAMHE_02255	H	Coenzyme transport and metabolism	RibN	-
+AGCHAMHE_02257	V	Defense mechanisms	NorM	-
+AGCHAMHE_02258	R	General function prediction only	OPT	-
+AGCHAMHE_02259	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+AGCHAMHE_02261	M	Cell wall/membrane/envelope biogenesis	MdoB	-
+AGCHAMHE_02262	J	Translation, ribosomal structure and biogenesis	RpsA	-
+AGCHAMHE_02263	J	Translation, ribosomal structure and biogenesis	HemK	-
+AGCHAMHE_02264	O	Posttranslational modification, protein turnover, chaperones	RecX	-
+AGCHAMHE_02265	R	General function prediction only	ComFC	-
+AGCHAMHE_02266	K	Transcription	GlpR	-
+AGCHAMHE_02267	K	Transcription	YobV	-
+AGCHAMHE_02268	M	Cell wall/membrane/envelope biogenesis	YbbC	-
+AGCHAMHE_02271	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_02272	D	Cell cycle control, cell division, chromosome partitioning	TesA	-
+AGCHAMHE_02273	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+AGCHAMHE_02274	O	Posttranslational modification, protein turnover, chaperones	FkpA	-
+AGCHAMHE_02275	R	General function prediction only	PqqL	-
+AGCHAMHE_02278	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_02280	H	Coenzyme transport and metabolism	RibD1	-
+AGCHAMHE_02281	G	Carbohydrate transport and metabolism	SuhB	-
+AGCHAMHE_02282	K	Transcription	Lrp	-
+AGCHAMHE_02283	K	Transcription	PhnO	-
+AGCHAMHE_02284	P	Inorganic ion transport and metabolism	ZnuA	-
+AGCHAMHE_02285	P	Inorganic ion transport and metabolism	ZnuC	-
+AGCHAMHE_02286	R	General function prediction only	YhbS	-
+AGCHAMHE_02287	J	Translation, ribosomal structure and biogenesis	GTP1	-
+AGCHAMHE_02289	O	Posttranslational modification, protein turnover, chaperones	Tpx	-
+AGCHAMHE_02290	H	Coenzyme transport and metabolism	FolB	-
+AGCHAMHE_02291	S	Function unknown	YgcG	-
+AGCHAMHE_02292	F	Nucleotide transport and metabolism	Dgt	-
+AGCHAMHE_02293	M	Cell wall/membrane/envelope biogenesis	LpxB	-
+AGCHAMHE_02294	R	General function prediction only		-
+AGCHAMHE_02296	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_02298	O	Posttranslational modification, protein turnover, chaperones	HtpG	-
+AGCHAMHE_02299	J	Translation, ribosomal structure and biogenesis	Frr	-
+AGCHAMHE_02300	F	Nucleotide transport and metabolism	PyrH	-
+AGCHAMHE_02301	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+AGCHAMHE_02302	M	Cell wall/membrane/envelope biogenesis	RmlA1	-
+AGCHAMHE_02303	M	Cell wall/membrane/envelope biogenesis	WecE	-
+AGCHAMHE_02304	G	Carbohydrate transport and metabolism	ManC	-
+AGCHAMHE_02308	K	Transcription	RpoC	-
+AGCHAMHE_02309	K	Transcription	RpoB	-
+AGCHAMHE_02310	J	Translation, ribosomal structure and biogenesis	RplL	-
+AGCHAMHE_02311	J	Translation, ribosomal structure and biogenesis	RplJ	-
+AGCHAMHE_02312	J	Translation, ribosomal structure and biogenesis	RplA	-
+AGCHAMHE_02313	J	Translation, ribosomal structure and biogenesis	RplK	-
+AGCHAMHE_02314	K	Transcription	NusG	-
+AGCHAMHE_02315	U	Intracellular trafficking, secretion, and vesicular transport	SecE	-
+AGCHAMHE_02317	J	Translation, ribosomal structure and biogenesis	TufA	-
+AGCHAMHE_02322	E	Amino acid transport and metabolism	PepP	-
+AGCHAMHE_02323	R	General function prediction only	PaaY	-
+AGCHAMHE_02324	L	Replication, recombination and repair	RecO	-
+AGCHAMHE_02325	J	Translation, ribosomal structure and biogenesis	RsmB	-
+AGCHAMHE_02326	M	Cell wall/membrane/envelope biogenesis	NanM	-
+AGCHAMHE_02328	S	Function unknown		-
+AGCHAMHE_02329	G	Carbohydrate transport and metabolism	NanH	-
+AGCHAMHE_02331	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02332	G	Carbohydrate transport and metabolism	UhpC	-
+AGCHAMHE_02333	G	Carbohydrate transport and metabolism	NanH	-
+AGCHAMHE_02334	E	Amino acid transport and metabolism	DapA	-
+AGCHAMHE_02335	K	Transcription	FadR	-
+AGCHAMHE_02336	C	Energy production and conversion	TtdA	-
+AGCHAMHE_02337	M	Cell wall/membrane/envelope biogenesis	ArnT	-
+AGCHAMHE_02338	S	Function unknown	YitT	-
+AGCHAMHE_02339	H	Coenzyme transport and metabolism	BioF	-
+AGCHAMHE_02340	V	Defense mechanisms	YadH	-
+AGCHAMHE_02341	V	Defense mechanisms	YadH	-
+AGCHAMHE_02342	V	Defense mechanisms	EmrA	-
+AGCHAMHE_02343	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_02346	R	General function prediction only	YfaS	-
+AGCHAMHE_02347	O	Posttranslational modification, protein turnover, chaperones	CpxP	-
+AGCHAMHE_02349	K	Transcription	RpoE	-
+AGCHAMHE_02350	P	Inorganic ion transport and metabolism	ZupT	-
+AGCHAMHE_02352	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02353	P	Inorganic ion transport and metabolism		-
+AGCHAMHE_02354	G	Carbohydrate transport and metabolism	AraJ	-
+AGCHAMHE_02355	I	Lipid transport and metabolism	AcpP	-
+AGCHAMHE_02356	I	Lipid transport and metabolism	FabB	-
+AGCHAMHE_02357	I	Lipid transport and metabolism	IspD	-
+AGCHAMHE_02358	L	Replication, recombination and repair	RecG	-
+AGCHAMHE_02359	X	Mobilome: prophages, transposons		-
+AGCHAMHE_02360	F	Nucleotide transport and metabolism	Ndk	-
+AGCHAMHE_02361	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+AGCHAMHE_02362	G	Carbohydrate transport and metabolism	XynB2	-
+AGCHAMHE_02363	G	Carbohydrate transport and metabolism	GpmI	-
+AGCHAMHE_02366	D	Cell cycle control, cell division, chromosome partitioning	SkfB	-
+AGCHAMHE_02367	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+AGCHAMHE_02368	L	Replication, recombination and repair	DnaE	-
+AGCHAMHE_02374	M	Cell wall/membrane/envelope biogenesis	LapB	-
+AGCHAMHE_02375	L	Replication, recombination and repair	RecQ	-
+AGCHAMHE_02376	L	Replication, recombination and repair	RecJ	-
+AGCHAMHE_02377	M	Cell wall/membrane/envelope biogenesis	MscS	-
+AGCHAMHE_02379	J	Translation, ribosomal structure and biogenesis	PcnB	-
+AGCHAMHE_02380	E	Amino acid transport and metabolism	PepP	-
+AGCHAMHE_02382	T	Signal transduction mechanisms	YaaT	-
+AGCHAMHE_02383	J	Translation, ribosomal structure and biogenesis	RnaY	-
+AGCHAMHE_02385	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+AGCHAMHE_02386	I	Lipid transport and metabolism	Cls	-
+AGCHAMHE_02387	J	Translation, ribosomal structure and biogenesis	RplI	-
+AGCHAMHE_02388	J	Translation, ribosomal structure and biogenesis	RpsR	-
+AGCHAMHE_02389	J	Translation, ribosomal structure and biogenesis	RpsF	-
+AGCHAMHE_02393	H	Coenzyme transport and metabolism	BioB	-
+AGCHAMHE_02394	M	Cell wall/membrane/envelope biogenesis	PASTA	-
+AGCHAMHE_02395	J	Translation, ribosomal structure and biogenesis	RluA	-
+AGCHAMHE_02397	M	Cell wall/membrane/envelope biogenesis	YaeI	-
+AGCHAMHE_02398	K	Transcription	Tex	-
+AGCHAMHE_02399	H	Coenzyme transport and metabolism	FolK	-
+AGCHAMHE_02400	J	Translation, ribosomal structure and biogenesis	RlhA	-
+AGCHAMHE_02401	G	Carbohydrate transport and metabolism	GalM	-
+AGCHAMHE_02402	S	Function unknown	YcfL	-
+AGCHAMHE_02404	J	Translation, ribosomal structure and biogenesis	SUI1	-
+AGCHAMHE_02405	L	Replication, recombination and repair	RecB	-
+AGCHAMHE_02406	K	Transcription	CsgD	-
+AGCHAMHE_02408	P	Inorganic ion transport and metabolism	MgtA	-
+AGCHAMHE_02410	T	Signal transduction mechanisms	NtrY	-
+AGCHAMHE_02411	H	Coenzyme transport and metabolism	FolK	-
+AGCHAMHE_02412	J	Translation, ribosomal structure and biogenesis	InfB	-
+AGCHAMHE_02413	K	Transcription	NusA	-
+AGCHAMHE_02414	J	Translation, ribosomal structure and biogenesis	RimP	-
+AGCHAMHE_02415	R	General function prediction only		-
+AGCHAMHE_02416	E	Amino acid transport and metabolism	AroQ	-
+AGCHAMHE_02417	G	Carbohydrate transport and metabolism	PykF	-
+AGCHAMHE_02418	J	Translation, ribosomal structure and biogenesis	TrmR	-
+AGCHAMHE_02419	J	Translation, ribosomal structure and biogenesis	RbfA	-
+AGCHAMHE_02420	M	Cell wall/membrane/envelope biogenesis	LolC	-
+AGCHAMHE_02421	K	Transcription	RpoE	-
+AGCHAMHE_02422	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_02423	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02425	I	Lipid transport and metabolism	UgpQ	-
+AGCHAMHE_02431	H	Coenzyme transport and metabolism	NadE	-
+AGCHAMHE_02432	C	Energy production and conversion	GlpK	-
+AGCHAMHE_02433	G	Carbohydrate transport and metabolism	GlpF	-
+AGCHAMHE_02434	K	Transcription	RpoD	-
+AGCHAMHE_02435	O	Posttranslational modification, protein turnover, chaperones	DegQ	-
+AGCHAMHE_02436	E	Amino acid transport and metabolism	ArgE	-
+AGCHAMHE_02437	I	Lipid transport and metabolism	FabG	-
+AGCHAMHE_02439	G	Carbohydrate transport and metabolism	SgcC	-
+AGCHAMHE_02440	G	Carbohydrate transport and metabolism	KduI	-
+AGCHAMHE_02441	J	Translation, ribosomal structure and biogenesis	IleS	-
+AGCHAMHE_02442	K	Transcription	DksA	-
+AGCHAMHE_02443	M	Cell wall/membrane/envelope biogenesis	LspA	-
+AGCHAMHE_02448	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02449	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_02451	G	Carbohydrate transport and metabolism	Fba	-
+AGCHAMHE_02452	S	Function unknown		-
+AGCHAMHE_02453	R	General function prediction only	HdeD	-
+AGCHAMHE_02454	F	Nucleotide transport and metabolism	CmkB	-
+AGCHAMHE_02456	O	Posttranslational modification, protein turnover, chaperones	PpiB	-
+AGCHAMHE_02457	R	General function prediction only	PqqL	-
+AGCHAMHE_02459	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+AGCHAMHE_02460	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_02461	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_02462	V	Defense mechanisms	AcrB	-
+AGCHAMHE_02463	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_02464	M	Cell wall/membrane/envelope biogenesis	LpxA	-
+AGCHAMHE_02466	G	Carbohydrate transport and metabolism	ManA	-
+AGCHAMHE_02467	L	Replication, recombination and repair	Lig	-
+AGCHAMHE_02468	O	Posttranslational modification, protein turnover, chaperones	PaaD	-
+AGCHAMHE_02469	M	Cell wall/membrane/envelope biogenesis	LpxH	-
+AGCHAMHE_02472	J	Translation, ribosomal structure and biogenesis	PheT	-
+AGCHAMHE_02473	K	Transcription	TACO1	-
+AGCHAMHE_02476	S	Function unknown		-
+AGCHAMHE_02477	R	General function prediction only	TPR	-
+AGCHAMHE_02478	E	Amino acid transport and metabolism	PepP	-
+AGCHAMHE_02481	C	Energy production and conversion	CstA	-
+AGCHAMHE_02482	C	Energy production and conversion	Ndh	-
+AGCHAMHE_02483	R	General function prediction only	TPR	-
+AGCHAMHE_02489	J	Translation, ribosomal structure and biogenesis	RsgA	-
+AGCHAMHE_02491	J	Translation, ribosomal structure and biogenesis	TsaC	-
+AGCHAMHE_02492	C	Energy production and conversion	Mdh	-
+AGCHAMHE_02493	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+AGCHAMHE_02497	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_02498	E	Amino acid transport and metabolism	DAP2	-
+AGCHAMHE_02499	E	Amino acid transport and metabolism	EamA	-
+AGCHAMHE_02500	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_02501	F	Nucleotide transport and metabolism	CvpA	-
+AGCHAMHE_02502	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+AGCHAMHE_02503	O	Posttranslational modification, protein turnover, chaperones	SufC	-
+AGCHAMHE_02504	O	Posttranslational modification, protein turnover, chaperones	SufB	-
+AGCHAMHE_02505	E	Amino acid transport and metabolism	CsdA	-
+AGCHAMHE_02506	E	Amino acid transport and metabolism	AroA	-
+AGCHAMHE_02508	P	Inorganic ion transport and metabolism	ZnuB	-
+AGCHAMHE_02509	M	Cell wall/membrane/envelope biogenesis	LapB	-
+AGCHAMHE_02510	T	Signal transduction mechanisms	AtoC	-
+AGCHAMHE_02511	J	Translation, ribosomal structure and biogenesis	TsaE	-
+AGCHAMHE_02513	H	Coenzyme transport and metabolism	BirA2	-
+AGCHAMHE_02514	P	Inorganic ion transport and metabolism	FecA	-
+AGCHAMHE_02515	G	Carbohydrate transport and metabolism	GlgB	-
+AGCHAMHE_02516	O	Posttranslational modification, protein turnover, chaperones		-
+AGCHAMHE_02517	S	Function unknown		-
+AGCHAMHE_02518	J	Translation, ribosomal structure and biogenesis	MetG	-
+AGCHAMHE_02519	J	Translation, ribosomal structure and biogenesis	AnsA	-
+AGCHAMHE_02520	B	Chromatin structure and dynamics	HupA	-
+AGCHAMHE_02522	J	Translation, ribosomal structure and biogenesis	CafA	-
+AGCHAMHE_02523	K	Transcription	VacB	-
+AGCHAMHE_02524	L	Replication, recombination and repair	GyrB	-
+AGCHAMHE_02525	M	Cell wall/membrane/envelope biogenesis	GalE	-
+AGCHAMHE_02526	J	Translation, ribosomal structure and biogenesis	TrpS	-
+AGCHAMHE_02527	P	Inorganic ion transport and metabolism	Fur	-
+AGCHAMHE_02528	C	Energy production and conversion	YotD	-
+AGCHAMHE_02529	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+AGCHAMHE_02530	O	Posttranslational modification, protein turnover, chaperones	YbbJ	-
+AGCHAMHE_02531	R	General function prediction only	YczE	-
+AGCHAMHE_02534	E	Amino acid transport and metabolism	GltD	-
+AGCHAMHE_02535	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_02536	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_02537	K	Transcription	RpoE	-
+AGCHAMHE_02538	G	Carbohydrate transport and metabolism	NAGPA	-
+AGCHAMHE_02541	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02542	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_02543	T	Signal transduction mechanisms	CpdA	-
+AGCHAMHE_02544	L	Replication, recombination and repair	XerD	-
+AGCHAMHE_02546	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_02547	E	Amino acid transport and metabolism	PTR2	-
+AGCHAMHE_02548	O	Posttranslational modification, protein turnover, chaperones	SufE	-
+AGCHAMHE_02549	O	Posttranslational modification, protein turnover, chaperones	Iap	-
+AGCHAMHE_02551	M	Cell wall/membrane/envelope biogenesis	MltF	-
+AGCHAMHE_02552	F	Nucleotide transport and metabolism	PurM	-
+AGCHAMHE_02553	I	Lipid transport and metabolism	CdsA	-
+AGCHAMHE_02554	R	General function prediction only	GloB	-
+AGCHAMHE_02555	J	Translation, ribosomal structure and biogenesis	RsmG	-
+AGCHAMHE_02556	L	Replication, recombination and repair	RmuC	-
+AGCHAMHE_02557	O	Posttranslational modification, protein turnover, chaperones	Dcp	-
+AGCHAMHE_02558	J	Translation, ribosomal structure and biogenesis	TtcA	-
+AGCHAMHE_02559	R	General function prediction only	ProX	-
+AGCHAMHE_02560	G	Carbohydrate transport and metabolism	ManB	-
+AGCHAMHE_02562	A	RNA processing and modification	NrnA	-
+AGCHAMHE_02563	J	Translation, ribosomal structure and biogenesis	RimM	-
+AGCHAMHE_02564	M	Cell wall/membrane/envelope biogenesis	MurA	-
+AGCHAMHE_02566	H	Coenzyme transport and metabolism	ThiL	-
+AGCHAMHE_02567	F	Nucleotide transport and metabolism	XapA	-
+AGCHAMHE_02568	M	Cell wall/membrane/envelope biogenesis	LpxK	-
+AGCHAMHE_02569	O	Posttranslational modification, protein turnover, chaperones	SppA	-
+AGCHAMHE_02570	S	Function unknown		-
+AGCHAMHE_02572	I	Lipid transport and metabolism	IspE	-
+AGCHAMHE_02573	O	Posttranslational modification, protein turnover, chaperones	GrpE	-
+AGCHAMHE_02574	O	Posttranslational modification, protein turnover, chaperones	DnaJ	-
+AGCHAMHE_02575	L	Replication, recombination and repair	MutL	-
+AGCHAMHE_02576	E	Amino acid transport and metabolism	SerB	-
+AGCHAMHE_02577	H	Coenzyme transport and metabolism	Hpt1	-
+AGCHAMHE_02579	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_02580	L	Replication, recombination and repair	YhaN	-
+AGCHAMHE_02581	V	Defense mechanisms	NorM	-
+AGCHAMHE_02582	R	General function prediction only		-
+AGCHAMHE_02583	T	Signal transduction mechanisms	RsbU	-
+AGCHAMHE_02586	H	Coenzyme transport and metabolism	MenH	-
+AGCHAMHE_02587	M	Cell wall/membrane/envelope biogenesis	MurF	-
+AGCHAMHE_02588	M	Cell wall/membrane/envelope biogenesis	DdlA	-
+AGCHAMHE_02590	P	Inorganic ion transport and metabolism	FieF	-
+AGCHAMHE_02592	J	Translation, ribosomal structure and biogenesis	TsaC	-
+AGCHAMHE_02593	M	Cell wall/membrane/envelope biogenesis	WcaJ	-
+AGCHAMHE_02594	P	Inorganic ion transport and metabolism	ClcA	-
+AGCHAMHE_02596	V	Defense mechanisms	NorM	-
+AGCHAMHE_02597	T	Signal transduction mechanisms	Wzb	-
+AGCHAMHE_02598	L	Replication, recombination and repair	RecG	-
+AGCHAMHE_02599	R	General function prediction only	YpfJ	-
+AGCHAMHE_02600	E	Amino acid transport and metabolism	AlsT	-
+AGCHAMHE_02601	R	General function prediction only	YncE	-
+AGCHAMHE_02602	K	Transcription	RpoE	-
+AGCHAMHE_02603	P	Inorganic ion transport and metabolism	FecR	-
+AGCHAMHE_02605	C	Energy production and conversion	SdhA	-
+AGCHAMHE_02606	G	Carbohydrate transport and metabolism	GalA	-
+AGCHAMHE_02607	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_02608	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_02609	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_02610	G	Carbohydrate transport and metabolism	LacZ	-
+AGCHAMHE_02611	Q	Secondary metabolites biosynthesis, transport and catabolism	Maf	-
+AGCHAMHE_02612	G	Carbohydrate transport and metabolism	Chb	-
+AGCHAMHE_02613	M	Cell wall/membrane/envelope biogenesis	KdsC	-
+AGCHAMHE_02614	R	General function prediction only		-
+AGCHAMHE_02615	C	Energy production and conversion	NfnB	-
+AGCHAMHE_02617	C	Energy production and conversion	WrbA	-
+AGCHAMHE_02619	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_02620	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02621	S	Function unknown	Ree1	-
+AGCHAMHE_02622	T	Signal transduction mechanisms	CitB	-
+AGCHAMHE_02623	M	Cell wall/membrane/envelope biogenesis	NlpD	-
+AGCHAMHE_02624	L	Replication, recombination and repair	UvrA	-
+AGCHAMHE_02625	K	Transcription	NusB	-
+AGCHAMHE_02626	U	Intracellular trafficking, secretion, and vesicular transport	YajC	-
+AGCHAMHE_02627	T	Signal transduction mechanisms	YbbR	-
+AGCHAMHE_02628	H	Coenzyme transport and metabolism	CoaE	-
+AGCHAMHE_02631	Q	Secondary metabolites biosynthesis, transport and catabolism	GloA	-
+AGCHAMHE_02632	X	Mobilome: prophages, transposons		-
+AGCHAMHE_02633	G	Carbohydrate transport and metabolism	GalA	-
+AGCHAMHE_02634	F	Nucleotide transport and metabolism	UshA	-
+AGCHAMHE_02635	M	Cell wall/membrane/envelope biogenesis	WcaA	-
+AGCHAMHE_02636	J	Translation, ribosomal structure and biogenesis	ProS	-
+AGCHAMHE_02637	J	Translation, ribosomal structure and biogenesis	RpmH	-
+AGCHAMHE_02638	R	General function prediction only	SprT	-
+AGCHAMHE_02639	J	Translation, ribosomal structure and biogenesis	HslR	-
+AGCHAMHE_02640	J	Translation, ribosomal structure and biogenesis	Pth	-
+AGCHAMHE_02641	J	Translation, ribosomal structure and biogenesis	RplY	-
+AGCHAMHE_02643	R	General function prediction only		-
+AGCHAMHE_02649	J	Translation, ribosomal structure and biogenesis	EbsC	-
+AGCHAMHE_02650	E	Amino acid transport and metabolism	AroC	-
+AGCHAMHE_02651	R	General function prediction only	YhcC	-
+AGCHAMHE_02652	F	Nucleotide transport and metabolism	NPY1	-
+AGCHAMHE_02653	S	Function unknown	VanZ	-
+AGCHAMHE_02654	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+AGCHAMHE_02655	M	Cell wall/membrane/envelope biogenesis	OmpA	-
+AGCHAMHE_02657	C	Energy production and conversion	NqrF	-
+AGCHAMHE_02658	C	Energy production and conversion	NqrE	-
+AGCHAMHE_02659	C	Energy production and conversion	NqrD	-
+AGCHAMHE_02660	C	Energy production and conversion	NqrC	-
+AGCHAMHE_02661	C	Energy production and conversion	NqrB	-
+AGCHAMHE_02662	C	Energy production and conversion	NqrA	-
+AGCHAMHE_02664	C	Energy production and conversion	NhaP2	-
+AGCHAMHE_02665	U	Intracellular trafficking, secretion, and vesicular transport	TolQ	-
+AGCHAMHE_02666	U	Intracellular trafficking, secretion, and vesicular transport	ExbD	-
+AGCHAMHE_02667	U	Intracellular trafficking, secretion, and vesicular transport	ExbD	-
+AGCHAMHE_02668	M	Cell wall/membrane/envelope biogenesis	TonB	-
+AGCHAMHE_02670	J	Translation, ribosomal structure and biogenesis	RsmI	-
+AGCHAMHE_02671	D	Cell cycle control, cell division, chromosome partitioning	EnvC	-
+AGCHAMHE_02673	K	Transcription	RpoE	-
+AGCHAMHE_02675	I	Lipid transport and metabolism	FabG	-
+AGCHAMHE_02676	I	Lipid transport and metabolism	FabH	-
+AGCHAMHE_02677	K	Transcription	AcrR	-
+AGCHAMHE_02678	M	Cell wall/membrane/envelope biogenesis	DacB	-
+AGCHAMHE_02680	F	Nucleotide transport and metabolism	NagD	-
+AGCHAMHE_02681	P	Inorganic ion transport and metabolism	OprP	-
+AGCHAMHE_02682	R	General function prediction only	YncE	-
+AGCHAMHE_02683	J	Translation, ribosomal structure and biogenesis	QueC	-
+AGCHAMHE_02685	X	Mobilome: prophages, transposons	IS5	-
+AGCHAMHE_02686	G	Carbohydrate transport and metabolism	MelB	-
+AGCHAMHE_02687	G	Carbohydrate transport and metabolism	PulA	-
+AGCHAMHE_02690	P	Inorganic ion transport and metabolism	FepD	-
+AGCHAMHE_02691	P	Inorganic ion transport and metabolism	FepC	-
+AGCHAMHE_02692	P	Inorganic ion transport and metabolism	TrkG	-
+AGCHAMHE_02694	M	Cell wall/membrane/envelope biogenesis	BamA	-
+AGCHAMHE_02695	C	Energy production and conversion	Gph	-
+AGCHAMHE_02696	R	General function prediction only	YbjL	-
+AGCHAMHE_02697	G	Carbohydrate transport and metabolism	YcjU	-
+AGCHAMHE_02698	K	Transcription	LytT	-
+AGCHAMHE_02699	T	Signal transduction mechanisms	LytS	-
+AGCHAMHE_02700	X	Mobilome: prophages, transposons	YhhI	-
+AGCHAMHE_02701	V	Defense mechanisms	SalY	-
+AGCHAMHE_02702	M	Cell wall/membrane/envelope biogenesis	LolD	-
+AGCHAMHE_02703	M	Cell wall/membrane/envelope biogenesis	AcrA	-
+AGCHAMHE_02704	M	Cell wall/membrane/envelope biogenesis	TolC	-
+AGCHAMHE_02705	O	Posttranslational modification, protein turnover, chaperones	CnoX	-
+AGCHAMHE_02706	G	Carbohydrate transport and metabolism	LmbE	-
+AGCHAMHE_02707	G	Carbohydrate transport and metabolism	NagB	-
+AGCHAMHE_02708	G	Carbohydrate transport and metabolism	Chb	-
+AGCHAMHE_02709	G	Carbohydrate transport and metabolism	AraJ	-
+AGCHAMHE_02710	G	Carbohydrate transport and metabolism		-
+AGCHAMHE_02711	G	Carbohydrate transport and metabolism	GH92	-
+AGCHAMHE_02712	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02714	M	Cell wall/membrane/envelope biogenesis	BamE	-
+AGCHAMHE_02718	G	Carbohydrate transport and metabolism	BglX	-
+AGCHAMHE_02719	H	Coenzyme transport and metabolism	BioA	-
+AGCHAMHE_02720	I	Lipid transport and metabolism	FAA1	-
+AGCHAMHE_02722	C	Energy production and conversion	YjjP	-
+AGCHAMHE_02723	C	Energy production and conversion	YjjB	-
+AGCHAMHE_02724	K	Transcription	LysR	-
+AGCHAMHE_02730	M	Cell wall/membrane/envelope biogenesis	OafA	-
+AGCHAMHE_02731	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_02733	M	Cell wall/membrane/envelope biogenesis	MltG	-
+AGCHAMHE_02735	E	Amino acid transport and metabolism	CarB	-
+AGCHAMHE_02736	E	Amino acid transport and metabolism	CarA	-
+AGCHAMHE_02737	R	General function prediction only	TM2	-
+AGCHAMHE_02738	M	Cell wall/membrane/envelope biogenesis	LpxD	-
+AGCHAMHE_02739	M	Cell wall/membrane/envelope biogenesis	LpxC	-
+AGCHAMHE_02740	M	Cell wall/membrane/envelope biogenesis	LpxA	-
+AGCHAMHE_02741	D	Cell cycle control, cell division, chromosome partitioning	DigH	-
+AGCHAMHE_02743	L	Replication, recombination and repair	SrmB	-
+AGCHAMHE_02745	R	General function prediction only	TPR	-
+AGCHAMHE_02746	E	Amino acid transport and metabolism	SpeA	-
+AGCHAMHE_02747	J	Translation, ribosomal structure and biogenesis	TruA	-
+AGCHAMHE_02748	X	Mobilome: prophages, transposons	InsG	-
+AGCHAMHE_02749	I	Lipid transport and metabolism	IspG	-
+AGCHAMHE_02750	F	Nucleotide transport and metabolism	PurE	-
+AGCHAMHE_02752	K	Transcription	RpoN	-
+AGCHAMHE_02753	I	Lipid transport and metabolism	FabH	-
+AGCHAMHE_02754	J	Translation, ribosomal structure and biogenesis	RpmF	-
+AGCHAMHE_02755	J	Translation, ribosomal structure and biogenesis	YceD	-
+AGCHAMHE_02756	E	Amino acid transport and metabolism	MalY	-
+AGCHAMHE_02757	X	Mobilome: prophages, transposons		-
+AGCHAMHE_02758	V	Defense mechanisms	NorM	-
+AGCHAMHE_02760	D	Cell cycle control, cell division, chromosome partitioning	Obg	-
+AGCHAMHE_02761	G	Carbohydrate transport and metabolism	GDB1	-
+AGCHAMHE_02762	R	General function prediction only	YfcE	-
+AGCHAMHE_02764	P	Inorganic ion transport and metabolism	SUL1	-
+AGCHAMHE_02768	R	General function prediction only	Alr0228	-
+AGCHAMHE_02770	P	Inorganic ion transport and metabolism	MgtA	-
+AGCHAMHE_02771	O	Posttranslational modification, protein turnover, chaperones	HflC	-
+AGCHAMHE_02772	D	Cell cycle control, cell division, chromosome partitioning	FtsX	-
+AGCHAMHE_02774	I	Lipid transport and metabolism	UppP	-
+AGCHAMHE_02775	J	Translation, ribosomal structure and biogenesis	TruB	-
+AGCHAMHE_02776	J	Translation, ribosomal structure and biogenesis	QueA	-
+AGCHAMHE_02777	H	Coenzyme transport and metabolism	UbiE	-
+AGCHAMHE_02778	P	Inorganic ion transport and metabolism	EcfA2	-
+AGCHAMHE_02779	H	Coenzyme transport and metabolism	EcfT	-
+AGCHAMHE_02780	P	Inorganic ion transport and metabolism	CbiM	-
+AGCHAMHE_02781	P	Inorganic ion transport and metabolism	CirA	-
+AGCHAMHE_02782	P	Inorganic ion transport and metabolism	FepA	-
+AGCHAMHE_02783	G	Carbohydrate transport and metabolism	AraJ	-
+AGCHAMHE_02784	J	Translation, ribosomal structure and biogenesis	TadA	-
+AGCHAMHE_02785	J	Translation, ribosomal structure and biogenesis	ElaC	-
+AGCHAMHE_02787	P	Inorganic ion transport and metabolism	FepB	-
+AGCHAMHE_02788	P	Inorganic ion transport and metabolism	FeoB	-
+AGCHAMHE_02789	R	General function prediction only	YIH1	-
+AGCHAMHE_02790	E	Amino acid transport and metabolism	MetH2	-
+AGCHAMHE_02791	M	Cell wall/membrane/envelope biogenesis	KdsA	-
+AGCHAMHE_02792	J	Translation, ribosomal structure and biogenesis	RsmE	-
+AGCHAMHE_02793	G	Carbohydrate transport and metabolism	MelB	-
+AGCHAMHE_02794	A	RNA processing and modification		-
+AGCHAMHE_02795	J	Translation, ribosomal structure and biogenesis	MnmA	-
+AGCHAMHE_02796	S	Function unknown	DoxX	-
+AGCHAMHE_02797	O	Posttranslational modification, protein turnover, chaperones	TrxA	-
+AGCHAMHE_02798	O	Posttranslational modification, protein turnover, chaperones	ClpA	-
+AGCHAMHE_02799	P	Inorganic ion transport and metabolism	AslA	-
+AGCHAMHE_02801	L	Replication, recombination and repair	Sms	-
+AGCHAMHE_02802	J	Translation, ribosomal structure and biogenesis	SpoU	-
+AGCHAMHE_02803	O	Posttranslational modification, protein turnover, chaperones	Spy	-
+AGCHAMHE_02804	X	Mobilome: prophages, transposons	Tra8	-
+AGCHAMHE_02805	J	Translation, ribosomal structure and biogenesis	GlnS	-
+AGCHAMHE_02806	M	Cell wall/membrane/envelope biogenesis	Ugd	-
+AGCHAMHE_02807	M	Cell wall/membrane/envelope biogenesis	Rfe	-
+AGCHAMHE_02808	K	Transcription	AlgH	-
+AGCHAMHE_02809	L	Replication, recombination and repair	DnaN	-
+AGCHAMHE_02810	L	Replication, recombination and repair	DnaQ	-
+AGCHAMHE_02811	H	Coenzyme transport and metabolism	CoaBC	-
+AGCHAMHE_02813	L	Replication, recombination and repair	RecN	-
+AGCHAMHE_02814	J	Translation, ribosomal structure and biogenesis	SpoU	-
+AGCHAMHE_02815	L	Replication, recombination and repair	UvrD	-
+AGCHAMHE_02816	E	Amino acid transport and metabolism	LysA	-
+AGCHAMHE_02817	N	Cell motility	BcsA	-
+AGCHAMHE_02818	L	Replication, recombination and repair	RadC	-
+AGCHAMHE_02819	G	Carbohydrate transport and metabolism	ManB	-
+AGCHAMHE_02821	J	Translation, ribosomal structure and biogenesis	RluA	-
+AGCHAMHE_02822	E	Amino acid transport and metabolism	LAP4	-
+AGCHAMHE_02825	R	General function prediction only	WbbJ	-
+AGCHAMHE_02828	K	Transcription	HxlR	-
+AGCHAMHE_02829	S	Function unknown		-
+AGCHAMHE_02832	L	Replication, recombination and repair	Ung	-
+AGCHAMHE_02836	F	Nucleotide transport and metabolism	YfiH	-
+AGCHAMHE_02837	J	Translation, ribosomal structure and biogenesis	SpoU	-
+AGCHAMHE_02840	V	Defense mechanisms	MutT	-
+AGCHAMHE_02841	M	Cell wall/membrane/envelope biogenesis	BamD	-
+AGCHAMHE_02842	T	Signal transduction mechanisms	SpoT	-
+AGCHAMHE_02843	D	Cell cycle control, cell division, chromosome partitioning	EngB	-
+AGCHAMHE_02844	J	Translation, ribosomal structure and biogenesis	TrmN6	-
+AGCHAMHE_02845	H	Coenzyme transport and metabolism	ThiC	-
+AGCHAMHE_02846	H	Coenzyme transport and metabolism	ThiG	-
+AGCHAMHE_02847	H	Coenzyme transport and metabolism	ThiE	-
+AGCHAMHE_02848	H	Coenzyme transport and metabolism	ThiE	-
+AGCHAMHE_02849	H	Coenzyme transport and metabolism	ThiS	-
+AGCHAMHE_02850	H	Coenzyme transport and metabolism	ThiD	-
+AGCHAMHE_02851	V	Defense mechanisms	Nit1	-
+AGCHAMHE_02852	I	Lipid transport and metabolism	PlsC	-
+AGCHAMHE_02854	M	Cell wall/membrane/envelope biogenesis	TonB	-
+AGCHAMHE_02856	T	Signal transduction mechanisms	Crp	-
+AGCHAMHE_02857	O	Posttranslational modification, protein turnover, chaperones	YebA	-

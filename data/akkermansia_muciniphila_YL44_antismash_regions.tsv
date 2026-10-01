@@ -1,0 +1,5 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065322.1	207640	228534	20894	terpene-precursor	terpene			
+region002	NZ_CP065322.1	296004	337180	41176	arylpolyene	PKS	BGC0000128.3	pyoluteorin	10
+region003	NZ_CP065322.1	398860	419796	20936	terpene	terpene			
+region004	NZ_CP065322.1	1784572	1805472	20900	terpene	terpene			

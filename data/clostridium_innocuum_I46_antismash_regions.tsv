@@ -1,0 +1,3 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065320.1	58821	79664	20843	terpene-precursor	terpene			
+region002	NZ_CP065320.1	2458160	2478718	20558	cyclic-lactone-autoinducer	RiPP			

@@ -1,0 +1,8 @@
+Region	Contig	Start	End	Length_bp	Predicted_Product	Category	Known_Cluster_Accession	Known_Cluster_Description	Known_Cluster_Similarity_pct
+region001	NZ_CP065321.1	224328	245031	20703	cyclic-lactone-autoinducer	RiPP			
+region002	NZ_CP065321.1	279880	300583	20703	cyclic-lactone-autoinducer	RiPP			
+region003	NZ_CP065321.1	844525	866131	21606	ranthipeptide	RiPP	BGC0001687.3	N-tetradecanoyl tyrosine	6
+region004	NZ_CP065321.1	1445831	1465987	20156	cyclic-lactone-autoinducer	RiPP			
+region005	NZ_CP065321.1	2809679	2830594	20915	terpene-precursor	terpene			
+region006	NZ_CP065321.1	3087796	3109197	21401	ranthipeptide	RiPP			
+region007	NZ_CP065321.1	3273112	3294564	21452	RRE-containing	RiPP			
