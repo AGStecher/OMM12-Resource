@@ -517,7 +517,7 @@ get_general_info_html <- function(bacterium_name_clean) {
     }
   }
   
-  entry <- genome_info_df %>% filter(.data$bacterium_name_clean == bacterium_name_clean)
+  entry <- genome_info_df %>% filter(.data$bacterium_name_clean == .env$bacterium_name_clean)
   if (nrow(entry) == 0) {
     return(paste("No general information available for:", bacterium_name_clean))
   }
