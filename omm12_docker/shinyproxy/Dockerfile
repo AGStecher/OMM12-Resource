@@ -7,7 +7,13 @@ FROM eclipse-temurin:11-jre
 
 RUN mkdir -p /opt/shinyproxy/
 ADD https://www.shinyproxy.io/downloads/shinyproxy-2.4.0.jar /opt/shinyproxy/shinyproxy.jar
-COPY application.yml /opt/shinyproxy/application.yml
+# application.yml (local config, git-ignored) is used if present; otherwise the
+# template from the repository. With authentication: none the admin login in it
+# is not used, so the template works as is.
+COPY application*.yml /opt/shinyproxy/
+RUN cd /opt/shinyproxy && \
+    if [ ! -f application.yml ]; then mv application.example.yml application.yml; \
+    else rm -f application.example.yml; fi
 
 WORKDIR /opt/shinyproxy/
 CMD ["java", "-jar", "/opt/shinyproxy/shinyproxy.jar"]

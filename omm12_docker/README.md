@@ -22,7 +22,7 @@ OMM12_website/
   omm12_docker/
     docker-compose.yml   # builds omm12 with the OMM12_website folder as build context
     app/Dockerfile
-    shinyproxy/Dockerfile, application.yml
+    shinyproxy/Dockerfile, application.example.yml
     nginx/nginx.conf
 ```
 
@@ -63,14 +63,18 @@ Quick test of the app image alone (no ShinyProxy):
 
 ## Before handing over
 
-- **R version**: `app/Dockerfile` has `ARG R_VERSION=4.4.1`. Set it to what
-  `R.version.string` prints in your RStudio.
-- **ShinyProxy admin password** in `shinyproxy/application.yml` (`CHANGE_ME`) --
-  only protects ShinyProxy's admin page, the app itself is public.
+- **R version**: `app/Dockerfile` has `ARG R_VERSION=4.4.2` (the version the app
+  was developed with).
+- **ShinyProxy config**: the build uses `shinyproxy/application.yml` if it exists,
+  otherwise the template `shinyproxy/application.example.yml` from the repository.
+  `application.yml` is git-ignored, so local changes (e.g. a context path or an
+  admin password) never end up on GitHub. With `authentication: none` the admin
+  login is not used, so the template works without changes.
 - **/omm12 URL path**: this stack serves the app at `/` on port 3849. Ask the
   daisybio admins how `daisybio.ls.tum.de/omm12` will be routed to it (same as
   namco). If their front proxy forwards the `/omm12` prefix unchanged, add
-  `server: servlet: context-path: /omm12` to `application.yml`.
+  `server: servlet: context-path: /omm12` to `application.yml` (copy it from
+  `application.example.yml` first).
 
 ## Changes vs. namco's config
 
